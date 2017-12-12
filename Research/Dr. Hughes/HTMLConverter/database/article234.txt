@@ -1,0 +1,74 @@
+[24]Sums of primitive roots
+
+
+   Posted on [25]November 9, 2016 by [26]Brent
+
+
+   In [27]my previous post, we saw that adding up all the complex
+   n th roots of unity always yields zero (unless n=1 , in which
+   case the sum is 1 ). Intuitively, this is because the roots are
+   symmetrically distributed around the unit circle, so their
+   contributions to the sum all cancel out.
+
+
+   Today I want to consider the question: what happens when we add
+   up only the [28]primitive n th roots of unity? Recall that a
+   primitive n th root is one which is not also an m th root for
+   some smaller m < n . As points on the unit circle, the
+   primitive roots correspond to the [29]spokes which are
+   relatively prime to n .
+
+
+   In some cases we clearly still get zero, again because of
+   symmetry. Shown below are n = 4 , 8 , 9 , and 12 :
+
+   [9dc05acbaea59845.png?w=640]
+
+   For n=1 we of course get 1 again:
+
+   [cffc444566ac2374.png?w=640]
+
+   For n=2 the only primitive root is -1 , so the sum is clearly
+   -1 . It’s not too hard to see that the sum of primitive roots
+   for n=3 will also be -1 :
+
+   [c6aaa6274b3c02f8.png?w=640]
+
+   Why is that? Well, when n=3 , the only root that is not a
+   primitive root is 1 , so if we subtract out 1 from the sum of
+   all roots, we are left with the sum of the remaining, primitive
+   roots. But we know the sum of all roots is zero, and hence the
+   sum of the remaining primitive roots must be -1 . In fact, this
+   is not specific to n=3 ; the same argument applies to any prime
+   number. When n is prime, every root is primitive except for 1
+   itself, so in order for the sum of all the roots to be zero,
+   the sum of all the primitive roots must be -1 .
+
+   [5b88a4822a402aa1.png?w=640]
+
+   However, this still leaves other values of n where it is not
+   obvious what we will get as the sum of primitive roots. For
+   example, here are n=10 , 14 , and 15 :
+
+   [53648ed8f7494d66.png?w=640]
+
+   Let’s look at n=10 . The primitive roots have reflection
+   symmetry across the x -axis, so their sum must lie somewhere on
+   the x -axis (since their “up-down pulls” cancel out). Since
+   they are leaning more in the positive direction, the sum will
+   be bigger than zero. But how much bigger? Just thinking about
+   the x components, we are adding together irrational numbers
+   involving things like the cosine of \pi/5 , so maybe we just
+   get some weird irrational sum like 0.8267834852\dots ? It seems
+   plausible, but actually, we don’t: we instead get a sum of…
+   exactly 1 ! And the sums for n=14 and n=15 … are also exactly 1
+   . Something strange is going on.
+
+   But you don’t have to take my word for it! Next time we’ll put
+   together what we know about the [30]sum of all roots and how
+   the [31]set of n th roots is made up of primitive roots for the
+   divisors of n to compute sums of primitive roots.
+   Advertisements
+
+
+

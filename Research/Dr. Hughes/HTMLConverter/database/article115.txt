@@ -1,0 +1,112 @@
+Using maths to outsmart mosquitoes
+
+   By Ken Macdonald BBC Scotland Science Correspondent
+
+
+   These are external links and will open in a new window
+
+
+
+
+
+       Share this with
+       These are external links and will open in a new window
+            Share this with Email
+
+            Share this with Facebook
+
+            Share this with Messenger
+
+            Share this with Messenger
+
+            Share this with Twitter
+
+            Share this with Pinterest
+
+            Share this with WhatsApp
+
+            Share this with LinkedIn
+       Copy this link
+       [83]Read more about sharing.
+       These are external links and will open in a new window
+       (BUTTON) Close share panel
+
+
+   Aedes aegyptii Image copyright SPL
+
+   Researchers at Strathclyde university are working to combat a
+   deadly tropical disease - using mathematics.
+
+   Dengue fever is caused by a virus carried by Aedes mosquitoes.
+
+   The number of cases has grown dramatically in recent years with
+   close to 60 million people catching it every year.
+
+   Although it is fatal in only a small proportion of cases, it
+   means deaths are still in the tens of thousands.
+   Image caption Millions of people catch dengue fever every year
+
+   The World Health Organisation says 500,000 people a year need
+   hospital treatment for dengue in Africa, the Americas, the
+   eastern Mediterranean, southeast Asia and the western Pacific.
+
+   The currently favoured approach is to search and destroy the
+   mosquitoes using methods such as spraying fogs of insecticides.
+
+   But the authorities in Malaysia wanted something more
+   environmentally friendly which did not increase the mosquitoes'
+   resistance and kill their predators.
+
+   Which is why the Strathclyde University team, led by
+   mathematician Dr David Greenhalgh, has been working with its
+   Malaysian partners to assess the effectiveness of a new type of
+   mosquito trap.
+
+   The exact design is still under wraps but I can reveal that it
+   looks a bit like a yogurt pot.
+
+   That belies its huge potential in a new approach to fighting
+   tropical diseases: don't use search and destroy - outsmart the
+   insects.
+
+   "The trap contains a chemical solution that attracts female
+   mosquitoes into it," Dr Greenhalgh says.
+
+   "There's a piece of paper leading into the chemical solution.
+
+   "The female mosquitoes that are attracted to the trap lay their
+   eggs on the piece of paper and the chemical stops the eggs
+   developing."
+   Image copyright AFP Image caption Dengue fever is spread by the
+   Aedes aegypti mosquito
+
+   Mathematics comes into the process because Dr Greenhalgh and
+   colleagues have built a computer model of how the disease
+   spreads.
+
+   From that they can simulate how the trap affects the spread of
+   the virus among people and mosquitoes.
+
+   He says people go through different stages of the disease.
+
+   "There are four different types of dengue, four different
+   serotypes," he says.
+
+   "Usually the infection with the first serotype is quite mild.
+
+   "But if you get a second infection with a different strain it
+   can have very serious effects."
+
+   Dr Greenhalgh adds: "As well as modelling how the people go
+   through those different stages, the mosquitoes also go through
+   different stages.
+
+   "So you're trying to model how these populations interact, with
+   mosquitoes biting people, with the disease spreading from
+   people to mosquitoes and vice versa."
+
+   The variables in the mathematical model include the number of
+   traps, the area's history of dengue infections, plus the
+   numbers of mosquitoes and breeding sites.
+
+

@@ -1,0 +1,217 @@
+A Few of My Favorite Spaces: The Connected Sum of Four Hopf Links
+
+   The mathematics of the Olympic rings
+
+
+
+   Share on Facebook
+   Share on Twitter
+   Share on Reddit
+   Email
+   Print
+   Share via
+
+
+
+   Credit: [34]Pierre de Coubertin (1863-1937) Wikimedia Public
+   Domain
+   Advertisement |
+   Report Ad
+
+
+   It’s an internationally recognized symbol of unity, healthy
+   competition, athletic prowess, and the [35]excellence of people
+   named Simone. But on to the important part: is there anything
+   mathematically interesting about the Olympic rings?
+
+
+   Yes and no. The Olympic rings symbol is a chain of five rings,
+   each one attached to one or two neighbors. We’ll take a trip to
+   the world of knot theory to figure out how to analyze it
+   mathematically.
+
+   A mathematical knot is almost like a knot you would have in
+   your shoelace or sailboat rigging, but the loose ends are fused
+   together. A circle, then, is a knot, but it’s not a very
+   compelling one. It, and anything you can get by jigging it
+   around without cutting or gluing, is called the unknot.
+   An unknotted binder clip. Image: Evelyn Lamb
+
+   The technical term for an object like the Olympic rings is a
+   link: it is a bunch of knots that interact with each other in
+   some way. Two circles sitting next to each other, politely not
+   touching, are technically a link, but once again not a very
+   compelling one. They would be called trivially linked.
+   Unlinked unknots. Image: Evelyn Lamb
+
+   The simplest interesting link is the [36]Hopf link: two
+   interlocking circles.
+   A Hopf link. Image: Evelyn Lamb
+
+
+   The Olympic rings are kind of like the Hopf link, but longer.
+   To some extent that makes them less interesting because it’s
+   relatively easy to build them up from smaller pieces. To make
+   that idea precise, we can define something called a prime link.
+   (The definition of prime knot is similar, but we’ll just focus
+   on links because the Olympic rings form a link.)
+
+   Prime numbers, those whole numbers greater than 1 that are
+   divisible only by themselves and 1, can be thought of as the
+   building blocks of all other whole numbers because you can
+   break down a whole number into its prime factors. Similarly,
+   links can be decomposed into prime links. Instead of defining
+   prime link, it’s easier to define a link that isn’t prime. We
+   do that using an operation called a connected ([37]sometimes
+   called connect) sum that describes how we can build new knots
+   and links from old knots and links. To form the [38]connected
+   sum of two links, you cut a segment out of each of them and
+   re-glue them so they’re glued together. A link that can’t be
+   built from two or more non-trivial links is called prime.
+
+
+   To see how a connected sum works, we’ll look at how the
+   connected sum of two Hopf links gives us a chain of three
+   linked rings. In step 1, two Hopf links approach one another.
+   Step 1. Image: Evelyn Lamb
+
+   In step 2, they open up.
+   Step 2. Image: Evelyn Lamb
+
+   In step 3, the two open rings meet each other.
+   Step 3. Image: Evelyn Lamb
+
+   Now, the middle two rings, shown here in silver, are connected,
+   so from a topological  point of view, they have fused to become
+   one ring. Hence in the final step, we replace those two rings
+   with one ring that is topologically equivalent.
+   Step 4: Success! The two Hopf links have fused to become a
+   chain of three rings. Image: Evelyn Lamb
+
+   You can keep connected summing Hopf links together to get as
+   many rings in your link as you want. A similar link with n
+   rings in it takes n-1 copies of the Hopf link to make, so the
+   Olympic rings are a connected sum of four Hopf links.
+
+   It seems a bit disappointing that a symbol of the best of the
+   human race is not a prime link. So I asked [39]Jessica Purcell,
+   a mathematician at Monash University in Australia, whether she
+   had a recommendation for a better five-ring link so the IOC
+   could adopt a mathematically more satisfying symbol if they are
+   so inclined. She suggested the minimally twisted 5-chain link,
+   which she describes as one of her favorites. That’s a mouthful,
+   but a picture will help.
+   A minimally twisted 5-chain link. Image: Evelyn Lamb
+
+
+   Basically, you attach the two ends of the connected sum of four
+   Hopf links together, and you've got it. You have to be a little
+   careful to get the crossings exactly right, but it’s not too
+   hard to do. (You can see a diagram of the link on [40]page 2 of
+   this paper.)
+
+
+   Why is the minimally twisted 5-chain link so great? Well, first
+   of all it’s prime, so it stands on its own merits, unlike the
+   current symbol, which is built up from smaller links. Another
+   reason Purcell told me about is due to the relationship knots
+   and links have to [41]three-dimensional spaces, also known as
+   [42]three-manifolds. In fact, one of the reasons mathematicians
+   study knots and links is not for their own sake but because of
+   these spaces, called knot or link complements.
+
+
+   How do knots and links get tied up (har!) with three-manifolds?
+   You take your knot or link, made out of string or binder rings
+   or something, and imagine removing it from three-dimensional
+   space*. Knot theorists sometimes call it "drilling it out" of
+   the space. The remaining manifold is called the knot or link
+   complement. For example, if you’re wearing a ring, you can
+   think about the the ring's complement as being some
+   three-dimensional space minus your ring. Topologists, [43]who
+   are often concerned with how many fundamentally different loops
+   you can make in a space, find the space minus the ring more
+   interesting than the space by itself. That’s because in the
+   larger space, every loop is basically the same as every other
+   loop. You can just scoot and stretch one loop over to another
+   one without cutting or tearing anything.
+
+
+   For more complicated knots and links, the complements get even
+   more interesting than the complement of a ring. Purcell told me
+   she likes the minimally twisted 5-chain link in part because of
+   its complement. If you want to study it geometrically, you can
+   build it out of 10 shapes called regular ideal hyperbolic
+   [44]tetrahedra. That means that with a bit of poetic license,
+   you could make it out of 10 copies of the [45]Rio 2016 logo,
+   which is topologically equivalent to the edges of a
+   tetrahedron.
+
+
+   Purcell assures me that manifolds that can be built from
+   regular ideal hyperbolic tetrahedra are very special indeed.
+   Getting all the way into what that means is not going to happen
+   in this blog post, but she has some [46]lecture notes on
+   hyperbolic knot theory if you want to go a bit further.
+
+
+   In case you were wondering, the complement of the minimally
+   twisted 5-chain link is way better than the complement of the
+   current Olympic rings, which is based on the complement of the
+   Hopf link. The complement of the Hopf link has Euclidean
+   geometry, or as I like to call it when I’m feeling
+   disrespectful of thousands of years of mathematical tradition,
+   snooze-clidean geometry. I’ll take [47]hyperbolic geometry over
+   Euclidean geometry any day!
+
+
+   out that I told a small fib here. An infinite, unbounded
+   three-manifold with a tiny knot removed is a bit unwieldy, so
+   instead of starting with infinite three-dimensional space,
+   mathematicians actually imagine removing it from something
+   called the [48]three-sphere, or S^3. It’s similar to a circle
+   or a sphere but one dimension higher.
+
+
+   If that’s confusing, don't worry about it too much. No one is
+   going to report you to the math police if you think of removing
+   it from regular three-dimensional space instead. There is a
+   good reason mathematicians do it the way they do: it’s a lot
+   easier to work with finite, or bounded, spaces than infinite
+   ones. (Just like the two-dimensional sphere, or the surface of
+   a beach ball, the three-sphere has a finite radius.) But as far
+   as imagining a knot complement goes, I find it much easier to
+   visualize if I think about removing the knot from regular
+   three-dimensional space rather than the three-sphere.
+
+   Thanks to Dave Futer, Jessica Purcell, and Dylan Thurston for
+   lending me some knot theory knowledge.
+
+   Read about more of my favorite spaces:
+   [49]The Cantor Set
+   [50]Fat Cantor Sets
+   [51]The Topologist’s Sine Curve
+   [52]Cantor's Leaky Tent
+   [53]The Infinite Earring
+   [54]The Line with Two Origins
+   [55]The House with Two Rooms
+   [56]The Fano Plane
+   [57]The Torus
+   [58]The Three-Torus
+   [59]The Möbius Strip
+   [60]The Long Line
+   [61]Space-Filling Curves
+   [62]The Wallis Sieve
+   [63]Two Tori Glued along a Slit
+   [64]The Empty Set
+   [65]The Menger Sponge
+
+
+   The views expressed are those of the author(s) and are not
+   necessarily those of Scientific American.
+   [66][rightsPermsIcon.png] Rights & Permissions
+   Advertisement |
+   Report Ad
+
+
+

@@ -1,0 +1,405 @@
+Time Series Analysis
+
+   Wilfredo Palma
+   Publisher:
+   John Wiley
+   Publication Date:
+   2016
+   Number of Pages:
+   579
+   Format:
+   Hardcover
+   Series:
+   Wiley Series in Probability and Statistics
+   Price:
+   135.00
+   ISBN:
+   9781118634325
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   William J. Satzer
+   , on
+   03/29/2017
+   ]
+
+   This book offers a comprehensive overview of time series
+   analysis. The author says that he aimed the book at a broad
+   audience that includes students, practitioners, and scientists
+   from fields ranging from hydrology to sociology to finance. The
+   focus throughout is on methodologies and techniques selected to
+   help the reader develop a working knowledge of practical
+   applications of time series methods. Most of the book deals
+   with time series that arise from stochastic processes observed
+   at discrete times and recorded at regular intervals. Even
+   restricted in this way, the analysis of time series is a vast
+   subject. The author manages to incorporate a huge number of
+   topics and his book verges on the encyclopedic.
+
+   Although the introduction suggests that “some basic knowledge
+   of calculus” is required for understanding most methods
+   described here, that substantially understates the necessary
+   prerequisites. More realistically, these would include a
+   working command of probability and statistics, a good bit of
+   matrix analysis, more than a little real analysis, some
+   knowledge of the Fourier transform and signal processing
+   techniques, and facility with manipulating infinite series. A
+   big dose of mathematical maturity is needed as well.
+
+   The book begins with a series of examples of times series
+   arising in applications from several different fields. These
+   illustrate the main features that incur in time series, the
+   kinds of data transformations that can be helpful and
+   circumstances that typically require special treatment. The
+   first chapter also introduces some important notions: serial
+   dependence, stationarity, testing for whiteness of spectrum,
+   parametric and non-parametric modeling, and forecasting.
+
+   The main subjects of the book are linear processes, state space
+   models, spectral analysis, estimation methods and prediction.
+   The author also has extended treatments of nonstationary
+   processes, seasonality, regression and the question of how one
+   handles missing values and outliers. Time series analysis, more
+   than any field I’m aware of, is almost overwhelmed by its own
+   acronyms. Practically speaking one can get by with just a few,
+   but happily the author has provides a glossary to help sort out
+   terms like FIGARCH, GARCH, APARCH and LSARFIMA.
+
+   It is clear almost from the beginning that this is not a book
+   for those new to the field. A linear process is defined right
+   at the beginning of Chapter 2 in terms of a linear filter on
+   the backshift operator, and then an infinite series expression
+   for the filter is provided. This is very general, and perhaps
+   elegant, but it is hardly illuminating for any reader who might
+   be new to the subject. There are certainly clearer and more
+   transparent ways to define a linear process, and one might have
+   hoped that the author had started there. At least a simple
+   example of two might be warranted. Instead, the author moves on
+   immediately to a discussion of stationarity.
+
+   This is a book that would likely be of more use to a serious
+   practitioner of time series analysis than anyone coming fresh
+   to the subject. The author includes too many things, moves
+   through them too quickly and at too high a level to make this
+   anything like an introductory book. For example, the author
+   devotes two pages to the topic of wavelets in discussing
+   spectral analysis. Similarly, observability and controllability
+   (important concepts from control theory) get two pages in the
+   chapter on state space models. This might work if the author
+   were reviewing concepts for well-established practitioners, but
+   it clearly won’t work for other readers.
+     __________________________________________________________
+
+   Bill Satzer ([309]bsatzer@gmail.com) was a senior intellectual
+   property scientist at 3M Company. His training is in dynamical
+   systems and particularly celestial mechanics; his current
+   interests are broadly in applied mathematics and the teaching
+   of mathematics.
+
+    [309] mailto:bsatzer@gmail.com
+
+   Preface xiii
+
+   Acknowledgments xvii
+
+   Acronyms xix
+
+   1 Introduction 1
+
+   1.1 Time Series Data 2
+
+   1.2 Random Variables and Statistical Modeling 16
+
+   1.3 Discrete-Time Models 22
+
+   1.4 Serial Dependence 22
+
+   1.5 Nonstationarity 25
+
+   1.6 Whiteness Testing 32
+
+   1.7 Parametric and Nonparametric Modeling 36
+
+   1.8 Forecasting 38
+
+   1.9 Time Series Modeling 38
+
+   1.10 Bibliographic Notes 39
+
+   Problems 39
+
+   2 Linear Processes 43
+
+   2.1 Definition 44
+
+   2.2 Stationarity 44
+
+   2.3 Invertibility 45
+
+   2.4 Causality 46
+
+   2.5 Representations of Linear Processes 46
+
+   2.6 Weak and Strong Dependence 49
+
+   2.7 ARMA Models 51
+
+   2.8 Autocovariance Function 56
+
+   2.9 ACF and Partial ACF Functions 57
+
+   2.10 ARFIMA Processes 64
+
+   2.11 Fractional Gaussian Noise 71
+
+   2.12 Bibliographic Notes 72
+
+   Problems 72
+
+   3 State Space Models 89
+
+   3.1 Introduction 90
+
+   3.2 Linear Dynamical Systems 92
+
+   3.3 State space Modeling of Linear Processes 96
+
+   3.4 State Estimation 97
+
+   3.5 Exogenous Variables 113
+
+   3.6 Bibliographic Notes 114
+
+   Problems 114
+
+   4 Spectral Analysis 121
+
+   4.1 Time and Frequency Domains 122
+
+   4.2 Linear Filters 122
+
+   4.3 Spectral Density 123
+
+   4.4 Periodogram 125
+
+   4.5 Smoothed Periodogram 128
+
+   4.6 Examples 130
+
+   4.7 Wavelets 136
+
+   4.8 Spectral Representation 138
+
+   4.9 Time-Varying Spectrum 140
+
+   4.10 Bibliographic Notes 145
+
+   Problems 145
+
+   5 Estimation Methods 151
+
+   5.1 Model Building 152
+
+   5.2 Parsimony 152
+
+   5.3 Akaike and Schwartz Information Criteria 153
+
+   5.4 Estimation of the Mean 153
+
+   5.5 Estimation of Autocovariances 154
+
+   5.6 Moment Estimation 155
+
+   5.7 Maximum-Likelihood Estimation 156
+
+   5.8 Whittle Estimation 157
+
+   5.9 State Space Estimation 160
+
+   5.10 Estimation of Long-Memory Processes 161
+
+   5.11 Numerical Experiments 178
+
+   5.12 Bayesian Estimation 180
+
+   5.13 Statistical Inference 184
+
+   5.14 Illustrations 189
+
+   5.15 Bibliographic Notes 193
+
+   Problems 194
+
+   6 Nonlinear Time Series 209
+
+   6.1 Introduction 210
+
+   6.2 Testing for Linearity 211
+
+   6.3 Heteroskedastic Data 212
+
+   6.4 ARCH Models 213
+
+   6.5 GARCH Models 216
+
+   6.6 ARFIMA-GARCH Models 218
+
+   6.7 ARCH(1) Models 220
+
+   6.8 APARCH Models 222
+
+   6.9 Stochastic Volatility 222
+
+   6.10 Numerical Experiments 223
+
+   6.11 Data Applications 225
+
+   6.12 Value at Risk 236
+
+   6.13 Autocorrelation of Squares 241
+
+   6.14 Threshold autoregressive models 247
+
+   6.15 Bibliographic Notes 252
+
+   Problems 253
+
+   7 Prediction 267
+
+   7.1 Optimal Prediction 268
+
+   7.2 One-Step Ahead Predictors 268
+
+   7.3 Multistep Ahead Predictors 275
+
+   7.4 Heteroskedastic Models 276
+
+   7.5 Prediction Bands 281
+
+   7.6 Data Application 287
+
+   7.7 Bibliographic Notes 289
+
+   Problems 289
+
+   8 Nonstationary Processes 295
+
+   8.1 Introduction 296
+
+   8.2 Unit Root Testing 297
+
+   8.3 ARIMA Processes 298
+
+   8.4 Locally Stationary Processes 301
+
+   8.5 Structural Breaks 326
+
+   8.6 Bibliographic Notes 331
+
+   Problems 332
+
+   9 Seasonality 337
+
+   9.1 SARIMA Models 338
+
+   9.2 SARFIMA Models 351
+
+   9.3 GARMA Models 353
+
+   9.4 Calculation of the Asymptotic Variance 355
+
+   9.5 Autocovariance Function 355
+
+   9.6 Monte Carlo Studies 359
+
+   9.7 Illustration 362
+
+   9.8 Bibliographic Notes 364
+
+   Problems 365
+
+   10 Time Series Regression 369
+
+   10.1 Motivation 370
+
+   10.2 Definitions 373
+
+   10.3 Properties of the LSE 375
+
+   10.4 Properties of the BLUE 376
+
+   10.5 Estimation of the Mean 379
+
+   10.6 Polynomial Trend 382
+
+   10.7 Harmonic Regression 386
+
+   10.8 Illustration: Air Pollution Data 388
+
+   10.9 Bibliographic Notes 392
+
+   Problems 392
+
+   11 Missing Values and Outliers 399
+
+   11.1 Introduction 400
+
+   11.2 Likelihood Function with Missing Values 401
+
+   11.3 Effects of Missing Values on ML Estimates 405
+
+   11.4 Effects of Missing Values on Prediction 407
+
+   11.5 Interpolation of Missing Data 410
+
+   11.6 Spectral Estimation with Missing Values 418
+
+   11.7 Outliers and Intervention Analysis 421
+
+   11.8 Bibliographic Notes 434
+
+   Problems 435
+
+   12 Non-Gaussian Time Series 441
+
+   12.1 Data Driven Models 442
+
+   12.2 Parameter Driven Models 452
+
+   12.3 Estimation 453
+
+   12.4 Data Illustrations 466
+
+   12.5 Zero-Inflated Models 477
+
+   12.6 Bibliographic Notes 483
+
+   Problems 483
+
+   Appendix A: Complements 487
+
+   A.1 Projection Theorem 488
+
+   A.2 Wold Decomposition 490
+
+   A.3 Bibliographic Notes 497
+
+   Appendix B: Solutions to Selected Problems 499
+
+   Appendix C: Data and Codes 557
+
+   References 559
+
+   Topic Index 573
+
+   Author Index 577
+   Tags:
+   [310]Statistics
+   [311]Time Series
+
+
+
+

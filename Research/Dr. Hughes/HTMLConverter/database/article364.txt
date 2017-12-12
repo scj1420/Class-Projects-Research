@@ -1,0 +1,59 @@
+Sticky cards
+
+   Posted on [23]22 January 2017 by [24]John
+
+
+   Suppose you shuffle a deck of cards. How likely is it that
+   there are two cards that were next to each other before the
+   shuffle are still next to each other after the shuffle?
+
+   It depends on how well you shuffle the cards. If you do what’s
+   called a “faro shuffle” then the probability of a pair of cards
+   remaining neighbors is 0. In a faro shuffle, if the cards were
+   originally numbered 1 through 52, the new arrangement will be
+   1, 27, 2, 28, 3, 29, …, 26, 52. All pairs are split up.
+
+   But if you shuffle the cards so well that the new arrangement
+   is a random permutation of the original, there’s about an 86%
+   chance that at least one pair of neighbors remain neighbors. To
+   be more precise, consider permutations of n items. As n
+   increases, the probability of no two cards remaining
+   consecutive converges to exp(-2), and so the probability of at
+   least two cards remaining next to each other converges to 1 –
+   exp(-2).
+
+   By the way, this considers pairs staying next to each other in
+   either order. For example, if the cards were numbered
+   consecutively, then either a permutation with 7 followed by 8
+   or 8 followed by 7 would count.
+
+   More generally, for large n, the probability of k pairs
+   remaining consecutive after a shuffle is 2^ke^-2 / k!.
+
+   One application of this result would be testing. If you
+   randomly permute a list of things to break up consecutive
+   pairs, it probably won’t work. Instead, you might want to split
+   your list in half, randomize each half separately, then
+   interleave the two half lists as in the faro shuffle.
+
+   Another application would be fraud detection. If you’re
+   suspicious that a supposedly random process isn’t splitting up
+   neighbors, you could use the result presented here to calibrate
+   your expectations. Maybe what you’re seeing is consistent with
+   good randomization. Or maybe not. Note that the result here
+   looks at any pair remaining together. If a particular pair
+   remains together consistently, that’s more suspicious.
+
+   Related posts:
+
+
+
+   Reference: David P. Robbins, The Probability that Neighbors
+   Remain Neighbors After Random Rearrangements. The American
+   Mathematical Monthly, Vol. 87, No. 2, pp. 122-124
+   Categories : [27]Math
+   Tags : [28]Math [29]Probability and Statistics
+   Bookmark the [30]permalink
+
+
+

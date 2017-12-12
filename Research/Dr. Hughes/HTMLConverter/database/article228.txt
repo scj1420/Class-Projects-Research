@@ -1,0 +1,41 @@
+[239]All Tech Considered
+
+
+[240]Now Algorithms Are Deciding Whom To Hire, Based On Voice
+
+
+   Rebecca MacKinnon, director of the Ranking Digital Rights
+   project at New America: "Algorithms driven by machine learning
+   quickly become opaque even to their creators who no longer
+   understand the logic being followed to make certain decisions
+   or produce certain results. The lack of accountability and
+   complete opacity is frightening. On the other hand, algorithms
+   have revolutionized humans' relationship with information in
+   ways that have been life-saving and empowering and will
+   continue to do so."
+
+   Jason Hong, an associate professor at Carnegie Mellon
+   University: "The old adage of garbage in, garbage out still
+   applies, but the sheer quantity of data and the speed of
+   computers might give the false impression of correctness. As a
+   trivial example, there are stories of people following GPS too
+   closely and ending up driving into a river."
+
+   Amali De Silva-Mitchell, a futurist and consultant: "Predictive
+   modeling will limit individual self-expression hence innovation
+   and development. It will cultivate a spoon-fed population with
+   those in the elite being the innovators. There will be a loss
+   in complex decision-making skills of the masses."
+
+   Marina Gorbis, executive director at the Institute for the
+   Future: "Imagine instead of typing search words and getting a
+   list of articles, pushing a button and getting a narrative
+   paper on a specific topic of interest. It's the equivalent of
+   each one of us having many research and other assistants. ...
+   Algorithms also have the potential to uncover current biases in
+   hiring, job descriptions and other text information."
+   [241]A Robot That Harms: When Machines Make Life Or Death
+   Decisions
+
+
+

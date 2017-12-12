@@ -1,0 +1,66 @@
+How Variable Fonts Can Help
+
+   So how will variable fonts help fix this problem? Basically, by
+   giving type designers their own version of responsive design: a
+   single font file that can dynamically morph between different
+   weights and sizes as its designer intended while remaining
+   consistent across platforms.
+   "“They’ll lead to faster, better websites; smaller app sizes;
+   more flexible typography; and richer typographical palettes.” "
+
+   “A variable font is a single font that works like multiple
+   fonts,” explains Tim Brown, head of typography for Adobe Type,
+   who helped solidify the variable font standard. “They’ll lead
+   to faster, better websites; smaller app sizes; more flexible
+   typography; and richer typographical palettes.”
+   advertisement
+
+   Existing OpenType fonts are what are called outline fonts.
+   Inside the file, each letterform is defined as a mathematical
+   series of lines and curves, which your computer draws on screen
+   in real time. Compare this to bitmap fonts, which are
+   essentially graphic files limited in resolution; outline fonts
+   have the advantage that they can be infinitely scaled without
+   resulting in pixelation. They’re a collection of instructions,
+   not a collection of letters.
+   [Photo: courtesy [40]Erik van Blokland]
+
+
+   Variable fonts add weights and other design tweaks to OpenType
+   by adding a new set of instructions to the format, allowing a
+   font’s baseline design to be tweaked across 64,000 different
+   axes. In other words, a variable font can properly bold, say,
+   the letter “B” not by smearing it, or by downloading a separate
+   font file, but by sending the computer precise mathematical
+   instructions on how to turn a “B” into a B. (“Widen the main
+   stroke by 10%, increase the apertures by 5%, and thicken the
+   shoulders by 7%.”)
+
+   Nor is a variable font useful only for bolding. For example,
+   the OpenType format previously allowed fonts to be scaled to
+   any size. But a font that is readable at 12 points on a desktop
+   might be much harder to read on your Apple Watch, or as small
+   print on the bottom of a magazine page. This is why many
+   typeface designers, [41]like Tobias Frere-Jones, create
+   variations of their fonts specifically designed for smaller
+   screens and print sizes. A variable font could contain such
+   instructions, without being a separate file.
+
+
+   Heck, variable fonts are so powerful, there’s technically no
+   reason they can’t contain multiple typefaces. A single variable
+   font could potentially morph between Zapfino, Futura, and
+   Wingdings, without requiring three different font downloads.
+   Brown tells me, though, that variable fonts are really designed
+   to interpolate between different variations of a single design,
+   and not be typeface transformers. “Having multiple typefaces in
+   a single variable font is theoretically possible, but off the
+   top of my head its benefits are unclear and the likelihood of
+   its success is minimal,” he says. “Given how variable font axes
+   are designed, and how a few implementation ideas are already
+   taking hold, it would be extremely uncommon.”
+   [Image: From John Hudson, [42]Introducing OpenType Variable
+   Fonts]
+
+
+

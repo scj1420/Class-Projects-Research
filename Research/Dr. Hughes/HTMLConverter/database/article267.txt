@@ -1,0 +1,1157 @@
+68 comments
+
+   [570]Comments feed for this article
+
+
+   [571]1 June, 2016 at 4:46 pm
+
+   [572]sflicht
+
+
+   One place to start looking for the relevant literature is
+   [573]Wikipedia’s article on proper scoring rules. The
+   logarithmic rule makes a lot of sense, but you can relax it to
+   something like a traditional quadratic loss (“Brier score” in
+   the forecasting literature) while preserving the property that
+   the student is incentivized to report his or her true
+   subjective probability (assuming this is well-defined).
+
+
+   One nice extension is that when you give a true/false test
+   where some questions are logically related to one another, you
+   can assign partial credit to students who appreciate these
+   logical interconnections. For example, a student might be able
+   to prove quasi-rigorously that if problem 1 is True then so is
+   problem 2, but they are only 75% confident about problem 1, and
+   only 80% confident that their proof of 1 implies 2 is correct.
+   While it might seem intractable to have students report a full
+   joint distribution across the truth values for a whole test, or
+   to grade such a distribution, [574]there has been work on
+   implementing such schemes in practice.
+   [575]Reply
+       [576]2 June, 2016 at 6:31 am
+       [577]Terence Tao
+       Thanks for this! It’s remarkable how much one gains by
+       knowing the right search term: “scoring rule” immediately
+       gives many relevant hits, whereas the semantically similar
+       “grading scheme” gives nothing. (I can’t wait for genuine
+       semantic search to come along.)
+       [578]Reply
+
+
+   [579]1 June, 2016 at 4:57 pm
+
+   [580]Peter McNamara
+
+
+   This is exactly the system used in the Monash probabilistic
+   footy tipping competition (which doesn’t actually allow you to
+   enter 100% or 0%)
+   [581]Reply
+       [582]2 June, 2016 at 6:32 am
+       [583]Terence Tao
+       Wow, you’re right!
+       very Aussie…
+       [585]Reply
+
+
+   [586]1 June, 2016 at 5:33 pm
+
+   John Mangual
+
+   I think you re-invented logistic regression. Honestly, all of
+   these analysis are kind of repetetetetive and lame. Stick to
+   analysis on \{ 0, 1\}^N
+   [587]Reply
+
+
+   [588]1 June, 2016 at 6:19 pm
+
+   Philip
+
+   The grade almost looks like an measure of how much information
+   the student has about their exam.
+
+   The score a student expects is an entropy formula (plus N,
+   because of the factor of 2).
+
+   The score is exactly the amount of information one receives
+   from their students. Is this score an average over many
+   students, who answers in binary, and who makes random errors
+   (in same way, with the same answering probability)?
+
+   I read in Khinchin that entropy satisfies the Cauchy functional
+   equation, I don’t know how to further explain this scoring
+   scheme.
+
+   On another note, are there equations which reach 0 in finite
+   time? So that the velocity as well as position reaches 0
+   (position 0 has 0 force). These systems are irreversible, I
+   think, in a novel way. 1 over a finite blow-up solution may be
+   one of these systems. The region where such a solution can
+   occur may not have a hamiltonian or lagrangian formulation.
+   [589]Reply
+       [590]2 June, 2016 at 9:47 am
+       maybe_slytherin
+       Yes, exactly.
+       This is precisely a measure of how *informed* the student
+       is.
+       [591]Reply
+       [592]16 June, 2016 at 10:05 am
+       Philip
+       Another interesting aspect is when the questions are
+       correlated, in a known or unknown way.
+       Despite a concrete score and an informational
+       interpretation, these are rough tests of a specific set of
+       knowledge. How it is used, and its relevance may not be
+       clear.
+       As tests are compression, and models are compressions of
+       reality (which are taught). In this sense, what do these
+       things say about desired outcomes, on how these models will
+       be developed or used after, or whether it guide and unfold
+       in a way which allows progress.
+       [593]Reply
+
+
+       [594]29 June, 2016 at 9:29 pm
+       Philip
+       I was incorrect, when I suggested that irreversibility
+       would entail the non-conservation of energy. Noether’s
+       theorem only says that energy conservation follows from
+       reversibility. The Lagrangian does not depend on time.
+       This is not the same as irreversibility means that energy
+       is not conserved, though I don’t know a system where energy
+       is conserved but is irreversible.
+       Where can one find a differential geometry approach for
+       classical mechanics?
+       I think there are also some topological constraints for
+       vortex tubes, they can only end on boundaries, or upon
+       themselves. There are real physical vortex tube knots,
+       these are not ideal and they dissipate, although I am not
+       sure if mathematical vortex tubes can dissipate.
+       [595]Reply
+
+
+   [596]1 June, 2016 at 6:23 pm
+
+   Graystar
+
+   wondered before what makes it the “natural” loss for
+   distributions, and your derivation explains it perfectly. Much
+   obliged!
+   [598]Reply
+
+
+   [599]1 June, 2016 at 7:00 pm
+
+   [600]samuelfhopkins
+
+
+   A related problem might be: you give students a true-false test
+   and they can only answer true or false, but you want a system
+   to award points that varies from question to question by taking
+   into account how well all the students did on each question.
+   For instance, you might be able to detect that someone randomly
+   guessed for most of the test because they were as likely to get
+   “hard” and “easy” questions right.
+   [601]Reply
+       [602]8 June, 2016 at 6:28 pm
+       Morgan
+       Look into item response theory for more on this.
+       [603]Reply
+
+
+   [604]1 June, 2016 at 7:01 pm
+
+   Anonymous
+
+   The condition that p = q doesn’t seem necessary for the system
+   to be ungamable. Another interesting question may be whether
+   it’s possible to have an f thats bounded and yet can allow
+   reverse engineering the students true confidence.
+   [605]Reply
+
+
+   [606]1 June, 2016 at 7:05 pm
+
+   [607]Abu Bakar
+
+
+   It was an interesting read but I can’t afford to be 100% sure
+   in my opinion. I can give this opinion, perhaps, 70% confidence
+   of being true :)
+   [608]Reply
+
+
+   [609]1 June, 2016 at 8:03 pm
+
+   [610]sgschlesinger
+
+
+   Hey I loved this. You should totally do a version of this about
+   the voting system in the United States, I’ve always found it
+   funny how we only count positive votes and in an all or nothing
+   way. It seems to imply we’ve already found the answer to
+   whether or not it’s more important that the most people are
+   happy than that the least people are upset, and I sure don’t
+   know that answer.
+   [611]Reply
+
+
+   [612]1 June, 2016 at 9:13 pm
+
+   [613]Diego Alonso Cortez
+
+
+   In the case of total uncertainty for the student, shouldn’t the
+   student assume the least informative prior (which, for this
+   case, seems to me like the uniform distribution, ie. 50%
+   confidence in true and 50% confidence in false)? This yields a
+   0 grade for such cases, while removing the need for a messy “I
+   don’t know” option.
+
+   Also, since the log function is reasonably-behaved in
+   neighborhoods of 0.01 but not in right-neighborhoods of 0,
+   couldn’t we extrapolate from 0.01 to 0 using some other
+   function, so that we don’t get that nasty $-\infty$ at 0? Maybe
+   map 0 to -6, or -10, or something like that.
+   [614]Reply
+       [615]2 June, 2016 at 6:36 am
+       [616]Terence Tao
+       It’s true that one can use the least informative prior here
+       as a proxy for an “I don’t know” option. But the situation
+       becomes more complicated if one drops the hypothesis that
+       each question has a prior probability of 50% of having
+       “true” or “false” as the correct answer. For instance,
+       suppose one is grading predictions of various future
+       elections in which the conventional wisdom favours one
+       candidate over another. Should an “I don’t know” answer
+       then be judged using a default prior distribution, rather
+       than the naive 50-50 split?
+       One could smooth out the grading function at the endpoint
+       p=0, but a simpler fix would be to either strongly
+       discourage, or even prohibit, the student from actually
+       entering in a 100% confidence level. Of course this
+       requires some “retraining”, since students taking
+       traditional multiple choice exams are accustomed to at
+       least appear to have 100% confidence in one’s answers…
+       [617]Reply
+
+
+       [618]6 June, 2016 at 2:19 am
+       [619]Nathaniel Virgo
+       In the example here, wouldn’t you want to also test the
+       student’s knowledge of the “conventional wisdom”? Then
+       there is no need to use a different prior for the scoring
+       system. If the student really doesn’t know at all they can
+       still put 50% as their answer. (In which case, seen from
+       the point of view of someone who adopts the conventional
+       wisdom, their expected score is less than one.) Or, if they
+       know that the conventional wisdom says candidate ‘A’ will
+       win with 80% probability but they have no extra knowledge,
+       they can just put 80%. Either way they gain the most by
+       correctly assessing the extent to which they don’t know,
+       and quantifying it correctly.
+       [620]Reply
+
+
+   [621]14 June, 2016 at 6:00 am
+
+   Subbak
+
+   If you assume the students can only answer with multiples of
+   0.05 (seems like a reasonable assumption), can’t you design a
+   grading scheme that respects the property of not creating
+   perverse incentives without going to infinity? It seems to me
+   that you should be able to but I haven’t done the math.
+   [622]Reply
+
+
+   [623]1 June, 2016 at 10:37 pm
+
+   Bo Jacoby
+
+   Isn’t the special case N=1 sufficiently interesting? (I have
+   difficulty understanding the text I’m afraid).
+   [624]Reply
+
+
+   [625]1 June, 2016 at 11:20 pm
+
+   [626]Gil Kalai
+
+
+   If we have one question and N experts where the ith has
+   probability p_i for giving the right answer then the log
+   weights are well known to maximize the probability of making
+   the right decision. Of course, if we need to estimates the
+   probabilities p_i s themselves this complicates matters. (But
+   there are some ways that people tried to deal with it; those
+   may apply over many exams as ways to calibrate a student’s
+   levels of certainty.)
+
+   It is not clear that we want the rule to be symmetric: namely
+   loss for making a mistake and being very certain about it need
+   not be the same as the gain for being right and very certain
+   about it.
+
+   And it looks to me that in practice the traditional binary way
+   of grading the answers is better than the proposed idea of
+   adding certainty level and using weighted grading (unless it is
+   an intentional purpose to grade the students ability to assign
+   certainty levels.)
+   [627]Reply
+       [628]2 June, 2016 at 12:02 am
+       [629]Lior Silberman
+       Exactly: this scheme tests the students’ knowledge of
+       themselves, not only of the material: the proof that the
+       given function is optimal assumes students can accurately
+       quantify their confidence in their understanding. I think
+       the true optimal strategy depends not only on the values
+       q_{S,n} but on the students’ confidence in these values.
+       However, understanding your own understanding (and lack
+       thereof) is a laudable course goal. So include it in the
+       syllabus, and make computing the optimal strategy under
+       various hypotheses a homework problem.
+       [630]Reply
+       [631]2 June, 2016 at 6:41 am
+       [632]Terence Tao
+       The rule is in fact very asymmetric: f(1-p) is very
+       different from -f(p) for most values of p .
+       One advantage of this sort of grading scheme is that it
+       gives more useful information to the instructor as to how
+       well the students are grasping the material, as well as
+       which questions are causing more difficulty than others. It
+       also strongly discourages random guessing (putting down
+       “100% true” or “100% false” randomly is a FAR worse
+       strategy than putting down “50% true, 50% false) which
+       could reduce the amount of random noise in the final grade.
+       Regarding Lior’s comment: I came across a class where this
+       scheme is actually used in a real midterm exam:
+       ing_function.pdf . (They use the normalisation f(p) =
+       \log_4(4p) rather than f(p) = \log_2(2p) because the exam
+       is multiple choice with four options per question rather
+       than two.) The class is in Decision Analysis, and analysing
+       the grading scheme is in fact intentionally part of the
+       coursework!
+       [634]Reply
+       [635]2 June, 2016 at 10:45 am
+       [636]Gil Kalai
+       One thing that can be done is to normalize a person level
+       of confidence according to actual performance. For that we
+       can assume that the questions are equally hard (otherwise
+       we can estimate and weight their relative difficulty as
+       well). Using it we can give the students separate score for
+       academic performance and for self-evaluation. Two students
+       with the same answers and each having constant but
+       different confidence level will get the same academic score
+       but different score for self assessment. (If the confidence
+       levels are not constant the academic performance will
+       depend on them, not only the answers.) Such a normalization
+       will eliminate the annoying negative infinity scores.
+       (Yes, I miss the asymmetry. we can wonder if this is the
+       asymmetry reflecting optimally our pedagogical goals.)
+       [637]Reply
+
+
+   [638]1 June, 2016 at 11:57 pm
+
+   Chong Shang Shan
+
+   Let me summarize, tell me if I am wrong: What you are saying is
+   that these methods of putting probability into a binomial model
+   is all about certainty. One can be certain that Question 1 is
+   90% correct and 10% wrong. These models do not express
+   uncertainty, even though it is still about probabilities, and
+   Bayesian ones at that.
+   [639]Reply
+
+
+   [640]2 June, 2016 at 12:27 am
+
+   Anonymous
+
+   Consider the situation in which the student gives Qbits (i.e.
+   true random bits) as answers (according to his/her subjective
+   probabilities), what should be the grading rule for such
+   (random) answers?
+   [641]Reply
+
+
+   [642]2 June, 2016 at 1:12 am
+
+   Ken(neth)
+
+   I always have my students give a reason for their answer to a
+   true or false question.
+   [643]Reply
+
+
+   [644]2 June, 2016 at 2:19 am
+
+   Sean Eberhard
+
+   One assumption which is important to your model and which may
+   not be exactly true in practice is that students aim to
+   maximize their expected grade. Many students might, for example
+   aim to maximize their probability of scoring at least 90%, or
+   their probability of not failing, and this difference in
+   utility function may lead them to report their subjective
+   probabilities unfaithfully. I wonder whether there is some way
+   of aligning students’ utilities, but I’m doubtful.
+   [645]Reply
+       [646]2 June, 2016 at 7:11 am
+       [647]Terence Tao
+       This was something I meant to put in the post but neglected
+       to: when the number of questions N is large, then the law
+       of large numbers kicks in, and the grade should concentrate
+       around the expected grade (this is why I didn’t focus just
+       on the N=1 case, as suggested elsewhere in the comments).
+       So the assumption should be fairly sound when dealing with
+       lengthy exams, but I agree that for N=1 or N=2 , other
+       factors such as risk aversion may become important and
+       distort the incentives.
+       [648]Reply
+
+
+       [649]2 June, 2016 at 2:50 pm
+       Sean Eberhard
+       Good point, but even when the number of questions is large,
+       the difference in utility is likely to have some effect
+       near the boundary. Specifically, the downside blowup will
+       cause very certain students to underrepresent their
+       certainty.
+       Suppose you set an exam with 100 questions, and because
+       it’s so easy you decide that it takes 90 points to get an
+       A. I, being a good student, am 99.9% sure of all my
+       answers, but my scholarship depends on my getting an A. If
+       I report my confidence everywhere as 99.9% then if I get a
+       single answer wrong I will get a B and be deported. However
+       if I artificially downgrade my confidence to 99% then I can
+       afford to get one answer wrong and stay in the country.
+       [650]Reply
+
+
+   [651]2 June, 2016 at 3:30 am
+
+   Ethan
+
+   maybe of interest. It looks at scoring multiple choice
+   questions where multiple selections are allowed.
+   [653]Reply
+
+
+   [654]2 June, 2016 at 4:17 am
+
+   [655]Bo Waggoner
+
+
+   Hi Terry, you have rediscovered the logarithmic “proper scoring
+   rule”. Proper scoring rules were first studied by [Brier 1950],
+   followed by a general characterization of [McCarthy 1956,
+   Savage 1971, Gneiting-Raftery 2007].
+
+   The characterization states that each “proper” (truthful)
+   scoring rule corresponds to a convex function G(p), the
+   expected score for truthfully reporting p when one’s true
+   believed distribution is p. The scoring rule is given by
+   subgradients of the convex function. For the log scoring rule,
+   this convex function is the negative of Shannon entropy. In
+   fact, axioms about scoring rules, such as symmetry, can be as
+   interpreted as axioms on entropy functions.
+
+   Notes:
+   — this characterization works just as well for
+   “multiple-choice” predictions.
+   — as you note with the election example, proper scoring rules
+   form the basis of modern prediction markets [Hanson 2003].
+   — convexity seems to have a natural implication for your
+   grading application: any proper scoring rule rewards
+   “expertise”.
+   — I will address your last paragraph in a second post.
+
+   Brier, 1950. Verification of forecasts expressed in terms of
+   probability. Monthly Weather Review.
+
+   McCarthy, 1956. Measures of the value of information. PNAS.
+
+   Savage, 1971. Elicitation of personal probabilities and
+   expectations. Journal of the American Statistical Association.
+
+   Gneiting and Raftery, 2007. Strictly proper scoring rules,
+   prediction, and estimation. Journal of the American Statistical
+   Association.
+
+   Hanson, 2003. Combinatorial information market design.
+   Information Systems Frontiers.
+   [656]Reply
+
+
+       [657]2 June, 2016 at 4:35 am
+       [658]Bo Waggoner
+       To your last paragraph on uncertainty, I don’t know of
+       research directly addressing this, but Yiling Chen, Madhu
+       Sudan, and I recently looked at one formalization. Suppose
+       a student facing a proper scoring rule has “uncertainty
+       over her belief”, e.g. she thinks p lies in [0.5, 0.7]. If
+       she were a Bayesian expected-utility-maximizer, then she
+       should just integrate out the uncertainty and report her
+       “expected” p, to maximize expected score.
+       So instead suppose the agent is risk-averse, so she has a
+       set of possible beliefs and wants to maximize the
+       worst-case expected score over all these beliefs. So she
+       will report max_p min_{q in [0.5, 0.7]} “expected score for
+       reporting p with belief q”.
+       In this case, if the set of possible beliefs is convex,
+       then it turns out she should report the “maximum-entropy”
+       distribution in her set of beliefs. Here max-entropy is
+       measured by the convex function corresponding to the proper
+       scoring rule according to the characterization I mentioned
+       above. So for the log scoring rule, this really is the
+       max-entropy distribution in the set. And actually, once you
+       have a visual picture of the characterization, this result
+       has a really nice geometric intuition. (Also, this doesn’t
+       require a binary outcome but works just as well for
+       multiple-choice questions.)
+       [659]Reply
+
+
+       [660]2 June, 2016 at 7:12 am
+       [661]Terence Tao
+       Thanks, this is great! I’m happy to see that it is still
+       possible to do some mathematical analysis in the presence
+       of uncertainty, and the resulting answer (max-entropy
+       reporting) is not as complicated as I had feared.
+       [662]Reply
+
+
+       [663]2 June, 2016 at 6:36 pm
+       [664]Bo Waggoner
+       Another comment: your analysis assumed that the score only
+       depends on the predicted probability of the true answer.
+       That’s why you derive the log scoring rule: it’s the unique
+       proper scoring rule with this property. For all other
+       scoring rules, the score depends on the predictions on all
+       the options, not just on the correct outcome.
+       The cool part: I believe this is essentially the same fact
+       as Shannon’s “chain rule” axiom leading to the uniqueness
+       of Shannon entropy among all entropy measures.
+       [665]Reply
+
+
+   [666]2 June, 2016 at 4:44 am
+
+   Anonymous
+
+   The Japanese Language Proficiency Test is a multiple choice
+   test with an interesting method: it assigns a grade to the
+   each answer. You can find more info here
+   [668]Reply
+
+
+   [669]2 June, 2016 at 7:16 am
+
+   Peter Chindove
+
+   Would you not need to also change the types of questions asked?
+   Questions that demand binary answers are themselves restricted
+   in what insight they can provide about the person providing the
+   answers
+   [670]Reply
+
+
+   [671]2 June, 2016 at 7:53 am
+
+   Sanchay
+
+   This is good. Just concerned about using this “scoring rule”
+   aka “grading scheme” (Google take notice) in the real world:
+   assume 100% is not allowed
+   1. Lets say the exam is for a technical subject which requires
+   some calculations. If a student knows their subject well, but
+   make a minor calculation mistake, they might mark an incorrect
+   answer with high confidence and thus may receive large penalty
+   (depending on the actual answer choices). Seems unfair.
+   2. Also concerned about the actual brain cycles the student
+   will spend on giving out their confidence levels instead of
+   answering the questions in the first place. I give that this
+   might not be bad since it better prepares one for the real
+   world (my subjective opinion), but it sure will be more
+   stressful for the students, esp. considering 1.
+   I think we should strive to abolish multiple choice type
+   objective exams in favor of subjective exams. Takes more
+   resources and creates some avenues of unfair grading given
+   multiple graders, but I think it’s overall better. Thanks for
+   the thought provoking article.
+   [672]Reply
+
+
+   [673]2 June, 2016 at 7:55 am
+
+   [674]thelonewolfling
+
+
+   With this grading system, your EV is maximized when your guess
+   has the same percentage certainty as your actual certainty,
+   yes. But your standard deviation goes up much faster than your
+   EV as a function of certainty of guess – which means that as
+   you increase your guessed certainty towards your actual
+   certainty, your percentage chance of doing relatively poorly
+   actually goes *up*.
+
+   This assumes that students are straight EV maximizers, and that
+   EV is linear with grades.
+
+   In practice this is not true.
+
+   Quick numbers (may be wrong):
+
+   If your actual certainty is 0.9, the possible outcomes of
+   answering a question is [log2(2p) @ 0.9, log2(2(1-p)) @ 0.1].
+   Your mean is g(p) = log2(2p) * 0.9 + log2(2(1-p)) * 0.1, which
+   peaks at p=0.9, g(p) = (9 log2(3)-5 log2(5))/5 , as expected.
+   Your variance is then 0.9 * (log2(2p) – (log2(2p) * 0.9 +
+   log2(2(1-p)) * 0.1))^2 + 0.1 * (log2(2(1-p)) – (log2(2p) * 0.9
+   the square root of that.
+
+   Which does this:
+   8log2%282p%29+-++%28log2%282p%29+*+0.9+%2B+log2%282%281-p%29%29
+
+   p%29+*+0.9+%2B+log2%282%281-p%29%29+*+0.1%29%29^2%29,+%28log2%2
+   82p%29+*+0.9+%2B+log2%282%281-p%29%29+*+0.1%29+over+0.5+%3C%3D+
+   p+%3C%3D+1
+
+   Note how the standard deviation increases (substantially!)
+   faster than the mean. For instance: if you guess with certainty
+   0.8 (knowing that your actual certainty is 0.9), you’ll get a
+   mean value of 0.478 and a standard deviation of 0.6. If you go
+   ahead and use your actual certainty of 0.9, you’ll get a higher
+   mean value of 0.531, but your standard deviation increases to
+   0.95. For comparison, that means your 25th percentile *drops*
+   from 0.0733 to -1.10.
+
+   I’m glossing over a whole bunch of things here, but you get the
+   picture.
+
+   What this means in practice is that anyone who crunches the
+   numbers and who is adverse to failing is going to guess
+   conservatively, probably extremely so given as no-one is
+   absolutely certain how certain they are.
+
+   It would be curious to run through the numbers and come up with
+   an equivalent scheme for students who maximize the probability
+   of passing (for some definition of passing, or for some
+   distribution of target marks).
+   [676]Reply
+
+
+       [677]2 June, 2016 at 8:13 am
+       [678]Terence Tao
+       As I said in an earlier comment, this is a serious issue
+       for small values of N , but becomes asymptotically
+       negligible in the limit N \to \infty , because the expected
+       value of the grade scales linearly with the number of
+       questions N , whereas the standard deviation scales like
+       \sqrt{N} (assuming that the probabilities for each question
+       are uncorrelated or only very weakly correlated). So I
+       would only propose this scheme when the number N of
+       questions is somewhat large (e.g. greater than 10).
+       Incidentally, my own personal views on the suitability of
+       multiple choice exams in general can be found in [679]this
+       previous post; roughly speaking, I don’t like using them
+       for exams, but they can be a useful tool for
+       self-assessment. However, I think these sorts of scoring
+       systems could be more widely used beyond the classroom
+       environment. Imagine for instance if political pundits were
+       somehow required to attach confidence levels to their
+       various predictions (e.g. “Candidate X will win the
+       election (90% confidence)”), and that there was a neutral
+       authority who could keep track of the cumulative score of
+       the most prominent such pundits, seeing in particular which
+       of them were excessively overconfident in their
+       proclamations.
+       [680]Reply
+
+
+       [681]2 June, 2016 at 10:04 am
+       [682]Boris
+       One place where this scoring mechanism is sometimes used is
+       on Kaggle, a website that hosts data science competitions.
+       For three years now, this scoring method has been used to
+       score predictions for March Madness (the US college
+       basketball tournament):
+       2016/details/evaluation
+       Simplifying slightly, in March Madness, 64 teams play in a
+       single-elimination tournament. A submission to this Kaggle
+       contest consists of a prediction of the probability p that
+       team A beats team B, if they play, for every pair of teams
+       {A,B}. The scoring method is exactly the one you proposed,
+       applied only to the 63 games that actually occur.
+       The issue mentioned more than once above — that people’s
+       objective is not usually “maximize expected score” — comes
+       up very strongly here. This Kaggle contest has a monetary
+       prize that is only awarded to the top few finishers (5
+       teams this year, and even fewer before). Thus, if you are
+       trying to win money, you only care if you score very highly
+       (top 5) and not at all if you score “pretty well”: even 6th
+       place is functionally much the same as last place.
+       Despite the fact that N=63 is more than “somewhat large”
+       (ie it is much more than 10), this issue distorts the
+       incentives very greatly. In particular, I estimated this
+       year that if all you care about is winning money, then it
+       is a pretty good strategy to assign a 100% probability to a
+       single event that you actually believe has a ~10%
+       probability. Otherwise, you can submit your “true”
+       predictions (of course, they have to be somewhat decent
+       predictions themselves). If your lucky event does not
+       happen (a 90% probability), then you get negative infinity
+       points and last place; if your lucky event does happen
+       (10%), then you get a “boost” that is likely to propel you
+       into the money.
+       Together with a teammate, I have followed this strategy for
+       three years now. Many other teams do the same. If you look
+       at my profile on Kaggle (linked to by my name), you can see
+       that we have in fact done quite poorly in past years, when
+       our lucky event did not happen; the only reason we are not
+       literally last is essentially rounding issues. This year,
+       however, our lucky event happened and we won money.
+       In talking with our colleagues, we have found that there
+       are many interesting results in this area concerning the
+       difference in strategies between “maximize expected score”
+       and “maximize the probability of getting first”. We are in
+       the process of preparing a paper on these phenomena. It is
+       unclear at this point whether this paper will end up
+       targeting a “math blog” audience or a more formal “math
+       journal” audience (or both..).
+       [684]Reply
+
+
+   [685]2 June, 2016 at 8:32 am
+
+   Arul
+
+   Hi Terence,
+   When there are a large number of students, can we assume that
+   distribution of student confidences is same as the probability
+   of true/false seen across students? In that case, we can use
+   that as a metric of how “difficult” the question is (this is a
+   different approach from what you described but occurred when I
+   thought about the problem). One solution could be to assign
+   unequal marks to different questions based on distribution of
+   answers, e.g H(p) where H is the entropy function. If a student
+   answers a “difficult” question right, he/she gets more marks vs
+   a question that most others answered correctly. Thinking more
+   about it, D(p||q) is probably a better metric because if most
+   students answer incorrectly, we want to reward the person who
+   answers that correctly :)
+   [686]Reply
+
+
+       [687]2 June, 2016 at 9:04 am
+       [688]Terence Tao
+       Making the grading scheme dependent on the responses of the
+       other students turns the system into a [689]mean field
+       game, which can create all sorts of unpredictable emergent
+       phenomena as each student tries to predict the behaviour of
+       the others. For instance, if one question is exceptionally
+       easy, many of the students may presume that the value of
+       that question is going to be low, and focus their attention
+       on the harder questions, allowing the weaker students who
+       are only capable of tackling the easy question to end up
+       with a higher than expected score; meanwhile, the value of
+       the difficult questions are not as high as the stronger
+       students may have hoped due to the fact that a large
+       fraction of the class did better on these questions than
+       expected due to the increased focus by the top students on
+       these questions.
+       But one can certainly multiply the score for each question
+       n by a different weight w_n which is dependent on some
+       other factor than the performance of the rest of the class,
+       e.g. by the instructor’s subjective opinion of the
+       difficulty of the question, or using test records of
+       previous classes that were given either the same question,
+       or something similar to it. This should not create any
+       unusually distorting effects (assuming of course that the
+       values of the weights w_n are publicly available to all
+       students).
+       [690]Reply
+
+
+       [691]2 June, 2016 at 11:02 am
+       Nishad
+       Hi All,
+       I was trying to work out how to solve the problem when you
+       have multiple solutions and multiple correct answers (the
+       puzzle put forth in the article) but was unable to figure
+       out how the student assigns confidence values to the
+       questions since two or more are correct. How do I calculate
+       the corresponding expectation value? Any help is
+       appreciated.
+       [692]Reply
+
+
+       [693]2 June, 2016 at 11:17 am
+       [694]Terence Tao
+       I should clarify that I was referring to the situation
+       where there are multiple answer options, but still only one
+       of the answers is correct, which is the usual situation in
+       multiple choice tests. For instance, there may be three
+       possible answers A, B, C, and the student would assign
+       confidences of q_A,q_B,q_C to each of them respectively for
+       some quantities q_A, q_B, q_C adding up to one; the score
+       for the question would then be f(q_A) if A was the correct
+       answer, and so forth. One can then show that in order to
+       avoid perverse incentives (or, to use the accepted
+       terminology, obtain a proper scoring rule), f(q) needs to
+       be equal to \log q up to an affine transformation.
+       Perhaps it is still possible to construct a natural grading
+       scheme in situations in which there are multiple correct
+       answers, but this looks to be a rather tricky task.
+       [695]Reply
+
+
+       [696]9 June, 2016 at 4:41 am
+       [697]Anurag Sahay
+       Couldn’t a situation whereby we have multiple options (say
+       k per question) and multiple correct answers (bounded by
+       say m <= k, so that the case m=1 is just the regular single
+       correct answer case) be reinterpreted as a multiple options
+       but single correct answer case with more options? In
+       particular, we could take the number of options to be the
+       sum of all C(k,i) with 1<= i <= m, where C(k,i) is the
+       choose function.
+
+
+   [698]2 June, 2016 at 12:16 pm
+
+   [699]Arthur Breitman
+
+
+   If you’re feeling generous, you can optimally re-calibrate the
+   student’s answer. That is find an increasing function g: [0,1]
+   \rightarrow [0,1] which maximizes their score when the
+   probabilities they pick are appropriately transformed.
+
+   If one only imposes that g be monotonous, then this is a form
+   of isotonic regression, but that might be a little too generous
+   for the student. One might instead choose g from a parametric
+   family, for instance an affine transform of the log odds.
+
+   g(p) = \sigma( a \log(p/(1-p)) + b)
+   with \sigma being the logistic function. Optimize over a and b
+   . That way you do not over-penalize student for being biased.
+   [700]Reply
+
+
+   [701]2 June, 2016 at 12:29 pm
+
+   groglogic
+
+   typo: “the student may {S} think”
+
+   I didn’t check your math too but will assume that is all
+   correct. :-)
+
+   [Corrected, thanks – T.]
+   [702]Reply
+
+
+   [703]2 June, 2016 at 1:49 pm
+
+   Bryan A. Knowles
+
+   Have you considered limiting their confidence options?
+
+   E.g., a four or five point scale like: false/very confident;
+   false/less confident; I don’t know;etc.
+   [704]Reply
+
+
+   [705]2 June, 2016 at 2:28 pm
+
+   Matt Miller
+
+   I feel that this thread, being more accessible a read than your
+   other posts, will attract many comments — that said here’s
+   mine:
+
+   Do you think you could adapt this to use in a Tournament matrix
+   way (where the Perron eigenvalue and associated eigenvector are
+   used to determine tournament rankings), so that the ‘grade
+   score’ is related to the rankings (either Kendall-Wei or
+   Ramanujacharyula ranking) and those values are themselves
+   determined not just by the answers of any individual but also
+   to the answers of every other individual taking the test? I’m
+   not sure how you could incorporate such a method into grading,
+   or why you would want to other than to bring more interesting
+   methods to bare on this problem (as has been done with the same
+   sort of problems in ‘voting’ shemes). Anyway, fun post thanks!
+   :)
+   [706]Reply
+
+
+   [707]2 June, 2016 at 2:55 pm
+
+   Freddie Manners
+
+   My preferred solution to the grading problem is to get students
+   to submit neither answers nor probabilities, but a customized
+   compression / decompression algorithm pair.
+
+   The compression algorithm is then run with the correct answers
+   to the test as input (as a 0/1 string). Not being a trusting
+   person, I run the compressed output back into the decompression
+   algorithm and check that it faithfully reproduces the test
+   answers.
+
+   I then give the student a score of the size in bits of the
+   compressed data (lower values being better).
+   [708]Reply
+
+
+       [709]2 June, 2016 at 3:20 pm
+       [710]Terence Tao
+       Very nice! Of course this would be impractical for a
+       real-world examination, but this criterion has the
+       advantage of generalising very easily to many types of
+       exams, and can incorporate features such as prior
+       probability distributions of answers, correlations between
+       questions, uncertainty in the student’s subjective model,
+       etc..
+       From the theory of [711]Kullback-Leibler divergence it
+       seems that this compression-based scheme essentially
+       collapses to the logarithmic scoring rule when restricting
+       to compression algorithms based on probabilistic models in
+       the answers to each question are assumed to be jointly
+       independent events. So this may well be the “correct” way
+       to generalise the logarithmic scoring rule to more general
+       contexts.
+       [712]Reply
+       [713]2 June, 2016 at 5:38 pm
+       Anonymous
+       Neat! The machine precision of the instructor’s computer
+       should be made public in case the game (oops, exam) only
+       rewards a single winner.
+       [714]Reply
+       [715]6 June, 2016 at 5:50 am
+       [716]N
+       Given that the exam itself can be viewed as a compression
+       algorithm, it seems somewhat inelegant to require a
+       compression algorithm to work on another. Moreover, if the
+       larger goal is to discriminate between students, it is not
+       clear that the ideal grading solution can counter a poorly
+       designed exam.
+       Instead, how about asking each student in the class to
+       submit an algorithm that generates both the questions and
+       the answers? Each of the exams provided by the students is
+       administered to every individual in the class (in real
+       life, students would be really unhappy…), and the exam that
+       results in the most dispersion across students is used to
+       assign the grades as above.
+       [717]Reply
+
+
+   [718]2 June, 2016 at 8:38 pm
+
+   [719]bigdudemakingbigmoves
+
+
+   And here I was thinking that this article would be a joke. Not
+   to be disrespectful. I mean joke in a satirical or whimsical
+   manner. This actually is an interesting concept and pretty well
+   written as well. Kudos.
+   [720]Reply
+
+
+   [721]2 June, 2016 at 9:28 pm
+
+   Anonymous
+
+   Students should not try to maximize their numerical grade,
+   instead they should maximize their discrete letter grade (“A”
+   or “B”) since letter grade determines GPA. Given this, the
+   partial credit system becomes very misleading to students.
+
+   Students should not estimate confidence based on their true
+   confidence, rather they should estimate confidence based on the
+   minimum score needed to pass. This grants the student the most
+   allowable wrong answers while still passing the class. This
+   result does not rely on a quiz with a small number of
+   questions.
+
+   For example, given a test with a large number of questions, a
+   student who knows exactly that she has an 80% chance of
+   answering any question correctly, and who needs a minimum score
+   of 0.1 to pass the class, the student’s optimal decision is to
+   pick a confidence level of 0.69 for each question. This would
+   allow her to pass the class by answering 69% of the questions
+   correctly. If she had picked the 80% confidence level she would
+   have to answer 71% of the questions correctly to pass.
+
+   C = confidence
+   N_c = % correct
+
+   score = N_c*log2(2*C) + (1-N_c)*log2(2*(1-C))
+
+   The student’s approach could be to first determine the minimum
+   score needed, then find the minimum value of N_c = C that
+   produces that score, and use that confidence value. The
+   equation could be expanded to allow questions of different
+   confidence, but I wouldn’t bother. This example is just meant
+   to show how a discrete grade scale subverts the intent of the
+   logarithmic function to rewards students for accurately
+   identifying their confidence.
+   [722]Reply
+
+
+   [723]2 June, 2016 at 11:36 pm
+
+   anonymous
+
+   In game theory in economics there is a term called
+   “strategyproofness”
+   it is a best strategy for each player to be honest.
+   [725]Reply
+
+
+   [726]3 June, 2016 at 4:44 am
+
+   James Barren
+
+   An interesting somewhat related work (see the partial knowledge
+   section) is given here:
+   [728]Reply
+
+
+   [729]3 June, 2016 at 5:31 am
+
+   arch1
+
+   I think I’ve read that there is a human cognitive bias causing
+   explicit probability estimates to tend to skew away from 0.5.
+   Presumably such a persistent bias is maximizing something. It
+   might be good to bear that something in mind when designing a
+   scoring system of the kind discussed here.
+   [730]Reply
+
+
+   [731]3 June, 2016 at 9:23 am
+
+   [732]asfarley
+
+
+   How about using internally-consistent subsets of the answers?
+   This would require dropping the independence assumption for
+   each answer, though.
+   [733]Reply
+
+
+   [734]3 June, 2016 at 12:18 pm
+
+   arch1@gmail.com
+
+   The comment about semantic vs syntactic search in the context
+   of this posting reminded me of an article years ago in American
+   Mathematical Monthly about partial credit scoring of multiple
+   choice problems based on the kind of error associated with each
+   choice:-)
+   [735]Reply
+
+
+   [736]4 June, 2016 at 9:01 am
+
+   [737]Saturday assorted links - Marginal REVOLUTION
+
+
+   […] 5. Goethe and the second price auction.  And probabilistic
+   grading for true-false exams. […]
+   [738]Reply
+
+
+   [739]4 June, 2016 at 9:10 am
+
+   Matthew Moore
+
+   You might want to look up the Revelation Principle in
+   microeconomics/ game theory.
+   [740]Reply
+
+
+   [741]6 June, 2016 at 3:08 pm
+
+   Evan
+
+   This paper
+   ) published in the Review of Economic Studies in 2009 discusses
+   applications of proper scoring rules when agents are not
+   expected value maximizers. It also covers non-expected utility
+   agents, providing a partial resolution for the case of
+   non-probabilistic uncertainty.
+   [743]Reply
+
+
+   [744]12 June, 2016 at 7:36 am
+
+   [745]Andrew Howe
+
+
+   Having skimmed the comments I *think* this is a slightly
+   different angle.
+
+   Instead of target the ‘ordinary’ score, an area known as
+   probability calibration emphasizes the accuracy of the
+   student’s probability assessment, almost independent of whether
+   he is right/wrong about the underlying answer.
+
+   Thus, someone who scores 6/10 and says that he was 60%
+   confident of each answer gets a ‘perfect’ probability
+   calibration score while someone who scores 8/10 but says that
+   he was 90% confident of each answer gets a lower probability
+   calibration score (and a higher ‘ordinary score’).
+
+   This is an under-exploited area of risk management where, as at
+   least one commenter mentioned, overconfidence is a challenge.
+   [746]Reply
+
+
+   [747]13 June, 2016 at 12:23 am
+
+   Sebastian
+
+   Regarding scoring rules both for finite sets and more general
+   spaces the (Gneiting and Raftery, JASA 2007) paper is really a
+   gem that covers a lot of ground.
+
+   Any proper scoring rule can also be converted into a proper
+   divergence between probability measures by taking their
+   expectations over the true outcome. Such construction gives
+   rise to divergences such as the “energy statistic” discussed in
+   detail in the Gneiting and Raftery paper and is also related to
+   the kernel maximum mean discrepancy (MMD) divergence between
+   measures, see (Sriperumbudur et al., JMLR 2010).
+   [748]Reply
+
+
+   [749]14 June, 2016 at 11:13 am
+
+   [750]135th Carnival of Mathematics | Gaurish4Math
+
+
+   […] How to assign partial credit on an exam of true-false
+   questions? – Terence Tao […]
+   [751]Reply
+
+
+   [752]23 June, 2016 at 3:20 pm
+
+   Nkavi
+
+   Follow the steps of Tao and you will talk to dozen of people.
+   Just because one brain stimulate others. And my own brain talks
+   to Villani so Pierini is now lost. It s TRUE. I m major in
+   france, alleluia!!! Ps pierini is lost but always on. But
+   nothing change except the chewing gum if we share it.
+   [753]Reply
+
+
+

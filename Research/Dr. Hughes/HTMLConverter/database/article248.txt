@@ -1,0 +1,81 @@
+[15]The Difference Between Math and Modeling with Math in Five
+Seconds
+
+
+   By [16]Dan Meyer • March 9, 2017 • [17]31 Comments
+
+
+   [18]Jim Pardun sent me [19]a video of a dog named Twinkie
+   popping balloons in the pursuit of a world record. How you
+   train a dog to do this, I don’t know. How there is a world
+   record for this, I don’t know either.
+
+
+
+
+   What I know is that this video clearly illustrates the
+   difference between math and modeling with math.
+
+   [21]You can’t break math. Some people think they broke math but
+   all they did was break ground on [22]new disciplines in math
+   where, for example, triangles can have more than 180° and
+   parallel lines can meet.
+
+
+   Our mathematical models, by contrast, arrive broken. “All
+   models are wrong,” [23]said George Box, “but some are useful.”
+   And we see that in this video.
+
+
+   Twinkie pops 25 balloons in 5 seconds. How long will it take
+   her to pop all 100 balloons? A purely mathematical answer is 20
+   seconds. That’s straightforward proportional reasoning.
+
+   But mathematical modeling is less than straightforward. It
+   requires the re-interpretation of that answer through the
+   world’s imperfections. The student who can quickly and
+   confidently calculate 20 seconds may even be worse off here
+   than the student who patiently thinks about how the supply of
+   balloons is dwindling, adds time, and arrives at the actual
+   answer of 37 seconds.
+
+   Feel free to show your classes that [24]question video,
+   discuss, and then show them the [25]answer video. Or if your
+   class has access to devices, you can assign [26]this Desmos
+   activity, where we’ll invite them to sketch what they think
+   happens over time as well.
+
+
+   The difference between the students who answer “20 seconds” and
+   “37 seconds” is the same difference between the students who
+   draw Sketch 1 and Sketch 2.
+
+   You might think you know how your students will sort into those
+   two groups, but I hope you’ll be surprised.
+
+   That difference is the patience that modeling with math
+   requires.
+
+   BTW. I’m very interested in situations like these where the
+   world subverts what seems like a straightforward application of
+   a mathematical model.
+
+   One more example is the story of [27]St. Matthew Island, which
+   dumps the expectations of pure mathematics on its head at least
+   twice.
+
+
+   Do you have any to trade?
+
+   2017 May 19. Steve Rein [28]asked for the data set. [29]Right
+   here.
+   [30]uncategorized
+
+
+   About [31]Dan Meyer
+   I'm Dan and this is my blog. I'm a former high school math
+   teacher and current head of teaching at [32]Desmos. [33]More
+   here.
+
+
+

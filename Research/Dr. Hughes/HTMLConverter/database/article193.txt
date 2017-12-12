@@ -1,0 +1,142 @@
+Some Of Our Everyday Problems Have Simple Mathematical Solutions
+
+   {{article.article.images.featured.description}}
+   {{article.article.images.featured.caption}}
+   [2]Most Read
+   {{contrib_block.display_advoice_brand}}
+   {{contrib_block.display_voice_type}}
+
+
+   {{contrib_block.display_author.name}}Voice With
+   {{contrib_block.authors[0].blogName}} Quora ,
+
+   {{contrib_block.display_author.type}} Contributor
+   {{contrib_block.display_author.type}}
+
+   Contributor
+
+   Opinions expressed by Forbes Contributors are their own.
+
+   Full profile →'">
+
+   The author is a Forbes contributor. The opinions expressed are
+   those of the writer.
+   Loading ...
+   Loading ...
+   This story appears in the
+   {{article.article.magazine.pretty_date}} issue of
+   {{article.article.magazine.pubName}}. Subscribe
+
+   (Photo by Ed Wray/Getty Images)
+
+   [3]What are some daily life problems with a simple mathematical
+   or algorithmic solution? originally appeared on [4]Quora: the
+   knowledge sharing network where compelling questions are
+   answered by people with unique insights.
+
+
+   [5]Answer by [6]Alon Amit, Co-founder and VP Product at
+   [7]Origami Logic, on [8]Quora:
+
+
+   Coins: Just flip the coin twice and call HH=1, HT=2, TH=3 and
+   if you get two tails, try again.
+
+   Cakes: A reasonably realistic scenario is the cake-cutting
+   challenge, where two people want to share a cake but
+   potentially disagree on the good parts (one likes the pink
+   icing, the other is a fan of the unevenly-distributed chocolate
+   cream). A well-known game-theoretic solution has one person cut
+   the cake and the other person choose one of the pieces; the
+   first person should cut it as evenly as she can so she doesn't
+   really mind which half she gets, and then the second person can
+   obviously choose a half he's satisfied with. There are similar
+   (but significantly more complex) protocols for three or more
+   people.
+
+   Lines: Suppose you need to draw a straight line between points
+   A and B, but your ruler is too short. You can easily use the
+   short ruler to draw a really long straight line by sliding it
+   along and extending the line repeatedly, but how do you make it
+   hit point B if your aim isn't perfect as you start from A?
+
+   Here's how: The lines 1 and 2 are failed attempts which
+   nevertheless make it pretty close to B. Now you can draw the
+   lines 3, 4, 5 (randomly, but emanating from one point) and then
+   follow the criss-crossing pattern to find the point C which is
+   hopefully close enough to B so you can use the short ruler to
+   connect BC and extend it all the way to A—yes, it's now
+   guaranteed to hit.
+
+   Square Holes: If you absolutely must drill one, there's always
+   the Reuleaux Triangle.
+
+   Said triangle is of course useful also when you must construct
+   a few logs to smoothly support some rolling platform but,
+   incredibly, local religion prohibits the use of anything
+   circular.
+
+   Salaries: You and a bunch of similarly inclined geeks wish to
+   figure out what your average monthly salary is, without
+   revealing anything about your individual ones beyond what can
+   be learned from knowing the average. If there's just two of you
+   this is pointless, but if there's, say, ten of you (a party?),
+   here's what you could do: Sit around in a circle. First person
+   chooses a random number between zero and a billion, adds her
+   own salary, writes the result on a piece of paper and passes it
+   on to the next guy. He adds his own salary and passes that on
+   to the next person (just the new sum, with no trace of the
+   original number he saw. Shred that.). And so on, everyone adds
+   their own salary to the (likely) huge and meaningless number
+   being passed around, until the first person gets the total
+   back. She then subtracts her original random number and
+   announces the sum, which you can then divide by the number of
+   people to get the average. Other than that average, you've
+   learned nothing.
+
+   Padlocks: You wish to send your sweetheart a diamond ring but
+   you're nervous it will be stolen by someone along the way if
+   you don't put it in a locked box. You have all kinds of locks
+   and keys as does your sweetheart, but you can't exchange them
+   directly for the same reason. What to do? The standard trick is
+   to send the ring in a locked box for which you have the key but
+   she doesn't. She therefore can't open it (nor could anyone else
+   en route) but she can double-lock it with another padlock of
+   her own, and send it back. You unlock your original lock and
+   send it to her once again, this time locked just with her
+   padlock, which she gleefully opens to retrieve her ring.
+
+   Notes:
+       which is itself part of mathematical economics or game
+       theory. There's plenty of real-life algorithms to be found
+       here.
+       from the fields of modern cryptography, communication
+       protocols, zero-knowledge proofs, secret sharing and
+       fault-tolerant design. Again, plenty of other "mind hacks"
+       can be found in this domain.
+       other clever geometric constructions that could be deemed
+       "real life" under the appropriate circumstances.
+       which "Square holes" is just one. A differential is
+       another, probably too well known to be mentioned here.
+
+   [9]This question originally appeared on [10]Quora. Ask a
+   question, get a great answer. Learn from experts and access
+   insider knowledge. You can follow Quora on [11]Twitter,
+   [12]Facebook, and [13]Google+. More questions:
+
+
+       n factorial?
+
+       for an exam?
+
+
+   Start Gallery
+   Page {{article.article.page + 1}} /
+   {{article.article.pages.length}} Continue
+   {{article.article.calledOutCommentCount||''}}
+   Comment on this story
+      mailto:feedback@forbes.com
+
+
+
+

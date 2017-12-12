@@ -1,0 +1,227 @@
+Creating Momentum Through Communicating Mathematics
+
+   Posted on [18]October 17, 2016 by [19]Ben Braun
+
+
+   By Matthias Beck, San Francisco State University, and Brandy
+   Wiegers, Central Washington University
+
+   Given five minutes, can you turn to the person next to you and
+   describe your research? How about over 15 minutes in front of a
+   class of 10th graders? Thinking of one of your research
+   graduate students, how would you prepare her/him to make such
+   an activity equally beneficial for her/him and the 10th
+   graders? For many of us, these are skills only nurtured through
+   conference talks and time within the profession. The
+   [20]SF-State[21] (CM)²: San Francisco State University Creating
+   Momentum through Communicating Mathematics program worked to
+   change this, creating a program that developed mathematics
+   graduate students who could have this conversation and were
+   better engaged in why they were studying mathematics and what
+   role they wanted to have in the future of our profession. As an
+   [22]NSF GK-12 program, (CM)^2 ran from 2009-2014, working with
+   master’s level students in mathematics to engage them in
+   mathematical discourse while also supporting their research and
+   professional development. Over the course of the five-year
+   program, a total of 43 SF State mathematics graduate students
+   were involved in the project, spending considerable time and
+   energy on K-12 activities in 13 schools in the greater San
+   Francisco area. A key goal was to strengthen the graduate
+   students’ communication, teaching, outreach, and teamwork
+   skills by immersing them in mathematics classrooms and the San
+   Francisco Math Circle. A second key goal was to make
+   mathematics, especially algebra, and its career connections
+   more relevant and explicit for 6-12th grade teachers and
+   students. This post will share successes, lessons learned, and
+   resources for you as a faculty member to build aspects of
+   outreach, teaching, and professional development programs for
+   your own students.
+
+
+   (CM)^2 provided funding support for nine Ph.D.-bound graduate
+   students per year, with the understanding that these students
+   (the “Fellows”) would work 10 hours per week in an
+   education-related environment. A lot of work went into
+   preparing these students for that experience, with a year-long
+   schedule starting with bi-weekly summer workshops focused on
+   research and applying for Ph.D. programs, culminating in a
+   two-week intensive training to prepare graduate students for
+   the classroom. We reinforced the lessons from the summer
+   throughout the year with weekly graduate student meetings and
+   larger monthly meetings of graduate students with their partner
+   K-12 teachers. Our goal was to ensure that the graduate
+   students spent the summer focused on making research progress
+   prior to the intensive school-year schedule. The partner
+   teachers attended the second half of the two-week training,
+   meeting their mentor students and starting to create lessons
+   and schedules for the upcoming year.
+
+   At the first workshop, (CM)^2 Fellows were asked to turn and
+   explain their research to the student sitting next to them.
+   Their goal was to prepare a lesson for middle/high school age
+   students to help them learn about the graduate student’s
+   research, and the first step in this process was to describe
+   their work to a colleague at the same academic level. This was
+   a struggle, as everything you might expect happened with the
+   biggest issue being Fellows’ use of precise language specific
+   to their area of research. They were so focused on showing how
+   much they knew about their field that they failed to
+   concentrate on communicating their work in context. When first
+   presented with the exercise, the Fellows struggled, but with
+   practice their explanations were more prepared for a K-12
+   classroom. From there we scaffolded the progression by having
+   the graduate students explain their work to their mentor
+   teachers, whom they would be spending the majority of their
+   classroom work time with. This mentor team then worked for
+   several workshop days to create a 15-minute sample lesson to
+   share with the group of 9 mentorship teams. With feedback from
+   the other graduate student and teachers, they worked over the
+   next year to create grade-level appropriate mathematics
+   activities that were related to their academic research. Over
+   the year, the Fellows further developed these into 5-10 page
+   lesson plans with an introduction to the mathematical content,
+   an overview of the lesson structure and directions for
+   implementation, worksheets, and a summary of how the lesson
+   went, including recommendations for the future. These
+   mathematics lessons were developed, shared between partnership
+   teams, and papers to accompany them were posted online; you can
+   still see many of these lessons at
+   lesson into such a report furthered the Fellows’ mathematical
+   communications skills with writing practice.
+
+
+   Creating this lesson plan wasn’t the only aspect of the (CM)^2
+   program. Once classes started, the graduate students quickly
+   fell into a routine of weekly commitments, which included 10
+   hours of GK-12 student interaction (in class and at Math
+   Circle), a one-hour GK-12 seminar, their own coursework and
+   research, and continued work on their Ph.D. applications.
+   Several of the fellows completed NSF graduate research
+   fellowship proposal (GRFP) applications while participating in
+   the fellowship program.
+
+   [24]San Francisco Math Circle (SFMC) was key to the success of
+   the (CM)^2 program, providing the ideal stepping stone for
+   graduate students to get involved with mathematics activities
+   for middle and high school students. The program had been set
+   up so that the graduate students worked in some of the schools
+   we were using for our satellite programs (including Mission
+   High School, Thurgood Marshall Academic High School, Lowell
+   High School, and June Jordan School for Equity). While in the
+   classroom, the graduate students created a mentorship
+   relationship with the younger students whom they encouraged
+   individually to attend Math Circle. The graduate students then
+   served as instructors at the high-school Math Circle programs.
+   We believe this improved the quality of instruction at the
+   high-schools programs because the graduate students had the
+   opportunity to incorporate more of their research into their
+   Math Circle presentations and were better able to moderate
+   their presentations for the correct level of students based on
+   their experience in the classrooms of the students they were
+   working with. In addition, the (CM)^2 program sponsored nine
+   teachers who were involved in the Math Circle. Overall,
+   partnering with the (CM)^2 program helped SFMC address not only
+   the challenges in maintaining the diversity of the students in
+   the Circle, but also that of increasing the number of qualified
+   teachers willing to participate in a Circle with the students.
+
+
+   The dichotomy of our Fellows’ work, including both in-class and
+   out-of-school Math Circle experiences, provided an informed
+   balance that helped them become better mathematicians and
+   teachers. The in-class work provided a model for how to work
+   with students of this age, giving reinforcement to expectations
+   of behavior and any aspects of student discipline. Here are
+   three sample testimonies from Fellows that show the diversity
+   of experiences and highlights this program provided for the
+   participating graduate students:
+
+     “I’m serious about becoming an educator. Readings and
+     discussions in 728 were terrific, and I learned more about
+     teaching from working with […] than I did last year teaching
+     on my own. My work at […] and SFMC were more valuable to me
+     than the paychecks..”
+
+     “(CM)² has also enhanced my preparation to enter the Ph.D.
+     programs. Being in this program has increased my confidence
+     and excitement to start my Ph.D. program through the support
+     from Matt and Brandy as well as the teachers and other
+     fellows. In addition, the financial support has opened up
+     opportunities by removing financial barriers […] As an
+     underrepresented minority, this program has given me so much
+     in terms of academic support, encouragements, and resources.
+     Through (CM)², I have become more aware of the low numbers
+     of underrepresented minorities in higher education and I’m
+     ecstatic to be a role model to others.”
+
+     “In all honesty, I was not interested in working in the high
+     school or in math circle to begin with but obviously took
+     this fellowship for financial and moral support. Now, I’m
+     looking sadly at the end of my time working at […] High and
+     with […] and […] and the other teachers. I’ve learned so
+     much, even if I never teach again, well, I may start up my
+     own math circle someday, but even if I don’t, it has been a
+     very personally rewarding experience.”
+
+   The out-of-school work provided creative outlets for the
+   graduate students to discuss their research and higher level
+   mathematics that didn’t need to be connected to curriculum
+   goals or other K-12 benchmarks. We also saw success reflected
+   in comments we received from partner teachers:
+
+     “Having another person in the room with deep math knowledge
+     is good for the students and definitely helps with the
+     amount of material covered. As to my pedagogy, I’m sure it
+     has had an effect but I haven’t tried to define what it is.
+     It has caused me to think more about what engages the
+     students. I tend to push moving through the concepts, but
+     now I am thinking more about ways to get the students
+     involved. I don’t believe this necessarily has to be a show
+     of how the concepts are relevant to the students lives.
+     Coming up with intriguing problems where the students don’t
+     feel shut out and turn off because of prior assumptions of
+     them having a particular skill set seems to work well. Just
+     having someone for me to interact with intellectually has
+     been good, and I think it will help in improving course
+     content.”
+
+     “Having another pair of knowledgeable eyes in the classroom
+     has pushed me to think about and to be able to articulate
+     what my motives and intentions are for each lesson. […] is
+     always thinking beyond the math concept to its
+     implementation and I have benefited from his sharing his
+     insights. Also, the students love it when we come up with
+     different interpretations on a topic.”
+
+   Our GK-12 program provided us with an invaluable opportunity to
+   create a community of scholars, from elementary students to
+   university faculty — vertical integration at its best. Working
+   with our graduate students, their partner teachers, and their
+   K-12 students was both great fun and an interesting challenge;
+   everyone could learn something from the other participants (and
+   that most certainly included us). We are somewhat heartbroken
+   that the NSF cut the overall GK-12 program. The impact of our
+   program went beyond the students; e.g., the San Francisco State
+   mathematics department continues to offer a graduate-level
+   writing-in-the-discipline course, which was initially developed
+   as part of (CM)^2. Some of our current graduate students
+   continue to be involved in the San Francisco Math Circle,
+   including teaching and leadership positions. We hope we’ve
+   inspired you to bring an aspect of this or a similar program
+   into your work and encourage you to contact us for further
+   information. Finally, we thank the graduate students and
+   teachers who we worked with for their contributions and support
+   of our program.
+
+   This entry was posted in [25]Classroom Practices, [26]Graduate
+   Education, [27]K-12 Education, [28]Outreach, [29]Research,
+   [30]Student Experiences and tagged [31]GK-12, [32]graduate
+   students, [33]math circle, [34]NSF, [35]outreach. Bookmark the
+   [36]permalink.
+   [37]← Conventional Courses are Not Enough for Future High
+   School Teachers
+   [38]On What Authority? – Considering Implicit Messages in Our
+   Teaching →
+
+
+

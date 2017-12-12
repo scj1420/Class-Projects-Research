@@ -1,0 +1,39 @@
+Network visualizations from my research
+
+   My work in networks touches on social networks and a
+   recent project visualizes such networks embedded in cultural
+   works such as films or novels. This work is at the interface of
+   graph theory, social networks, and the digital humanities.
+   Below is a Gephi visualization of character relationships in
+   the Twilight novel created by my graduate student David
+   D’Angelo. The characters are nodes and two nodes are adjacent
+   if they are spaced no more than fifteen words apart in the
+   text. The edges are thicker if there are more of those
+   co-occurrences; for example, Alice and Edward appear together
+   in many scenes, as does Bella and Edward. Names were resized by
+   their relative importance (measured by PageRank) in the text.
+
+   We also can see the breakdown (in colors) of the community
+   structure in Twilight, with vampires, Bella’s high school
+   friends, and characters close to Charlie.
+   twiligh_names The Twilight character network.
+
+   Another recent study of mine considers a model for the
+   evolution of social networks, called the Memoryless Geometric
+   Protean graph model (or MGEO-P). In the model, nodes are placed
+   randomly on a k-dimensional torus, and nodes are adjacent if
+   they are close. “Close” here means within each other’s region
+   of influence (governed by a random ranking function) as
+   visualised by the blue and red squares in the figure below.
+
+   MGEO-P deepened our understanding of dimensionality in social
+   networks, which helps explain why few attributes are needed to
+   identify agents in the network. We call this the
+   [24]Logarithmic Dimension Hypothesis.
+   [journal.pone.0106052.g001] Visualizing the MGEO-P model.
+
+
+   Anthony Bonato
+
+
+

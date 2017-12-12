@@ -1,0 +1,98 @@
+6 Responses to Biology as Information Dynamics (Part 1)
+
+    1. [30]Marco Rossi says:
+       [31]31 January, 2017 at 10:11 am
+       Thank you very much! Didn’t know Fisher information metric!
+       It will be my weekend read. Do you think can somehow be
+       related to Ryu-Takayanagi formula?
+       [32]Reply
+
+            [34]31 January, 2017 at 4:38 pm
+            I don’t know the Ryu-Takaynagi formula. The Fisher
+            information metric is fundamental to [35]information
+            geometry, meaning the geometry of the space of
+            probability distributions, or more general probability
+            measures. I wrote about it in this series:
+            • [36]Information geometry.
+            [37]Reply
+    2. [38]Blake Stacey says:
+       [39]31 January, 2017 at 5:52 pm
+       The word “distribution” is repeated on slide 12.
+       [40]Reply
+
+            [42]31 January, 2017 at 6:39 pm
+            Thanks! I fixed it, but it will take some time for the
+            fixed version to appear, since (unusually) this
+            airport wifi is not letting me use WinSCP to transfer
+            files.
+            [43]Reply
+
+            [45]31 January, 2017 at 11:13 pm
+            Okay, the [46]fixed version is up now—and I’ve put the
+            most important equations in cute red letters.
+            [47]Reply
+    3. [48]John Baez says:
+       [49]31 January, 2017 at 7:08 pm
+       By the way, I’m very happy with my statement of Fisher’s
+       fundamental theorem of natural selection—but I’ve never
+       seen it anywhere else, though I’m having trouble imagining
+       it’s new. It’s on the second to last page of my talk.
+       Ronald Fisher’s original statement and proof became famous
+       for their obscurity. Quoth [50]Wikipedia:
+
+
+     It uses some mathematical notation but is not a theorem in
+     the mathematical sense.
+     It states:
+     “The rate of increase in fitness of any organism at any time
+     is equal to its genetic variance in fitness at that time.”
+     Or in more modern terminology:
+     “The rate of increase in the mean fitness of any organism at
+     any time ascribable to natural selection acting through
+     changes in gene frequencies is exactly equal to its genetic
+     variance in fitness at that time”.
+     Largely as a result of Fisher’s feud with the American
+     geneticist Sewall Wright about adaptive landscapes, the
+     theorem was widely misunderstood to mean that the average
+     fitness of a population would always increase, even though
+     models showed this not to be the case. In 1972, George R.
+     Price showed that Fisher’s theorem was indeed correct (and
+     that Fisher’s proof was also correct, given a typo or two),
+     but did not find it to be of great significance. The
+     sophistication that Price pointed out, and that had made
+     understanding difficult, is that the theorem gives a formula
+     for part of the change in gene frequency, and not for all of
+     it. This is a part that can be said to be due to natural
+     selection
+       Price’s paper is here:
+       • George R. Price, [51]Fisher’s ‘fundamental theorem’ made
+       clear, Annals of Human Genetics 36 (1972), 129–140.
+       I don’t find it very clear, perhaps because I didn’t spend
+       enough time on it.
+       My result is a theorem in the mathematical sense, though
+       quite an easy one. I assume a population distribution
+       evolves according to the replicator equation and derive an
+       equation whose right-hand side matches that of Fisher’s
+       original equation: the variance of the fitness.
+       But my left-hand side is different: it’s the square of the
+       speed of the corresponding probability distribution, where
+       speed is measured using the ‘Fisher information metric’.
+       This metric was discovered by the same Fisher, but I don’t
+       think he used it in his work on the fundamental theorem.
+       Something similar to my statement appears as Theorem 2 of
+       Marc Harper’s paper:
+       • Marc Harper, [52]Information geometry and evolutionary
+       game theory.
+       and for that theorem he cites:
+       • Josef Hofbauer and Karl Sigmund, Evolutionary Games and
+       Population Dynamics, Cambridge University Press, Cambridge,
+       1998.
+       However, his Theorem 2 assumes that the probability
+       distribution flows along the gradient of a function, and
+       I’m not assuming that: indeed, my version applies to the
+       rock-paper-scissors game where the probability distribution
+       of players moves round and round!
+       [53]Reply
+
+
+

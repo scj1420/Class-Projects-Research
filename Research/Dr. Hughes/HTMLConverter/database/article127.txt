@@ -1,0 +1,392 @@
+5 Answers 5
+
+   [49]active [50]oldest [51]votes
+   up vote 47 down vote accepted
+
+
+   Tonight I read [52]here [the answer by esg to another your
+   question] that $\frac1{2\pi}\int_{-\pi}^\pi e^{-ik
+   t}(1+e^{it})^ndt=\binom{n}{k}$, which is, well, obvious at
+   least when both $n$ and $k$ are positive integers: just expand
+   the binomial $(1+e^{it})^n$ and integrate. Denoting
+   $\alpha=k/n$ we may rewrite this as
+   $\frac1{2\pi}\int_{-\pi}^\pi (f(t))^n dt=\binom{n}{\alpha n}$,
+   where the function $f(t)=(1+e^{it})e^{-i\alpha t}$ is
+   complex-valued. For making it real-valued, we change the path
+   between the points $-\pi$ and $\pi$. The value of the integral
+   does not change (since $f^n$ is analytic between two paths, for
+   integer $n$ it is simply entire function.) On the second path
+   $f$ takes real values. Namely, for $t\in (-\pi,\pi)$ we define
+   $s(t)=\ln \frac{\sin (1-\alpha)t}{\sin \alpha t}$. It is
+   straightforward (some elementary high school trigonometry) that
+   $$f(t+is(t))=\frac{\sin t}{\sin^{\alpha} \alpha t\cdot
+   \sin^{1-\alpha}(1-\alpha)t},$$ so we replace the path from
+   $(-\pi,\pi)$ to $\{t+s(t)i:t\in (-\pi,\pi)\}$ (limit values of
+   $s(t)$ at the endpoints are equal to 0) and take only the real
+   part of the integral (this allows to replace $d(t+s(t)i)$ to
+   $dt$ in the differential). We get $$
+   \frac1{2\pi}\int_{-\pi}^\pi \frac{\sin^n t}{\sin^{\alpha n}
+   \alpha t\cdot \sin^{(1-\alpha)n}(1-\alpha)t}dt=\binom{n}{\alpha
+   n} $$ as desired.
+
+
+   [53]share|cite|[54]improve this answer
+   [55]edited Apr 13 at 12:58
+   [56]Community♦
+   123
+   answered Nov 19 '16 at 1:18
+   [57]Fedor Petrov
+   31.6k372159
+
+
+   5
+     I cannot imagine a better explanation for this beautiful
+     identity. – [58]Mark Wildon Nov 19 '16 at 13:38
+
+
+   3
+     Bravo, nice proof! It works for any (incl complex) values of
+     $n$ and $k$ too, not just integer. Consider
+     $(1/2\pi)\int_{-\pi}^\pi e^{-ikt}(1+e^{it})^n dt$ for
+     $\Re(k)<0$, $\Re(n)>0$, then the integrand is analytic for
+     $-\pi<\Re(t)<\pi$. We can deform the contour to two the
+     vertical strips $\pm\pi+iy$ for $y>0$. Then you get a Beta
+     function and the integral becomes $-(1/\pi)\sin(k\pi)B(-k,n+1)$
+     which is $\binom{n}{k}$, using the reflection formula
+     $\sin(k\pi)=\pi/(\Gamma(k)\Gamma(1-k))$. The derivation was
+     valid for $\Re(k)<0$, but both sides are analytic, so
+     continuation gives you all $k$. – [59]Alex Selby Nov 19 '16 at
+     19:08
+
+
+   1
+     Something interesting about this proof is that it is
+     "backwards" from the normal way of substituting. Writing
+     $u(t)=t+is(t)$, you'd normally want to have $t$ expressed
+     analytically in terms of $u$ to get from the sinomial
+     expression with $\sin^{\alpha}(\alpha t)$ etc to $(e^{-i\alpha
+     u}+e^{i(1-\alpha)u})^n$. But there is presumably no such simple
+     expression of $t$ in terms of $u$, so you had to know to start
+     from $(e^{-i\alpha u}+e^{i(1-\alpha)u})^n$ and work the other
+     way, using magic to end up with the sinomial expression.
+     (Slightly wondering if other integrals can be unlocked like
+     this.) – [60]Alex Selby Nov 22 '16 at 0:57
+
+
+   2
+     @AlexSelby I know a similar proof that $\sum 1/n^2=\pi^2/6$:
+     take integral $\int_{-1}^1 \log(1+z)/z dz$ (which equal $1/2$
+     times $\sum 1/(2k+1)^2$ as follows from series expanding) and
+     replace the contour to an arc of a unit circle. It is borrowed
+     from D. Russel, Another Eulerian-type proof. Math. Mag. 1991
+     60, p.349. – [61]Fedor Petrov Nov 24 '16 at 22:18
+
+
+   1
+     (+1) Epic proof!! – [62]Ishan Singh Jan 1 at 13:23
+    |  [63]show 2 more comments
+   up vote 12 down vote
+
+
+   (not an answer)
+
+   Denote $\alpha=k/n$, $f(x)=(\frac{\sin x}{\sin \alpha
+   x})^\alpha (\frac{\sin x}{\sin (1-\alpha) x})^{1-\alpha}$. Then
+   your claim may be rewritten as $\pi^{-1}\int_0^\pi
+   f^n(x)dx=\frac{\Gamma(n+1)}{\Gamma(\alpha
+   n+1)\Gamma((1-\alpha)n+1)}$, and it looks to be true without
+   additional assumption that $\alpha n$ is integer (I checked for
+   $\alpha=0.3;n=7$ or $n=7.4$ on WolframAlpha). We may multiply
+   this by Beta-function $\int_0^1 t^{\alpha
+   n}(1-t)^{(1-\alpha)n}dt=\frac{\Gamma(\alpha
+   n+1)\Gamma((1-\alpha)n+1)}{\Gamma(n+2)}$, and we have to prove
+   that $\int_0^\pi\int_0^1 h^n(t,x)dtdx=\frac{\pi}{n+1}$, where
+   $h(t,x)=f(x)t^\alpha(1-t)^{1-\alpha}$. That is, our function
+   $h$ on the rectangular $[0,\pi]\times [0,1]$ (with the
+   normalized Lebesgue measure) should be equidistributed with the
+   function $t$ on $[0,1]$. Another similar approach could be
+   multiplying by two $\Gamma$-functions $\int_0^{\infty}
+   y^{\alpha n}e^{-y}dy=\Gamma(\alpha n+1)$, $\int_0^{\infty}
+   z^{(1-\alpha) n}e^{-z}dz=\Gamma((1-\alpha) n+1)$. On the
+   probabilistic language, we get the following equivalent
+
+   Claim. Let EXP denote the exponential law (with density
+   $e^{-t}dt$, $t>0$). Let $Y,Z$ be independent random variables
+   distributed by EXP, and let $X$ be a third independent (of
+   $Y,Z$) random variable distributed uniformly on $[0,\pi]$. Then
+   for any fixed $\alpha\in (0,1)$ we have $$\left(Y\frac{\sin
+   X}{\sin \alpha X}\right)^\alpha \left(Z\frac{\sin X}{\sin
+   (1-\alpha) X}\right)^{1-\alpha}\in \text{EXP}.$$
+
+   [64]share|cite|[65]improve this answer
+   [66]edited Nov 4 '16 at 15:11
+   answered Nov 3 '16 at 10:42
+   [67]Fedor Petrov
+   31.6k372159
+
+
+
+   Interesting indeed. – [68]T. Amdeberhan Nov 3 '16 at 12:34
+
+
+
+   Need $n$ to be an integer? – [69]Ivan Izmestiev Nov 3 '16 at
+   14:12
+
+
+
+   @IvanIzmestiev No: if they are equidistributed, all moments are
+   equal, including these for non-integer $n$. And calculations
+   confirm this. – [70]Fedor Petrov Nov 3 '16 at 15:11
+   add a comment |
+   up vote 11 down vote
+
+
+   I've found the time and thought I should post this as I had a
+   little breakthrough. This isn't an answer to the question but
+   is an answer to a question posted in the comments. If the
+   result holds, does it hold for complex values? I am being brief
+   here and certainly not rigorous as I thought it would be a nice
+   quip to add; nonetheless the result should follow if one wishes
+   to fill in the gaps. If we assume the answer to the OP's
+   question is yes, then
+
+   $$\frac{1}{\pi}\int_0^\pi
+   \dfrac{\sin^{z}(t)}{\sin^{k}(\frac{k}{z}t)\sin^{z-k}(\frac{z-k}
+   {z}t)}\,dt = \dbinom{z}{k}$$
+
+   This is rather involved (and would be too involved if I chose
+   to make it rigorous) so pay close attention. Consider firstly a
+   consequence of Ramanujan's master theorem
+
+   If $f_1(z)$ and $f_2(z)$ are holomorphic for $\Re(z) > 0$ and
+   if $|f_{12}(x+iy)| < C e^{\tau|y|+\rho|x|}$ for $\tau < \pi$
+   and $\rho>0$ then
+
+   $$f_1 \Big{|}_{\mathbb{N}} = f_2\Big{|}_{\mathbb{N}}
+   \Rightarrow f_1 = f_2$$
+
+   So essentially what we are going to do is show this in two
+   steps. Firstly that
+
+   $$f_k(z) = \frac{1}{\pi}\int_0^\pi
+   \dfrac{\sin^{z}(t)}{\sin^{k}(\frac{k}{z}t)\sin^{z-k}(\frac{z-k}
+   {z}t)}\,dt$$
+
+   is bounded so that Ramanujan's master theorem will prevail and
+   necessarily $f_k(z) = \dbinom{z}{k}$ since $\dbinom{z}{k}$ is
+   equally so bounded.
+
+   Taking the function $g(z) = \sup_{t \in [0,\pi]}
+   \Big{|}\dfrac{\sin^{z}(t)}{\sin^{k}(\frac{k}{z}t)\sin^{z-k}(\fr
+   ac{z-s}{z}t)}\Big{|}$ for $\Re(z) > k$ we can show that this
+   function is properly bounded. For each $t$ we know
+   $\sin(t)^{z}$ is bounded as required as $y \to \infty$ for
+   $\epsilon < t < \pi - \epsilon$; because this is exponentiation
+   with a positive real value base--it is periodic. As $x \to
+   \infty$ it just tends to $0$ so all good there. Now
+   $\sin^{k-z}(\frac{z-s}{z}t)$ is exponentiation of a value which
+   tends to $\sin(t)$. This is a little tricky but
+
+   $$\sin^{k}(t - \frac{k}{z}t)$$ is bounded and now all that's
+   left is the troublesome
+
+   $$\sin^{-z}(t - \frac{k}{z}t)$$
+
+   which clearly grows like $\frac{1}{\sin^{x}(t)}$ as $\Re(z) = x
+   \to \infty$. As $\Im(z) = y\to\infty$ it is not periodic, but
+   it is eventually bounded by $\sin^{-z}(t\pm i\delta)$ though
+   not exactly. This bound is of type $\tau < \pi$. This works for
+   all $t\in [\epsilon,\pi-\epsilon]$ and so as $\epsilon \to 0$
+   it will follow taking close care to observe the end points tend
+   to $1$ as $t \to 0,\pi$. Therefore $g(z) < Ce^{\tau|y| +
+   \rho|x|}$, $f_k$ is of a Ramanujan bound for $\Re(z) > k$ and
+   necessarily
+
+   $$f_k(z) = \frac{1}{\pi}\int_0^\pi
+   \dfrac{\sin^{z}(t)}{\sin^{k}(\frac{k}{z}t)\sin^{z-k}(\frac{z-k}
+   {z}t)}\,dt = \dbinom{z}{k}$$
+
+   This is all rather hand waivey because I don't want to take up
+   too much space, the amount of epsilons and deltas is
+   exhausting; plus this is more of an extended comment.
+
+   Taking $f_s(z)$ is much trickier. Performing the same procedure
+   in the opposite direction is impossible, this is because
+   $\dbinom{z}{s}$ is not bounded in $s$ in the sense described
+   above. It grows like $\sin(\pi s)$ which isn't subject to
+   Ramanujan's master theorem. I thought I could trick it into
+   working but I've had no luck.
+
+   [71]share|cite|[72]improve this answer
+                                         answered Nov 3 '16 at 0:15
+                                         [73]james.nixon
+                                         928312
+
+
+   1
+     It's a good start. – [74]T. Amdeberhan Nov 3 '16 at 0:31
+
+
+
+     @T.Amdeberhan Again, I just did this really fast on paper. I
+     have the quasi more rigorous arguments, but I think this is a
+     few pages. For $s$, the lower argument, I do have a good idea,
+     but it's even longer. And I don't want to over extend my reach
+     at the moment, it's more of a longshot. – [75]james.nixon Nov 3
+     '16 at 0:39
+
+
+
+     The question about interpolating for non integer n and k is
+     another case concerned by
+     [76]mathoverflow.net/questions/181943/…. – [77]Wolfgang Nov 9
+     '16 at 3:44
+   add a comment |
+   up vote 9 down vote
+
+
+   Here is another way to prove it. Surprisingly, for $n$ integral
+   and $k$ real, the integral in question can be written down as
+   an indefinite integral. This gives a direct proof for
+   non-integer $k$, though obviously less clear than the contour
+   method. (In fact, it is convenient to avoid integer $k$ in this
+   method, and extend to integer $k$ by continuity.)
+
+   Writing $y=x/n$ and $l=n-k$, we have for example for $n=2$:
+   $$\int\frac{\sin^2(2y)}{\sin^k(ky)\sin^l(ly)}dy=
+   \frac{\frac{2}{l-k}\sin((l-k)y)+\sin(2y)}
+   {kl\sin^{k-1}(ky)\sin^{l-1}(ly)}$$
+
+   In general for $n$ even ($n$ odd is similar with cosines):
+   $$I_{n,k}(y)=\int\frac{\sin^n(ny)}{\sin^k(ky)\sin^l(ly)}dy=
+   \frac{\sum_{r=0}^{n-1}\sum_{s=0}^{n-1}\lambda_{r,s}\sin(((n-1-2
+   r)k+(n-1-2s)l)y)} {kl\sin^{k-1}(ky)\sin^{l-1}(ly)}$$
+
+   where $$\lambda_{r,s}=\begin{cases} \displaystyle
+   \frac{(-1)^r(n-1)^{\underline{r}}}{(r-l)^{\underline{\smash{r-s
+   }}}s!}\lambda_{0,0},\;\;r\ge s\\ \displaystyle
+   \frac{(-1)^s(n-1)^{\underline{s}}}{(s-k)^{\underline{\smash{s-r
+   }}}r!}\lambda_{0,0},\;\;s\ge r \end{cases} $$
+   $$\lambda_{0,0}=(-1)^{n/2+1}2^{1-n},$$ and $x^{\underline{r}}$
+   denotes the falling power $x(x-1)\ldots(x-r+1)$.
+
+   It is easy to check the derivative, $I_{n,k}'(y)$ is correct by
+   considering the coefficient of
+   $\cos((ak+bl)y)/(\sin^k(ky)\sin^l(ly))$ for each $a$, $b$. If
+   $a\neq b$ then you get zero, otherwise for $a=b=n-2r$,
+   $(ak+bl)y=(n-2r)ny$ and you get
+   $\frac{1}{2}(-1)^r\binom{n}{r}\lambda_{0,0}\cos((n-2r)ny)$.
+   Then $\sin^n(ny)$ arises from the binomial expansion:
+   $$(-1)^{n/2}2^{-n}\sum_{r=0}^n
+   (-1)^r\binom{n}{r}\cos((n-2r)ny)=\sin^n(ny).$$
+
+   Note that $I_{n,k}(0)=0$ because, being the integral of
+   something well-behaved at $0$, $I_{n,k}(y)$ must be continuous
+   at $0$, so its numerator must vanish to order $n-2$ like its
+   denominator. Using L'H\^{o}pital, taking $n-2$ derivatives of
+   the numerator gives only sines, which themselves vanish at 0.
+   To evaluate $I_{n,k}(\pi/n)$, note that
+   $\sin(k\pi/n)=\sin(l\pi/n)$ and
+   $\sin(((n-1-2r)k+(n-1-2s)l)y)=\sin(2(r-s)k\pi/n)$. Conditioning
+   on $r-s=d>0$, you get (e.g., by considering partial fractions
+   in $k$) $$\sum_{s=0}^{n-1-d}\lambda_{s+d,s}=
+   \frac{(-1)^d(n-1)!\binom{n-2}{d-1}}{(k-1)^{\underline{\smash{n-
+   1}}}}\lambda_{0,0},$$ and similarly for $d<0$ with the opposite
+   sign, and using $-d$ in place of $d$. Using the binomial
+   expansion of $(1-e^{2\pi ik/n})^{n-2}$, you get
+   $$\sum_{d=1}^{n-1}(-1)^d\binom{n-2}{d-1}\sin\left(\frac{2dk\pi}
+   {n}\right)=
+   (-1)^{n/2}2^{n-2}\sin^{n-2}\left(\frac{k\pi}{n}\right)\sin(k\pi
+   )$$ So finally, putting the pieces together,
+   $$\frac{n}{\pi}I_{n,k}\left(\frac{\pi}{n}\right)=\frac{n\sum_{r
+   =0}^{n-1}\sum_{s=0}^{n-1}\lambda_{r,s}\sin\left(\frac{2(r-s)k\p
+   i}{n}\right)} {\pi
+   kl\sin^{k-1}\left(\frac{k\pi}{n}\right)\sin^{l-1}\left(\frac{l\
+   pi}{n}\right)}=\frac{n!\sin(k\pi)}{\pi
+   k^{\underline{\smash{n+1}}}}$$ which (for even $n$) we
+   recognise as $\binom{n}{k}$ by the reflection formula for
+   factorials.
+
+   [78]share|cite|[79]improve this answer
+   [80]edited Nov 26 '16 at 2:00
+   answered Nov 19 '16 at 14:01
+   [81]Alex Selby
+   2013
+   add a comment |
+   up vote 3 down vote
+
+
+   (not an answer)
+
+   I've found a way to convert the integral evaluation to a
+   binomial sum identity. Incidentally, this gives the details
+   leading up to [82]the follow-up question here.
+
+
+   I have highlighted (in bold) where we need some potential rigor
+   to make this argument complete.
+
+   Let $\zeta=e^{\pmb{i}x/n}, \pmb{i}=\sqrt{-1}$. Equation (1)
+   becomes an integral along an arc on the unit circle
+   $$\frac{n}{\pmb{i}\pi}\int_1^{e^{\pmb{i}\pi/n}}\frac{(\zeta^n-\
+   zeta^{-n})^n}
+   {(\zeta^k-\zeta^{-k})^k(\zeta^{n-k}-\zeta^{-(n-k)})^{n-k}}\frac
+   {d\zeta}{\zeta}=\binom{n}k. \tag3$$ Define the rational complex
+   functions (with a pole at the origin) $f_m(z)=(z^m-z^{-m})^m$
+   and $$F_{n,k}(z)=
+   \frac{f_n(z)}{f_k(z)f_{n-k}(z)}=\frac{(1-z^{2n})^nz^{-2k(n-k)}}
+   {(1-z^{2k})^k(1-z^{2n-2k})^{n-k}}
+   =\frac{(1-z^{2n})^n}{(1-z^{2k})^k(z^{2k}-z^{2n})^{n-k}}.$$ To
+   verify (3), compute a contour integral around the unit circle
+   $\mathcal{C}$ (oriented positively)
+   $$\frac{n}{\pmb{i}\pi}\int_1^{e^{\pmb{i}\pi/n}}F_{n,k}(z)\frac{
+   dz}z=
+   \pmb{\frac{2n}{2\pmb{i}\pi}\int_1^{e^{\pmb{i}\pi/n}}F_{n,k}(z)\
+   frac{dz}z=
+   \frac1{2\pmb{i}\pi}\int_{\mathcal{C}}F_{n,k}(z)\frac{dz}z}=\tex
+   t{Res}(F_{n,k}(z);0).$$ This is equivalent to determining the
+   constant term in $F_{n,k}(z)$, which in turn reduces to the
+   identity $$\sum
+   (-1)^a\binom{n}a\binom{k+b-1}b\binom{n-k+c-1}c=\binom{n}k\tag4$
+   $ where the sum runs through $a,b,c\geq0$ such that
+   $(a+c)n+(b-c)k=k(n-k)$.
+
+   It remains to prove (4).
+
+   [83]share|cite|[84]improve this answer
+   [85]edited Apr 13 at 12:58
+   [86]Community♦
+   123
+   answered Nov 5 '16 at 0:48
+   [87]T. Amdeberhan
+   12.7k12292
+
+
+
+     This looks like the direction that motivated this:
+     [88]mathoverflow.net/questions/253835/… – [89]Suvrit Nov 5 '16
+     at 1:08
+
+
+   1
+     $F_{n,k}(z)$ doesn't have the symmetry you need to extend the
+     integral from the arc to the full unit circle. (In fact, it has
+     singularities on the unit circle.) – [90]Alex Selby Nov 5 '16
+     at 2:00
+
+
+
+     True. But, you may avoid singularities by small half-circles
+     "bumps." – [91]T. Amdeberhan Nov 5 '16 at 2:04
+
+
+   8
+     You can do that, but you haven't explained (or I haven't
+     understood) why $2n$ times the integral along the arc is equal
+     to the integral around the circle (deformed or otherwise).
+     – [92]Alex Selby Nov 5 '16 at 2:15
+   add a comment |
+
+
+

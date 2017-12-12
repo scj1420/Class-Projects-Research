@@ -1,0 +1,582 @@
+[70]Artificial Emotions
+
+
+   By Neil Savage
+
+   When Angelica Lim bakes macaroons, she has her own kitchen
+   helper, Naoki. Her assistant is only good at the repetitive
+   tasks, like sifting flour, but he makes the job more fun. Naoki
+   is very cute, just under two feet tall. He’s white, mostly,
+   with...[71]READ MORE
+
+
+   As ridiculous as that sounds, it’s not too different from the
+   program in engineering which I took. You didn’t actually get to
+   touch the violin until the senior year. I never actually built
+   or designed anything until the last semester of an
+   eight-semester program. By the way, it never worked—the project
+   that I created—it didn’t seem to matter: I graduated at the top
+   of my class and I got a fellowship to go to MIT, so they didn’t
+   care about it either.
+
+   What we’ve done in the way we teach engineering today is so
+   overcommitted to the basic science behind engineering that
+   we’ve omitted the whole act of discovery, of framing the right
+   problem. The Wright Brothers would not be interested in
+   engineering the way it’s taught today.
+
+   If you look at the numbers [from] last May, during commencement
+   season, millions of students across the U.S. completed their
+   bachelor’s degrees, but fewer than 5 percent of them completed
+   a bachelor’s degree in any kind of engineering at any
+   university in America today.
+
+   By the way, that compares with about 12 percent in Europe and
+   about 30 percent in Asia. Of the kids who are starting this
+   fall to major in engineering—are just getting underway in their
+   fall term—fewer than half of them will ever graduate in
+   engineering. Some of them might graduate in other disciplines,
+   but they are going to leave engineering. A really substantial
+   fraction of those who leave have higher grades than those who
+   stayed, it’s really what we call the math-science death march
+   through the curriculum that drives them out.
+
+   What is an engineer?
+
+   The definition of engineering that’s very commonly used today
+   is probably off. If you think about what engineers do, they are
+   people that create new things that change the world. So we’ve
+   concluded that an engineer is a person who envisions what’s
+   never been and then does whatever it is to make it happen.
+
+   Now, the interesting thing about that definition is that it
+   doesn’t even include the word science; in fact it’s implicit.
+   And secondly, it doesn’t begin with mathematics; it begins with
+   vision. Unless you have vision for new things—things that have
+   never been yet—and have the passion to complete whatever it
+   takes to make it happen, we don’t believe you are an engineer.
+   You may well be an applied scientist, something of that sort,
+   but that’s great.
+
+   One example for this is like the aircraft industry, [which] was
+   invented by two bicycle mechanics in Ohio—not by physicists in
+   a lab. These guys used the process of engineering.
+
+   We’ve also concluded that engineering is not a body of
+   knowledge. Yes, it involves knowledge, but engineering is
+   fundamentally a process, and it’s the process of
+   engineering—like what the Wright Brothers did—which is most
+   engaging, which is most fun, and which is what students love to
+   do as well.
+
+   Why do you believe engineering is the new liberal arts?
+
+   If you look at the trends over the last 30 years in higher
+   education as a whole, we’ve seen a decline in the general
+   education requirements and competencies of students at almost
+   all universities in STEM subjects.
+
+   Here is the way to look at it: You can major in history at any
+   major university and you’ll have a math requirement. But if you
+   look at the math requirements that are counted for general
+   education, they are math for history majors or they are math
+   for people who aren’t really interested and committed to making
+   a STEM career. There are lots of physics for poets sorts of
+   courses out there; but there aren’t any courses in history or
+   English or philosophy for STEM majors. You have to take the
+   same English, history, and philosophy course that the majors in
+   those disciplines take in order to complete those general
+   education requirements.
+
+   Over time, what’s happened, I believe, is that the competence
+   in the STEM fields of college graduates in America has
+   weakened, but the competence in the verbal and social science
+   fields has not. That really means, at the end of the day, it’s
+   the engineering graduates who still have the well-rounded
+   rigorous background in all disciplines that used to be there
+   for all majors. That helps explain one of the interesting
+   facts, that engineering graduates are over represented among
+   CEOs of S&P 500 companies.
+
+   I believe there are a number of references on this: Spencer
+   Stuart does a study of the backgrounds of CEOs of his companies
+   every year and while engineering graduates make up only about
+   less than 5 percent of the bachelor’s degrees in America, they
+   make up about 25 percent of the CEOs.
+
+   Does project-based learning only work for very bright students?
+
+   Well, that’s obviously the first worry that everyone has. Well
+   this might be great for geniuses, right? So if you have
+   gazillions of dollars and geniuses then maybe this is a cool
+   thing to do. That’s a worry that we take very seriously. We’ve
+   been working specifically with other universities that don’t
+   have especially precocious students or very demanding entrance
+   requirements to see if the principles that we’re using will
+   still work.
+
+   We have a very mature program and partnership with the
+   University of Texas, El Paso. University of Texas, El Paso is
+   one of the highest producers of Hispanic background engineers
+   in the U.S. A good fraction of those students drive over the
+   river from Mexico every day to take classes. They are an
+   open-enrollment university, which in a sense means that the
+   only two entrance requirements are a pulse rate and a high
+   school diploma. This is not what you would call a school that’s
+   restricted for highly precocious students. We’ve been doing
+   this for two or three years with them and the results, so far,
+   are remarkable. They are getting the same kinds of answers that
+   we are.
+
+   It turns out that this business of finding out what students
+   are passionate about and empowering them with what we call
+   designed thinking—which is the ability to frame the right
+   questions for the right problem to solve, and show them how to
+   develop the materials at their own—that this works at every
+   level of the educational spectrum.
+
+   How does Olin tackle the motivation problem?
+
+   Every student at Olin—in about the second semester I
+   think—takes a course in which we put them in a small team,
+   maybe five students, and we ask them to identify a group of
+   people whose lives they want to change—not someday, but within
+   the next four months. We’re pretty lenient about who they come
+   up with, but let me give you a case study so that you’ll get
+   some real texture to this.
+
+   One group of students said, “Well, my grandmother has
+   Alzheimer’s now and we went to visit her in the holiday. She is
+   in an assisted living facility. Everything has changed for her;
+   I would like to do something to improve the lives of the
+   elderly.”
+
+   We said fine. Let’s identify 10 elderly people within a
+   10-minute drive of our campus who will agree to allow you to
+   interview them for two hours. Then this team of five students
+   has 20 hours of interviews with 10 people who are in that
+   representative group. At the end of two weeks, they come back
+   and they’ve answered the fundamental question: What does it
+   mean to be elderly in America today? What they find out is that
+   the question has a lot of dimensions. What does it in terms of
+   age? What does it mean in terms of lifestyle, in terms of food,
+   in terms of entertainment? But most importantly, what does it
+   mean in terms of what keeps you up at night? What are they most
+   worried about?
+
+   As they construct this sociological profile of [older folks],
+   they conclude that there is an arch to this that they heard in
+   everybody’s comments, and that is a fear about what happens
+   when the day comes that you are no longer able to walk: You are
+   immobile. From that day on, you are living in a wheelchair and
+   they heard things like, well, from that day on you no longer
+   can look people in the eye; now you look at their belt buckle
+   and they look down on you. By the way, you can’t walk so you
+   can’t burn calories, so your metabolism changes, it’s very hard
+   to control your weight. In fact, it’s even hard to know what
+   your weight is. So they are talking about this.
+
+   The students, who are about 19 at this point, came up with an
+   idea, “Well, wait a minute, we don’t know we can do this but I
+   imagine it’s not hard: What if we were to invent a little
+   carpet that has pressure sensors and you could drive your
+   wheelchair onto the carpet. There is an RFID radio transmitter
+   on the carpet and it transmits a signal to your cell phone and
+   your cell phone has a piece of software that will translate
+   this and in fact subtract out the tear weight of the wheelchair
+   and just tell you what you weigh. Would that be of any interest
+   to you?”
+
+   They go back to these 10 people and they explained “well, we
+   have been thinking about this, we don’t know whether this is a
+   good idea, what do you think?” The 10 people just go ballistic
+   and they said, “Well, I mean it’s not going to keep us from
+   getting old, but it’s sure going to make our life better. You
+   think you can actually make one?”
+
+   The kids come back to campus and now they are on fire. Where do
+   we learn about pressure sensors? Who can tell us on the faculty
+   about radio transmitters and how long do we have to wait before
+   we can do software development? They are pulling us to the
+   curriculum. They are not saying, “Well I guess the next
+   semester I have to take Physics 102.”
+
+   The two things that are happening there is that they care about
+   these people. This is intrinsic motivation. These are people
+   that they told us they cared about, so you have to find what
+   kids care about first. Secondly, you do everything you can to
+   help them find the answers to the questions that they are
+   interested in as empowerment. When they get through with this,
+   they are convinced that they can now change the world; they can
+   make a difference in people’s lives.
+
+   By the way, in this particular case, these kids built a
+   prototype in about four months after they got through this—on
+   their own. The next course in the curriculum is how to start
+   and run a business. They wound up competing in a business plan
+   competition for neighboring Babson College, won the prize, and
+   used the capital to start their own company. Today, they are
+   not working for Boeing or going to Harvard Business School;
+   they are running their own company because they are
+   intrinsically motivated. The average kid at Olin when they walk
+   across the stage has completed 20 to 25 design build projects.
+   They believe that engineering is about making things, it’s not
+   about finance. My belief is that every kid is passionate about
+   something; everyone cares about somebody.
+
+   What is mindset and how do you teach it?
+
+   There is a great deal of work now on changing mindset. I’m not
+   sure if you are aware of Carol Dweck at Stanford. Carol is a
+   professor of psychology. She just won the Atkinson Prize at the
+   National Academy of Sciences this spring for the work that she
+   summarizes in a book called Mindset.
+
+   What she did is she worked for 25 years with young students, in
+   K-12, about what it is about their beliefs of who they are and
+   what they are capable of doing [that] has an impact on their
+   ability to learn. The fundamental thing that she found is that
+   the teacher shapes a lot of this belief, which determines their
+   outcome.
+
+   In particular, if you have a student and give them their test
+   back and say, “Congratulations, I’m proud of you because this
+   test shows that you are very smart,” you’ve made a huge mistake
+   in terms of inspiring them to do more, to grow their academic
+   achievement. Instead, you should be telling them,
+   “Congratulations I’m proud of you! You did well on this test
+   because you worked so hard. If you continue to work hard there
+   is no limit to what you can achieve.”
+   Get the Nautilus newsletter
+
+   The newest and most popular articles delivered right to your
+   inbox!
+   ____________________
+   ____________________
+   Subscribe
+
+   ____________________
+
+   If you think that your success in life is because of your
+   intelligence that you were born with, and you think that that’s
+   a fixed quantity like your eye color, then there is nothing you
+   can do about it and students wind up shying away from work. In
+   fact, if you work hard, then it’s evidence that you are not
+   smart. This really is a big turning point in children’s lives.
+
+   That’s the tip of the iceberg, I believe, of a whole area
+   called mindset, and let me explain another issue here. It turns
+   out that companies are desperate to find employees today with
+   mindset, not just knowledge and skill. If you look at groups
+   like IBM, which has something called the T-shaped employee,
+   what they mean by that is the tall vertical stem is about depth
+   in a particular discipline. The horizontal bar across the top
+   is the ability to communicate well with people in other
+   disciplines, and that breadth is the part that they are worried
+   about.
+
+   You get the same kind of thing from a group called
+   STEMconnector, which is talking about workforce 2.0;
+   Business-Higher Education Forum has a list. They are all
+   talking about things like the ability to collaborate with
+   others, the ability to think creatively across disciplines, the
+   ability to think in a designed sense, the ability to have
+   ethical empathetic motivations in life, and the ability to
+   think globally. These are what’s called soft skills. They are
+   all about mindset, so the question is can you teach it, and
+   Carol Dweck has shown mindset is not some fuzzy concept. It can
+   be defined in precise terms; it can be measured; it can be
+   taught; and it can have measurable impact over a long period of
+   time. We can do this. In fact, I believe every time you walk
+   into the classroom and you pick up a piece of chalk to teach
+   calculus you are not just teaching calculus, you are teaching
+   mindset.
+
+   Why do you consider Israel’s Technion to be such a good example
+   of mindset?
+
+   A few years ago, maybe months ago now, there was an article in
+   the Wall Street Journal about the new Cornell Tech campus
+   that’s going in on Roosevelt Island. I don’t know if you’ve
+   heard about this. Cornell picked the Technion in Israel as a
+   partner in putting this campus together.
+
+   Now this was a rather surprising thing for the reporter, why
+   Cornell would go abroad to pick a partner. They interviewed
+   Peretz Lavie, who is the president of the Technion, and they
+   asked him why he thought they were chosen. He said well, the
+   primary reason is that Israel, and in particular the Technion,
+   is a generator of an enormous number of successful spinoff
+   companies that have changed the economy and put Israel on the
+   map, that it’s in fact one of the most successful centers of
+   new tech invention in the world.
+
+   That confused the reporter even more he says, “Now this doesn’t
+   make any sense. Israel is like one of the most fragile, risky
+   locations on the planet. Haven’t you noticed that there are
+   people around you on all sides who are pointing missiles at
+   you? How could you possibly be inventing stuff?” And that’s
+   where Peretz Lavie stopped and he said, “No, you got it exactly
+   wrong.” He said, “You can’t live in Israel without being an
+   optimist. You have to imagine that the world could be a better
+   place and you have to realize it’s only going to happen if you
+   take the initiative to make it happen.”
+
+   That’s the essence of this growth mindset that Carol Dweck is
+   talking about, that’s the essence of what it means to be an
+   entrepreneur, and that’s certainly the essence of what Olin
+   thinks of as being an engineer. It’s a mindset.
+
+   Why are so many of today’s education innovations being driven
+   by engineers?
+
+   I don’t think it’s an accident that many of the most innovative
+   dimensions to higher education today are being developed in
+   engineering schools—not just Olin. You may have heard of MOOCs
+   for example, that came out of Stanford; and MIT and edX
+   program: These didn’t just coincidentally happen from
+   engineering schools. Not only is it about technology, but there
+   is something about engineering [that] I think predisposes it to
+   being in the right place at the right time, and here is what it
+   is:
+
+   If you are the president of a major state university that has a
+   whole array of different undergraduate programs, one of the
+   things that you notice is only one of those undergraduate
+   disciplines has a requirement for an external accreditation and
+   that’s engineering. There is no accreditation board for
+   economics or for English or for history, but there is for
+   engineering.
+
+   What does that matter? What that means is [that] at least every
+   six years, and usually more frequently, you are forced to have
+   a conversation with people in industry who come in and talk
+   with you about what you are doing with your educational program
+   and what’s needed when people leave. These conversations, if
+   you talk to engineering beings, are rarely fun or congenial,
+   but there are dose of reality. That provocation—and the
+   requirement that you meet their expectations in order to
+   continue your program—motivates them to try things [that]
+   people who are in a much more insular environment with no need
+   to talk with people in the outside don’t ever try.
+
+   This has actually been confirmed recently by a guy named
+   Brandon Busteed at the Gallup Corporation. You might want to
+   talk to him if you don’t know him—he is really a fascinating
+   guy. He did the largest survey in history of the impact of
+   higher education on people’s lives, their careers, and later in
+   their career—together with Purdue University.
+
+   I just want to bring one little aspect up. He talked to 1,500
+   surveyed chief academic officers at major universities and he
+   asked them what their opinion was about how successful they
+   were at producing graduates who were well prepared for their
+   next step in their career. It won’t surprise you to hear that
+   they were very confident that they were doing the right thing,
+   something like 95 percent believe that the graduates are
+   extremely well prepared for the next step in their career.
+
+   But Gallup being Gallup, they also interviewed an equal number
+   of people who are HR directors at major companies—same
+   question. They didn’t get the same answer: It’s more like 10 to
+   15 percent. There is a gap there, and the gap is growing.
+
+   The person in the corporate world … Well the person in the
+   academic world is basically saying we’ve never produced
+   graduates who are better at solving the calculus problems than
+   they are today. They do them quicker, they are more efficient.
+   The people in the corporate world are saying so what? That has
+   no relevance to what we need. We need graduates who can
+   collaborate with others, who were creative, who can work on
+   real world problems, who can make a difference in the world.
+   That’s a mindset issue, and higher education has been blind to
+   their responsibility to shape the mindset of the next
+   generation. This is a big issue now.
+
+   If I put you in a room with a bunch of engineering graduates,
+   how would you pick out the Olin graduate?
+
+   That’s a really interesting question because we’ve actually
+   seen this before, and I’ve seen this with employment screening
+   tests at different companies. Here is the way it would turn
+   out: If you were going to look for the non-Olin graduate and
+   you would have an oral exam with an applicant for the new entry
+   level job at your company, then ask them very specific
+   questions about the particular engineering courses.
+
+   You would say, “I’m going to design a heat-transfer fin for an
+   air-cooled gasoline engine and this is what the fins look like
+   on this motorcycle. Can you tell me what the heat transfer law
+   is and tell me what the link for the fin should be if it’s made
+   out of aluminum to transfer this amount of heat per minute?” Or
+   you could say, “I have a spring that has a rate constant of 10
+   pounds per inch and I’m hanging on it a 5-pound weight and the
+   base of this spring and mass is wiggling at two cycles per
+   second. What’s the natural frequency of this device and how
+   much does it move?”
+
+   Those are the kinds of questions that you see in engineering
+   courses. The Olin students will fall asleep if you talk about
+   that. They can eventually find the answer but it’s not at the
+   tip of their tongue; it is not what makes them wake up. The
+   question that separates the Olin students is the question in
+   which nobody knows there is an answer and the students are
+   asking whether this is the right question. Do you have the
+   right people in the room? Have you framed the question right?
+   Why does this question matter?
+
+   That’s where the other students from the other programs just
+   freak out—that’s not engineering, we don’t know what to do
+   there. It turns out that’s what makes the most difference. If
+   you are going to design a new product, you don’t already know
+   what the equations are. You need somebody who can think out of
+   the box, who can understand what the purpose of the device is,
+   and who are the right people that you need to assemble in order
+   to answer the questions.
+
+   Why doesn’t Olin grant tenure?
+
+   Well, why give them that? I mean, one of the problems is that
+   it’s irrelevant and it tends to feed a mindset. Here is an
+   illustration: A few years ago, you might remember we had a
+   financial crisis in this country, in 2008, the Great Recession.
+   If you walked around a major university campus—let me say a
+   state university just for illustration—and you talked to
+   faculty members at the coffee machine and you asked them about
+   the difficulty in this recession you might hear comments like,
+   “Gee, this is really dangerous, I wonder what they are going to
+   do about it.”
+
+   If you did that at a school that doesn’t have tenure, like
+   Olin, the conversation will be just slightly different. You ask
+   them about the recession, they say, “Well, this is a very
+   difficult problem. I wonder what we are going to do about it.”
+   They have skin in the game. They realize that it’s our
+   institution as a whole that’s at stake; it’s not somebody
+   else’s job to worry about the institution. That’s an important
+   distinction, I believe.
+
+   I mean, there are some subtle things as well. The percentage of
+   women on engineering faculty members is not the same as the
+   percentage of men. It’s been very low for many years. Part of
+   the problem, I believe, is the way the tenure system works
+   where there is a clock running and within seven years you have
+   to have a certain number of accomplishments done or you don’t
+   qualify for tenure.
+
+   What if you are a woman and you start your family in that
+   period? What happens is that you put yourself at a disadvantage
+   in the promotion process. You get off the clock, right, and a
+   lot of the reviewers don’t pay much attention to why you got
+   off the clock. You are just off the clock so maybe that’s a
+   reason to be worried about productivity. What if you don’t have
+   a clock? What if you don’t have tenure? This makes quite a
+   difference.
+
+   There is a series of other issues as well. One of them is that
+   tenure is a lifetime commitment to an individual rather than to
+   what they are doing. You discover that as people mature in
+   their career—from the time they are 25 and they join you as an
+   assistant professor until the time they are 70 when they
+   leave—there are certain sort of seasons in their life where
+   they are really good at research; other parts of their life,
+   they really care about young people and about mentoring and
+   about teaching; and some parts of their career where they care
+   about building new programs; and the tenure system doesn’t
+   recognize that. Everybody does the same thing all the time—it’s
+   like 40-40-20, teaching, research, and service, and you have to
+   produce this.
+
+   What if a person just decides that they don’t really have an
+   interest in doing the same teaching thing for the rest of their
+   career, or maybe they are no longer excited about competing for
+   research grants—they would like to do something different.
+   Well, then it turns out that the flexibility that’s available
+   to an institution that doesn’t have tenure and can redirect
+   your whole purpose for the next five years in a new direction
+   is a real advantage.
+
+   How did you decide to become an engineer?
+
+   My dad sort of said I came out of the egg hatched to be an
+   engineer. I always liked to make stuff. When I was a young kid,
+   I mentioned I was in a farming community and the school was not
+   great. I was the sort of kid who wouldn’t come in as long as
+   the sun was out. I was outside making stuff. I had tons of
+   lumber in the backyard and hammers and I was always building
+   things, and I thought engineers built things. That sounded like
+   the perfect thing to me.
+
+   I originally thought I wanted to be a bridge engineer and
+   actually I discovered after I got into my education that I
+   didn’t want to be an engineer—it’s kind of an interesting
+   thing. I thought the pinnacle of engineering—because I had
+   never met an engineer until I went to the university—was
+   bridges. I thought like the Golden Gate Bridge, because I was
+   in California, man, the person who designed the Golden Gate
+   Bridge must be like the smartest person on the planet. Maybe I
+   could be like that!
+
+   One summer I had an internship, which I think was in the county
+   public works department in Fresno in California, and that
+   winter there was a lot of rain and it had washed out some of
+   the culverts and the small bridges out in the county. I
+   actually got associated with the bridge department and I
+   thought, “Man this is like, perfect!” So I brought all my books
+   with me—the stress analysis books, the concrete design—and I
+   brought my slide rule because in those days that was the thing
+   we used.
+
+   I sat down [and] on the first day, he brought out this picture,
+   aerial photographs of the bridge that had been washed out. Then
+   he brought another book that had the blueprints for how the
+   bridge was designed. And then he brought out something he
+   called the bridge book. He dropped down this big thick book on
+   my desk I was like, “Man, this must be like the Ph.D. level
+   analysis for bridges.” I opened the thing up and you know what
+   it is? It’s essentially a Sears catalogue. You flip through the
+   pages until you find the bridge that looks the most like the
+   one that got washed out. You’d make two small calculations down
+   in the corner—one of them is like the length times the width
+   times the height and it tells you the volume of concrete; and
+   the other one tells you how many tons of steel. You put them on
+   this little form and you put the serial number of that bridge
+   and you hand it to the contract department and they go out and
+   bid it to the contractors.
+
+   I said, “Wait a minute! I mean, when do I get to calculate the
+   stresses and decide where the steel bars should go?” And he
+   says, “Well we couldn’t possibly ask you to do that. You might
+   make a mistake, and if you make a mistake then the bridge could
+   fall down. We never ask our bridge engineers to actually
+   calculate stuff because that’s too risky.” “This is it? This is
+   what you do as a bridge engineer? You look in a catalogue and
+   you write down the serial number and that’s it?” And he says,
+   “Yes, that’s pretty much it, that’s what do.” “Who gets to make
+   the catalog? Who gets to make this thing?” “Well you have to
+   have a master’s degree to do that, and that’s done in
+   Sacramento.” I’m like a freshman and I’m saying, “I guess I
+   have to go for a master’s degree if you actually want to make
+   stuff.”
+
+   Eventually I figured out the guy who does the catalogue has a
+   pretty boring job too. You just keep solving the same problem
+   over and over again but with a little bit different geometry so
+   it’s like rotated at 45 degrees now rather than 30 degrees. I
+   said, “This is not fun. So when do you get to work on problems
+   that don’t have solutions?” “Well then you have to have a
+   Ph.D.” Okay. Then I wound up going on for a Ph.D. It just never
+   ends.
+
+   By the way, the Ph.D. is a license to do research, that’s what
+   it’s about. It’s how to define a problem that nobody has solved
+   yet, pioneer a solution to it, and get it published, that’s
+   what they do. Of all my friends who have Ph.D.s I can’t name a
+   single one who is still working on a problem even remotely
+   related to the one they did their Ph.D. on. It’s completely
+   different. It’s basically a way of thinking that allows you to
+   think outside the box for new problems. In my case, I obviously
+   got way off the farm and now engineering is an academic
+   institution, not a device.
+
+

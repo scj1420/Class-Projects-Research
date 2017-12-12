@@ -1,0 +1,820 @@
+41 Responses to Struggles with the Continuum (Part 1)
+
+    1. [42]sitearm says:
+       [43]8 September, 2016 at 5:41 am
+       looks for Like button LIKE : )
+       [44]Reply
+    2. [45]omaclaren says:
+       [46]8 September, 2016 at 6:31 am
+       Is a ‘point’ a continuous idealisation or a discrete one?
+       And isn’t synthetic differential geometry fundamentally
+       about continuous objects? E.g. Infinitely differential
+       functions etc. JL Bell’s book on The Continuous and the
+       Infinitesimal in Mathematics and Philosophy is an
+       interesting read on these issues. And Lawvree of category
+       theory fame actually started out as a student of continuum
+       mechanics under Truesdell who regarded point particle
+       mechanics as ‘degenerate’ and ‘too discrete’.
+       [47]Reply
+
+            [49]8 September, 2016 at 9:18 am
+
+
+     Is a ‘point’ a continuous idealisation or a discrete one?
+            Yes.
+            You’re reminding me of some quotes by Einstein. In
+            1916 he wrote a letter to a former student, Walter
+            Dällenbach, saying:
+
+     You have correctly grasped the drawback that the continuum
+     brings. If the molecular view of matter is the correct
+     (appropriate) one; i.e., if a part of the universe is to be
+     represented by a finite number of moving points, then the
+     continuum of the present theory contains too great a
+     manifold of possibilities. I also believe that this “too
+     great” is responsible for the fact that our present means of
+     description miscarry with the quantum theory. The problem
+     seems to me [to be] how one can formulate statements about a
+     discontinuum without calling upon a continuum (space-time)
+     as an aid; the latter should be banned from the theory as a
+     supplementary construction not justified by the essence of
+     the problem, [a construction] which corresponds to nothing
+     “real.” But we still lack the mathematical structure
+     unfortunately. How much have I already plagued myself in
+     this way!
+            This is interesting in part because it shows how much
+            Einstein thought about these issues, which he never
+            really wrote anything definitive about. In 1935 he
+            wrote to Langevin:
+
+     In any case one does not have the right today to maintain
+     that the foundation must consist in a field theory in the
+     sense of Maxwell. The other possibility, however, leads in
+     my opinion to a renunciation of the time-space continuum and
+     to a purely algebraic physics. Logically this is quite
+     possible (the system is described by a number of integers;
+     “time” is only a possible viewpoint, from which the other
+     “observables” can be considered — an observable logically
+     coordinated to all the others. Such a theory doesn’t have to
+     be based upon the probability concept. For the present,
+     however, instinct rebels against such a theory.
+            These quotes are analyzed in:
+            • John Stachel, The other Einstein: Einstein contra
+            field theory, Science in Context 6 (1993), 275–290.
+            I thank Richard Gaylord for sending me a copy of this
+            paper.
+            [50]Reply
+               o [51]omaclaren says:
+                 [52]8 September, 2016 at 9:12 pm
+                 Interesting quotes, thanks. I’ll have to have a
+                 read.
+                 Somewhat related – I think Schrödinger asked
+                 something like ‘what is a particle that has no
+                 trajectory or path?’. Which reminds me of
+                 Russell’s proposed ‘at-at’ resolution of Zeno’s
+                 paradox.
+                 The whole ‘discrete vs continuous’ question (and
+                 what that even means) remains pretty fascinating
+                 even after all these years since the Greeks (and
+                 whoever else)!
+                 [53]Reply
+    3. [54]Greg Egan says:
+       [55]8 September, 2016 at 8:07 am
+       This is slightly off-topic, but I was recently reminded
+       that the idealised version of Newtonian physics used in a
+       lot of high school physics problems suffers from some
+       curious defects.
+       Suppose you place a perfectly rigid plank on a perfectly
+       rigid table, with a portion of the plank jutting out over
+       the edge of the table. Can you describe the pressure
+       exerted by the plank on the table?
+       The answer is: you can’t, or at least you can’t without
+       making further assumptions. If all you have to go on is the
+       static balance of forces and torques, that’s not enough to
+       solve the problem. You need some kind of non-rigid material
+       model for the objects; for example, you can assume that the
+       surface of the table is perfectly elastic (with a huge
+       spring constant), so the force it exerts against the planar
+       surface of the plank is piecewise linear.
+       Engineers, of course, learn all about this kind of thing
+       very early on, and refer to situations like this as
+       “hyperstatic”. But in high school, all the problems they
+       give you tend to be carefully contrived to conceal the fact
+       that the toy model being used is indeterminate even in some
+       very simple situations.
+       [56]Reply
+
+            [58]8 September, 2016 at 9:07 am
+            Hmm, I don’t remember ever learning about this!
+            (I’m at the age where cautious statements of this sort
+            become advisable.)
+            In this problem we have finitely many equations and
+            infinitely many unknowns. But it seems the continuum
+            nature of the plank is not fundamental here! Even if
+            the plank met the table at a finite grid of
+            points—imagine little nails poking out of the bottom
+            of the plank—you couldn’t compute the force exerted by
+            the table at these points: more unknowns than
+            equations.
+            Somehow this reminds me of two things: a bed of nails,
+            and how four-legged chairs tend to be wobbly.
+            [59]Reply
+
+            [61]8 September, 2016 at 9:27 am
+            John wrote:
+
+
+     But it seems the continuum nature of the plank is not
+     fundamental here!
+            Right, even a rigid thin rod with three point-like
+            supports is hyperstatic! That’s why they always limit
+            these kinds of problems to two supports in high school
+            physics classes. It’s not surprising that professional
+            engineers need to consider the way the deck of a
+            real-world bridge with three supports will flex, in
+            order to make it safe, but it’s a bit startling, at
+            least initially, to realise that you need to consider
+            something similar just to get a unique solution for
+            the forces in the simplest possible toy model of this
+            system.
+            [62]Reply
+               o arch1 says:
+                 [63]8 September, 2016 at 1:56 pm
+                 Greg, now you tell me. As a team building
+                 exercise ten people including me (5 standing on
+                 each side) were asked to balance an 8 ft hollow
+                 aluminum rod on our 20 extended horizontal index
+                 fingers, maintaining contact at all times as we
+                 lowered it to the ground. We were given 20
+                 minutes and failed, much to our chagrin. But
+                 armed with your information, I could have thrown
+                 around a little hyperstatic lingo and claimed
+                 that the task was theoretically impossible.
+                 Except that another team managed to do it :-)
+                 [64]Reply
+
+            [66]9 September, 2016 at 12:44 am
+            that’s not a bug, that’s a feature! it’s implicit in
+            how machine builders flatten lathe beds to submicron
+            precision, and in how astronomers grind spherical
+            lenses and mirrors!
+            [67]Reply
+    4. [68]John Baez says:
+       [69]8 September, 2016 at 10:05 am
+       Here’s a question that’s only tangentially related for
+       now—it’ll become relevant much later in the series, but I’m
+       too impatient.
+       Some people like to wonder what the electron would be like
+       if it were a tiny black hole described using general
+       relativity, not quantum mechanics. But in fact it would not
+       be a black hole, it would be a naked singularity. I’ve been
+       trying to fix the Wikipedia article on this topic:
+       • Wikipedia, [70]Black hole electron.
+       I’ve dramatically overhauled it, and I’m pretty happy
+       except for one thing. There’s a certain length scale called
+       r_q associated to a charge q, which shows up in the theory
+       of charged black holes. I believe that
+       \displaystyle{ r_q = \sqrt{\frac{q^2 G}{4 \pi \epsilon_0
+       c^4}} } This was already on Wikipedia and I think it’s
+       right. But whoever calculated this got the answer
+       r_q = 9.152 \times 10^{-37} \textrm{ meters} while I’m
+       getting
+       r_q = 1.3807 \times 10^{-36} \textrm{ meters} This is
+       annoyingly close yet far!
+       Just to lay my cards on the table, I’m using
+       q = 1.60217 \times 10^{-19} \textrm{C} G = 6.67408 \times
+       10^{-11} \textrm{N m}^2 / \textrm{kg}^2 c = 2.9979 \times
+       10^8 \textrm{m/s} \epsilon_0 = 8.85419 \times 10^{-12}
+       \textrm{C}^2 / \textrm{N} \textrm{m}^2
+       The ratio of my answer and theirs is suspiciously close to
+       1.5. This is really pissing me off.
+       [71]Reply
+    5. [72]Greg Egan says:
+       [73]8 September, 2016 at 10:32 am
+       I agree with all your constants, and using the formula you
+       provide I get the same answer as you. So if the formula is
+       correct, that other answer must be wrong. I can’t really
+       guess what they did differently; if you substitute a 9 for
+       the 4 in the denominator, you do get pretty close to their
+       answer … but that’s a weird mistake to make.
+       [74]Reply
+
+            [76]8 September, 2016 at 11:39 am
+            A 9 looks sorta like a 4 in some people’s handwriting…
+            but still!
+            Great, I was getting pretty frustrated at this!
+            [77]Reply
+    6. [78]Greg Egan says:
+       [79]8 September, 2016 at 10:43 am
+       PS: Misner, Thorne and Wheeler give your answer as the
+       length in metres corresponding to the elementary charge,
+       when using geometric units. So the r_q in the
+       Reissner–Nordström metric is really just the charge of the
+       hole in geometric units.
+       [80]Reply
+
+            [82]8 September, 2016 at 11:44 am
+            This is reassuring.
+            I have their book back at home in California. Here I
+            have an electronic version, but I think those formulas
+            are in the back flap, which I don’t have.
+            I don’t know a snappy interpretation of r_q, since the
+            singularity formed by a point charge with r_q much
+            larger than the Schwarzschild radius will not have a
+            horizon or ergosphere, but any reasonable definition
+            of the ‘size’ of the blob of warped space surrounding
+            a point charge of charge q should give something on
+            the order of r_q.
+            It’s interesting that the characteristic size r_a =
+            \frac{1}{2}\hbar / m c of the ring singularity that
+            arises when we include the electron’s angular momentum
+            in the calculation vastly exceeds r_q, which in turn
+            vastly exceeds the electron’s Schwarzschild radius.
+            r_a is so much bigger than the Planck length that we
+            shouldn’t need quantum gravity to understand what’s
+            going on here! But it’s so close to the Compton
+            wavelength that we should be able to experimentally
+            rule out a ring singularity this big.
+            [83]Reply
+    7. [84]John Baez says:
+       [85]8 September, 2016 at 11:59 am
+       An even less relevant puzzle, which I record just because
+       I’d otherwise forget:
+       Puzzle: if you convert one Planck-mass-sized black hole
+       into energy each second, how many 60-watt light bulbs can
+       you power?
+       It’s worthwhile guessing before one calculates.
+       [86]Reply
+    8. [87]Carsten Führmann says:
+       [88]8 September, 2016 at 1:06 pm
+       Have you chanced upon this paper about “Topos Theory in the
+       It’s motivations seem complex, but it too mentions problems
+       with the real numbers. (After attending a talk by Döring, I
+       tried to read that paper. But I didn’t get past the first
+       15 or so pages for lack of time. Besides, since I’m no
+       physicist, I’m unable to judge whether that direction is
+       promising. but I’d like to know.)
+       [90]Reply
+
+            [92]9 September, 2016 at 1:57 am
+            Sure, I’ve read that paper by Isham and Döring—they’re
+            not that many people interested in quantum gravity and
+            category theory, so we all know each other and follow
+            each other’s work.
+            Chris Isham was for many years famous as the
+            “conscience” of quantum gravity. He’d write papers
+            reviewing work on the subject and pointing out
+            problems, both conceptual and technical, without ever
+            making a strong push for an approach of his own. This
+            sort of careful attitude was especially important when
+            loop quantum gravity and string theory took off, each
+            with their own enthusiasts who tended to be blind to
+            their favored theory’s faults.
+            For example, if you ever become deeply interested in
+            the all-important [93]“problem of time” in quantum
+            gravity, and want to delve into the dozens of attempts
+            to solve this and why none of them have succeeded, his
+            paper [94]Canonical quantum gravity and the problem of
+            time is required reading.
+            Or—more likely—if you ever just want an overview of
+            why quantum gravity is so tough, try his paper
+            [95]Structural issues in quantum gravity.
+            Over the decades he leaned ever more to the position
+            that we weren’t thinking radically enough. Thus it was
+            not a complete shock that when Andreas Döring burst
+            onto the scene with his topos-theoretic approach to
+            physics, Isham became very interested in this… but it
+            was a surprise to me that Isham for the first time
+            advocated an approach to quantum gravity! He once told
+            me something like “I really think this is it.”
+            Personally I am not convinced. Topos theory is the
+            beautiful, perfected modern approach to intuitionistic
+            logic, showing how this logic (which drops the
+            principle of excluded middle “P or not P”) arises
+            naturally from sheaf theory (the mathematical theory
+            of “local truth”, which lets us say where a statement
+            is true). Everyone who loves deep mathematics should
+            learn at least a bit of topos theory.
+            However, topos theory was not designed with quantum
+            logic in mind, and I don’t think it’s a sufficient
+            framework for grappling with quantum theory.
+            Urs Schreiber’s work using [96]cohesive ∞-topoi to
+            understand `stringy’ geometry is more interesting to
+            me.
+            I could say a lot more about this, but instead I’ll
+            just suggest that if you want to know why Isham likes
+            topos theory, a better place to start is his paper
+            [97]Topos methods in the foundations of physics.
+            [98]Reply
+
+            [100]9 September, 2016 at 2:37 am
+            Here was my attempt to explain Isham and Döring’s work
+            in [101]week257 of This Week’s Finds, written in 2007
+            after a conference at Imperial College.
+              _________________________________________________
+
+
+            I also spoke to Andreas Döring and Chris Isham about
+            their work on topos theory and quantum physics.
+            Andreas Döring lives near Greenwich, while Isham lives
+            across the Thames in London proper. So, I talked to
+            Döring a couple times, and once we visited Isham at
+            his house.
+            I mainly mention this because Isham is one of the
+            gurus of quantum gravity, profoundly interested in
+            philosophy… so I was surprised, at the end of our
+            talk, when he showed me into a room with a huge rack
+            of computers hooked up to a bank of about 8 video
+            monitors, and controls reminiscent of an airplane
+            cockpit.
+            It turned out to be his homemade flight simulator!
+            He’s been a hobbyist electrical engineer for years –
+            the kind of guy who loves nothing more than a
+            soldering iron in his hand. He’d just gotten a big
+            750-watt power supply, since he’d blown out his
+            previous one.
+            Anyway, he and Döring have just come out with a series
+            of papers:
+            14) Andreas Döring and Christopher Isham, A topos
+            foundation for theories of physics: I. Formal
+            languages for physics, available as
+            [102]arXiv:quant-ph/0703060.
+            II. Daseinisation and the liberation of quantum
+            theory, available as [103]arXiv:quant-ph/0703062.
+            III. The representation of physical quantities with
+            arrows, available as [104]arXiv:quant-ph/0703064.
+            IV. Categories of systems, available as
+            [105]arXiv:quant-ph/0703066.
+            Though they probably don’t think of it this way, you
+            can think of their work as making precise Bohr’s ideas
+            on seeing the quantum world through classical eyes.
+            Instead of talking about all observables at once, they
+            consider collections of observables that you can
+            measure simultaneously without the uncertainty
+            principle kicking in. These collections are called
+            "commutative subalgebras".
+            You can think of a commutative subalgebra as a
+            classical snapshot of the full quantum reality. Each
+            snapshot only shows part of the reality. One might
+            show an electron’s position; another might show it’s
+            momentum.
+            Some commutative subalgebras contain others, just like
+            some open sets of a topological space contain others.
+            The analogy is a good one, except there’s no one
+            commutative subalgebra that contains all the others.
+            Topos theory is a kind of "local" version of logic,
+            but where the concept of locality goes way beyond the
+            ordinary notion from topology. In topology, we say a
+            property makes sense "locally" if it makes sense for
+            points in some particular open set. In the
+            Döring-Isham setup, a property makes sense "locally"
+            if it makes sense "within a particular classical
+            snapshot of reality" – that is, relative to a
+            particular commutative subalgebra.
+            (Speaking of topology and its generalizations, this
+            work on topoi and physics is related to the "étale
+            topology" idea I mentioned a while back – but
+            technically it’s much simpler. The [106]étale topology
+            lets you define a topos of [107]sheaves on a certain
+            category. The Döring-Isham work just uses the topos of
+            [108]presheaves on the poset of commutative
+            subalgebras. Trust me – while this may sound scary,
+            it’s much easier.)
+            Döring and Isham set up a whole program for doing
+            physics "within a topos", based on existing ideas on
+            how to do math in a topos. You can do vast amounts of
+            math inside any topos just as if you were in the
+            ordinary world of set theory – but using
+            intuitionistic logic instead of classical logic.
+            Intuitionistic logic denies the principle of excluded
+            middle, namely:
+
+
+     "For any statement P, either P is true or not(P) is true."
+            In Döring and Isham’s setup, if you pick a commutative
+            subalgebra that contains the position of an electron
+            as one of its observables, it can’t contain the
+            electron’s momentum. That’s because these observables
+            don’t commute: you can’t measure them both
+            simultaneously. So, working "locally" – that is,
+            relative to this particular subalgebra – the statement
+
+             P = "the momentum of the electron is zero"
+            is neither true nor false! It’s just not defined.
+            Their work has inspired this very nice paper:
+            15) Chris Heunen and Bas Spitters, A topos for
+            algebraic quantum theory, available as
+            [109]arXiv:0709.4364.
+            so let me explain that too.
+            I said you can do a lot of math inside a topos. In
+            particular, you can define an algebra of observables –
+            or technically, a "C*-algebra".
+            By the Isham-Döring work I just sketched, any
+            C*-algebra of observables gives a topos. Heunen and
+            Spitters show that the original C*-algebra gives rise
+            to a C*-algebra in this topos, which is commutative
+            even if the original one was noncommutative! That
+            actually makes sense, since in this setup each "local
+            view" of the full quantum reality is classical.
+            So, they get this sort of picture:
+
+
+                                [110]
+                        [heunen_spitters.jpg]
+            I’ve been taking the “ambient topos” to be the
+            familiar category of sets, but it could be something
+            else.
+            What’s really neat is that the Gelfand-Naimark
+            theorem, saying commutative C*-algebras are always
+            algebras of continuous functions on compact Hausdorff
+            spaces, can be generalized to work within any topos.
+            So, we get a space in our topos such that observables
+            of the C*-algebra in the topos are just functions on
+            this space.
+            I know this sounds technical if you’re not into this
+            stuff. But it’s really quite wonderful. It basically
+            means this: using topos logic, we can talk about a
+            classical space of states for a quantum system!
+            However, this space typically has "no global points" –
+            that’s called the “Kochen-Specker theorem”. In other
+            words, there’s no overall classical reality that
+            matches all the classical snapshots.
+            [111]Reply
+               o [112]Carsten Führmann says:
+                 [113]10 September, 2016 at 5:18 pm
+                 Thanks, that was one content-heavy answer! I
+                 spent Saturday following various links you
+                 supplied. I think there is a typo on page 697 of
+                 Urs Schreiber’s article. Just kidding.
+                 Seriously, I did get a better feel for the area,
+                 in particular from your own explanations, from
+                 Isham’s “Topos methods in the foundations of
+                 physics”, and from quickly surveying the “problem
+                 of time” stuff.
+                 Lots of open questions, among them: “What’s the
+                 replacement for the reals, in particular
+                 considering that topoi already have Dedekind
+                 reals?” And “Does the replacement for the reals
+                 imply that spectral theory must be rebuilt from
+                 scratch?”
+                 But I feel I should not pursue this now, and
+                 stick to learning more basic stuff. I see these
+                 topos exploits as a mere sneak peek on my part.
+                 [114]Reply
+    9. arch1 says:
+       [115]8 September, 2016 at 1:43 pm
+       Thanks for the great article. I’d gotten a rough idea of
+       the 5-particle oscillating scenario earlier, but it never
+       sunk in that a consequence was nondeterminism (without
+       collisions, yet).
+       It also never sunk in that (if I understand your
+       description), that the ratio of the light particle’s
+       average speed to the average speed of the other 4 particles
+       grows without bound, even as the latter is itself growing
+       without bound.
+       [116]Reply
+
+            [118]9 September, 2016 at 12:41 am
+            arch1 wrote:
+
+
+     I’d gotten a rough idea of the 5-particle oscillating
+     scenario earlier, but it never sunk in that a consequence
+     was nondeterminism (without collisions, yet).
+            Yes! It’s always good, when you hear about some
+            phenomenon in some theory that has time reversal
+            symmetry, to think about its time-reversed version. So
+            if particles shooting off to infinity and disappearing
+            in finite time sounds “weird but acceptable” you
+            should ask whether particles suddenly shooting in from
+            infinity when they weren’t there before is also
+            acceptable.
+            I forgot to mention this in my article. But later I’ll
+            talk about white holes and some weird time-reversal
+            issues in the classical electrodynamics of point
+            particles.
+
+     It also never sunk in that (if I understand your
+     description), that the ratio of the light particle’s average
+     speed to the average speed of the other 4 particles grows
+     without bound, even as the latter is itself growing without
+     bound.
+            I hadn’t thought about it quite that way, but I guess
+            it must be true!
+            [119]Reply
+   10. [120]jayarava says:
+       [121]8 September, 2016 at 4:17 pm
+       “These paradoxes can now be dismissed using our theory of
+       real numbers.”
+       We don’t need a theory of real numbers. The distance
+       rapidly becomes too small to matter or to measure. How much
+       difference does half a micron make in a mile long running
+       race? None at all.
+       [122]Reply
+
+            [124]9 September, 2016 at 2:22 am
+            That’s a fine philosophy, but try to redo all of
+            physics without mentioning real numbers and you’ll
+            find it’s not so easy. It’s possible this is exactly
+            what we need to do! But it’s not easy.
+            [125]Reply
+   11. [126]Struggles with the Continuum (Part 2) | Azimuth says:
+       [127]9 September, 2016 at 1:00 am
+       […] Last time we saw that that nobody yet knows if
+       Newtonian gravity, applied to point particles, truly
+       succeeds in predicting the future. To be precise: for four
+       or more particles, nobody has proved that almost all
+       initial conditions give a well-defined solution for all
+       times! […]
+       [128]Reply
+   12. [129]Graham Jones says:
+       [130]9 September, 2016 at 10:54 am
+       Do people try to formalise information theory without
+       mentioning the reals?
+       [131]Reply
+
+            [133]10 September, 2016 at 12:22 am
+            Tobias Fritz has a nice paper featuring an axiomatic
+            theory of ‘resources’, which could be all sorts of
+            things:
+            • Tobias Fritz, [134]Resource convertibility and
+            ordered commutative monoids.
+            He goes in the direction of adding axioms until you
+            can deduce that your resources can be measured by an
+            n-tuple of real numbers (with n possibly infinite).
+            The axioms don’t mention the real numbers.
+            [135]Reply
+               o [136]Graham Jones says:
+                 [137]10 September, 2016 at 12:52 pm
+                 Thanks! I don’t understand the paper, but that’s
+                 OK. Its existence answers my question with a
+                 ‘yes’. And it does seem intuitive that it would
+                 be the communication channels that are the
+                 resource objects:
+
+
+     Our third example is the resource theory of communication,
+     as developed by Shannon in his foundational work which
+     established information theory. It has communication
+     channels—
+     mathematically formalized by stochastic matrices—as resource
+     objects. These can be converted into each other
+     by pre- and post-processing using representing encoding and
+     decoding operations. Two such communication
+     channels can be combined by using them in parallel. In this
+     way, the resource theory of communication is
+     described by an ordered commutative monoid denoted CommCh.
+     Unfortunately, we do not yet know how to deal
+     with the analytic details in Shannon’s theory having to do
+     with allowing small errors of communication in order
+     to optimize throughput. Therefore we consider CommCh mostly
+     because of its close relation with Grph in terms of
+     zero-error communication, and also to give some idea of what
+     the challenges for improving our present approach
+     are. We hope to achieve a comprehensive resource-theoretic
+     treatment of Shannon’s theorems in future work.
+                 [138]Reply
+   13. domenico says:
+       [139]10 September, 2016 at 3:20 pm
+       I am thinking that if a number (for example four) of black
+       holes orbit along (roughly) the classical trajectories of
+       Xia, then it could be possible an expulsion to almost
+       infinity with a maximum velocity.
+       [140]Reply
+   14. David Lyon says:
+       [141]11 September, 2016 at 1:16 am
+       You might be interested to know that the gentle 3-body
+       version of this 5-body finite time blowup is the main
+       mechanism for globular cluster evaporation. In globular
+       clusters, when a single star has a close encounter with a
+       pair of stars in a binary, the single star tends to gain
+       kinetic energy at the cost of the binary pair orbiting
+       closer together.
+       [142]A Thousand Blazing Suns: The Inner Life of Globular
+       Clusters
+       Sometimes, the solo star gains cluster escape velocity and
+       evaporates from the cluster.
+       [143]Reply
+
+            [144]11 September, 2016 at 10:20 am
+            I thought that a black hole with a speed of ejection
+            close to that of light should have visible effects in
+            a nebula
+            [145]Reply
+   15. [146]Struggles with the Continuum (Part 4) | Azimuth says:
+       [147]14 September, 2016 at 1:01 am
+       In this series we’re looking at mathematical problems that
+       arise in physics due to treating spacetime as a
+       continuum—basically, problems with infinities.
+       In Part 1 we looked at classical point particles
+       interacting gravitationally. We saw they could convert an
+       infinite amount of potential energy into kinetic energy in
+       a finite time! Then we switched to electromagnetism, and
+       went a bit beyond traditional Newtonian mechanics: in Part
+       2 we threw quantum mechanics into the mix, and in Part 3 we
+       threw in special relativity. Briefly, quantum mechanics
+       made things better, but special relativity made things
+       worse.
+       Now let’s throw in both!
+       [148]Reply
+   16. Eugene Lerman says:
+       [149]15 September, 2016 at 2:56 pm
+       Here are my quibbles. Newtonian mechanics in general and
+       Newtonian gravity in particular models physical systems as
+       flows of smooth vector fields on smooth manifolds. ( In the
+       case of n massive particles interacting by Newton’s law the
+       vector field lives on the tangent bundle of
+       {\mathbb{R}^3}^n minus “polydiagonals.”) But integral
+       curves of smooth vector fields can easily run off to
+       infinity in finite time. And flows of smooth vector fields
+       can be chaotic. So why would it be surprising that these
+       things (incompleteness of the vector field and chaos)
+       happen in Newtonian n body problem? It’s more shocking that
+       the 2-body problem is completely integrable.
+       One may be surprised that “deterministic” (existence,
+       uniqueness and smooth dependence on initial conditions)
+       doesn’t mean “predictable in practice.” It seems to me that
+       this kind of surprise has nothing to do with Newtonian
+       physics and more of a problem of a failure of imagination.
+       It’s hard to imagine what a complex system may do (by
+       definition of complex).
+       [150]Reply
+
+            [152]17 September, 2016 at 4:37 am
+            Thanks for explaining your quibbles. None of them move
+            me to change what I wrote, because they basically
+            depend on what counts as “surprising”, which is highly
+            subjective.
+            As a writer, it’s generally a better strategy to say
+            “this is surprising” and then explain it, than to say
+            “if you’re smart, this will not be surprising”.
+            Continuing my counter-nitpicking:
+            I didn’t mention chaos at all; that’s not part of the
+            theme in this series. I’m not getting into the issue
+            of ‘in practice’ predictability, just ‘in principle’
+            predictability. So, one main theme is whether the most
+            famous theories of physics lead to well-defined time
+            evolution given initial data—or for quantum field
+            theory (where the initial value problem is too hard)
+            whether we can define the amplitude of having some
+            particles with some momenta at future infinity given
+            similar data at past infinity.
+            Most physicists would not be surprised at the
+            collision singularities in the Newtonian gravitational
+            n-body problem. They would be surprised by
+            non-collision singularities where particles manage to
+            ‘mine’ an infinite amount of potential energy and
+            convert it to kinetic energy in a finite amount of
+            time. The battle between kinetic and potential energy
+            is a second theme of this series. In the quantum
+            version of the Newtonian gravitational n-body problem,
+            kinetic energy triumphs over potential energy and all
+            is well. In perturbative QED, where arbitrarily large
+            numbers of particles can be created, potential energy
+            fights back! — and thus, Dyson argues, the power
+            series diverge.
+            Physicists would attempt to shrug off both the
+            collision and non-collision singularities in the
+            Newtonian gravitational n-body problem by arguing that
+            they occur only for initial data in a set of measure
+            zero.
+            If this is true, we can define time evolution not for
+            individual points on phase space but for probability
+            distributions on phase space—or we can use
+            [153]‘Koopmanism’ to define time evolution as a
+            strongly continuous 1-parameter unitary group on L^2
+            of the phase space.
+            But in fact nobody has proved this is true except for
+            low n. I think most physicists would find that
+            surprising.
+            So, another general theme is that a lot of basic
+            questions about our favorite theories of physics, like
+            the extent to which they allow us to predict the
+            future in principle, remain unsettled. And, this tends
+            to be connected to infinities that arise when there
+            are states of arbitrarily negative potential energy.
+            On second thought, there probably is something I
+            should change about my paper: I should probably add
+            some remarks like this to the Conclusion, which right
+            now is rather hasty.
+            [154]Reply
+               o [155]Uwe Stroinski says:
+                 [156]17 September, 2016 at 5:45 am
+
+
+     I think most physicists would find that surprising.
+                 What I find surprising is that Koopman operators
+                 and ergodic theory have deep applications in
+                 number theory and combinatorics. There is e.g. a
+                 proof of Szemeredi’s theorem by H. Furstenberg
+                 using ergodic theory.
+                 A recent account on how these concepts relate
+                 physics and mathematics can be found in T. Eisner
+                 et al Operator Theoretic Aspects of Ergodic
+                 Theory.
+                 [157]Reply
+   17. [158]Links for August-September 2016 – foreXiv says:
+       [159]16 September, 2016 at 10:15 am
+       John Baez reviews the surprising richness in the
+       (non-)well-posedness of dynamical physics theories. (This
+       is the first of a multi-part series; see Baez’s sidebar.)
+       [160]Reply
+   18. Bruce Bartlett says:
+       [161]18 September, 2016 at 10:02 am
+       Fascinating!
+
+
+     But what about a simultaneous collision of 3 or more bodies?
+     This seems more difficult.
+       Have you seen the recent work by [162]Montgomery and
+       Moeckel? They find a beautiful geometric way to regularize
+       the entire configuration space (including 3-body
+       collisions) in the planar 3-body problem. In the end they
+       get out a 4-fold octahedral covering of the Riemann sphere!
+       The nicest resource is the [163]talk of Moeckel – be sure
+       to get the one with the videos to really appreciate the
+       beauty.
+       [164]Reply
+
+            [166]18 September, 2016 at 4:36 pm
+            I’ve seen some of Montgomery’s work on regularizing
+            the planar 3-body problem, but I’m not sure I’ve seen
+            that paper.
+            It’s starting to sound like covering spaces and Galois
+            theory are connected not only to the classic problems
+            of trisecting the angle, doubling the cube and solving
+            the quintic, but also to the 3-body problem!
+            [167]Reply
+   19. Rob MacDonald says:
+       [168]20 September, 2016 at 6:20 pm
+       Great posts and comments! A similar problem. Can a finite
+       number of billiard balls have infinity many collisions?
+       Suppose you have some number, say n, billiard balls. They
+       can have whatever masses and radii you like. Set them off
+       in 2 or 3 dimensional (unbounded) space (or higher if you
+       like!) with any initial positions and momenta you choose.
+       Can such a configuration experience infinitely many
+       collisions?
+       [169]Reply
+
+            [171]20 September, 2016 at 7:33 pm
+            I think this is fairly easy: take two heavy billiard
+            balls moving toward each other, and a light one
+            bouncing back and forth between them. Assume this is
+            in 1-dimensional space – or in other words, they’re
+            all moving along a line. I haven’t done the
+            calculation, but I think the light one can bounce back
+            and forth infinitely many times before all three
+            touch.
+            This reminds me a bit of that joke about John von
+            Neumann, who was famous for being quick at
+            calculations:
+            Von Neumann and a friend were on a train, and they
+            were getting a bit bored, so his friend posed him a
+            puzzle.
+            “Suppose two trains on the same track begin a mile
+            apart and head towards each other at 60 miles an hour.
+            A fly starting at the front of one train flies at 120
+            mph to the other train, and then flies back to the
+            first train, and so on, back and forth until it gets
+            squashed when the trains collide. How far does the fly
+            travel?”
+            Von Neumann thought about it a moment and said, “One
+            mile”.
+            His friend said. “Wow! You’re really good. Most people
+            don’t notice the easy way to solve it: the trains meet
+            in half a minute, and the fly can travel 1 mile in
+            half a minute. They think they have to sum an infinite
+            series!”
+            Von Neumann looked stunned, and said “But that’s how I
+            did it.”
+            [172]Reply
+               o Rob MacDonald says:
+                 [173]22 September, 2016 at 5:06 am
+                 My kids (4/7) have a magazine called “Crazy
+                 Words” (circulation 20). One of the long running
+                 columns is “Collisions We’d Like to See” with
+                 examples such as Butter —> Peanut Butter. I will
+                 see if the editors want to publish “Von Neumann
+                 —> Infinite Series”. Anyway, I tried to run this
+                 on the computer. May be I ran my numbers wrong,
+                 but it seemed simple enough, and it didn’t work.
+                 You can have arbitrary many collisions with this
+                 configuration, but eventually the balls stop
+                 colliding (and surprisingly quickly).
+                 I thought the answer was, no, you can’t have
+                 infinitely many. But I don’t know the proof.
+                 [174]Reply
+   20. George Craig says:
+       [175]11 October, 2016 at 8:12 pm
+       This is a fascinating series. One minor point though. The
+       first occurrence of the word “velocity” in Part 1 should be
+       changed to “acceleration”. (For equal mass point particles,
+       their velocities changes sign just before and just after
+       they collide at t=0. Mathematically the velocity is a step
+       function undefined at t=0. Physically it seems reasonable
+       to define v = 0 at t = 0.)
+       [176]Reply
+
+
+

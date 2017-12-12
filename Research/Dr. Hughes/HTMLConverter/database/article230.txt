@@ -1,0 +1,85 @@
+Essential Statistics, Regression, and Econometrics
+
+   Gary Smith
+   Publisher:
+   Academic Press
+   Publication Date:
+   2016
+   Number of Pages:
+   386
+   Format:
+   Hardcover
+   Price:
+   110.00
+   ISBN:
+   9780128034590
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   Peter Rabinovitch
+   , on
+   12/13/2016
+   ]
+
+   I am frequently asked to recommend statistics books to
+   beginners, so I was very eager to see what was in this book.
+
+   First the good. It is very well written, and covers the basics
+   clearly and understandably to someone with only high school
+   algebra — nothing more advanced is needed. And in addition to
+   the basics, the author discusses p-hacking, misleading plots,
+   and other important topics that are frequently left out of
+   introductory texts.
+
+   The examples are primarily from economics, as befits the book’s
+   title. The book is not aimed at math students, so there are no
+   proofs and no derivations. They can be found in other texts or
+   in a further course. Also, the range of statistics covered is
+   narrow, mostly about normal distributions and linear
+   regression, but in my opinion suitable for such a first course.
+
+   However nice, for me the book has one large flaw. I cannot
+   understand why a stats book today would not have R code to
+   demonstrate the various topics. The book has 50 or so exercises
+   in each chapter, and many are repetitive. That space could have
+   been used for simple R scripts, or they could have been put
+   online (there are, as yet, no online resources for students).
+   Without the derivations, without proofs, without code to
+   illustrate what is going on, I think a huge opportunity has
+   been wasted to help the student understand, rather than
+   memorize.
+
+   I do think the explanations are very clear, so perhaps the book
+   could be further refined into a “Statistics for Managers” type
+   book, but as a text for beginning students, for me, it falls
+   short.
+     __________________________________________________________
+
+   Peter Rabinovitch is a Senior Performance Engineer at Akamai,
+   and has been doing data science since long before “data
+   science” was a thing.
+
+   Introduction
+   Chapter 1 Data, Data, Data
+   Chapter 2 Displaying Data
+   Chapter 3 Descriptive Statistics
+   Chapter 4 Probability
+   Chapter 5 Sampling
+   Chapter 6 Estimation
+   Chapter 7 Hypothesis Testing
+   Chapter 8 Simple Regression
+   Chapter 9 The Art of Regression Analysis
+   Chapter 10 Multiple Regression
+   Chapter 11 Modeling
+   Appendix
+   Tags:
+   [309]Econometrics
+   [310]Regression Analysis
+   [311]Statistics
+
+
+
+

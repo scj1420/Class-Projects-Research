@@ -1,0 +1,237 @@
+How to Understand Extreme Numbers
+
+   Posted By Elizabeth Landau on Feb 17, 2017
+
+
+      mailto:?subject=Nautilus: How to Understand Extreme Numbers&body=I saw this blog post on Nautil.us and wanted to share it with you.
+
+
+
+
+
+
+   Galaxy collision | Illustration by NASA Goddard Space Flight
+   Center / Flickr
+
+   The late statistics wizard Hans Rosling, who died this month at
+   age 68,  brought at least 10 toilet paper rolls to some of his
+   beloved presentations.  He would stack them into a tower on a
+   table, each roll representing one billion people. In a 2012
+   [65]talk at the Skoll World Forum, he used the rolls to show
+   how, as the number of children in the world—2 billion—holds
+   steady, the global population will rise from 7 billion to the
+   (also indefinitely stable) figure of about 10 billion. “We are
+   debating peak oil,” he remarked, “but we know that we have
+   reached peak child.”
+
+
+   With his whimsical props and other colorful
+   visualizations, Rosling was renowned as a translator between
+   large, almost unfathomable numbers and the language of everyday
+   experience. He understood that most of us need visualizations
+   or analogies to mentally work with millions, billions, and
+   other big powers of 10 that help define our world. They’re
+   important for decisions that affect daily life, such as how
+   money gets invested and which government policies you support.
+   But just how well—or poorly—do people understand quantities in
+   powers of 10? And how can we better equip ourselves to navigate
+   them?
+
+   In thinking about these questions, I started reading about a
+   niche branch of science called numerical cognition. Researchers
+   in this field study not just how we think, but how we think
+   about, and with, numbers.
+   [66][12139_c5c548e462f63499be7e59ff9f3d8e40.png]
+
+
+   Not a lot of research has been done on how our minds perceive
+   and comprehend large orders of magnitude—big differences
+   between the size of, say, a cell and our sun. But one academic
+   outwardly passionate about it is David Landy, assistant
+   professor of psychological and brain sciences at Indiana
+   University in Bloomington. Landy has done several studies on
+   how well people understand very large numbers—namely, the
+   millions, billions, and trillions—in relation to each other on
+   a number line.
+
+     “To me, the impressive thing is that people succeed at all.”
+
+   Short answer: About half the people he studied were pretty bad
+   with handling big numbers. In a 2013 [67]study, for example,
+   Landy and colleagues did two experiments that involved
+   estimating large numbers. The sample sizes weren’t huge, so
+   there’s some uncertainty about generalizing the results, but
+   they’re a start. They found that about half of participants did
+   pretty well in locating numbers on a line in relation to 1
+   million, 1 billion, etc. But about 35 percent of people in the
+   study used what the authors call a “segmented linear
+   heuristic.” That means they correctly distinguish between
+   numbers within the millions or billions, but assume that
+   “million,” “billion,” and “trillion” are equally spaced on a
+   number line. They were generally great at comparing the
+   relative sizes of numbers like 2 million and 800 million, but
+   many treated 980 million and 2 billion as nearly identical.
+
+
+   In other words, as long as you’re comparing numbers with the
+   same “label” or unit of magnitude—“million” to “million”—you’re
+   quite likely to do fine in estimating relative magnitude. But
+   things fall apart for many in comparing big numbers with
+   different labels—“million” to “billion.” Writing out one with
+   six or nine zeroes doesn’t help any more than saying “million”
+   or “billion,” either, Landy’s research has found. As for
+   powers-of-10 notation like 10^6, it can lead to even more
+   confusion, according to his unpublished work.
+
+   Of course, our ancient human ancestors didn’t live among
+   billions of people, or incur trillions of dollars of debt. The
+   orders of magnitude in their immediate surroundings were
+   limited to what they could experience firsthand. It’s not
+   surprising that we can intuitively visualize a 6-inch or 6-mile
+   distance, but 93 million miles to the sun seems…super far. So
+   Landy sympathizes with people who don’t get all of the number
+   line questions right. “To me, the impressive thing is that
+   people succeed at all,” he said.
+
+     “I probably have a better sense of what a solar mass (10^33
+     grams) is than say an ounce!”
+
+   That success is important because, as Landy’s studies have also
+   found, making errors of judgment about large numbers can have a
+   big impact on the way you view policies and government
+   decisions. The rationale goes like this: The National Science
+   Foundation [68]received $7.463 billion for fiscal year 2016
+   through the Consolidated Appropriations Act. The [69]total
+   United States budget outlay for 2016 was $3.54 trillion. If
+   you’re someone who perceives the difference between a billion
+   and a trillion as relatively small, you’d think the US is
+   spending a lot of money on the National Science Foundation—in
+   fact, depending on your politics, you might applaud the federal
+   government’s investment or even think it wasteful. But, if you
+   understand that a billion is a thousand times less than a
+   trillion, you can calculate that the Foundation got a paltry
+   0.2 percent of the budget outlay last year. (It may be more
+   straightforward to think of the budget as roughly one-half to
+   one-third of reported costs for the proposed US-Mexico border
+   wall, and let your values guide you from there.)
+
+
+   So how can we make large numbers more easily graspable? A group
+   at Microsoft is working on it.
+
+   Dan Goldstein, principal researcher, and Jake Hofman, senior
+   researcher, have been running experiments to see what kinds of
+   contextual clues—what they call “perspectives”—help people
+   grasp the meaning of large quantities like distances, dollar
+   amounts, population sizes, and more. In a 2016 [70]study,
+   Goldstein and Hofman, along with Pablo Barrio, a computer
+   scientist at Columbia University, crowdsourced suggestions for
+   perspectives related to quotes taken from the New York Times,
+   and then had participants rank their helpfulness. For a Times
+   excerpt relating to firearms that stated, “Americans own almost
+   300 million firearms,” the top-rated suggestion was: “To put
+   this into perspective, 300 million firearms is about 1 firearm
+   for every person in the United States.”
+
+
+     1 million seconds is nearly 12 days, whereas 1 billion
+     seconds is almost 32 years.
+
+   “We found that perspectives were pretty helpful in helping
+   people recall unfamiliar numbers that they had read, in
+   estimating numbers that they hadn’t seen before, and also in
+   detecting errors in potentially manipulated numbers,” Hofman
+   said. A second study, not yet published, suggests that
+   perspectives can have positive effects on the comprehension of
+   numbers even six weeks after initial exposure, the researchers
+   said.
+
+   When scientists navigate their way through extreme numbers in
+   their daily work, they aren’t constantly comparing enormous or
+   miniscule measurements to units of everyday life. Instead,
+   their fields have their own perspectives relative to different
+   units. Priyamvada Natarajan, professor of astronomy and physics
+   at Yale University, for example, said she operates in a totally
+   different frame of reference when thinking about large
+   distances and masses. A non-specialist might calculate that a
+   black hole with a mass 1 million times that of the sun would be
+   on the inconceivable order of 10^36 kilograms. But for
+   Natarajan, who routinely deals with these objects, a 1-million
+   solar mass black hole is a unit unto itself. In fact, “I
+   probably have a better sense of what a solar mass (10^33 grams)
+   is than say an ounce!” she wrote in an email. “It’s really a
+   question of getting comfortable with these large numbers by
+   really thinking of them relative to each other, not relative to
+   units that we are more familiar with,” she wrote. Jeff Karp,
+   associate professor of medicine at Brigham and Women’s Hospital
+   in Cambridge, Massachusetts, does research at the
+   nanoscale—billionths of meters, smaller than the width of a
+   human hair. It’s a bit like being immersed in a new language,
+   he said. “The more you submerse yourself into thinking about
+   things at the extreme size scale, and start doing these
+   comparisons, and start talking to others, and start reading—the
+   more comfortable you become,” he said.
+
+   Some insights that Goldstein and Hofman have gleaned from their
+   research have made their way into Microsoft’s Bing search
+   engine. For example, if you type in “area of” and then the name
+   of a country, you are likely to get a number in square miles
+   with a comparison to a US state underneath. Texas and
+   California are two of the states that research participants had
+   a good feel for in terms of area, Hofman and Goldstein said. So
+   it should be instructive to read on Bing that Afghanistan is
+   about the size of Texas and that Zimbabwe is about the size of
+   California. Some perspectives may need more work. Bing says
+   Argentina is “about 10 times the size of Nevada,” a state with
+   an area that may be less familiar than California’s. “At a low
+   level, almost any illustrative example helps,” Goldstein said.
+   “You can get very precise if you want to really come up with
+   accurate ones that are friendly on the mind.”
+
+   Cornell University mathematician Steven Strogatz, for instance,
+   asked people if they had a way to intuitively grasp the size
+   difference between 1 million and 1 billion—and they didn’t. He
+   didn’t find that surprising. In his New York Times [71]article
+   “Visualizing Vastness,” he writes, “Things that are so far
+   removed from our daily experience—like quarks, and dinosaurs,
+   and Kim Kardashian—are inherently hard to understand,” extreme
+   numbers included. But when he linked these numbers to time, it
+   brought things in perspective: 1 million seconds is nearly 12
+   days, whereas 1 billion seconds is almost 32 years. “Everybody
+   gets it when you say it like that,” he wrote in an email. “If
+   you just said 1 billion is three orders of magnitude greater
+   than 1 million, I don’t think it would make the same
+   impression.”
+
+
+   We live among vast orders of magnitude, but they don’t have to
+   be offputting. Rosling left an audience, in the 2013
+   [72]documentary Don’t Panic, with this message: “Look at the
+   data. Look at the facts about the world, and you will see where
+   we are today, and how we can move forward with all these
+   billions on our wonderful planet.”
+
+
+   Elizabeth Landau is a science writer and communications
+   specialist living in Pasadena, California. She holds an MA in
+   journalism from Columbia University and a BA in anthropology
+   from Princeton University. Follow her on
+   Twitter [73]@lizlandau.
+   Get the Nautilus newsletter
+
+
+   The newest and most popular articles delivered right to your
+   inbox!
+   ____________________
+   ____________________
+   Subscribe
+
+   ____________________
+
+   WATCH: The theoretical physicist Max Tegmark is suspicious of
+   infinity.
+
+   [460406482_640.jpg]
+   How to Understand Extreme Numbers
+
+

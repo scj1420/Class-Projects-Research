@@ -1,0 +1,156 @@
+John Friedlander and Henryk Iwaniec to receive 2017 AMS Doob prize
+
+   American Mathematical Society
+   Share
+    Print  E-Mail
+   IMAGE
+
+   IMAGE: John Friedlander and Henryk Iwaniec are the winners of
+   the 2017 American Mathematical Society's Joseph L. Doob Prize.
+   [113]view more
+
+
+   Credit: Photo: Olivier Ramaré
+
+   John Friedlander of the University of Toronto and Henryk
+   Iwaniec of Rutgers University will receive the 2017 AMS Joseph
+   L. Doob Prize. The two are honored for their book Opera de
+   Cribro (AMS, 2010).
+
+   The prime numbers, the building blocks of the whole numbers,
+   have fascinated humankind for millennia. While it has been
+   known since the time of Euclid that the number of primes is
+   infinite, exactly how they are distributed among the whole
+   numbers is still not understood. The Latin title of the
+   prizewinning book by Friedlander and Iwaniec could be
+   translated as A Laborious Work Around the Sieve, where in this
+   context a "sieve" is a mathematical tool for sifting prime
+   numbers out of sets of whole numbers.
+
+   The Sieve of Eratosthenes, dating from the third century BC, is
+   a simple, efficient method to produce a table of prime numbers.
+   For a long time, it was the only way to study the mysterious
+   sequence of the primes. In the early 20th century, improvements
+   came through the work of Norwegian mathematician Viggo Brun,
+   who combined the Sieve of Eratosthenes with ideas from
+   combinatorics. Tools from another branch of mathematics,
+   complex analysis, came into play through the work of English
+   mathematicians G.H. Hardy and J.E. Littlewood, and of the
+   iconic Indian mathematician Srinivasa Ramanujan (protagonist of
+   the 2016 film The Man Who Knew Infinity).
+
+   For 30 years, Brun's method and its refinements were the main
+   tools in sieve theory. Then, in 1950, another Norwegian
+   mathematician, Atle Selberg, put forward a new, simple, and
+   elegant method. As his method was independent of that of Brun,
+   the combination of the two gave rise to deep new results.
+
+   The latter part of the 20th century saw the proof of many
+   profound results on classical prime-number questions that had
+   previously been considered inaccessible. Among these was a
+   formula for the number of primes representable as the sum of a
+   square and of a fourth power, obtained by Friedlander and
+   Iwaniec in 1998.
+
+   With these developments, the time was ripe for a new book
+   dealing with prime-number sieves and the techniques needed for
+   their applications. Written by two of the top masters of the
+   subject, Opera de Cribro is an insightful and comprehensive
+   presentation of the theory and application of sieves. In
+   addition to providing the latest technical background and
+   results, the book looks to the future by raising new questions,
+   giving partial answers, and indicating new ways of approaching
+   the problems.
+
+   With high-quality writing, clear explanations, and numerous
+   examples, the book helps readers understand the subject in
+   depth. "These features distinguish this unique monograph from
+   anything that had been written before on the subject and lift
+   it to the level of a true masterpiece," the prize citation
+   says.
+
+   The two prizewinners collaborated on an expository article on
+   number sieves, "[114]What is the Parity Phenomenon?", which
+   appeared in the August 2009 issue of the AMS Notices.
+
+
+   Born in Toronto, John Friedlander received his BSc from the
+   University of Toronto and his MA from the University of
+   Waterloo. In 1972, he earned his PhD at Pennsylvania State
+   University under the supervision of S. Chowla. His first
+   position was that of assistant to Atle Selberg at the Institute
+   for Advanced Study. After further positions at IAS, the
+   Massachusetts Institute of Technology, the Scuola Normale
+   Superiore in Pisa, and the University of Illinois at
+   Urbana-Champaign, he returned to the University of Toronto as a
+   faculty member in 1980. He was Mathematics Department Chair
+   from 1987 to 1991 and since 2002 has been University Professor
+   of Mathematics. He was awarded the Jeffery-Williams Prize of
+   the Canadian Mathematical Society (1999) and the CRM-Fields
+   (currently CRM-Fields-PIMS) Prize of the Canadian Mathematical
+   Institutes (2002). He gave an invited lecture at the
+   International Congress of Mathematicians in Zurich in 1994. He
+   is a Fellow of the Royal Society of Canada, a Founding Fellow
+   of the Fields Institute, and a Fellow of the AMS.
+
+   Born in Elblag, Poland, Henryk Iwaniec graduated from Warsaw
+   University in 1971 and received his PhD in 1972. In 1976 he
+   defended his habilitation thesis at the Institute of
+   Mathematics of the Polish Academy of Sciences and was elected
+   to member correspondent. He left Poland in 1983 to take
+   visiting positions in the USA, including long stays at the
+   Institute for Advanced Study in Princeton. In 1987, he was
+   appointed to his present position as New Jersey State Professor
+   of Mathematics at Rutgers University. He was elected to the
+   American Academy of Arts and Sciences (1995), the US National
+   Academy of Sciences (2006), and the Polska Akademia
+   Umiejetnosci (2006, foreign member). He has received numerous
+   prizes including the Sierpinski Medal (1996), the Ostrowski
+   Prize (2001, shared with Richard Taylor and Peter Sarnak), the
+   AMS Cole Prize in Number Theory (2002, shared with Richard
+   Taylor), the AMS Steele Prize for Mathematical Exposition
+   (2011), the Banach Medal of the Polish Academy of Sciences
+   (2015), and the Shaw Prize in Mathematical Sciences (2015,
+   shared with Gerd Faltings). He was an invited speaker at the
+   International Congress of Mathematicians in Helsinki (1978),
+   Berkeley (1986), and Madrid (2006).
+
+
+   Presented every three years, the AMS Doob Prize recognizes a
+   single, relatively recent, outstanding research book that makes
+   a seminal contribution to the research literature, reflects the
+   highest standards of research exposition, and promises to have
+   a deep and long-term impact in its area. The prize will be
+   awarded Thursday, January 5, 2017, at the Joint Mathematics
+   Meetings in Atlanta.
+
+   ams.org/profession/prizes-awards/prizes.
+
+
+   Founded in 1888 to further mathematical research and
+   scholarship, today the American Mathematical Society fulfills
+   its mission through programs and services that promote
+   mathematical research and its uses, strengthen mathematical
+   education, and foster awareness and appreciation of mathematics
+   and its connections to other disciplines and to everyday life.
+
+   Disclaimer: AAAS and EurekAlert! are not responsible for the
+   accuracy of news releases posted to EurekAlert! by contributing
+   institutions or for the use of any information through the
+   EurekAlert system.
+   Share
+    Print  E-Mail
+
+   Media Contact
+
+   Mike Breen
+   [116]paoffice@ams.org
+   [117] @amermathsoc
+
+    [116] mailto:paoffice@ams.org
+
+     __________________________________________________________
+     __________________________________________________________
+
+
+

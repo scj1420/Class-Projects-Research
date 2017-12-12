@@ -1,0 +1,249 @@
+28 thoughts on “1.2 Trillion Ways to Play the Same Sudoku”
+
+    1. Liz on [30]January 4, 2017 at 5:35 am said:
+       As an avid sudoku fan (my fav:
+       🙂
+       Thank you
+       [32]Reply ↓
+    2. [33]anisioluiz2008 on [34]January 4, 2017 at 7:41 am said:
+       Reblogged this on [35]O LADO ESCURO DA LUA.
+       [36]Reply ↓
+    3. [37]Eric M. Sullenberger on [38]January 4, 2017 at 8:37 am
+       said:
+       I love the post, however I was thrown for a loop and had to
+       re-read to follow the explanation when you got to “Or, if
+       we want, we can consider not just individual columns, but
+       bands of columns, like this:”.
+       Personally I think it would have been clearer if the
+       diagrams you did after that used unique colors [not yellow,
+       blue & purple] from the prior set of puzzles and/or a
+       statement to the effect of, “Thus, just bY rearranging
+       columns, we’ve got 6” MORE possibilities to combine with
+       the 6^3 from rearranging columns giving, “6 x 6 x 6 x 6 new
+       possibilities. That’s 6^4, or 1,296.”
+       [39]Reply ↓
+
+            Thanks for the edit! Incorporated. I’ll change the
+            color int he diagrams if I get a chance, too
+            [42]Reply ↓
+    4. Alan on [43]January 4, 2017 at 8:58 am said:
+       The switching of columns and/or rows may result in legal
+       Sudoku variations but it would likely break the expected
+       symmetry of a Sudoku puzzle. For example if the starting
+       grid has cell (1,1) filled in with a number, then
+       aesthetics dictate that cell (9,9) also be provided. Most
+       Sudoku puzzle publishers would frown on a book that had
+       asymmetric puzzles. You could still do certain swapping to
+       retain symmetry and have more than enough variations, but
+       then the next question would solvers notice this and feel
+       like every puzzle had about the same solving strategy and
+       difficulty? It would be interesting to test.
+       [44]Reply ↓
+
+            It’s funny, I hadn’t really paid attention the
+            aesthetics of Sudoku before, but you’re totally right.
+            If you look at the initial position of Sudoku as a
+            collection of “filled” squares and “empty” squares
+            (ignoring the specific numbers), then it seems like
+            the puzzle is supposed to be preserved under a 180
+            degree rotation (and ideally under a 90 degree
+            rotation as well). That would cut down pretty
+            dramatically on the number of possibilities (though
+            how many orders of magnitude you lose, I’m not sure).
+            As for the solving question, my pet hypothesis is that
+            the different permutations of an “easy” puzzle would
+            actually feel different to solvers, because such
+            puzzles permit multiple strategies to solution, and a
+            random change is likely to elicit a new strategy from
+            you. But I’d expect that different permutations of a
+            “hard” puzzle would feel dully repetitive, because you
+            really would be using the same solving strategy over
+            and over. But you’re probably right that an actual
+            test would be in order!
+            [47]Reply ↓
+               o [48]John Cowan on [49]January 5, 2017 at 8:25 pm
+                 said:
+                 Similarly, crossword puzzles always have 180
+                 degree rotational symmetry, and furthermore are
+                 invariably odd squares. This has always been so,
+                 but nobody knows why: the diagramless word
+                 puzzles they descend from generally used
+                 symmetrical shapes, such as squares and diamonds
+                 (the first true crossword puzzle was a
+                 symmetrical diamond). Cryptic crosswords also
+                 have a convention that about half the letters in
+                 each word overlap with some other word: in
+                 American-style puzzles, of course, all the
+                 letters overlap.
+                 [50]Reply ↓
+    5. ianagol on [51]January 4, 2017 at 10:51 am said:
+       One thing you need to consider is the stabilizer of the
+       Sudoku board. Some symmetries might give back the same
+       Sudoku. Then you need to divide by the order of the
+       stabilizer group to get the actual number of different
+       Sudoku boards. It’s possible that the stabilizer is
+       trivial, but this would require some proof.
+       [52]Reply ↓
+
+            Yeah, that’s a good point. My hunch is that the
+            “generic” Sudoku would have a small stabilizer (maybe
+            just the identity) but that you could probably
+            construct special cases with much larger stabilizers.
+            Merits further thought.
+            [55]Reply ↓
+               o Tom Collyer on [56]January 4, 2017 at 5:52 pm
+                 said:
+                 I did this calculation a few years back (and came
+                 to the same answer, and glibbly skipped over the
+                 stabiliser. My feeling is that non-trivial
+                 stabilisers are quite rare both in general, and
+                 for those puzzles with given clues in a symmetric
+                 pattern (as is the “norm”).
+                 I’m not sure it’s possible to get stabilisers
+                 bigger than order 2 (a 180 degree rotation being
+                 the same thing as a permutation of the symbols)
+                 where the puzzle has a unique solution – by
+                 uniqueness the non trivial stabiliser would also
+                 have to preserve the fully solved grid which
+                 feels like a fairly unlikely thing to do.
+                 [57]Reply ↓
+                      said:
+                      Actually, these calculations were all done a
+                      few years ago – see
+                      oku/. The total number of grids was worked
+                      out, and the total number of “essentially
+                      different” grids – and when you divide the
+                      first by the second, you get
+                      1218935174261.0998…., which is very near
+                      your 1218998108160. And the page
+                      oku/sudgroup.html works out all the
+                      stabilisers – it looks like the orders of
+                      permutations in the stabiliser must be 1, 2,
+                      3, 4, 6 or 9, although perhaps some grids
+                      have stabilisers whose size is a product of
+                      some of these.
+    6. [61]zachdcox on [62]January 4, 2017 at 10:53 am said:
+       i wonder about Sudoku too, here are a few things:
+       If the puzzle does not have a unique solution then it
+       probably is never included in the newspaper or in a puzzle
+       book. And I expect that any of the symmetries above would
+       never produce a puzzle that did not have a unique solution
+       if it started with a unique solution, and conversely no
+       symmetry would change a puzzle that had no unique solution
+       to one that did.
+       There are different ‘difficulty’ ratings. I wonder how they
+       are determined. For example the one in the post seems to
+       have a pretty easy rating. I could solve it by just working
+       my way through the numbers in a straightforward way.
+       I wonder if any of the symmetries of the above puzzle would
+       result in a change to the difficulty level.
+       I think the answer is no.
+       I’ve read different strategies and some are most definitely
+       more complex than just looking at the numbers in turn and
+       filling in the obvious choices.
+       [63]Reply ↓
+
+            The symmetric puzzle would have the exact same clues
+            to solve it and so should be the exact same
+            difficulty. From one point of view it is the same
+            puzzle. It just looks different.
+            Regarding unique solutions, it is a tactic to assume
+            that there is a unique solution. There are times where
+            the choice of a number to go in one box would leave
+            you in a place were it will be impossible to find a
+            unique solution. And since we assume there is a unique
+            solution we can reject that choice.
+            [65]Reply ↓
+    7. Doug M on [66]January 4, 2017 at 12:55 pm said:
+       A detailed description of yesterday!
+       [67]Reply ↓
+
+            I know, I’m a big yesterday fan! I miss the days when
+            “yesterday” was still seen as fresh stuff.
+            [70]Reply ↓
+    8. Pingback: [71]How Can I Teach Math If I Don’t Understand
+       It? | Denise Gaskins' Let's Play Math
+    9. nancy h calì on [72]January 4, 2017 at 6:57 pm said:
+       Thanks for the interesting post! I’ve often wondered how a
+       game designer knows just how many (and which) numbers to
+       give as clues in a Sudoku puzzle, to ensure that there’s
+       enough information to solve it and that there is only one
+       solution. Is this determinable by mathematical analysis,
+       too?
+       [73]Reply ↓
+   10. Ross Presser on [74]January 4, 2017 at 7:31 pm said:
+       When I first read “different ways to play the same Sudoko”
+       I was thinking about a different kind of variation. Instead
+       of considering how you can shuffle the starting,
+       non-filled-in Sudoku, I was thinking about how many
+       different puzzles you can make given one solution. That’s
+       not really enough to well define the question, I guess; a
+       Sudoko with just one cell blank shouldn’t count. But
+       perhaps you see what I am driving at.
+       [75]Reply ↓
+
+            I thought the same! How many ways to remove numbers
+            while still leaving a unique solution.
+            [77]Reply ↓
+   11. [78]rgr on [79]January 5, 2017 at 2:41 am said:
+       I can tell you how I generate Sudokus in my Android App. It
+       is done on the device itself.
+       I fill in very few random numbers, and find a solution of
+       this Sudoku “problem”. I then remove numbers from the
+       solution until it gets non-unique. Surprisingly, this is
+       fast enough to be done on a handheld.
+       Rene
+       [80]Reply ↓
+   12. [81]tjohnson314 on [82]January 5, 2017 at 4:20 am said:
+       In case you’re curious, one of the professors in my group
+       at UC Irvine wrote his own program to generate Sudoku
+       I haven’t looked at it in detail, but I believe it does the
+       following:
+       – Generate a random Sudoku puzzle.
+       – Check that it has exactly one solution.
+       – Check that that solution can be reached by following
+       various common strategies used by humans, so it can be
+       solved without trial and error.
+       [84]Reply ↓
+   13. Gustavo Woltmann on [85]January 7, 2017 at 9:55 am said:
+       Sudoku game is not for everybody. You need to have sense
+       and be pretty smart for solving Sudoku games. Otherwise,
+       you will be solving only easy Sudoku games forever.
+       [86]Reply ↓
+   14. [87]Mike Loukides (@mikeloukides) on [88]January 8, 2017 at
+       9:20 am said:
+       This makes me wonder: if roughly 10^12 puzzles can be
+       generated from any puzzle, how many unique puzzles are
+       there? I.e., given the space of all Sudoku puzzles, how
+       many seed puzzles (or archetypes, or whatever you want to
+       call them) does it take to generate that space? Wouldn’t it
+       be fascinating if the answer is 1? (I doubt that’s the
+       case, but it would be fascinating.)
+       [89]Reply ↓
+   15. Pingback: [90]Writing Break 1/8 – 1.2 Trillion Ways to Play
+       the Same Sudoku | Arrowhead Freelance and Publishing
+   16. [91]Kufx Khkh on [92]February 7, 2017 at 8:58 pm said:
+       Wouldn’t there be a gazillion more if you chose how many
+       numbers to provide each time? (Would be difficult to know
+       exactly which numbers and how many numbers to take away,
+       but mentioning this would emphasize your point waaaaa…y
+       more.) And wouldn’t you have to subtract overlapping
+       puzzles from that total? If some puzzles are rotated, can’t
+       they end up like other puzzles?
+       [93]Reply ↓
+   17. [94]The Doctor on [95]March 16, 2017 at 7:03 pm said:
+       I’m not a sudoku player (More of a logic person, really. No
+       numbers, ever.), but that’s really interesting.
+       [96]Reply ↓
+
+            said:
+            Sudoku is pure logic. As he mentioned, you can switch
+            the numbers out for any collection of nine symbols.
+            [99]Reply ↓
+   18. [100]gregsdennis on [101]March 29, 2017 at 11:36 pm said:
+       I just found your blog today, and I love it. It’s xkcd, but
+       with math instead of physics and tech.
+       [102]Reply ↓
+
+
+

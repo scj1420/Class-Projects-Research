@@ -1,0 +1,210 @@
+Quantized
+
+     A [13]monthly column in which top researchers explore the
+     process of discovery. This month’s columnist, Ingrid
+     Daubechies, is the James B. Duke Professor of Mathematics
+     and Electrical and Computer Engineering at Duke University.
+
+
+   There’s no single starting point for the story, as mathematical
+   image analysis has been in use for years, and in many guises.
+   But a key event was the restoration of another masterpiece, and
+   the settling of a question that had divided art historians for
+   decades.
+
+   In the 15th century the brothers Hubert and Jan van Eyck
+   created the [14]Ghent Altarpiece, a grand work of art that
+   consists of 12 panels, eight of them connected by hinged
+   shutters. When the polyptich is closed, the far right panel at
+   middle height shows an Annunciation scene; in the background,
+   propped up on a stand, is the page of a book with medieval
+   writing. It was not clear, however, whether the van Eycks had
+   painted only a book’s symbolic representation or its actual
+   text. If the latter, then art historians wanted to identify
+   that text.
+
+
+   The portion of the painting in question is covered with fine
+   cracks in shades of brown, very similar to the paint used for
+   the letters themselves, with many cracks slanted in directions
+   similar to the strokes of the letters. These cracks impeded the
+   reading of the putative text, even by experts in deciphering
+   manuscripts in the hard-to-read medieval writing.
+
+   In 2010, art conservators began an extensive restoration
+   campaign of the Ghent Altarpiece. As part of this project, the
+   panels [15]were photographed with exquisitely high precision.
+   Here was the chance to decipher the putative text of the
+   polyptich. My colleagues and I were asked by the art historian
+   Maximiliaan Martens whether we could, with such high-resolution
+   scans, bring mathematics to bear on the problem.
+
+
+   Our work consisted of two main steps: finding a way to
+   automatically detect the numerous cracks, and then in-painting
+   (or eliminating) them. The latter was handled with
+   state-of-the-art methods developed by others. But detecting the
+   cracks turned out to be a harder nut to crack. In the end, we
+   had to rely on X-ray images of the panels, in which the cracks
+   stood out the best, and a combination of several filtering
+   methods, each adapted to the data.
+
+   After in-painting the cracks, the resulting would-be text
+   looked as undecipherable to us as before. But not to
+   paleographers. They identified 12 word groups that made it
+   clear that the van Eycks had painted an actual text. To the
+   delight of the art historians, they identified it as a
+   theological text written by Thomas Aquinas on the Annunciation
+   and copied by scribes in Flanders at the start of the 14th
+   century.
+
+   The experience we gained on this project would prove critical
+   for the Ghissi Reunification project. In preparing for the
+   exhibition, Dutch artist and art reconstruction expert
+   [16]Charlotte Caspers was commissioned to paint a replacement
+   for the lost panel. Together with NCMA curator David Steel, she
+   designed a composition in Ghissi’s style; the subject of the
+   scene was determined from the Golden Legend, a medieval
+   bestseller chronicling lives of saints and the source material
+   for the first seven small panels.
+
+
+   When the replacement panel was ready, it vividly demonstrated
+   how bright and sparkling the altarpiece must have been when it
+   was new. But it also became apparent that the Caspers panel
+   could not simply be displayed next to the other eight panels in
+   the same frame. It would distract the viewer too much from the
+   aged and discolored originals, though they were authentic in a
+   way the new panel was not.
+
+   Mathematical analysis allowed us to help. After studying the
+   old panels as well as the new, we made a high-resolution
+   digital version of the new panel in which the gold looked
+   duller and the colors more subdued to mimic 650 years of aging
+   pigment. We also added a believable crack pattern. In short, we
+   virtually aged the panel. A printout of this aged version now
+   completes the St. John Altarpiece.
+
+   The same technical analysis can also be applied in the reverse
+   direction: After fine-tuning the digital image manipulations to
+   make the transition from new to old, we also wanted to take
+   high-resolution images of the existing panels and map their
+   old, aged colors to corresponding “freshly painted” versions,
+   thus rejuvenating the 14th-century work. Importantly, we also
+   needed to detect and in-paint the cracks, something we had
+   learned how to do with the Ghent Altarpiece.
+
+   In the Ghent crack-removal work, X-ray images of the altarpiece
+   had proven essential, so we asked the NCMA conservators for
+   X-ray photos of the St. John Altarpiece panels. The most
+   dominant feature in each of these X-ray photographs was an
+   annoying overlaid lattice structure. This, it turned out, was
+   due to cradling, a fairly standard conservation practice in the
+   19th and early 20th centuries. To reduce warping, conservators
+   planed the thickness of the wood-panel support of old European
+   paintings, down to one centimeter or even less. To the back of
+   the resulting, thinner board, they then attached a hardwood
+   lattice or cradle. This lattice consisted of fixed members in
+   the direction of the wood grain of the board and sliding
+   members perpendicular to the wood grain that tunneled through
+   the fixed members.
+
+   Cradling did not hold up over time. In extreme cases, wood
+   panels have reacted to the stress constraints of cradling by
+   developing such large cracks that specialists are called in to
+   carefully remove the cradle and replace it with a less rigid
+   support structure that allows the panel its natural warping
+   freedom. It’s a very tricky and expensive process.
+
+   To the annoyance of conservators, the cradle lattice structure
+   hides from view the painting and conservation repair details
+   that one usually tries to glean from X-ray pictures. When we
+   wondered whether mathematical analysis and image processing
+   could possibly help in removing these artifacts virtually, our
+   tentative suggestions were met with fervent enthusiasm, and art
+   conservators in several different museums volunteered a variety
+   of data for us to try out our ideas. Especially helpful were
+   rare instances of X-ray images of the same painting with and
+   without cradling, crucially important for verifying our
+   computational results. [17]Rujie (Rachel) Yin, a graduate
+   student in mathematics at Duke University, led the work.
+
+
+   This project turned out to be our biggest challenge yet. One
+   complication is that wood grain varies a lot, even within one
+   piece of wood. This makes it hard to identify a wood grain
+   texture reliably when other fine-grained and elongated textures
+   are present as well — as is likely in an X-ray of a painting
+   that reveals brushstroke patterns that the conservators want to
+   distinguish better. The aim of removing only cradle wood grain
+   makes the task extra challenging, since that wood grain is
+   never observed in isolation. The cradled regions contain the
+   wood grain of both panel and cradle, while cradle-free regions
+   contain wood grain from only the panel. (Sadly, identifying
+   this grain pattern isn’t much help, since the panel’s grain
+   will be different, just a few centimeters over.)
+
+   We turned to machine-learning algorithms to separate the
+   features into those more likely to pertain to the panel and
+   others more likely from the cradle. The algorithm that we
+   developed achieves good results when the cradle and panel
+   wood-grain textures are reasonably different. Unfortunately in
+   the Ghent Altarpiece, the same wood — Flemish oak — was used
+   for both the panel and the cradle, and the algorithm has some
+   trouble parsing the grain. In addition, the algorithm is quite
+   slow.
+
+   Fortunately, the target users are among the most patient people
+   on the planet: Art conservators typically don’t bat an eyelid
+   at having to clean paintings with Q-tips and distilled water,
+   so having to let an algorithm run for a few hours is perfectly
+   acceptable to them. Yin’s proof-of-concept code has since been
+   transformed into a more robust version, with an interface that
+   can be used by art conservators; the [18]open-source software
+   can be freely downloaded.
+
+
+   In the new exhibition, both new and old versions of the
+   altarpiece are shown on a large video screen, alongside short
+   documentaries featuring the image processing and a (very
+   impressionistic) explanation of the mathematics that went into
+   the rejuvenation and “aging” processes.
+
+   We are now working on other problems. For instance, in those
+   rare cases in the 19th century when a wood panel, painted on
+   both sides, was not split, so that both sides could be
+   displayed simultaneously, the X-ray image of the panel shows
+   all the typical details that stand out more than they do in a
+   visible-light picture — but for both sides, mixed. Can one
+   split this into two virtual X-ray images, using as side
+   information the two visible-light pictures? This is again a
+   challenging problem, and we have preliminary results, but hope
+   to become better at it. Other problems await as well.
+
+   So far, our work with art historians and art conservators has
+   provided interesting mathematical problems that have already
+   led us far beyond a simple application of off-the-shelf tools.
+   We have not yet had to build new mathematical theory, but I
+   expect it is just a matter of time; I would be willing to stake
+   a serious bet that it will happen in the next 10 years. And I
+   also bet that 10 years ago, none of our collaborators from the
+   art world would have predicted the value of mathematics in
+   their own work.
+
+   They have discovered what we always knew — that math is
+   everywhere.
+
+   This article was reprinted on [19]Wired.com.
+
+
+   Save
+
+   Save
+
+   Save
+
+   Save
+
+   Save
+
+

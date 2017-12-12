@@ -1,0 +1,123 @@
+[15]Teaching for Tricks or Sensemaking
+
+
+   By [16]Dan Meyer • September 21, 2016 • [17]50 Comments
+
+
+   IFRAME:
+   =1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=tr
+   ansparent
+
+
+   Here are two approaches to teaching zero exponents that are
+   worth comparing and contrasting:
+
+   First, [19]a Virtual Nerd video:
+
+
+     Once you have your non-zero number or variable picked out,
+     put it to the zero power. Now no matter what number or
+     variable you picked, once you put it to the zero power, I
+     know what the answer is. One. How do I know this? Well in
+     math, if we put any non-zero number or variable to the zero
+     power it always equals one. No matter what.
+
+   Second, [20]Cathy Yenca’s activity, which has students
+   completing the following table:
+
+
+   [21]160921_1
+
+
+   One approach will lead students to understand that math is a
+   fragile set of rules that have to be transmitted and validated
+   by adults. The other will help students realize that these
+   rules are strong and flexible, and exist to make math
+   internally coherent, with or without any adults around.
+
+   BTW. This is as good a time as any to re-mention [22]Nix the
+   Tricks, the MTBOS’s collection of meaningless math tricks and
+   great strategies for teaching those concepts with meaning
+   instead.
+
+
+   BTW. Check out [23]Cathy Yenca’s own post on the comparison.
+
+
+   BTW. Check out [24]the comments on that YouTube video.
+   Interesting, right? What do we do with that?
+
+
+   Featured Comment
+
+   [25]Tracy Zager:
+
+     I wrote a story about this exact moment in my book. Cliffs
+     notes version: 8th grade. Mr. Davis told us the rule a^0=1.
+     I questioned why. “Because that’s the rule.” I said, “But
+     why?” Stern voice now. “Because that’s what’s I just told
+     you.” The first boy I’d ever kissed said, “Give it up T!
+     It’s in the book, that’s why!” Everybody laughed. Me too, on
+     the outside. Not on the inside. On the inside I was angry
+     and frustrated and humiliated. If I write my math
+     autobiography, this moment goes in it. It’s one of the
+     moments math lost me.
+
+     By the way, my favorite way to see the pattern Cathy shows
+     here is with Cuisinaire rods. You literally go from cubes to
+     squares to rods to single unit squares. It’s this amazing
+     moment to see one as the fundamental unit.
+
+     But I didn’t get to see that in 8th grade. I didn’t see that
+     until my late 30s.
+
+     The saddest part? Most kids don’t try again after they’re
+     burned. They never come back. The
+     not-quite-saddest-part-but-still-sad-part? I doubt Mr. Davis
+     ever learned why either.
+
+     That’s the biggest legacy of that story to me, as a teacher.
+     How do we handle the moment when it becomes clear, in front
+     of the class, that we don’t understand some math we thought
+     we understood? Do we handle it like Mr. Davis did, and view
+     kids’ questions as challenges to our expertise and
+     authority? Or do we say, “You know, your question is making
+     me realize I don’t understand this as deeply as I thought I
+     did. That’s awesome, because now I get to learn something.
+     Let’s figure it out together.”
+
+   [26]Kent Haines:
+
+     Something that has been effective for me (that I mention in
+     the video above) is to really emphasize that 1 is the origin
+     and invisible starting point of all multiplication problems.
+
+   [27]Scott Farrand offers another helpful way for students to
+   make sense of zero exponents:
+
+     There’s a truly great old lesson on exponentiation that I
+     believe comes from Project SEED, that has been used with
+     amazing success in hundreds of elementary classrooms.
+
+   [28]education realist brings up [29]a Ben Orlin post that
+   includes a) a beautiful technique for teaching lots of rules of
+   exponentiation and b) this beautiful paragraph:
+
+
+     Math’s saving grace, though, is that it can make us feel
+     smart for another reason: because we’ve mastered an ancient,
+     powerful craft. Because we’ve laid down rails of logic, and
+     guided a train of thought smoothly to its destination.
+     Because we’re masters—not over our peers, but over the deep
+     patterns of the universe itself.
+
+   [30]uncategorized
+
+
+   About [31]Dan Meyer
+   I'm Dan and this is my blog. I'm a former high school math
+   teacher and current head of teaching at [32]Desmos. [33]More
+   here.
+
+
+

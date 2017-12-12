@@ -1,0 +1,720 @@
+75 Responses to Kosterlitz–Thouless Transition
+
+    1. [40]stasheff says:
+       [41]7 October, 2016 at 8:09 pm
+       Thanks.
+       [42]Reply
+
+            [44]7 October, 2016 at 8:15 pm
+            That’s fine as far as it goes, but how about
+            enlightening us about the relevance of braid group
+            reps?
+            [45]Reply
+
+            [47]7 October, 2016 at 8:57 pm
+            That’s another story! For what Kosterlitz, Haldane and
+            Thouless did, this is very good:
+            • The Nobel Prize in Physics 2016, [48]Topological
+            phase transitions and topological phases of matter.
+            You won’t see any braid group representations in here.
+            However, you’ll see how they laid the groundwork, by
+            showing how the first Chern class and U(1)
+            Chern–Simons theory are important in 1-dimensional and
+            2-dimensional magnetic materials.
+            [49]Reply
+    2. [50]João Streibel says:
+       [51]7 October, 2016 at 9:21 pm
+       Thank you!
+       [52]Reply
+    3. [53]kram1032 says:
+       [54]7 October, 2016 at 9:38 pm
+       What do you mean by “mirror image”?
+       As far as I can tell from these pictures, mirroring a
+       vortex will just cause it to change direction, i.e. it will
+       still be a vortex but, if you look at it from above the
+       thin film and it spun around clockwise, after mirroring
+       (or, which should be equivalent, changing your perspective
+       to looking at the same film from below), you’ll get a
+       vortex which spins counterclockwise and vice versa.
+       Now for the anti-vortex, things seem a little bit more
+       complicated. I can seemingly identify four different axes –
+       a) two along the diagonals, b) two as far off them as
+       possible – with two different outcomes:
+       Mirroring along a) will not change the system at all.
+       Mirroring along b) will also reverse direction.
+       And I’m currently not able to imagine what happens if you
+       look at the same structure from below but I think it might
+       end up reversing the direction just like for normal
+       vortices.
+       Here is another puzzle: What about higher winding numbers?
+       I tried scribbling on paper and I think I found a shape
+       that basically traces out a lemniscate which should
+       correspond to a vortex of winding number 2.
+       I think I, by a similar process, also found something with
+       winding number -2 which seems to look like the above
+       anti-vortex in its hyperbolic-plane-y pattern but with a
+       total of six spokes instead of four, if that makes sense.
+       Do these also occur? Can it happen, that you, for instance,
+       spontaneously get two anti-vortices and a 2-vortex, where
+       the 2-vortex stays in place and the two anti-vortices fly
+       apart?
+       Or alternatively, once you are in this new phase where
+       these things become common, will two vortices or
+       anti-vortices merge to become 2-vortices or -2-vortices
+       respectively?
+       [55]Reply
+
+            [57]8 October, 2016 at 1:42 am
+            kram1032 wrote:
+
+
+     What do you mean by “mirror image”?
+            I mean that we take the picture, hold it in front of
+            us facing away, and look at its image in a mirror. For
+            example, the mirror image of this:
+            [vortex.jpg?w=250]
+            is this:
+            [reflected_vortex.jpg?w=250]
+            [58]Reply
+               o [59]Kram Einsnulldreizwei says:
+                 [60]8 October, 2016 at 11:23 am
+                 So then it’s exactly what I worked out in my
+                 reply above.
+                 [61]Reply
+               o [62]John Baez says:
+                 [63]9 October, 2016 at 10:31 pm
+                 Oh, so “kram1032” is you! Hi!
+                 Yes, your solutions seem correct. I just didn’t
+                 want to give away the answers prematurely.
+                 One can certainly draw vector fields with larger
+                 winding number, either positive or negative. I’m
+                 fairly sure that, like the basic vortex and
+                 antivortex configurations, these ‘n-vortices’
+                 will have infinite energy unless n is zero.
+                 I don’t really know anything about these
+                 n-vortices. I would guess that below the
+                 Kosterlitz-Thouless transition there’s a pretty
+                 good description of the system as a gas of
+                 vortex-antivortex pairs, and above it as a dense
+                 plasma of vortices and antivortices, without any
+                 need to consider n-vortices with |n| > 1.
+                 However, I could easily be wrong! I haven’t read
+                 any of the extensive literature on this subject!
+                 [64]Reply
+                      [66]14 October, 2016 at 10:04 pm
+                      Oh whoops I forgot my name differs in g+,
+                      heh. Didn’t even think about how that could
+                      not have been clear, sorry.
+    4. Linda A. says:
+       [67]7 October, 2016 at 11:07 pm
+       Thank you for the excellent explanation!
+       [68]Reply
+    5. [69]anitachowdry says:
+       [70]8 October, 2016 at 12:25 am
+       Fascinating images.
+       [71]Reply
+
+            [73]8 October, 2016 at 1:34 am
+            Thanks. But we should thank Richard Skinner!
+            There are many more images that should be included
+            here, which I can see in my mind. Let me describe two:
+            1) Start with this:
+            [vortex.jpg?w=250]
+            Then, rotate each arrow about its tail at the same
+            rate. At any moment in time we’ll have a picture that
+            physicists would call a vortex—but they’ll look
+            dramatically different.
+            2) Start with this:
+            [anti-vortex.jpg?w=250]
+            Then, rotate each arrow about its tail at the same
+            rate. At any moment in time we’ll have a picture that
+            physicists would call an antivortex—but they’ll look
+            dramatically different.
+            In case anyone wants to animate these, here’s the
+            math. In the first case, at each point with polar
+            coordinates (r,\theta) = (r_0, \theta_0) we draw a
+            unit vector pointing in the direction
+            \theta = \theta_0 + t at time t. In the second case,
+            at each point with polar coordinates (r,\theta) =
+            (r_0, \theta_0) we draw a unit vector pointing in the
+            direction
+            \theta = -\theta_0 + t at time t.
+            [74]Reply
+               o Simon Burton says:
+                 [75]8 October, 2016 at 5:47 pm
+                 Ah, so this is important because we are supposed
+                 to think of these vortices as being somehow the
+                 same: it’s the U(1) gauge degree of freedom.
+                 [76]Reply
+               o [77]John Baez says:
+                 [78]8 October, 2016 at 8:10 pm
+                 Right, in the [79]Landau–Ginzburg model of a 2d
+                 superconductor, the field usually called
+                 \psi \colon \mathbb{R}^2 \to \mathbb{C}
+                 is a unit complex number at the minimum of its
+                 potential, so we get a field of unit vectors on
+                 the plane. Rotating all these vectors by the same
+                 angle counts as a ‘global gauge transformation’:
+                 that is, we get a new field that counts as
+                 physically equivalent.
+                 We can also take a continuum limit of the
+                 [80]classical XY model, and get a simple model of
+                 a 2d ferromagnet in which the atom’s spins are
+                 described by a field of unit vectors on the
+                 plane, which we can think of as a field of unit
+                 complex numbers:
+                 \psi \colon \mathbb{R}^2 \to \mathbb{C}
+                 and the energy is
+                 \displaystyle{ \int \int |\nabla \psi|^2 \; dx dy
+                 }
+                 Rotating all the these unit complex numbers by
+                 the same angle gives a new field with the same
+                 energy. So, it’s a symmetry of the theory!
+                 This symmetry also preserves the ‘winding
+                 number’, which is computed as an integral around
+                 a large circle in the plane: it’s a way to
+                 precisely define the number of vortices minus the
+                 number of antivortices.
+                 [81]Reply
+               o Simon Burton says:
+                 [82]9 October, 2016 at 7:00 am
+                 The negative vortices look like the gradient of a
+                 scalar field with a saddle point, and using the
+                 U(1) symmetry we can transform the positive
+                 vortices into the gradient of a local minima or
+                 maxima. What’s going on here? If I keep thinking
+                 about this does it lead to something fancy like
+                 Chern-Simons theory?
+                 [83]Reply
+                      [85]10 October, 2016 at 7:15 pm
+                      Chern–Simons theory is certainly related to
+                      the work of Kosterlitz, Thouless and
+                      especially Haldane. Only U(1) Chern–Simons
+                      theory shows up, and that makes it a lot
+                      simpler than if we had a nonabelian gauge
+                      group. The easiest way to get started is to
+                      read this:
+                      • The Nobel Prize in Physics 2016,
+                      [86]Topological phase transitions and
+                      topological phases of matter.
+                      It’s really quite well-written.
+                      The connection to saddle points, local
+                      maxima and local minima is simpler. For
+                      that, try this:
+                      • Wikipedia, [87]Index of a vector field.
+
+            [89]8 October, 2016 at 10:13 am
+            Here’s an animation of the rotating version John
+            described:
+            [vortices.gif]
+            [90]Reply
+               o [91]Kram Einsnulldreizwei says:
+                 [92]8 October, 2016 at 11:26 am
+                 this looks really neat!
+                 It’s a little weird, though, that the arrows seem
+                 to not only rotate, they also shift around.
+                 [93]Reply
+               o [94]John Baez says:
+                 [95]8 October, 2016 at 7:48 pm
+                 I think that “shifting” is an optical illusion.
+                 Knowing Greg, he would have firmly nailed the
+                 tail of each arrow to a fixed location. The tails
+                 would still seem to shift, since our eyes’ main
+                 way of locating an object is relative to other
+                 objects, and the heads of the arrows are moving
+                 around.
+                 [96]Reply
+
+            [98]8 October, 2016 at 3:44 pm
+            Is there a specific reaon for rotating the arrows
+            around their tail? Greg’s animations made me dizzy!
+            Here’s my attempt where I rotate the arrows around
+            their centre.
+            [99][nobel.gif]
+            [100]Reply
+               o [101]John Baez says:
+                 [102]8 October, 2016 at 7:46 pm
+                 Nice! Okay, now I get it. Rotating the arrows
+                 around their midpoints rather than their tails is
+                 less creepy—it feels less like a drug trip scene
+                 in an old 1950’s movie, where the walls are
+                 bending.
+                 [103]Reply
+
+            [105]9 October, 2016 at 12:12 pm
+            Here’s the anti-vortex version with arrows spinning
+            around their centre.
+            [106][nobel_2.gif]
+            [107]Reply
+               o [108]John Baez says:
+                 [109]9 October, 2016 at 5:00 pm
+                 Thanks, Simon. Very nice!
+                 Puzzle 3: As these unit vectors rotate, at what
+                 moments do we get a vector field that’s obtained
+                 by normalizing a vector field with curl zero?
+                 [110][nobel.gif]
+                 Puzzle 4: As these unit vectors rotate, at what
+                 moments do we get a vector field that’s obtained
+                 by normalizing a vector field with curl zero?
+                 [111][nobel_2.gif]
+                 I thought of these puzzles because at certain
+                 moments, these unit vector fields are obtained by
+                 normalizing rather famous curl-free vector
+                 fields. I don’t know of any deep significance,
+                 but there could be one.
+                 [112]Reply
+               o Pramodh Senarath Yapa says:
+                 [113]23 February, 2017 at 2:46 am
+                 Hey Simon, can I ask how you made this animation?
+                 I want to make a few gifs like this, but I don’t
+                 know which program would be best to use. Is there
+                 anything you could recommend? Thanks!
+                 [114]Reply
+                      [116]25 February, 2017 at 10:04 am
+                      I used maple because that’s what I’ve been
+                      using for many years and find it second
+                      nature (although I’ve been trying to switch
+                      to SageMath of late). You can find my maple
+                      code here:
+                      ncafe/vortices.mpl
+                      It ought to be reasonably (!)
+                      self-explanatory, but do ask if you want
+                      anything explaining.
+    6. [118]Uwe Stroinski says:
+       [119]8 October, 2016 at 8:20 am
+       Very interesting.
+       Can you say some words about what your cobordism hypothesis
+       is (or was before it became a theorem) and whether and how
+       it fits in here?
+       [120]Reply
+
+            [122]8 October, 2016 at 3:32 pm
+            The cobordism hypothesis arose from attempts to
+            classify topological quantum field theories. Very
+            roughly, a field theory is called “topological” if
+            it’s invariant under all diffeomorphisms of spacetime.
+            The theory studied by Kosterlitz and Thouless is not
+            topological in this sense. However, it introduced
+            topological considerations into condensed matter
+            physics in a way that ultimately led to a very
+            fruitful interaction between that subject and
+            topological quantum field theory.
+            As for what the cobordism hypothesis is, my best
+            explanation is here:
+            • John Baez and James Dolan, [123]Higher-dimensional
+            algebra and topological quantum field theory, Jour.
+            Math. Phys. 36 (1995), 6073–6105.
+            [124]Reply
+               o [125]Uwe Stroinski says:
+                 [126]9 October, 2016 at 7:22 am
+                 Ah …. so many meanings of “topological”. Thank
+                 you for the clarification.
+                 [127]Reply
+               o [128]John Baez says:
+                 [129]9 October, 2016 at 5:02 pm
+                 It turns out that the most exciting qualitative
+                 properties of topological phases are often
+                 summarized by topological quantum field theories,
+                 even for phases arising from theories that are
+                 not themselves topological.
+                 [130]Reply
+    7. theo says:
+       [131]8 October, 2016 at 8:44 am
+       Looking at the mirror for helical vortices/antivortices is
+       the same as rotating the picture around x or y axes. So
+       here, parity is changed by a 180 deg rotation.
+       [132]Reply
+    8. Simon Burton says:
+       [133]8 October, 2016 at 6:04 pm
+       I had a bit of fun trying to simulate this system. Here is
+       what I ended up with:
+
+
+       IFRAME:
+       l=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=
+       1&wmode=transparent
+
+
+       Positive vortices are blue, and negative vortices are green
+       (it’s not totally accurate because the lattice is
+       discrete.) It looks like vortices attract, which makes
+       sense given your description of the infinite energy of an
+       isolated vortex. The temperature is way below the
+       Kosterlitz–Thouless transition. Raising the temperature to
+       that point it just becomes a big mess.
+       [135]Reply
+
+            [137]9 October, 2016 at 5:28 pm
+            Excellent! Yes, a vortex will attract an antivortex,
+            since their total energy goes to infinity as you pull
+            them apart taking their distance to infinity.
+            Now that I think of it, this is similar to how a
+            quark-antiquark pair in a meson increases in energy
+            roughly linearly as you pull them apart. In that
+            situation the field energy is concentrated in a ‘flux
+            tube’ connecting the quarks. Eventually there’s enough
+            energy to create a new quark-antiquark pair: the flux
+            tube gets cut into two shorter flux tubes.
+            (I don’t have a good mental image of where the field
+            energy lies when you have a distant vortex-antivortex
+            pair, so I don’t know if it mainly lies in a ‘tube’
+            connecting the two.)
+            I wonder if there’s visible dramatic change near the
+            Kosterlitz–Thouless transition. Google leads me to
+            this picture:
+            [138][nj188026fig2.jpg]
+            but I don’t know exactly what it means. The lower
+            right looks like the ‘big mess’ you mentioned.
+            [139]Reply
+               o Simon Burton says:
+                 [140]10 October, 2016 at 6:55 pm
+                 I did some more experimenting and came up with
+                 this:
+
+
+                 IFRAME:
+                 rsion=3&rel=1&fs=1&autohide=2&showsearch=0&showin
+                 fo=1&iv_load_policy=1&wmode=transparent
+
+
+                 I added a “heat map” to show how much energy each
+                 compass needle has, and also varied the
+                 temperature so that you can see the onset of the
+                 KT transition. It does look like there are
+                 tendrils of excitation extending between the
+                 vortices, but it’s hard to see.
+                 [142]Reply
+                      [144]10 October, 2016 at 7:19 pm
+                      Nice! One can start to see how fascinating
+                      this model is. It’s on that nice cusp
+                      between being simple enough to understand
+                      and complex enough to be deeply interesting.
+                      [146]14 October, 2016 at 10:07 pm
+                      Nice! Can you try if a temperature gradient
+                      across the critical temperature makes a
+                      difference?
+                      Also, do you think you could host a video
+                      file somewhere? YouTube makes quite a mess
+                      out of the video due to compression. It
+                      really doesn’t like lots of small,
+                      fast-changing objects.
+        -29998. [147]Eren Çıracıoğlu says:
+            [148]11 November, 2016 at 7:50 am
+            Great animation. Somehow I find this vortex-antivortex
+            eating up business similar to the actions in game of
+            [150]Reply
+     [151]Bill says:
+       [152]8 October, 2016 at 6:48 pm
+       Many thanks for your fascinating insights on this
+       phenomenon, John. Please forgive my naivete, but what
+       minimum temperature is required to spontaneously create a
+       vortex-antivortex pair? Can it occur at 0 K? Is there any
+       connection to the creation of electron-positron pairs?
+       [153]Reply
+
+            [155]9 October, 2016 at 12:48 am
+            At absolute zero any physical system will definitely
+            be in its lowest-energy state, or a randomly chosen
+            lowest-energy state if there is more than one. Since a
+            vortex-antivortex pair has more energy than a state in
+            which all the spins are aligned, you’ll never see a
+            vortex-antivortex pair at absolute zero.
+            For any physical system as soon as the temperature
+            exceeds absolute zero, there’s some nonzero
+            probability to find that system in any state. Thus,
+            there’s some nonzero probability to find a
+            vortex-antivortex pair in any given large region of
+            the magnet as soon as the temperature exceeds zero,
+            but this probability will be low for low temperatures.
+            Kosterlitz and Thouless won the Nobel for discovering
+            that this particular system has a phase transition at
+            some positive temperature T_0. This means that the
+            probability of finding vortex-antivortex pair in any
+            given large region of the magnet is not analytic as a
+            function of temperature at the point T = T_0. The
+            system ‘changes phase’, a bit like ice melting or
+            water vaporizing: vortex-antivortex pairs become
+            common and the system is qualitatively different.
+            This is the famed Kosterlitz–Thouless transition.
+
+
+     Is there any connection to the creation of electron-positron
+     pairs?
+            It’s slightly similar: as you heat up any system,
+            high-energy states become more probable. Thus as you
+            heat up a box of gas, or a box of radiation, to a
+            sufficiently high temperature, electron-positron pairs
+            will eventually become common. I happen to have worked
+            out the temperature a few weeks ago, and it’s roughly
+            12 billion kelvin.
+            To estimate this, take the mass of the electron and
+            convert it into units of energy. The answer is 0.511
+            MeV, where MeV or ‘million electron volts’ is a common
+            unit of energy in particle physics. Multiply by two to
+            get the energy of a positron-electron pair: roughly 1
+            MeV. Convert this to a temperature using the formula E
+            = k_BT where k_B is Boltzmann’s constant. In other
+            words, let T = E/k_B. It’s [156]convenient to note
+            that 1/k_B is about 12,000 kelvin per eV. Thus, 1 MeV
+            divided by Boltzmann’s constant is about
+            12,000,000,000 kelvin.
+            So, at a temperature of about 12 billion kelvin,
+            electron-positron pairs become common. This is not an
+            all-or-nothing thing, and I don’t know if there’s a
+            phase transition. Someone must know.
+            Temperatures were this high in the early Universe, and
+            also in the jets produced by black holes, and some
+            other extreme situations. Here’s a jet coming out of
+            the supermassive black hole at the center of the
+            galaxy M87, where this is happening:
+            [m87_jet.jpg]
+            If I knew the energy of a vortex-antivortex pair, I
+            could do a similar calculation to give a rough
+            estimate of the temperature at which the
+            Kosterlitz–Thouless transition occurs. But I’m sure
+            people have worked out the details in a much more
+            precise: there’s even a [157]whole book on the
+            Kosterlitz-Thouless transition.
+            [158]Reply
+               o Richard says:
+                 [159]9 October, 2016 at 4:41 am
+                 Somewhat related:
+                 ty_supernova
+                 [161]Reply
+               o [162]John Baez says:
+                 [163]9 October, 2016 at 5:31 pm
+                 Cool! If spontaneous creation of lots of
+                 electron-positron pairs could suddenly cause a
+                 star to collapse and go supernova, it sounds like
+                 there is a phase transition at work here… at
+                 least if the pressure is high.
+                 [164]Reply
+     @whut says:
+       [165]9 October, 2016 at 8:04 pm
+       These curl equations are fascinating and are of course
+       endemic in applications from electromagnetics to fluid
+       dynamics. Perhaps there is some overlap with the model of
+       the QBO equatorial winds that we are working on at John’s
+       Azimuth Forum (see sidebar) and at my blog. Have some notes
+       here:
+       ion/#comment-199906
+       Paul Pukite
+       [167]Reply
+
+            [168]14 October, 2016 at 1:42 pm
+            A closely related topological phase transition is
+            described by the Quantum Hall Effect and Fractional
+            Quantum Hall Effect. That was a hot topic when I was
+            in grad school growing GaAs quantum well structures.
+            Stormer and Tsui eventually won a Nobel Prize after
+            they experimentally discovered the fractional effect
+            that Laughlin had predicted.
+            I mention this because in last month’s blog post
+            linked in my comment above, I stated that I applied
+            knowledge of the Hall effect in solving the QBO
+            problem. The two phenomenon share similar curl terms.
+            The math is the common tie between these systems.
+            from [169]“Modeling water waves beyond perturbations”
+
+
+     “– The perturbation theory is useful when there is a small
+     dimensionless parameter in the problem, and the system is
+     exactly solvable when the small parameter is sent to zero.
+     – … it is not required that the system has a small
+     parameter,
+     nor that the system is exactly solvable in a certain limit.
+     Therefore it has been useful in studying strongly correlated
+     systems, such as the fractional Quantum Hall effect.”
+            Making progress in one area certainly has application
+            in other disciplines.
+            [170]Reply
+     [171]James Griffin says:
+       [172]9 October, 2016 at 8:23 pm
+       Fascinating. So how about three dimensions? I guess point
+       like singularities are out of the question if the analogy
+       with vortices still holds. Is there such a thing as an anti
+       vortex ring?
+       [173]Reply
+
+            [175]9 October, 2016 at 9:50 pm
+            In a [176]Type II superconductor, the magnetic field
+            is confined in ‘flux tubes’, also known as
+            [177]Abrikosov vortices. They act like vortice in the
+            following sense: the vector potential A is a vector
+            field with
+            \nabla \times A = B
+            where B is the magnetic field, but B = 0 except inside
+            these tubes. Thus, the A is curl-free outside these
+            tubes— but it curls around inside these tubes! So, you
+            can roughly imagine a flux tube as a little tornado
+            but where the wind is the vector potential A.
+            But it gets better. Thanks to quantum mechanics, each
+            tube carries one ‘quantum of magnetic flux’. That is,
+            the integral of the B field over a disk cutting one of
+            these tubes is a certain fixed value depending only on
+            fundamental constants of nature: the [178]magnetic
+            flux quantum!
+            If you have a fairly thin film made of a type II
+            superconductor, these flux tubes tend to line up at
+            right angles to the film. In a homogeneous material,
+            they’re happiest forming a lattice! Here’s an actual
+            picture of what they look like, created in a lab in
+            1989:
+
+
+                                [179]
+                            [hess890.jpg]
+            So far this is all sounding fairly similar to what
+            Kosterlitz and Thouless were studying. However, I
+            believe that in this situation, the antiparticle of a
+            vortex is a vortex spinning the other way—that is, a
+            mirror-image vortex.
+            [180]Reply
+     Haitao Zhang says:
+       [181]9 October, 2016 at 9:01 pm
+       John,
+       Your wording is a bit confusing about the appearance of the
+       KT pairs. As Simon Burton’s excellent video shows they
+       appear at far below the transition temperature
+       T_{\mathrm{KT}} , as the pairing reduces the activation
+       energy to a finite number. However they stay bound together
+       below T_{\mathrm{KT}} and only break at above T_{\mathrm
+       {KT}} (or in Simon’s words “become a big mess”). This is
+       what the Nobel committee has to say:
+
+
+     The insight by Kosterlitz and Thouless was that at a certain
+     temperature T_{\mathrm{KT}} the pairs will break up into
+     individual vortices. It is this vortex pair unbinding
+     transition that will take the system to a high temperature
+     phase with exponentially decaying correlations.”
+       However in your blog and comments you termed it as “the
+       Kosterlitz–Thouless transition is the sudden appearance of
+       large numbers of vortex-antivortex pairs as you heat up”,
+       which while maybe true (in the sense that more pairs
+       certainly will appear as the temperature rises) is not
+       quite the same as what the Nobel committee is saying. So
+       which one is correct?
+       Thanks for the excellent illustrations (and amazing
+       contributions from commenters).
+       [182]Reply
+
+            [184]9 October, 2016 at 9:30 pm
+            The Nobel committee is, unsurprisingly, correct. In my
+            blog article I was trying to say, in a very
+            nontechnical way, that various quantities depend on
+            the temperature in a way that fails to be analytic
+            (i.e., given by a convergent Taylor series) at the
+            phase transition. I guessed that the density of
+            vortices is one of these quantities. I do not actually
+            know this to be true. Since I was in a rush, I made
+            the mistake of stating my guess as a fact. Then I made
+            the further mistake of trying to express my guess in
+            simple terms by saying there’s a “sudden appearance of
+            large numbers of vortex-antivortex pairs” as the
+            temperature passes through the phase transition.
+            I knew full well that the vortex density could fail to
+            be non-analytic even without a sudden increase in the
+            density as we increase the temperature past the phase
+            transition. I felt mildly guilty about this, but
+            you’ve simultaneously pointed out the problem and
+            pointed to a good expository solution—that is, a nice
+            way to explain what’s really happening!
+            Briefly: in the Kosterlitz–Thouless transition, the
+            vortex-antivortex pairs “unbind” and we get a messy
+            soup of vortices and antivortices.
+            This reminds me a bit of a quark-gluon plasma. In
+            neutronium that’s not too hot, quarks, antiquarks and
+            gluons are bound into nucleons, perhaps with some
+            mesons hopping around between them. But when we heat
+            it up enough, we go through a phase transition called
+            ‘deconfinement’, leading to a new state of matter
+            called a quark-gluon plasma. In fact the full story
+            here is more complicated, more interesting, and not
+            fully understood. Click on the image for more:
+
+
+            [185][Phasendiagram.jpg]
+            So, I’ll fix my blog article. However, I would also
+            love to see a graph of the density of
+            [186]Reply
+               o Haitao Zhang says:
+                 [187]9 October, 2016 at 10:43 pm
+                 Great. Thanks for the quark-gluon plasma analogy.
+                 Very interesting! BTW, I remember reading your
+                 physics newsgroup posts before there was the web
+                 in the early 90s when I was a physics grad
+                 student. I couldn’t really follow back then but I
+                 am glad that I can understand this post and was
+                 even able to contribute a little.
+                 P.S. Thanks for fixing the formatting issues in
+                 my comment. And please feel free to delete my
+                 other duplicate comment (which I wasn’t sure was
+                 going through).
+                 [188]Reply
+               o [189]John Baez says:
+                 [190]9 October, 2016 at 10:53 pm
+                 I’m glad you survived my physics posts from the
+                 early 90’s! It’s nice to hear from people who
+                 remember that ancient era. Thanks again for
+                 helping me improve my article. It’s a lot better
+                 now, and I think it’s still comprehensible by
+                 ordinary folks.
+                 [191]Reply
+     [192]Thomas Larsson says:
+       [193]9 October, 2016 at 9:33 pm
+       Thank you for a very nice explanation of the KT transition.
+       Most of the time I don’t have a clue about who the Nobel
+       prize winners are, but this is something that I actually
+       knew something about, even if it was a long time ago I
+       learned about it and my memory is hazy. Let me just point
+       out that the phase diagram of the XY model is really weird,
+       because there is no ordered phase below the KT transition.
+       The point is that domain walls destroy long-range order in
+       low dimensions. In 1D a domain wall consists of a single
+       pair of opposite spins, which can be excited at any
+       non-zero temperature. In 2D you can only have long-range
+       order in systems with discrete symmetry, like the Ising
+       model. In systems with continuous symmetry, the energy of a
+       domain wall decreases with its thickness. The cost of
+       exciting a very thick domain wall is neglible, so again
+       this will happen at any non-zero temperature.
+       However, the XY model is a bordering case, because below
+       the KT transition the correlation length is infinite
+       although there is no long-range order (this is called
+       quasi-long-range order). Instead correlation functions
+       decay with a power law, and the power depends on
+       temperature. So there is a continuum of inequivalent
+       critical systems up to the KT transition. Above that, the
+       correlation length becomes finite.
+       Being 2D critical systems, this continuum is described by a
+       continuum of inequivalent CFTs, all with c = 1.
+       [194]Reply
+
+            [196]9 October, 2016 at 10:35 pm
+            That’s cool! I hadn’t heard of ‘quasi-long-range
+            order’. I have the feeling that these technical
+            subtleties about the XY model are part of why experts
+            got so excited about the Kosterlitz–Thouless
+            transition: it opened up new worlds that hadn’t been
+            considered before.
+            [197]Reply
+     [198]John Baez says:
+       [199]9 October, 2016 at 10:24 pm
+       I’ve updated my blog article thanks to help from Greg Egan,
+       Simon Burton, Simon Willerton and Haitao Zhang, and
+       credited them for their work. It’s much better now!
+       [200]Reply
+     [201]Thomas Larsson says:
+       [202]11 October, 2016 at 7:01 am
+       There is some substantial information on the Nobel prize
+       home page:
+       tes/2016/advanced.html.
+       [204]Reply
+
+            [206]11 October, 2016 at 7:17 am
+            Yes, that’s what I recommended that people read in my
+            blog article above:
+
+
+

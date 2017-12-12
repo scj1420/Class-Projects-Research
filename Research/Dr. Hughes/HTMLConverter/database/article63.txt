@@ -1,0 +1,121 @@
+Mystery of how sperm swim revealed in mathematical formula
+
+   University of York
+   Share
+    Print  E-Mail
+   IMAGE
+
+   IMAGE: Sperm stirs the fluid around in a very coordinated way
+   locomotion, not too dissimilar to the way in which magnetic
+   fields are formed around magnets. [113]view more
+
+
+   Credit: Kyoto University
+
+   Researchers have developed a mathematical formula based on the
+   rhythmic movement of a sperm's head and tail, which
+   significantly reduces the complexities of understanding and
+   predicting how sperm make the difficult journey towards
+   fertilising an egg.
+
+   Researchers at the Universities of York, Birmingham, Oxford and
+   Kyoto University, Japan, found that the sperm's tail creates a
+   characteristic rhythm that pushes the sperm forward, but also
+   pulls the head backwards and sideways in a coordinated fashion.
+
+   Successful fertility relies on how a sperm moves through fluid,
+   but capturing details of this movement is a complicated issue.
+
+   The team aim to use these new findings to understand how larger
+   groups of sperm behave and interact, a task that would be
+   impossible using modern observational techniques. The work
+   could provide new insights into treating male infertility.
+
+   Dr Hermes Gadêlha, from the University of York's Department of
+   Mathematics, said: "In order to observe, at the microscale, how
+   a sperm achieves forward propulsion through fluid,
+   sophisticated microscopic high precision techniques are
+   currently employed.
+
+   "Measurements of the beat of the sperm's tail are fed into a
+   computer model, which then helps to understand the fluid flow
+   patterns that result from this movement.
+
+   "Numerical simulations are used to identify the flow around the
+   sperm, but as the structures of the fluid are so complex, the
+   data is particularly challenging to understand and use. Around
+   55 million spermatozoa are found in a given sample, so it is
+   understandably very difficult to model how they move
+   simultaneously.
+
+   "We wanted to create a mathematical formula that would simplify
+   how we address this problem and make it easier to predict how
+   large numbers of sperm swim. This would help us understand why
+   some sperm succeed and others fail."
+
+   By analysing the head and tail movements of the sperm,
+   researchers have now shown that the sperm moves the fluid in a
+   coordinated rhythmic way, which can be captured to form a
+   relatively simple mathematical formula. This means complex and
+   expensive computer simulations are no longer needed to
+   understand how the fluid moves as the sperm swim.
+
+   The research demonstrated that the sperm has to make multiple
+   contradictory movements, such as moving backwards, in order to
+   propel it forward towards the egg.
+
+   The whip-like tail of the sperm has a particular rhythm that
+   pulls the head backwards and sideways to create a jerky fluid
+   flow, countering some of the intense friction that is created
+   due to their diminutive sizes.
+
+   Dr Gadêlha said: "It is true when scientists say how miraculous
+   it is that a sperm ever reaches an egg, but the human body has
+   a very sophisticated system of making sure the right cells come
+   together.
+
+   "You would assume that the jerky movements of the sperm would
+   have a very random impact on the fluid flow around it, making
+   it even more difficult for competing sperm cells to navigate
+   through it, but in fact you see well defined patterns forming
+   in the fluid around the sperm.
+
+   "This suggests that sperm stirs the fluid around in a very
+   coordinated way to achieve locomotion, not too dissimilar to
+   the way in which magnetic fields are formed around magnets. So
+   although the fluid drag makes it very difficult for the sperm
+   to make forward motion, it does coordinate with its rhythmic
+   movements to ensure that only a few selected ones achieve
+   forward propulsion."
+
+   Now that the team has a mathematical formula that can predict
+   the fluid movement of one sperm, the next step is to use the
+   model for predictions on larger numbers of cells. They also
+   believe that it will have implications for new innovations in
+   infertility treatment.
+
+   The research is published in the journal Physical Review
+   Letters.
+
+
+   Disclaimer: AAAS and EurekAlert! are not responsible for the
+   accuracy of news releases posted to EurekAlert! by contributing
+   institutions or for the use of any information through the
+   EurekAlert system.
+   Share
+    Print  E-Mail
+
+   Media Contact
+
+   Samantha Martin
+   [114]s.martin@york.ac.uk
+   44-019-043-22029
+   [115] @uniofyork
+
+    [114] mailto:s.martin@york.ac.uk
+
+     __________________________________________________________
+     __________________________________________________________
+
+
+

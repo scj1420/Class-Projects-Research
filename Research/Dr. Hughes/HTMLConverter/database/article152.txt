@@ -1,0 +1,31 @@
+Good activity for an Introduction to Proofs class
+
+   Posted by [28]Dave Richeson on [29]February 25, 2016
+
+
+   I just read this post at [30]Futility Closet. (Spoiler: Don’t
+   click the link unless you want to know the punchline.) Perhaps
+   the result is well known, but I hadn’t seen it before.
+
+
+   The post made me think of a neat project for an “Introduction
+   to proofs” class. I’ll have to save it for the next time I
+   teach that class (Discrete Mathematics at my college).
+
+   Start with the first n prime numbers, p_1,\ldots, p_n. Divide
+   them into two sets. Let A be the product of the primes in one
+   set and let B be the product of the primes in the other set
+   (the product is 1 if the set is empty). For example, if n=4 we
+   could have {2,3,7} and {5}, so A=42 and B=5. What can we say
+   about A+B and A-B? Form a conjecture and prove it.
+
+   I like the problem because I could imagine the students will go
+   through a process of (1) I have no idea. (2) Aha! I’ve figured
+   it out. How do I prove it? (3) Wait, I found a counterexample.
+   (4) Ahhh! I see what’s going on, here’s the theorem, and here’s
+   the proof. (I think they would come up with a different
+   statement of the theorem than the one in the Futility Closet
+   post.)
+   Advertisements
+
+

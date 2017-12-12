@@ -1,0 +1,127 @@
+Varsity Math: Week 54
+
+   Photo: LUCI GUTIÉRREZ
+   Sep 22, 2016 11:34 am ET
+   [375]3 COMMENTS
+
+
+   Fall Out of Line
+
+   If you set up a row of dominoes on end with appropriate spacing
+   between them (as shown from a bird’s-eye view in the diagram)
+   and then push over the domino at one end (A), it will set off a
+   chain reaction resulting in the domino at the other end (B)
+   falling. Conversely, if you push B over, it will cause A to
+   fall.
+
+   Photo: National Museum of Mathematics
+
+   How can you arrange dominoes, leaving A and B where they are,
+   but possibly rearranging the others and/or adding more dominoes
+   if needed, so that pushing A over will make B fall, but not
+   vice versa?
+
+   Watch for Falling Nuts
+
+   Two squirrels knock acorns off a tree with identical horizontal
+   velocity (and initially no vertical velocity, although the
+   constant acceleration due to gravity quickly propels both
+   acorns toward the ground, which happens to be perfectly level
+   in the vicinity of this tree). The first squirrel knocks its
+   acorn off from six meters above the ground. The other acorn
+   lands twice as far away from the tree as the first one. Assume
+   that air resistance has no effect on the motion of the acorns.
+
+   From how high did the second squirrel knock off its acorn?
+
+
+   See answers to [376]last week’s puzzles below. Come back next
+   week for answers and more puzzles. Note: Comments may include
+   spoilers.
+   The National Museum of Mathematics (MoMath) is North America’s
+   only museum devoted to mathematics. [377]Learn more at
+   momath.org.
+   [378]Solutions
+   For last week’s Hexadiagonal, the volume of either pyramid is
+   1/3 the volume of the cube, and the five-sided solid
+   inHexintersection has exactly 1/2 the volume of the
+   tetrahedron.
+   [379]See MoMath’s website for extended solutions.
+
+
+
+
+
+   [383]Previous Turning Tail (Thursday Crossword) [384]Next
+   Backdrops (Crossword Contest)
+
+
+          Save Article
+          [385]Sign In to Save
+          [386]Subscribe to WSJ
+
+
+          Text Size
+          Regular
+          Medium
+          Large
+
+          Google+
+
+          Print
+
+   SHOW COMMENTS HIDE COMMENTS (3)
+   Failed to load comments
+   3 comments
+   [387]  Livefyre
+
+
+
+
+   [390]Sign in
+
+   Post comment
+
+   Link
+   Newest | Oldest
+   ALAN MOSKOWITZ
+   ALAN MOSKOWITZ subscriber 5pts
+
+   24 meters seems correct.   Distance that a falling object
+   travels uses the formula  d=1/2 a t*2 where d is the distance
+   traveled, a is the acceleration due to gravity and t is the
+   time.    Since the velocities of the 2 acorns are the same, the
+   further acorn must take twice the time to hit the ground in
+   order to  travel double the distance.  In the above equation,
+   for the first acorn, d equals 6.  In the second equation,  d is
+   the unknown, and  the time can be represented as 2t, such that
+   the equation becomes d=1/2 a 4t*2, and substituting 6 for the
+   1/2 a t*2 gives d=24.   Note the * means exponent (t
+   squared).
+
+   I agree with John Fuller -   stacking extra dominoes behind A
+   is how I approached the solution.
+   Jonathan Katz
+   Jonathan Katz 5pts
+
+   The horizontal distance is linear in time, so the second acorn
+   was in the air for twice as long. The vertical distance is
+   quadratic in time, so it was 4x higher than the first acorn.
+
+   For the domino problem, there are a bunch of solutions if we
+   allow dominoes to be placed arbitrarily in 2 dimensions, rather
+   than only on the line between A and B.
+   John Fuller
+   John Fuller user 5pts
+
+   I got 24 meters (inverse square law and formula for range of a
+   projectile).
+
+   As for the dominoes, the most obvious answer is to stack
+   several extra dominoes flat right behind A so that it can't
+   fall backwards. Probably not what the puzzle is asking for, but
+   it is completely within the stated parameters.
+   Show More Archives
+   Advertisement
+
+

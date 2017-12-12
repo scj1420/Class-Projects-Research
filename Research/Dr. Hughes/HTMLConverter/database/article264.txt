@@ -1,0 +1,195 @@
+11 Responses to Compositionality in Network Theory
+
+    1. [27]Carsten Führmann says:
+       [28]29 November, 2016 at 9:23 pm
+       I just spent an hour going through the slides and found
+       them very understandable. The top-prio thing I needed to
+       postpone is working through examples of what exactly the
+       pushouts do when the functions i and o are not bijective.
+       [29]Reply
+
+            [31]30 November, 2016 at 7:18 am
+            Excellent—glad you liked them!
+            In the category of sets, when we compose cospans:
+
+
+                       [composing_cospans.jpg]
+            the set \Gamma +_Y \Gamma' is a pushout. (Pardon the
+            weird notation \Gamma for a set; I’m just reusing a
+            diagram I had sitting around.) This pushout turns out
+            to work as follows: first take the disjoint union of
+            the sets \Gamma and \Gamma' , and then mod out by the
+            smallest equivalence relation such that o(y) \sim
+            i'(y) for all y \in Y . This is particularly simple
+            when o and i' are injective, but it’s true in general.
+            [32]Reply
+               o [33]Carsten Führmann says:
+                 [34]30 November, 2016 at 7:48 am
+                 Thanks for the clarification! Allowing
+                 non-injective i and o is the least intuitive part
+                 for me. Does this come from a practical need, or
+                 does one do this just because one can? Is there
+                 perchance a symmetric monoidal subcategory of
+                 cospans with injective i and o that would also do
+                 the job in realistic cases?
+                 [35]Reply
+               o [36]John Baez says:
+                 [37]3 December, 2016 at 9:50 pm
+                 A good general rule in mathematics is “don’t
+                 disallow something unless you need to”. So,
+                 demanding that i and o be injective is not
+                 something you should do unless (or until) you can
+                 prove something interesting that requires this
+                 assumption.
+                 More importantly, non-injective i and o are
+                 required to get these cospan categories to be
+                 [38]compact closed. I noticed this a long time
+                 ago when working on circuits made of resistors.
+                 Also, to get identity morphisms we need cospans
+                 where the range of i is not disjoint from the
+                 range of o . So, we definitely don’t want to
+                 demand that their ranges be disjoint!
+                 [39]Reply
+                      [41]4 December, 2016 at 7:18 pm
+                      Compact closure, of course, that’s a strong
+                      argument!
+                      I’ve reflected why I asked my injectivity
+                      question, and I’ve realized the source was
+                      my inner software engineer: I have an
+                      unusual synesthesia that makes me constantly
+                      see analogies between computer code and
+                      mathematical theories. When faced with the
+                      pushout, I instinctively viewed it as an
+                      algorithm in a computer-algebra software I
+                      might write and have to maintain. So the
+                      question surfaced: am I willing to implement
+                      and maintain the more complicated pushout? I
+                      find it interesting how the “don’t disallow”
+                      you mention turns into an “be careful before
+                      you add” when one switches from the
+                      mathematical to the algorithmic or software
+                      maintenance perspective.
+                      Anyway, your compact closure argument makes
+                      moot any point I might have had.
+                      [43]5 December, 2016 at 3:06 am
+                      Carsten wrote:
+
+
+     So the question surfaced: am I willing to implement and
+     maintain the more complicated pushout? I find it interesting
+     how the “don’t disallow” you mention turns into an “be
+     careful before you add” when one switches from the
+     mathematical to the algorithmic or software maintenance
+     perspective.
+                      Yes, interesting! I’m glad to hear that you
+                      can explain reason for wanting to disallow
+                      noninjective legs on your cospan. If you’re
+                      maintaing software this might make sense.
+                      What really bugs me is pure mathematicians
+                      who throw unnecessary axioms into their
+                      theories just because those axioms hold in
+                      some paradigmatic example of what they’re
+                      thinking about, without carefully
+                      investigating what those axioms help us
+                      prove. Poorly thought-out axioms that
+                      disallow certain objects or morphisms in a
+                      category often make that category worse—they
+                      actually prevent us from proving interesting
+                      results.
+                      A classic example is demanding that some set
+                      be nonempty just because the empty set is a
+                      bit spooky. Of course the empty examples
+                      aren’t the ones we have in mind, but
+                      throwing out the empty set tends to throw
+                      out initial objects and thus prevent a
+                      category from having all colimits.
+    2. [44]John Baez says:
+       [45]3 December, 2016 at 9:51 pm
+       By the way, I updated the talk slides so that now the
+       penultimate slide shows lots of different symmetric
+       monoidal categories of networks.
+       [46]Reply
+    3. [47]Modelling Interconnected Systems with Decorated
+       Corelations | Azimuth says:
+       [48]9 December, 2016 at 10:38 pm
+       Here at the Simons Institute, my talk on
+       [49]compositionality in network theory introduced
+       ‘decorated cospans’ as a general model of open systems.
+       These were invented by Brendan Fong, and are nicely
+       explained in his thesis:
+       • Brendan Fong, [50]The Algebra of Open and Interconnected
+       Systems.
+       But he went further: to understand the externally
+       observable behavior of an open system we often want to
+       simplify a decorated cospan and get another sort of
+       structure, which he calls a ‘decorated corelation’. His
+       talk here explains decorated corelations and what they’re
+       good for:
+
+
+   IFRAME:
+   s=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=t
+   ransparent
+
+
+       [52]Reply
+    4. Armin Reichert says:
+       [53]26 December, 2016 at 3:25 am
+       Monoidal categories (x-categories) and their graphical
+       representation (logic-topological nets) have been
+       introduced in 1965 by Prof. Günter Hotz from the University
+       in Saarbrücken, Germany.
+       They have been used in circuit design and formal language
+       theory from that time on, the theory has been generalized
+       later to bicategories and been used as the mathematical
+       foundation of the CADIC VLSI design system.
+       [54]Reply
+
+            [56]26 December, 2016 at 5:28 pm
+            Interesting! Of course the usual story is that
+            monoidal categories (with associators obeying the
+            pentagon identites, etc.) were introduced by Mac Lane
+            here:
+            • Saunders Mac Lane, [57]Natural associativity and
+            commutativity, Rice Univ. Studies, 49 (1963), 28–46.
+            Did Hotz refer to Mac Lane’s work, or did he think of
+            his ideas independently?
+            [58]Reply
+               o Armin Reichert says:
+                 [59]27 December, 2016 at 12:08 pm
+                 Unfortunately I don’t own my copies of Hotz’s
+                 papers anymore.
+                 In this one (in German):
+                 G. Hotz. Eine Algebraisierung des
+                 Syntheseproblems für Schaltkreise. EIK Journal of
+                 Information Processing and Cybernetics,
+                 1:185-205,209-231, 1965.
+                 the theory of free x-categories has been
+                 introduced together with a “logic-topological”
+                 representation of the morphisms by planar nets.
+                 I am almost sure that Hotz at that time already
+                 knew about the work of Eilenberg & Mac Lane on
+                 category theory.
+                 My comment referred more to the “net calculus”
+                 which gave these diagrams and their composition
+                 (later also their hierarchical definition) a
+                 precise algebraic meaning and also introduced the
+                 concept of functorial semantics for these
+                 networks.
+                 In the paper
+                 G. Hotz. Eindeutigkeit und Mehrdeutigkeit
+                 formaler Sprachen. EIK Journal of Information
+                 Processing and Cybernetics, 2:235-246, 1966
+                 the concept was applied to Chomsky languages thus
+                 providing an algebraic foundation for the theory
+                 of formal languages. This for example provided an
+                 algebraic description of “derivations” in Chomsky
+                 grammars and layed the foundation for handling
+                 formal language theory in a category-theoretic
+                 setting.
+                 Regards
+                 Armin
+                 [60]Reply
+
+
+

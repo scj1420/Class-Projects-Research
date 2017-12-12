@@ -1,0 +1,150 @@
+Gödel's Disjunction
+
+   Leon Horsten and Philip Welch
+   Publisher:
+   Oxford University Press
+   Publication Date:
+   2016
+   Number of Pages:
+   277
+   Format:
+   Hardcover
+   Price:
+   110.00
+   ISBN:
+   9780198759591
+   Category:
+   Anthology
+
+
+
+   [Reviewed by
+   William J. Satzer
+   , on
+   01/1/2017
+   ]
+
+   What do Gödel’s incompleteness results tell us about human
+   intellectual capacity compared to computer algorithms? Some
+   have argued the human intellect is non-algorithmic and that its
+   potential exceeds that of any conceivable computer. Gödel
+   himself considered the question seriously and he arrived at the
+   proposition called Gödel’s disjunction. This states that either
+   no algorithm can capture the human mathematical mind or there
+   are absolutely undecidable problems.
+
+   Gödel’s argument in support of his disjunction goes as follows.
+   Suppose that the human mind is ultimately algorithmic (so there
+   is an algorithm that can produce all the theorems that the
+   human mind is capable of producing). The Church-Turing thesis
+   says that every algorithmically computable function is
+   computable with a Turing machine. This is equivalent to the
+   proposition that the collection of humanly knowable theorems
+   can be recursively axiomatized in some formal theory T. This
+   theory would then be consistent. But Gödel’s second
+   incompleteness theorem says that consistent theories (that
+   contain the basic laws of arithmetic) cannot prove their own
+   consistency, even though they can express it by numerical
+   encoding. So there will be mathematical propositions P that
+   cannot be decided by T. Since T is supposed to capture all that
+   is human provable, then these propositions P are humanly —
+   hence absolutely — undecidable.
+
+   This argument is widely accepted as compelling by mathematical
+   logicians and philosophers of mathematics. Gödel observed that
+   the disjunction is not exclusive, and both alternatives could
+   be true. He favored the first alternative himself, but he never
+   found a way to establish either alternative conclusively. In
+   the past some of the best-known arguments have been in favor of
+   the human mind’s superiority. These include, in particular,
+   Roger Penrose (in two popular books), and John Lucas (in a
+   widely cited [309]paper). Most experts now find their arguments
+   inadequate.
+
+
+   This book arose from meetings at the University of Bristol
+   where mathematical logicians and mathematical philosophers met
+   to consider this and related issues. The collection of articles
+   includes eleven papers in three general areas: algorithms,
+   formal consistency and human knowability; minds and machines;
+   and absolute undecidability. The general aim was to formalize
+   some of the central arguments in the debate in order to connect
+   the informal notions of human knowability and algorithms with
+   mathematical concepts of formal derivability and Turing
+   machines.
+
+   An introduction by the editors offers an accessible entry point
+   to readers with a basic background in mathematical logic. Many
+   of the papers are clearly aimed at experts, but their
+   introductory sections are generally written for a broader
+   audience.
+
+   The editors do a particularly good job of establishing context
+   and background, as well as summarizing the contributions of the
+   individual papers. Of all the papers, Peter Koellner’s is
+   probably the best analysis of Gödel’s disjunction and also the
+   most accessible. Koellner takes a very careful look at Roger
+   Penrose’s arguments in favor of the anti-mechanistic view (that
+   the capabilities of the human mind exceed that of any Turing
+   machine). In the end, he finds them inadequate. The main
+   difficulty he finds is with the idea of “idealizing the mind”
+   when we do not have a good model of the mind to idealize.
+   Koellner concludes with his own dichotomy: either the notions
+   of absolute provability and knowability by an idealized human
+   are problematic, or there are serious limitations on any
+   arguments in favor of human superiority.
+
+   Much of the complication that arises here is the difficulty of
+   attaching formal meaning to informal, semi-mathematical ideas.
+   What does “ideal human mind” mean, and can it somehow
+   incorporate human creativity? “Absolute undecidability” is also
+   difficult to pin down. Virtually all the papers in this
+   collection aim to formalize some aspect of the problem. One
+   that gets a lot of attention is the concept of “knowability”.
+
+   For many mathematicians, questions like the ones considered
+   here are either irrelevant or uninteresting. After all,
+   virtually all the mathematics most of us care about can be done
+   without any consideration of these ideas. Nonetheless, they are
+   intriguing even if ultimately frustrating: intriguing because
+   they might help us understand more about what it means to be
+   human, and frustrating because it is hard to imagine ever
+   really resolving the question.
+     __________________________________________________________
+
+   Bill Satzer ([310]bsatzer@gmail.com) was a senior intellectual
+   property scientist at 3M Company. His training is in dynamical
+   systems and particularly celestial mechanics; his current
+   interests are broadly in applied mathematics and the teaching
+   of mathematics.
+
+    [310] mailto:bsatzer@gmail.com
+
+   Algorithm, consistency and epistemic randomness
+   1. Algorithms and the Mathematical Foundations of Computer
+   Science, Dean
+   2. The Second Incompleteness Theorem: Reflections and
+   Ruminations, Visser
+   3. Iterated Definability, Lawless Sequences and Brouwer’s
+   Continuum, Moschovakis
+   4. A Semantics for in Principle Provability, Achourioti
+
+   Mind and Machines
+   5. Collapsing Knowledge and Epistemic Church’s Thesis, Carlson
+   6. Gödel’s Disjunction, Koellner
+   7. Idealization, Mechanism, and Knowability, Shapiro
+
+   Absolute Undecidability
+   8. Provability, Mechanism and the Diagonal Problem,
+   Leach-Krouse
+   9. Absolute Provability and Safe Knowledge of Axioms,
+   Williamson
+   10. Epistemic Church’s Thesis and Absolute Undecidability,
+   Antonutti, Horsten
+   Tags:
+   [311]Logic
+   [312]Philosophy of Mathematics
+
+
+
+

@@ -1,0 +1,109 @@
+Advanced Modern Algebra:Third Edition, Part 1
+
+   Joseph J. Rotman
+   Publisher:
+   American Mathematical Society
+   Publication Date:
+   2015
+   Number of Pages:
+   706
+   Format:
+   Hardcover
+   Edition:
+   3
+   Series:
+   Graduate Studies in Mathematics 165
+   Price:
+   89.00
+   ISBN:
+   9781470415549
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   Fernando Q. Gouvêa
+   , on
+   09/15/2016
+   ]
+
+   The third edition of this book is very different from the
+   previous ones. As the reviews of the [309]first and [310]second
+   editions indicate, Rotman is a very good writer. Those editions
+   were masterful reference works presenting most of
+   graduate-level algebra. Indeed, the second edition served as
+   one of my go-to books as I was writing my [311]Guide to Groups,
+   Rings, and Fields. I often found that Rotman presented the
+   material better than his competitors.
+
+
+   Clearly, however, the author has felt some restlessness about
+   his book. Between the first and second editions, there was a
+   change in publisher and also various additions, but there was
+   also a significant “I changed my mind” move: instead of
+   including a review of basic abstract algebra, Rotman decided to
+   point to his undergraduate textbook. The additions made the
+   second edition quite big (“elephantine”, he says in the preface
+   to the third edition), so it is not surprising that the third
+   edition comes in two volumes. More surprising, however, is the
+   radical reorganization.
+
+   Where the second edition is clearly a reference book, an
+   encyclopedic account of modern algebra to which one might turn
+   to recall a theorem or learn a particular topic, the third
+   edition is clearly intended as a textbook. It is divided into
+   two parts labeled “Course I” and “Course II”, which apparently
+   correspond to the first and second graduate courses in algebra
+   at the University of Illinois at Urbana-Champaign.
+
+   Course I has Galois Theory as its telos: it opens with the
+   classical formulas for solving cubics and quartics, then goes
+   on to cover some number theory and commutative algebra, the
+   basics of group theory, and finally Galois Theory itself. It is
+   certainly a good choice for a first graduate course, since most
+   undergraduates are taught some algebra but many do not see
+   Galois Theory, whose theorems are seductive enough to motivate
+   what is essentially a review, at greater depth, of
+   undergraduate algebra.
+
+   Course II is a course on ring theory, both commutative and
+   non-commutative, but mostly commutative. “Having lured students
+   into beautiful algebra,” says Rotman, they will now want to
+   learn more. This section includes both linear and multilinear
+   algebra, some category theory, and some commutative algebra.
+
+   Part 2 of the book has not yet appeared, but the author
+   describes it thus:
+
+     These two courses serve as joint prerequisites for the
+     forthcoming Part 2, which will present more advanced topics
+     in ring theory, group theory, algebraic number theory,
+     homological algebra, representation theory, and algebraic
+     geometry.
+
+   This leads me to think that it is likely to be more in the
+   style of the second edition.
+
+   Rotman is a wonderful expositor, and the two courses in this
+   book strike me as well thought out and well presented. (There’s
+   too much material, as usual, so that instructors can be
+   selective.) But I miss the compendious approach of the second
+   edition, in which topics could be developed according to their
+   own internal logic rather than the logic imposed by pedagogy.
+   I’ll certainly use and learn from this edition, but I think I’m
+   going to hold on to my copy of the second edition as well.
+     __________________________________________________________
+
+   Fernando Gouvêa is Carter Professor of Mathematics at Colby
+   College. He hasn’t taught graduate algebra in more than 25
+   years, but he’s still a fan.
+
+   See the [312]table of contents in pdf format.
+   Tags:
+   [313]Abstract Algebra
+   [314]Algebra
+
+
+
+

@@ -1,0 +1,1297 @@
+246A, Notes 2: complex integration
+
+   27 September, 2016 in [18]246A - complex analysis, [19]math.CV,
+   [20]math.GT | Tags: [21]contour integration, [22]fundamental
+   theorem of calculus, [23]rectifiable curve
+
+
+   Having discussed differentiation of complex mappings in the
+   preceding notes, we now turn to the integration of complex
+   maps. We first briefly review the situation of integration of
+   (suitably regular) real functions {f: [a,b] \rightarrow {\bf
+   R}} of one variable. Actually there are three closely related
+   concepts of integration that arise in this setting:
+       which is usually interpreted as the [25]Riemann integral
+       (or equivalently, the [26]Darboux integral), which can be
+       defined as the limit (if it exists) of the [27]Riemann sums
+       \displaystyle \sum_{j=1}^n f(x_j^*) (x_j - x_{j-1}) \ \ \ \
+                                  \ (1)
+       where {a = x_0 < x_1 < \dots < x_n = b} is some
+       [28]partition of {[a,b]} , {x_j^*} is an element of the
+       interval {[x_{j-1},x_j]} , and the limit is taken as the
+       maximum mesh size {\max_{1 \leq j \leq n} |x_j - x_{j-1}|}
+       goes to zero. It is convenient to adopt the convention that
+       {\int_b^a f(x)\ dx := - \int_a^b f(x)\ dx} for {a < b} ;
+       alternatively one can interpret {\int_b^a f(x)\ dx} as the
+       limit of the Riemann sums [29](1), where now the (reversed)
+       partition {b = x_0 > x_1 > \dots > x_n = a} goes leftwards
+       from {b} to {a} , rather than rightwards from {a} to {b} .
+
+       , usually interpreted as the [30]Lebesgue integral. The
+       precise definition of this integral is a little complicated
+       (see e.g. [31]this previous post), but roughly speaking the
+       idea is to approximate {f} by simple functions
+       {\sum_{i=1}^n c_i 1_{E_i}} for some coefficients {c_i \in
+       {\bf R}} and sets {E_i \subset [a,b]} , and then
+       approximate the integral {\int_{[a,b]} f(x)\ dx} by the
+       quantities {\sum_{i=1}^n c_i m(E_i)} , where {E_i} is the
+       [32]Lebesgue measure of {E_i} . In contrast to the signed
+       definite integral, no orientation is imposed or used on the
+       underlying domain of integration, which is viewed as an
+       “undirected” set {[a,b]} .
+
+       f(x)\ dx} , defined as any function {F: [a,b] \rightarrow
+       {\bf R}} whose derivative {F'} exists and is equal to {f}
+       on {[a,b]} . Famously, the antiderivative is only defined
+       up to the addition of an arbitrary constant {C} , thus for
+       instance {\int x\ dx = \frac{1}{2} x^2 + C} .
+
+
+   There are some other variants of the above integrals (e.g. the
+   [34]Henstock-Kurzweil integral, discussed for instance in
+   [35]this previous post), which can handle slightly different
+   classes of functions and have slightly different properties
+   than the standard integrals listed here, but we will not need
+   to discuss such alternative integrals in this course (with the
+   exception of some [36]improper and [37]principal value
+   integrals, which we will encounter in later notes).
+
+
+   The above three notions of integration are closely related to
+   each other. For instance, if {f: [a,b] \rightarrow {\bf R}} is
+   a Riemann integrable function, then the signed definite
+   integral and unsigned definite integral coincide (when the
+   former is oriented correctly), thus
+
+       \displaystyle \int_a^b f(x)\ dx = \int_{[a,b]} f(x)\ dx
+
+   and
+
+      \displaystyle \int_b^a f(x)\ dx = -\int_{[a,b]} f(x)\ dx
+
+   If {f: [a,b] \rightarrow {\bf R}} is continuous, then by the
+   fundamental theorem of calculus, it possesses an antiderivative
+   {F = \int f(x)\ dx} , which is well defined up to an additive
+   constant {C} , and
+
+            \displaystyle \int_c^d f(x)\ dx = F(d) - F(c)
+
+   for any {c,d \in [a,b]} , thus for instance {\int_a^b F(x)\ dx
+   = F(b) - F(a)} and {\int_b^a F(x)\ dx = F(a) - F(b)} .
+
+   All three of the above integration concepts have analogues in
+   complex analysis. By far the most important notion will be the
+   complex analogue of the signed definite integral, namely the
+   [38]contour integral {\int_\gamma f(z)\ dz} , in which the
+   directed line segment from one real number {a} to another {b}
+   is now replaced by a type of curve in the complex plane known
+   as a contour. The contour integral can be viewed as the special
+   case of the more general [39]line integral {\int_\gamma f(z) dx
+
+   analysis. There are also analogues of the Lebesgue integral,
+   namely the arclength measure integrals {\int_\gamma f(z)\ |dz|}
+   and the area integrals {\int_\Omega f(x+iy)\ dx dy} , but these
+   play only an auxiliary role in the subject. Finally, we still
+   have the notion of an antiderivative {F(z)} (also known as a
+   primitive) of a complex function {f(z)} .
+
+   As it turns out, the fundamental theorem of calculus continues
+   to hold in the complex plane: under suitable regularity
+   assumptions on a complex function {f} and a primitive {F} of
+   that function, one has
+
+        \displaystyle \int_\gamma f(z)\ dz = F(z_1) - F(z_0)
+
+   whenever {\gamma} is a contour from {z_0} to {z_1} that lies in
+   the domain of {f} . In particular, functions {f} that possess a
+   primitive must be [40]conservative in the sense that
+   {\int_\gamma f(z)\ dz = 0} for any closed contour. This
+   property of being conservative is not typical, in that “most”
+   functions {f} will not be conservative. However, there is a
+   remarkable and far-reaching theorem, the [41]Cauchy integral
+   theorem (also known as the Cauchy-Goursat theorem), which
+   asserts that any holomorphic function is conservative, so long
+   as the domain is [42]simply connected (or if one restricts
+   attention to [43]contractible closed contours). We will explore
+   this theorem and several of its consequences the next set of
+   notes.
+
+
+               — 1. Integration along a contour —
+
+   The notion of a curve is a very intuitive one. However, the
+   precise mathematical definition of what a curve actually is
+   depends a little bit on what type of mathematics one wishes to
+   do. If one is mostly interested in topology, then a good notion
+   is that of a [44]continuous (parameterised) curve. If one wants
+   to do analysis in somewhat irregular domains, it is convenient
+   to restrict the notion of curve somewhat, to the
+   [45]rectifiable curves. If one is doing analysis in “nice”
+   domains (such as the complex plane {{\bf C}} , a half-plane, a
+   punctured plane, a disk, or an annulus), then it is convenient
+   to restrict the notion further, to the piecewise smooth curves,
+   also known as [46]contours. If one wished to get to the main
+   theorems of complex analysis as quickly as possible, then one
+   would restrict attention only to contours and skip much of this
+   section; however we shall take a more leisurely approach here,
+   discussing curves and rectifiable curves as well, as these
+   concepts are also useful outside of complex analysis. In fact,
+   we will structure our notes so that most of our theorems in
+   fact apply to rectifiable curves (and several will in fact be
+   applicable to arbitrary continuous curves).
+
+
+   We begin by defining the notion of a continuous curve.
+
+     Definition 1 (Continuous curves) A continuous parameterised
+     curve, or curve for short, is a continuous map {\gamma:
+     [a,b] \rightarrow {\bf C}} from a compact interval {[a,b]
+     \subset {\bf R}} to the complex plane {{\bf C}} . We call
+     the curve trivial if {a=b} , and non-trivial otherwise. We
+     refer to the complex numbers {\gamma(a), \gamma(b)} as the
+     initial point and terminal point (or final point) of the
+     curve respectively, and refer to these two points
+     collectively as the endpoints of the curve. We say that the
+     curve is closed if {\gamma(a) = \gamma(b)} . We say that the
+     curve is simple if one has {\gamma(t) \neq \gamma(t')} for
+     any distinct {t,t' \in [a,b]} , with the possible exception
+     of the endpoint cases {t=a, t'=b} or {t=b, t'=a} (thus we
+     allow closed curves to be simple). We refer to the subset
+     {\gamma([a,b]) := \{ \gamma(t): t \in [a,b]\}} of the
+     complex plane as the image of the curve.
+
+   We caution that the term “closed” here does not refer to the
+   topological notion of closure: for any curve {\gamma} (closed
+   or otherwise), the image {\gamma([a,b])} of the curve, being
+   the continuous image of a compact set, is necessarily a compact
+   subset of {{\bf C}} and is thus always topologically closed.
+
+   A basic example of a curve is the directed line segment
+   {\gamma_{z_1 \rightarrow z_2}: [0,1] \rightarrow {\bf C}} from
+   one complex point {z_1} to another {z_2} , defined by
+
+   \displaystyle \gamma_{z_1 \rightarrow z_2}(t) := (1-t) z_1 + t
+                                 z_2
+
+   for {0 \leq t \leq 1} . (Thus, contrary to the informal English
+   meaning of the terms, we consider line segments to be examples
+   of curves, despite having zero curvature; in general, it is
+   convenient in mathematics to admit such “degenerate” objects
+   into one’s definitions, in order to obtain good closure
+   properties for these objects, and to maximise the generality of
+   the definition.) If {z_1 \neq z_2} , this is a simple curve,
+   while for {z_1 = z_2} it is (a rather degenerate, but still
+   non-trivial) closed curve. Another important example of a curve
+   is the anti-clockwise circle {\gamma_{z_0,r,\circlearrowleft}:
+   [0,2\pi] \rightarrow {\bf C}} of some radius {r>0} around a
+   complex centre {z_0 \in {\bf C}} , defined by
+
+   \displaystyle \gamma_{z_0,r,\circlearrowleft}(\theta) := z_0 +
+                    r e^{i\theta}. \ \ \ \ \ (2)
+
+   This is a simple closed non-trivial curve. If we extended the
+   domain here from {[0,2\pi]} to (say) {[0,4\pi]} , the curve
+   would remain closed, but would no longer be simple (every point
+   in the image is now traversed twice by the curve).
+
+   Note that it is technically possible for two distinct curves to
+   have the same image. For instance, the anti-clockwise circle
+   {\tilde \gamma_{z_0,r,\circlearrowleft}: [0,1] \rightarrow {\bf
+   C}} of some radius {r>0} around a complex centre {z_0 \in {\bf
+   C}} defined by
+
+   \displaystyle \tilde \gamma_{z_0,r,\circlearrowleft}(\theta) :=
+                      z_0 + r e^{2\pi i \theta}
+
+   traverses the same image as the previous curve [47](2), but is
+   considered a distinct curve from
+   {\gamma_{z_0,r,\circlearrowleft}} . Nevertheless the two curves
+   are closely related to each other, and we formalise this as
+   follows. We say that one curve {\gamma_2: [a_2,b_2] \rightarrow
+   {\bf C}} is a continuous reparameterisation of another
+   {\gamma_1: [a_1, b_1] \rightarrow {\bf C}} , if there is a
+   [48]homeomorphism {\phi: [a_1,b_1] \rightarrow [a_2,b_2]} (that
+   is to say, a continuous invertible map whose inverse
+   {\phi^{-1}: [a_2,b_2] \rightarrow [a_1,b_1]} is also
+   continuous) which is endpoint preserving (i.e., {\phi(a_1)=a_2}
+   and {\phi(b_1)=b_2} ) such that {\gamma_2(\phi(t)) =
+   \gamma_1(t)} for all {t \in [a_1,b_1]} (that is to say,
+   {\gamma_1 = \gamma_2 \circ \phi} , or equivalently {\gamma_2 =
+   \gamma_1 \circ \phi^{-1}} ), in which case we write {\gamma_1
+   \equiv \gamma_2} . Thus for instance
+   {\gamma_{z_0,r,\circlearrowleft} \equiv \tilde
+   \gamma_{z_0,r,\circlearrowleft}} . The relation of being a
+   continuous reparameterisation is an [49]equivalence relation,
+   so one can talk about the notion of a curve “up to continuous
+   reparameterisation”, by which we mean an [50]equivalence class
+   of a curve under this relation. Thus for instance the image of
+   a curve, as well as its initial point and end point, are well
+   defined up to continuous reparameterisation, since if {\gamma_1
+   \equiv \gamma_2} then {\gamma_1} and {\gamma_2} have the same
+   image, the same initial point, and the same terminal point. It
+   is common to depict an equivalence class of a curve {\gamma}
+   graphically, by drawing its image together with an arrow
+   depicting the direction of motion from the initial point to its
+   endpoint. (In the case of a non-simple curve, one may need
+   multiple arrows in order to clarify the direction of motion,
+   and also the possible multiplicity of the curve.)
+
+
+     Exercise 2 Let {\phi: [a_1,b_1] \rightarrow [a_2,b_2]} be a
+     continuous invertible map.
+       is continuous, so that {\phi} is a homeomorphism. (Hint:
+       use the fact that a continuous image of a compact set is
+       compact, and that a subset of an interval is topologically
+       closed if and only if it is compact.)
+       that {\phi} is monotone increasing. (Hint: use the
+       intermediate value theorem.)
+       [a_2,b_2]} is a continuous monotone increasing map with
+       {\psi(a_1) = a_2} and {\psi(b_1) = b_2} , show that {\psi}
+       is a homeomorphism.
+
+   It will be important for us that we do not allow
+   reparameterisations to reverse the endpoints. For instance, if
+   {z_1,z_2} are distinct points in the complex plane, the
+   directed line segment {\gamma_{z_1 \rightarrow z_2}} is not a
+   reparameterisation of the directed line segment {\gamma_{z_2
+   \rightarrow z_1}} since they do not have the same initial point
+   (or same terminal point); the map {t \mapsto 1-t} is a
+   homeomorphism from {[0,1]} to {[0,1]} but it does not preserve
+   the initial point or the terminal point. In general, given a
+   curve {\gamma: [a,b] \rightarrow {\bf C}} , we define its
+   reversal {-\gamma: [-b,-a] \rightarrow {\bf C}} to be the curve
+   {(-\gamma)(t) := \gamma(-t)} , thus for instance {\gamma_{z_2
+   \rightarrow z_1}} is (up to reparameterisation) the reversal of
+   {\gamma_{z_1 \rightarrow z_2}} , thus
+
+   \displaystyle \gamma_{z_2 \rightarrow z_1} \equiv - \gamma_{z_1
+                          \rightarrow z_2}.
+
+   Another basic operation on curves is that of concatenation.
+   Suppose we have two curves {\gamma_1: [a_1,b_1] \rightarrow
+   {\bf C}} and {\gamma_2: [a_2,b_2] \rightarrow {\bf C}} with the
+   property that the terminal point {\gamma_1(b_1)} of {\gamma_1}
+   equals the initial point {\gamma_2(a_2)} of {\gamma_2} . We can
+   reparameterise {\gamma_2} by translation to {\tilde \gamma_2:
+   [b_1, b_2+b_1-a_2] \rightarrow {\bf C}} , defined by {\tilde
+   \gamma_2(t) := \gamma_2(t - b_1 + a_2)} . We then define the
+   concatenation or sum {\gamma_1 + \gamma_2: [a_1, b_2+b_1-a_2]
+   \rightarrow {\bf C}} by setting
+
+        \displaystyle (\gamma_1 + \gamma_2)(t) := \gamma_1(t)
+
+   for {a_1 \leq t \leq b_1} and
+
+    \displaystyle (\gamma_1 + \gamma_2)(t) := \tilde \gamma_2(t)
+
+   for {b_1 \leq t \leq b_2+b_1-a_2} (note that these two
+   definitions agree on their common domain point {t=b_1} by the
+   hypothesis {\gamma_1(b_1) = \gamma_2(a_2)} . It is easy to see
+   that this concatenation {\gamma_1+\gamma_2} is still a
+   continuous curve. The reader at this point is encouraged to
+   draw a picture to understand what the concatenation operation
+   is doing; it is much simpler to grasp it visually than the
+   above lengthy definition may suggest. If the terminal point of
+   {\gamma_1} does not equal the initial point of {\gamma_2} , we
+   leave the sum {\gamma_1+\gamma_2} undefined. (One can define
+   more general spaces than the space of curves in which such an
+   addition can make sense, such as the space of [51]{1} -currents
+   if one assumes some rectifiability on the curves, or the space
+   of [52]{1} -chains, but we will not need such general spaces
+   here.)
+
+
+   Concatenation is well behaved with respect to equivalence and
+   reversal:
+
+     Exercise 3 Let {\gamma_1, \gamma_2, \gamma_3, \tilde
+     \gamma_1, \tilde \gamma_2} be continuous curves. Suppose
+     that the terminal point of {\gamma_1} equals the initial
+     point of {\gamma_2} , and the terminal point of {\gamma_2}
+     equals the initial point of {\gamma_3} .
+       {\gamma_1 \equiv \tilde \gamma_1} and {\gamma_2 \equiv
+       \tilde \gamma_2} , show that {\gamma_1+\gamma_2 \equiv
+       \tilde \gamma_1 + \tilde \gamma_2} and {-\gamma_1 \equiv -
+       \tilde \gamma_1} .
+       {(\gamma_1+\gamma_2)+\gamma_3 = \gamma_1 + (\gamma_2 +
+       \gamma_3)} . In particular, we certainly have
+       {(\gamma_1+\gamma_2)+\gamma_3 \equiv \gamma_1 + (\gamma_2 +
+       \gamma_3)}
+       {-(\gamma_1+\gamma_2) \equiv (-\gamma_2) + (-\gamma_1)} .
+       {\gamma_1+\gamma_2} and {\gamma_2+\gamma_1} are both
+       well-defined, but not equivalent to each other.
+       terminal points of {\gamma_1} respectively, and {\delta_z:
+       [0,0] \rightarrow {\bf C}} is the trivial curve {\delta_z:
+       0 \rightarrow z} defined for any {z \in {\bf C}} , show
+       that {\delta_{z_1} + \gamma_1 \equiv \gamma_1} and
+       {\gamma_1 + \delta_{z_2} \equiv \gamma_1} .
+       will however be [53]homologous to a trivial curve, as we
+       will discuss in later notes.)
+
+
+     Remark 4 The above exercise allows one to view the space of
+     curves up to equivalence as a [54]category, with the points
+     in the complex plane being the objects of the category, and
+     each equivalence class of curves being a single [55]morphism
+     from the initial point to the terminal point (and with the
+     equivalence class of trivial curves being the identity
+     morphisms). This point of view can be useful in topology,
+     particularly when relating to concepts such as the
+     [56]fundamental group (and fundamental groupoid),
+     [57]monodromy, and [58]holonomy. However, we will not need
+     to use any advanced category-theoretic concepts in this
+     course.
+
+
+     Exercise 5 Let {z_0 \in {\bf C}} and {r>0} . For any integer
+     {m} , let {\gamma_m: [0,2\pi] \rightarrow {\bf C}} denote
+     the curve
+
+            \displaystyle \gamma_m(t) := z_0 + r e^{i m t}
+
+     (thus for instance {\gamma_1 =
+     \gamma_{z_0,r,\circlearrowright}} ).
+       \equiv \gamma_{-m}} .
+       have {\gamma_m + \gamma_{m'} \equiv \gamma_{m+m'}} . What
+       happens for other values of {m,m'} ?
+       \not \equiv \gamma_{m'}} .
+
+   Given a sequence of complex numbers {z_0,z_1,\dots,z_n} , we
+   define the polygonal path {\gamma_{z_0 \rightarrow z_1
+   \rightarrow \dots \rightarrow z_n}} traversing these numbers in
+   order to be the curve
+
+     \displaystyle \gamma_{z_0 \rightarrow z_1 \rightarrow \dots
+   \rightarrow z_n} := \gamma_{z_0 \rightarrow z_1} + \gamma_{z_1
+    \rightarrow z_2} + \dots + \gamma_{z_{n-1} \rightarrow z_n}.
+
+   This is well-defined thanks to Exercise [59]3(ii) (actually all
+   we really need in applications is being well-defined up to
+   equivalence). Thus for instance {\gamma_{z_0 \rightarrow z_1
+   \rightarrow z_2 \rightarrow z_0}} would traverse a closed
+   triangular path connecting {z_0} , {z_1} , and {z_2} (this path
+   may end up being non-simple if the points {z_0,z_1,z_2} are
+   collinear).
+
+   In order to do analysis, we need to restrict our attention to
+   those curves which are [60]rectifiable:
+
+
+     Definition 6 Let {\gamma: [a,b] \rightarrow {\bf C}} be a
+     curve. The [61]arc length {|\gamma|} of the curve is defined
+     to be the supremum of the quantities
+
+
+       \displaystyle \sum_{j=1}^n |\gamma(t_{j+1})-\gamma(t_j)|
+
+     where {n} ranges over the natural numbers and {a = t_0 < t_1
+     < \dots < t_n = b} ranges over the [62]partitions of {[a,b]}
+     . We say that the curve {\gamma} is rectifiable if its arc
+     length is finite.
+
+
+   The concept is best understood visually: a curve is rectifiable
+   if there is some finite bound on the length of polygonal paths
+   one can form while traversing the curve in order. From Exercise
+   [63]2 we see that equivalent curves have the same arclength, so
+   the concepts of arclength and rectifiability are well defined
+   for curves that are only given up to continuous
+   reparameterisation.
+
+     Exercise 7 Let {\gamma_1,\gamma_2} be curves, with the
+     terminal point of {\gamma_1} equal to the initial point of
+     {\gamma_2} . Show that
+
+     \displaystyle |\gamma_1+\gamma_2| = |\gamma_1| + |\gamma_2|.
+
+     In particular, {\gamma_1+\gamma_2} is rectifiable if and
+     only if {\gamma_1, \gamma_2} are both individually
+     rectifiable.
+
+   It is not immediately obvious that any reasonable curve (e.g.
+   the line segments {\gamma_{z_1 \rightarrow z_2}} or the circles
+   {\gamma_{z_0,r,\circlearrowleft}} ) are rectifiable. To verify
+   this, we need two preliminary results.
+
+     Lemma 8 (Triangle inequality) Let {f: [a,b] \rightarrow {\bf
+     C}} be a continuous function. Then
+
+     \displaystyle |\int_a^b f(t)\ dt| \leq \int_a^b |f(t)|\ dt.
+
+     Here we interpret {\int_a^b f(t)\ dt} as the Riemann
+     integral (or equivalently, {\int_a^b f(t)\ dt = \int_a^b
+     \mathrm{Re} f(t)\ dt + i \int_a^b \mathrm{Im} f(t)\ dt} ).
+
+   Proof: We first attempt to prove this inequality by considering
+   the real and imaginary parts separately. From the real-valued
+   triangle inequality (and basic properties of the Riemann
+   integral) we have
+
+     \displaystyle | \mathrm{Re} \int_a^b f(t)\ dt | = |\int_a^b
+                       \mathrm{Re} f(t)\ dt |
+
+         \displaystyle \leq \int_a^b |\mathrm{Re} f(t)|\ dt
+
+               \displaystyle \leq \int_a^b |f(t)|\ dt
+
+   and similarly
+
+     \displaystyle |\mathrm{Im} \int_a^b f(t)\ dt| \leq \int_a^b
+                             |f(t)|\ dt
+
+   but these two bounds only yield the weaker estimate
+
+      \displaystyle |\int_a^b f(t)\ dt| \leq \sqrt{2} \int_a^b
+                             |f(t)|\ dt.
+
+   To eliminate this {\sqrt{2}} loss we can [64]amplify the above
+   argument by exploiting phase rotation. For any real {\theta} ,
+   we can repeat the above arguments (using the complex linearity
+   of the Riemann integral, which is easily verified) to give
+
+
+    \displaystyle | \mathrm{Re} e^{i\theta} \int_a^b f(t)\ dt | =
+            |\int_a^b \mathrm{Re} e^{i\theta} f(t)\ dt |
+
+   \displaystyle \leq \int_a^b |\mathrm{Re} e^{i\theta} f(t)|\ dt
+
+               \displaystyle \leq \int_a^b |f(t)|\ dt.
+
+   But we have {|z| = \sup_\theta \mathrm{Re} e^{i\theta} z} for
+   any complex number {z} , so taking the supremum of both sides
+   in {\theta} we obtain the claim. \Box
+
+     Exercise 9 Let {a \leq b} be real numbers. Show that the
+     interval {[a,b]} is [65]topologically connected, that is to
+     say the only two subsets of {[a,b]} that are both open and
+     closed [66]relative to {[a,b]} are the empty set and all of
+     {[a,b]} . (Hint: if {E} is a non-empty set that is both open
+     and closed in {[a,b]} and contains {a} , consider the
+     supremum of all {T_* \in [a,b]} such that {[a,T_*] \subset
+     E} .)
+
+
+   Next, we say that a non-trivial curve {\gamma: [a,b]
+   \rightarrow {\bf C}} is continuously differentiable if the
+   derivative
+
+     \displaystyle \gamma'(t) := \lim_{t' \rightarrow t: t' \in
+     [a,b] \backslash \{t\}} \frac{\gamma(t') - \gamma(t)}{t'-t}
+
+   exists and is continuous for all {t \in [a,b]} (note that we
+   are only taking right-derivatives at {t=a} and left-derivatives
+   at {t=b} ).
+
+     Proposition 10 (Arclength formula) If {\gamma: [a,b]
+     \rightarrow {\bf C}} is a continuously differentiable curve,
+     then it is rectifiable, and
+
+         \displaystyle |\gamma| = \int_a^b |\gamma'(t)|\ dt.
+
+   Proof: We first prove the upper bound
+
+   \displaystyle |\gamma| \leq \int_a^b |\gamma'(t)|\ dt \ \ \ \ \
+                                 (3)
+
+   which in particular implies the rectifiability of {\gamma}
+   since the right-hand side of [67](3) is finite. Let {a = t_0 <
+   \dots < t_n = b} be any partition of {[a,b]} . By the
+   fundamental theorem of calculus (applied to the real and
+   imaginary parts of {\gamma} ) we have
+
+            \displaystyle \gamma(t_j) - \gamma(t_{j-1}) =
+                 \int_{t_{j-1}}^{t_j} \gamma'(t)\ dt
+
+   for any {1 \leq i \leq n} , and hence by Lemma [68]8 we have
+
+         \displaystyle |\gamma(t_j) - \gamma(t_{j-1})| \leq
+               \int_{t_{j-1}}^{t_j} |\gamma'(t)|\ dt.
+
+   Summing in {j} we obtain
+
+   \displaystyle \sum_{j=1}^n |\gamma(t_i) - \gamma(t_{i-1})| \leq
+                      \int_a^b |\gamma'(t)|\ dt
+
+   and taking suprema over all partitions we obtain [69](3).
+
+   Now we need to show the matching lower bound. Let
+   {\varepsilon>0} be a small quantity, and for any {a \leq T \leq
+   b} , let {\gamma_{[a,T]}: [a,T] \rightarrow {\bf C}} denote the
+   restriction of {\gamma: [a,b] \rightarrow {\bf C}} to {[a,T]} .
+   We will show the bound
+
+   \displaystyle |\gamma_{[a,T]}| \geq \int_a^T |\gamma'(t)|\ dt -
+                   \varepsilon (T-a) \ \ \ \ \ (4)
+
+   for all {a \leq T \leq b} ; specialising to {T=b} and then
+   sending {\varepsilon \rightarrow 0} will give the claim.
+
+   It remains to prove [70](4) for a given choice of {\varepsilon}
+   . We will use a continuous version of induction known as the
+   [71]continuity method, which exploits Exercise [72]9.
+
+
+   Let {\Omega_\varepsilon \subset [a,b]} denote the set of {T_*
+   \in [a,b]} such that [73](4) holds for all {a \leq T \leq T_*}
+   . It is clear (using Exercise [74]7, which implies that
+   {|\gamma_{[a,T]}|} is an increasing function of {T} ) that this
+   set {\Omega_\varepsilon} is topologically closed, and also
+   contains the left endpoint {a} of {[a,b]} . If {T_* \in
+   \Omega_\varepsilon} and {T_* < b} , then from the
+   differentiability of {\gamma} at {T_*} , we have some interval
+   {[T_*, T_*+\delta] \subset [a,b]} such that
+
+       \displaystyle |\frac{\gamma(T) - \gamma(T_*)}{T-T_*} -
+                  \gamma'(T_*)| \leq \varepsilon/2
+
+   for all {T \in [T_*, T_*+\delta]} . Rearranging this using the
+   triangle inequality, we have
+
+     \displaystyle |\gamma(T) - \gamma(T_*)| \geq |\gamma'(T_*)|
+              (T-T_*) - \frac{\varepsilon}{2} (T-T_*).
+
+   Also, from the continuity of {|\gamma'|} we have
+
+   \displaystyle \int_{T_*}^T |\gamma'(t)\ dt| \leq |\gamma'(T_*)|
+               (T-T_*) + \frac{\varepsilon}{2} (t-T_*)
+
+   for all {T \in [T_*, T_*+\delta]} , if {\delta} is small
+   enough. We conclude that
+
+      \displaystyle |\gamma(T) - \gamma(T_*)| \geq \int_{T_*}^T
+                \gamma'(t)\ dt - \varepsilon (T-T_*),
+
+   and hence
+
+   \displaystyle |\gamma_{[T_*,T]}| \geq \int_{T_*}^T \gamma'(t)\
+                      dt - \varepsilon (T-T_*)
+
+   where {\gamma_{[T_*,T]}: [T_*,T] \rightarrow {\bf C}} is the
+   restriction of {\gamma: [a,b] \rightarrow {\bf C}} to {[T_*,T]}
+   . Adding this to the {T=T_*} case of [75](4) using [76](7) we
+   conclude that [77](4) also holds for all {T \in
+   [T_*,T_*+\delta]} . From this we see that {\Omega_\varepsilon}
+   is (relatively) open in {[a,b]} ; from the connectedness of
+   {[a,b]} we conclude that {\Omega_\varepsilon = [a,b]} , and we
+   are done. \Box
+
+   It is now easy to verify that the line segment {\gamma_{z_1
+   \rightarrow z_2}} is rectifiable with arclength {|z_2-z_1|} ,
+   and that the circle {\gamma_{z_0,r,\circlearrowleft}} is
+   rectifiable with arclength {2\pi r} , exactly as one would
+   expect from elementary geometry. Finally, from Lemma [78]7, a
+   polygonal path {\gamma_{z_0 \rightarrow z_1 \rightarrow \dots
+   \rightarrow z_n}} will be rectifiable with arclength {|z_0-z_1|
+
+     Exercise 11 Show that the curve {\gamma: [0,1] \rightarrow
+     {\bf C}} defined by setting {\gamma(t) := t + i t
+     \sin(\frac{1}{t})} for {0 < t \leq 1} and {\gamma(0) := 0}
+     is continuous but not rectifiable. (Hint: it is not
+     necessary to compute the arclength precisely; a lower bound
+     that goes to infinity will suffice. Graph the curve to
+     discover some convenient partitions with which to generate
+     such lower bounds. Alternatively, one can apply the
+     arclength formula to some subcurves of {\gamma} .)
+
+     Exercise 12 (This exercise presumes familiarity with
+     Lebesgue measure.) Show that the image of a [79]rectifable
+     curve is necessarily of measure zero in the complex plane.
+     (In particular, [80]space-filling curves such as the
+     [81]Peano curve or the [82]Hilbert curve cannot be
+     rectifiable.)
+
+
+     Remark 13 As the above exercise suggests, many [83]fractal
+     curves will fail to be rectifiable; for instance the
+     [84]Koch snowflake is a famous example of an unrectifiable
+     curve. (The situation is clarified once one develops the
+     theory of [85]Hausdorff dimension, as is done for instance
+     in [86]this previous post: any curve of Hausdorff dimension
+     strictly greater than one will be unrectifiable.)
+
+
+   Much as continuous functions {f: [a,b] \rightarrow {\bf R}} on
+   an interval may be integrated by taking limits of Riemann sums,
+   we may also integrate continuous functions {f: \gamma([a,b])
+   \rightarrow {\bf C}} on the image of a rectifiable curve
+   {\gamma: [a,b] \rightarrow {\bf C}} :
+
+     Proposition 14 (Integration in rectifiable curves) Let
+     {\gamma: [a,b] \rightarrow {\bf C}} be a rectifiable curve,
+     and let {f: \gamma([a,b]) \rightarrow {\bf C}} be a
+     continuous function on the image {\gamma([a,b])} of {\gamma}
+     . Then the “Riemann sums”
+
+      \displaystyle \sum_{j=1}^n f(\gamma(t^*_j)) (\gamma(t_j) -
+                   \gamma(t_{j-1})), \ \ \ \ \ (5)
+
+     where {a = t_0 < \dots < t_n = b} ranges over the partitions
+     of {[a,b]} , and for each {1 \leq j \leq n} , {t^*_j} is an
+     element of {[t_{j-1},t_j]} , converge as the maximum mesh
+     size {\max_{1 \leq j \leq n} |t_j - t_{j-1}|} goes to zero
+     to some complex limit, which we will denote as {\int_\gamma
+     f(z)\ dz} . In other words, for every {\varepsilon>0} there
+     exists a {\delta} such that
+
+     \displaystyle |\sum_{j=1}^n f(\gamma(t^*_j)) (\gamma(t_j) -
+      \gamma(t_{j-1})) - \int_\gamma f(z)\ dz| \leq \varepsilon
+
+     whenever {\max_{1 \leq j \leq n} |t_j - t_{j-1}| \leq
+     \delta} .
+
+   Proof: In real analysis courses, one often uses the order
+   properties of the real line to replace the rather complicated
+   looking Riemann sums with the simpler [87]Darboux sums, en
+   route to proving the real-variable analogue of the above
+   proposition. However, in our complex setting the ordering of
+   the real line is not available, so we will tackle the Riemann
+   sums directly rather than try to compare them with Darboux
+   sums.
+
+
+   It suffices to prove that the “Riemann sums” [88](5) are a
+   Cauchy sequence, in the sense that the difference
+
+     \displaystyle \sum_{j=1}^n f(\gamma(t^*_j)) (\gamma(t_j) -
+   \gamma(t_{j-1})) - \sum_{k=1}^m f(\gamma(s^*_k)) (\gamma(s_k) -
+                          \gamma(s_{k-1}))
+
+   between two sums of the form [89](5) is smaller than any
+   specified {\varepsilon>0} if the maximum mesh sizes of the two
+   partitions {a = t_0 < \dots < t_n = b} and {a = s_0 < \dots <
+   s_m = b} are both small enough. From the triangle inequality,
+   and from the fact that any two partitions have a common
+   refinement, it suffices to prove this under the additional
+   assumption that the second partition {a = s_0 < \dots < s_m =
+   b} is a refinement of {a = t_0 < \dots < t_n = b} . This means
+   that there is an increasing sequence {0 = m_0 < m_1 < \dots <
+   m_n = b} of natural numbers such that {s_{m_j} = t_j} for
+   {j=0,\dots,n} . In that case, the above difference may be
+   rearranged as
+
+                   \displaystyle \sum_{j=1}^n E_j
+
+   where
+
+        \displaystyle E_j := f(\gamma(t^*_j)) (\gamma(t_j) -
+    \gamma(t_{j-1})) - \sum_{k=m_{j-1}+1}^{m_j} f(\gamma(s^*_k))
+                  (\gamma(s_k) - \gamma(s_{k-1})).
+
+   By telescoping series, we may rearrange {E_j} further as
+
+   \displaystyle E_j := \sum_{k=m_{j-1}+1}^{m_j} (f(\gamma(t^*_j))
+        - f(\gamma(s^*_k))) (\gamma(s_k) - \gamma(s_{k-1})).
+
+   As {\gamma: [a,b] \rightarrow {\bf C}} is continuous and
+   {[a,b]} is compact, {\gamma} is [90]uniformly continuous. In
+   particular, if the maximum mesh sizes are small enough, we have
+
+
+      \displaystyle |f(\gamma(t^*_j)) - f(\gamma(s^*_k))| \leq
+                             \varepsilon
+
+   for all {1 \leq j \leq n} and {m_{j-1} \leq k \leq m_j} . From
+   the triangle inequality we conclude that
+
+    \displaystyle |E_j| \leq \varepsilon \sum_{k=m_{j-1}+1}^{m_j}
+                   |\gamma(s_k) - \gamma(s_{k-1})|
+
+   and hence on summing in {j} and using the triangle inequality,
+   we can bound
+
+     \displaystyle |\sum_{j=1}^n E_j| \leq \varepsilon |\gamma|.
+
+   Since {|\gamma|} is finite, and {\varepsilon} can be made
+   arbitrarily small, we obtain the required Cauchy sequence
+   property. \Box
+
+   One cannot simply omit the rectifiability hypothesis from the
+   above proposition:
+
+     Exercise 15 Give an example of a curve {\gamma: [a,b]
+     \rightarrow {\bf C}} such that the Riemann sums
+
+       \displaystyle \sum_{j=1}^n \gamma(t^*_j) (\gamma(t_j) -
+                           \gamma(t_{j-1}))
+
+     fail to converge to a limit as the maximum mesh size goes to
+     zero, so the integral {\int_\gamma z\ dz} does not exist in
+     the sense of convergent Riemann sums even though the
+     integrand {z} is extremely smooth. (Of course, such a curve
+     {\gamma} cannot be rectifiable, thanks to Proposition
+     [91]14.) Hint: the non-rectifiable curve in Exercise [92]11
+     is a good place to start, but it turns out that this curve
+     does not oscillate wildly enough to make the Riemann sums
+     here diverge, because of the decay of the function {z
+     \mapsto z} near the origin. Come up with a variant of this
+     curve which oscillates more. Nevertheless, it is still
+     possible to assign a meaning to integrals such as
+     {\int_\gamma z\ dz} , as we shall see in the next set of
+     notes once Cauchy’s theorem is established.
+
+   By abuse of notation, we will refer to the quantity
+   {\int_\gamma f(z)\ dz} as the contour integral of {f} along
+   {\gamma} , even though {\gamma} is not necessarily a contour
+   (we will define this concept shortly). We have some easy
+   properties of this integral:
+
+     Exercise 16 Let {\gamma: [a,b] \rightarrow {\bf C}} be a
+     rectifiable curve, and {f: \gamma([a,b]) \rightarrow {\bf
+     C}} be a continuous function.
+       \equiv \gamma} is another curve equivalent to {\gamma} ,
+       show that {\int_{\tilde \gamma} f(z)\ dz = \int_\gamma
+       f(z)\ dz} .
+       \int_\gamma f(z)\ dz} .
+       some curves {\gamma_1, \gamma_2} , show that
+       \displaystyle \int_\gamma f(z)\ dz = \int_{\gamma_1} f(z)\
+                     dz + \int_{\gamma_2} f(z)\ dz.
+       differentiable, show that
+       \displaystyle \int_\gamma f(z)\ dz = \int_a^b f(\gamma(t))
+                             \gamma'(t)\ dt.
+       {|f(z)| \leq M} for all {z \in \gamma([a,b])} and some
+       {M>0} , show that
+          \displaystyle |\int_\gamma f(z)\ dz| \leq M |\gamma|.
+       \gamma([a,b]) \rightarrow {\bf C}} is a continuous
+       function, show that
+       \displaystyle \int_\gamma c f(z)\ dz = c \int_\gamma f(z)\
+                                   dz
+       and
+       \displaystyle \int_\gamma f(z) + g(z)\ dz = \int_\gamma
+       f(z)\ dz + \int_\gamma g(z)\ dz.
+       point {z_1} and terminal point {z_2} , show that
+               \displaystyle \int_\gamma\ dz = z_2 - z_1.
+       \rightarrow {\bf C}} , {n \geq 1} is a sequence of
+       continuous functions [93]converging uniformly to {f} as {n
+       \rightarrow \infty} , show that {\int_\gamma f_n(z)\ dz}
+       converges to {\int_\gamma f(z)\ dz} as {n \rightarrow
+       \infty} . (The requirement of uniform convergence can be
+       relaxed substantially, thanks to tools such as the
+       [94]dominated convergence theorem, but this weaker
+       convergence theorem will suffice for most of our
+       applications.)
+
+       neighbourhood of {\gamma([a,b])} , let {\phi: U \rightarrow
+       {\bf C}} be a holomorphic function, and let {g:
+       \phi(\gamma([a,b])) \rightarrow {\bf C}} be a continuous
+       function. Show that
+            \displaystyle \int_{\phi \circ \gamma} g(w)\ dw =
+                  \int_\gamma g(\phi(z)) \phi'(z)\ dz.
+       (For this question, you may assume without proof that
+       holomorphic functions are continuously differentiable; this
+       fact will be proven (without reliance on this part of the
+       exercise) in the next set of notes.)
+
+     Exercise 17 (This exercise assumes familiarity with the
+     [95]Riemann-Stieltjes integral.) Let {\gamma: [a,b]
+     \rightarrow {\bf C}} be a rectifiable curve. Let {g: [a,b]
+     \rightarrow {\bf C}} denote the monotone non-decreasing
+     function
+
+
+                \displaystyle g(T) := |\gamma_{[a,T]}|
+
+     for {a \leq T \leq b} , where {\gamma_{[a,T]}: [a,T]
+     \rightarrow {\bf C}} is the restriction of {\gamma: [a,b]
+     \rightarrow {\bf C}} to {[a,T]} . For any continuous
+     function {f: \gamma([a,b]) \rightarrow {\bf C}} , define the
+     arclength measure integral {\int_\gamma f(z)\ |dz|} by the
+     formula
+
+           \displaystyle \int_\gamma f(z)\ |dz| := \int_a^b
+                         f(\gamma(t))\ dg(t)
+
+     where the right-hand side is a Riemann-Stieltjes integral.
+     Establish the triangle inequality
+
+        \displaystyle |\int_\gamma f(z)\ dz| \leq \int_\gamma
+                             |f(z)|\ |dz|
+
+     for any continuous {f: \gamma([a,b]) \rightarrow {\bf C}} .
+     Also establish the identity
+
+              \displaystyle \int_\gamma\ |dz| = |\gamma|
+
+     and obtain an alternate proof of Exercise [96]16(v).
+
+   The change of variables formula (iv) lets one compute many
+   contour integrals using the familiar Riemann integral. For
+   instance, if {a < b} are real numbers and {f: [a,b] \rightarrow
+   {\bf C}} is continuous, then the contour integral along
+   {\gamma_{a \rightarrow b}} coincides with the Riemann integral,
+
+      \displaystyle \int_{\gamma_{a \rightarrow b}} f(z)\ dz =
+                          \int_a^b f(x)\ dx
+
+   and on reversal we also have
+
+      \displaystyle \int_{\gamma_{b \rightarrow a}} f(z)\ dz =
+              \int_b^a f(x)\ dx = - \int_a^b f(x)\ dx.
+
+   Similarly, if {f} is continuous on the circle {\{ z \in {\bf
+   C}: |z-z_0| = r \}} , we have
+
+   \displaystyle \int_{\gamma_{z_0,r,\circlearrowleft}} f(z)\ dz =
+   i \int_0^{2\pi} f(z_0+re^{i\theta}) r e^{i\theta}\ d\theta \ \
+                              \ \ \ (6)
+
+    \displaystyle = 2\pi i r \int_0^1 f(z_0 + re^{2\pi i \theta})
+                     e^{2\pi i \theta}\ d\theta.
+
+     Remark 18 We caution that if {f(z)} is real-valued, we
+     cannot conclude that {\int_\gamma f(z)\ dz} is also real
+     valued, unless the contour {\gamma} lies in the real line.
+     This is because the complex line element {dz} may introduce
+     some non-trivial imaginary part, as is the case for instance
+     in [97](6). For similar reasons, we have
+
+         \displaystyle \mathrm{Re} \int_\gamma f(z)\ dz \neq
+                   \int_\gamma \mathrm{Re} f(z)\ dz
+
+         \displaystyle \mathrm{Im} \int_\gamma f(z)\ dz \neq
+                   \int_\gamma \mathrm{Im} f(z)\ dz
+
+     and
+
+          \displaystyle \overline{\int_\gamma f(z)\ dz} \neq
+                   \int_\gamma \overline{f(z)}\ dz.
+
+     in general. If one wishes to mix line integrals with real
+     and imaginary parts, it is recommended to replace the
+     contour integrals above with the [98]line integrals
+
+
+          \displaystyle \int_\gamma f(x+iy) dx + g(x+iy) dy,
+
+     which are defined as in Proposition [99]14 but where the
+     expression
+
+            \displaystyle f(\gamma(t^*_j)) (\gamma(t_j) -
+                           \gamma(t_{j-1}))
+
+     appearing in [100](5) is replaced by
+
+       \displaystyle f(\gamma(t^*_j)) \mathrm{Re}(\gamma(t_j) -
+     \gamma(t_{j-1})) + g(\gamma(t^*_j)) \mathrm{Im}(\gamma(t_j)
+                         - \gamma(t_{j-1})).
+
+     The contour integral corresponds to the special case {g=if}
+     (or more informally, {dz = dx + idy} ). Line integrals are
+     in turn special cases of the more general concept of
+     integration of [101]differential forms, discussed for
+     instance in [102]this article of mine, and which are used
+     extensively in differential geometry and geometric topology.
+     However we will not use these more general line integrals or
+     differential form integrals much in this course.
+
+
+   In later notes it will be convenient to restrict to a more
+   regular class of curves than the rectifiable curves. We thus
+   give the definitions here:
+
+     Definition 19 (Smooth curves and contours) A smooth curve is
+     a curve {\gamma: [a,b] \rightarrow {\bf C}} that is
+     continuously differentiable, and such that {\gamma'(t) \neq
+     0} for all {t \in [a,b]} . A contour is a curve that is
+     equivalent to the concatenation of finitely many smooth
+     curves (that is to say, a piecewise smooth curve).
+
+     Example 20 The line segments {\gamma_{z_1 \rightarrow z_2}}
+     and circles {\gamma_{z_0, r, \circlearrowright},
+     \gamma_{z_0,r,\circlearrowleft}} are smooth curves and hence
+     contours. Polygonal paths are usually not smooth, but they
+     are contours. Any sum of finitely many contours is again a
+     contour, and the reversal of a contour is also a contour.
+
+   Note here that the term “smooth” differs somewhat here from the
+   [103]real-variable notion of smoothness, which is defined to be
+   “infinitely differentiable”. Smooth curves are still only
+   assumed to just be continuously differentiable; we do not
+   assume that the second derivative of {\gamma} exists. (In
+   particular, smooth curves may have infinite [104]curvature at
+   some points.) In practice, this distinction tends to be minor,
+   though, as the smooth curves that one actually uses in complex
+   analysis do tend to be infinitely differentiable. On the other
+   hand, for most applications one does not need to control any
+   derivative of a contour beyond the first.
+
+
+   The following examples and exercises may help explain why the
+   non-vanishing condition {\gamma'(t) \neq 0} imbues curves with
+   a certain degree of “smoothness”.
+
+     Example 21 (Cuspidal curve) Consider the curve {\gamma:
+     [-1,1] \rightarrow {\bf C}} defined by {\gamma(t) := t^2 +
+     it^3} . Clearly {\gamma} is continously differentiable (and
+     even infinitely differentiable), but we do not view this
+     curve as smooth, because {\gamma'(t) = 2t + 3it^2} vanishes
+     at the origin. Indeed, the image of the curve is {\{ x + i
+     x^{3/2}: 0 \leq x \leq 1 \} \cup \{ x - i x^{3/2}: 0 \leq x
+     \leq 1 \}} , which looks visibly non-smooth at the origin if
+     one plots it, due to the presence of a [105]cusp.
+
+
+     Example 22 (Absolute value function) Consider the curve
+     {\gamma: [-1,1] \rightarrow {\bf C}} defined by {\gamma(t)
+     := t^5 + i |t|^5} . This curve is certainly continuously
+     differentiable, and in fact is four times continuously
+     differentiable, but is not smooth because {\gamma'(t) = 5
+     t^4 + i 4 |t|^3 t} vanishes at the origin. The image of this
+     curve is {\{ x + i |x|: -1 \leq x \leq 1\}} , which looks
+     visibly non-smooth at the origin (in particular, there is no
+     unique tangent line to this curve here).
+
+     Example 23 (Spiral) Consider the curve {\gamma: [-1,1]
+     \rightarrow {\bf C}} defined by {\gamma(t) := t^4 e^{i/t}}
+     for {t \neq 0} , and {\gamma(0) := 0} . One can check
+     (exercise!) that {\gamma} is continuously differentiable,
+     even at the origin {t=0} ; but it is not a smooth curve
+     because {\gamma'(0)} vanishes. The image of {\gamma} has
+     some rather complicated behaviour at the origin, for
+     instance it intersects itself multiple times (try to sketch
+     it!).
+
+     Exercise 24 (Local behaviour of smooth curves) Let {\gamma:
+     [a,b] \rightarrow {\bf C}} be a simple smooth curve, and let
+     {t_0} be an interior point of {(a,b)} . Let {\theta \in {\bf
+     R}} be a phase of {\gamma'(t_0)} , thus {\gamma'(t_0)=
+     re^{i\theta}} for some {r>0} . Show that for all
+     sufficiently small {\varepsilon>0} , the portion
+     {\gamma([a,b]) \cap D(\gamma(t_0),\varepsilon)} of the image
+     of {\gamma} near {\gamma(t_0)} looks like a rotated graph,
+     in the sense that
+
+     \displaystyle \gamma([a,b]) \cap D(\gamma(t_0),\varepsilon)
+         = \{ \gamma(t_0) + e^{i\theta} ( s + i f(s) ): s \in
+                           I_\varepsilon \}
+
+     for some interval {I_\varepsilon = (-c_-(\varepsilon),
+     c_+(\varepsilon))} containing the origin, and some
+     continuously differentiable function {f: I_\varepsilon
+     \rightarrow {\bf R}} with {f(0) = f'(0) = 0} . Furthermore,
+     show that {c_-(\varepsilon), c_+\varepsilon = \varepsilon +
+     o(\varepsilon)} as {\varepsilon \rightarrow 0} (or
+     equivalently, that {\frac{c_-(\varepsilon)}{\varepsilon},
+     \frac{c_+(\varepsilon)}{\varepsilon} \rightarrow 1} as
+     {\varepsilon \rightarrow 0} ). (Hint: you may find it easier
+     to first work with the model case where {\gamma(t_0) = 0}
+     and {\gamma'(t_0) = 1} . The real-variable [106]inverse
+     function theorem will also be helpful.)
+
+
+     Exercise 25 Show that a curve {\gamma} is a contour if and
+     only if it is equivalent to the concatenation of finitely
+     many simple smooth curves.
+
+     Exercise 26 Show that the cuspidal curve and absolute value
+     curves in Examples [107]21, [108]22 are contours, but the
+     curve in Exercise [109]23 is not.
+
+           — 2. The fundamental theorem of calculus —
+
+   Now we establish the complex analogues of the [110]fundamental
+   theorem of calculus. As in the real-variable case, there are
+   two useful formulations of this theorem. Here is the first:
+
+
+     Theorem 27 (First fundamental theorem of calculus) Let {U}
+     be an open subset of {{\bf C}} , let {f: U \rightarrow {\bf
+     C}} be a continuous function, and suppose that {f} has an
+     [111]antiderivative {F: U \rightarrow {\bf C}} , that is to
+     say a holomorphic function with {f(z) = F'(z)} for all {z
+     \in U} . Let {\gamma: [a,b] \rightarrow {\bf C}} be a
+     rectifiable curve in {U} with initial point {z_0} and
+     terminal point {z_1} . Then
+
+
+        \displaystyle \int_\gamma f(z)\ dz = F(z_1) - F(z_0).
+
+   Proof: If {\gamma} were continuously differentiable, or at
+   least piecewise continuously differentiable (the concatenation
+   of finitely many continuously differentiable curves), we could
+   establish this theorem by using Exercise [112]16 to rewrite
+   everything in terms of real-variable Riemann integrals, at
+   which point one can use the real-variable fundamental theorem
+   of calculus (and the chain rule). But actually we can just give
+   a direct proof that does not need any differentiability
+   hypothesis whatsoever.
+
+   We again use the continuity method. Let {\varepsilon > 0} , and
+   for each {a \leq T \leq b} , let {\gamma_{[a,T]}: [a,T]
+   \rightarrow {\bf C}} be the restriction of {\gamma: [a,b]
+   \rightarrow {\bf C}} to {[a,T]} . It will suffice to show that
+
+   \displaystyle |\int_{\gamma_{[a,T]}} f(z)\ dz - (F(\gamma(T)) -
+   F(\gamma(a)))| \leq \varepsilon |\gamma_{[a,T]}| \ \ \ \ \ (7)
+
+   for all {a \leq T \leq b} , as the claim then follows by
+   setting {T=b} and sending {\varepsilon} to zero.
+
+   Let {\Omega_\varepsilon} denote the set of all {T_* \in [a,b]}
+   such that [113](7) holds for all {a \leq T \leq T_*} . As
+   before, {\Omega_\varepsilon} is clearly closed and contains {a}
+   ; as {[a,b]} is connected, the only remaining task is to show
+   that {\Omega_\varepsilon} is open in {[a,b]} . Let {T_* \in
+   \Omega_\varepsilon} be such that {T_* < b} . As {F} is
+   differentiable at {\gamma(T_*)} with derivative
+   {f(\gamma(T_*))} , and {\gamma} is continuous, there exists
+   {\delta>0} with {[T_*,T_*+\delta] \subset [a,b]} such that
+
+   \displaystyle |\frac{F(\gamma(T)) - F(\gamma(T_*))}{\gamma(T) -
+          \gamma(T_*)} - f(\gamma(T_*))| \leq \varepsilon/2
+
+   for any {T_* < T \leq T_*+\delta} , and hence
+
+    \displaystyle |F(\gamma(T)) - F(\gamma(T_*)) - f(\gamma(T_*))
+   (\gamma(T)-\gamma(T_*))| \leq \varepsilon/2 |\gamma_{[T_*,T]}|
+                            \ \ \ \ \ (8)
+
+   for any {T \in [T_*, T_*+\delta]} . On the other hand, if
+   {\delta} is small enough, we have that
+
+         \displaystyle |f(\gamma(t)) - f(\gamma(T_*))| \leq
+                            \varepsilon/2
+
+   for all {t \in [T_*, T_*+\delta]} , and hence by Exercise
+   [114]16(v) we have
+
+   \displaystyle |\int_{\gamma_{[T_*,T]}} (f(z) - f(\gamma(T_*)))\
+         dz| \leq \frac{\varepsilon}{2} |\gamma_{[T_*, T]}|
+
+   where {\gamma_{[T_*,T]}: [T_*,T] \rightarrow {\bf C}} is the
+   restriction of {\gamma: [a,b] \rightarrow {\bf C}} to {[T_*,T]}
+   . Applying Exercise [115]16(vi), (vii) we thus have
+
+          \displaystyle |\int_{\gamma_{[T_*,T]}} f(z)\ dz -
+            f(\gamma(T_*)) (\gamma(T)-\gamma(T_*))| \leq
+             \frac{\varepsilon}{2} |\gamma_{[T_*, T]}|.
+
+   Combining this with [116](8) and the triangle inequality, we
+   conclude that
+
+   \displaystyle |\int_{\gamma_{[T_*,T]}} f(z)\ dz - (F(\gamma(T))
+       - F(\gamma(T_*)))| \leq \varepsilon |\gamma_{[T_*,T]}|
+
+   and on adding this to the {T=T_*} case of [117](7) and again
+   using the triangle inequality, we conclude that [118](7) holds
+   for all {T \in [T_*,T_*+\delta]} . This ensures that
+   {\Omega_\varepsilon} is open, as desired. \Box
+
+   One can use this theorem to quickly evaluate many integrals by
+   using an antiderivative for the integrand as in the
+   real-variable case. For instance, for any rectifiable curve
+   {\gamma} with initial point {z_1} and terminal point {z_2} , we
+   have
+
+        \displaystyle \int_\gamma z\ dz = \frac{1}{2} z_2^2 -
+                         \frac{1}{2} z_1^2,
+
+       \displaystyle \int_\gamma e^z\ dz = e^{z_2} - e^{z_1},
+
+   \displaystyle \int_\gamma \cos(z)\ dz = \sin(z_2) - \sin(z_1),
+
+   and so forth. If the curve {\gamma} avoids the origin, we also
+   have
+
+   \displaystyle \int_\gamma \frac{1}{z^2}\ dz = -\frac{1}{z_2} +
+                            \frac{1}{z_1}
+
+   since {-\frac{1}{z}} is an antiderivative of {\frac{1}{z^2}} on
+   {{\bf C} \backslash \{0\}} . If {\sum_{n=0}^\infty a_n
+   (z-z_0)^n} is a power series with radius of convergence {R} ,
+   and {\gamma} is a curve in {D(z_0,R)} with initial point {z_1}
+   and terminal point {z_2} , we similarly have
+
+   \displaystyle \int_\gamma \sum_{n=0}^\infty a_n (z-z_0)^n\ dz =
+        \sum_{n=0}^\infty a_n ( \frac{(z_2-z_0)^{n+1}}{n+1} -
+                   \frac{(z_1-z_0)^{n+1}}{n+1} ).
+
+   For the second fundamental theorem of calculus, we need a
+   topological preliminary result.
+
+     Exercise 28 Let {U} be a non-empty open subset of {{\bf C}}
+     . Show that the following statements are equivalent:
+       only two subsets of {U} that are both open and closed
+       relative to {U} are the empty set and {U} itself).
+       {z_1,z_2 \in U} there exists a curve {\gamma} with image in
+       {U} whose initial point is {z_1} and terminal point is
+       {z_2} ).
+       except that {\gamma} is now required to also be a polygonal
+       path).
+
+     (Hint: to show that (i) implies (iii), pick a base point
+     {z_0} in {U} and consider the set of all {z_1} in {U} that
+     can be reached from {z_0} by a polygonal path.)
+
+   We remark that the relationship between path connectedness and
+   connectedness is more delicate when one does not assume that
+   the space {U} is open; every path-connected space is still
+   connected, but the converse need not be true.
+
+     Remark 29 There is [119]some debate as to whether to view
+     the empty set {\emptyset} as connected, disconnected, or
+     neither. I view this as analogous to the debate as to
+     whether the natural number {1} should be viewed as prime,
+     composite, or neither. In both cases I personally prefer the
+     convention of “neither” (and like to use the term
+     “unconnected” to describe the empty set, and “unit” to
+     describe {1} ), but to avoid any confusion I will restrict
+     the discussion of connectedness to non-empty sets in this
+     course (which is all we will need in applications).
+
+
+   In real analysis, the second fundamental theorem of calculus
+   asserts that if a function {f: [a,b] \rightarrow {\bf R}} is
+   continuous, then the function {F: x \mapsto \int_a^x f(y)\ dy}
+   is an antiderivative of {f} . In the complex case, there is an
+   analogous result, but one needs the additional requirement that
+   the function is conservative:
+
+     Theorem 30 (Second fundamental theorem of calculus) Let {U
+     \subset {\bf C}} be a non-empty open connected subset of the
+     complex numbers. Let {f: U \rightarrow {\bf C}} be a
+     continuous function which is conservative in the sense that
+
+         \displaystyle \int_\gamma f(z)\ dz = 0 \ \ \ \ \ (9)
+
+     whenever {\gamma} is a closed polygonal path in {U} . Fix a
+     base point {z_0 \in U} , and define the function {F: U
+     \rightarrow {\bf C}} by the formula
+
+      \displaystyle F(z_1) := \int_{\gamma_{z_0 \rightsquigarrow
+                            z_1}} f(z)\ dz
+
+     for all {z_1 \in U} , where {\gamma_{z_0 \rightsquigarrow
+     z_1}} is any polygonal path from {z_0} to {z_1} in {U} (the
+     existence of such a path follows from Exercise [120]28 and
+     the hypothesis that {U} is connected, and the independence
+     of the choice of path for the purposes of defining {F(z_1)}
+     follows from Exercise [121]16 and the conservative
+     hypothesis [122](9)). Then {F} is holomorphic on {U} and is
+     an antiderivative of {f} , thus {f(z_1) = F'(z_1)} for all
+     {z_1 \in U} .
+
+   Proof: We mimic the proof of the real-variable second
+   fundamental theorem of calculus. Let {z_1} be any point in {U}
+   . As {U} is open, it contains some disk {D(z_1,r)} centred at
+   {z_1} . In particular, if {z_2} lies in this disk, then the
+   line segment {\gamma_{z_1 \rightarrow z_2}} will have image in
+   {U} . If {\gamma_{z_0 \rightsquigarrow z_1}} is any polygonal
+   path from {z_0} to {z_1} , then we have
+
+   \displaystyle F(z_1) = \int_{\gamma_{z_0 \rightsquigarrow z_1}}
+                              f(z)\ dz
+
+   and
+
+   \displaystyle F(z_2) = \int_{\gamma_{z_0 \rightsquigarrow z_1}
+
+   and hence by Exercise [123]16
+
+         \displaystyle F(z_2) - F(z_1) - f(z_1) (z_2-z_1) =
+      \int_{\gamma_{z_1 \rightarrow z_2}} (f(z) - f(z_1))\ dz.
+
+   (The reader is strongly advised to draw a picture depicting the
+   situation here.) Let {\varepsilon>0} , then for {z_2}
+   sufficiently close to {z_1} , we have {|f(z)-f(z_1)| \leq
+   \varepsilon} for all {z} in the image of {\gamma_{z_1
+   \rightarrow z_2}} . Thus by Exercise [124]16(v) we have
+
+       \displaystyle |F(z_2) - F(z_1) - f(z_1) (z_2-z_1)| \leq
+                        \varepsilon |z_2-z_1|
+
+   for {z_2} sufficiently close to {z_1} , which implies that
+
+    \displaystyle \lim_{z_2 \rightarrow z_1; z_2 \in U \backslash
+           \{z_1\}} \frac{F(z_2)-F(z_1)}{z_2-z_1} = f(z_1)
+
+   for any {z_1 \in U} , and thus {F} is an antiderivative of {f}
+   as required. \Box
+
+   The notion of a non-empty open connected subset {U} of the
+   complex plane comes up so frequently in complex analysis that
+   many texts assign a special term to this notion; for instance,
+   Stein-Shakarchi refers to such sets as regions, and in other
+   texts they may be called domains. We will stick to just
+   “non-empty open connected subset of {{\bf C}} ” in this course.
+
+   The requirement that {f} be conservative is necessary, as the
+   following exercise shows. Actually it is also necessary in the
+   real-variable case, but it is redundant in that case due to the
+   topological triviality of closed polygonal paths in one
+   dimension: see Exercise [125]33 below.
+
+     Exercise 31 Let {U} be a non-empty connected subset of {{\bf
+     C}} , and let {f: U \rightarrow {\bf C}} be continuous. Show
+     that the following are equivalent:
+       for all closed polygonal paths in {U} .
+       for all simple closed polygonal paths in {U} .
+       for all closed contours in {U} .
+       for all closed rectifiable curves in {U} .
+
+     (Hint: to show that (iii) implies (ii), induct on the number
+     of edges in the closed polygonal path, and find a way to
+     decompose non-simple closed polygonal paths into paths with
+     fewer edges. One should avoid non-rigorous “hand-waving”
+     arguments, and make sure that one actually has covered all
+     possible cases, e.g. paths that include some backtracking.)
+     Furthermore, show that if {f} has two antiderivatives {F_1,
+     F_2} , then there exists a constant {C \in {\bf C}} such
+     that {F_2 = F_1 + C} .
+
+     Exercise 32 Show that the function {\frac{1}{z}} does not
+     have an antiderivative on {{\bf C} \backslash \{0\}} .
+     (Hint: integrate {\frac{1}{z}} on
+     {\gamma_{0,1,\circlearrowleft}} .) In later notes we will
+     see that {\frac{1}{z}} nevertheless does have
+     antiderivatives on many subsets of {{\bf C} \backslash
+     \{0\}} , formed by various branches of the [130]complex
+     logarithm.
+
+
+     Exercise 33 If {f: [a,b] \rightarrow {\bf C}} is a
+     continuous function on an interval, show that {f} is
+     conservative in the sense that [131](9) holds for any closed
+     polygonal path in {[a,b]} . What happens for closed
+     rectifiable paths?
+
+     Exercise 34 Let {U} be an open subset of {{\bf C}} (not
+     necessarily connected).
+       of non-empty subsets of {U} that are open, connected,
+       disjoint, and partition {U} : {U = \biguplus_{V \in
+       {\mathcal U}} V} . (The elements of {{\mathcal U}} are
+       known as the [132]connected components of {U} .)
+
+       at most countable. (Hint: show that each connected
+       component contains at least one complex number with
+       rational real and imaginary parts.)
+       conservative function on {U} , show that {f} has at least
+       one antiderivative {F} .
+       that it is possible for a function {f: U \rightarrow {\bf
+       C}} to have two antiderivatives {F_1, F_2} which do not
+       differ by a constant (i.e. there is no complex number {C}
+       such that {F_1 = F_2 + C} ).
+
+     Exercise 35 (Integration by parts) Let {f,g: U \rightarrow
+     {\bf C}} be holomorphic functions on an open set {U} , and
+     let {\gamma} be a rectifiable curve in {U} with initial
+     point {z_1} and terminal point {z_2} . Prove that
+
+      \displaystyle \int_\gamma f(z) g'(z)\ dz = f(z_2) g(z_2) -
+             f(z_1) g(z_1) - \int_\gamma f'(z) g(z)\ dz.
+
+   (The exercise below was added after the notes was originally
+   written; it will be moved to a more appropriate location later,
+   but is placed here so as not to disrupt the numbering of
+   existing exercises.)
+
+     Exercise 36 (Arclength parameterisation) Let {\gamma: [a,b]
+     \rightarrow {\bf C}} be a rectifiable curve. Show that there
+     exists a unique reparameterisation {\tilde \gamma:
+     [0,|\gamma|] \rightarrow {\bf C}} with the property that for
+     each {0 \leq t \leq |\gamma|} , the restriction of {\tilde
+     \gamma} to {[0,t]} has arclength exactly {t} . (Hint: one
+     may wish to first establish the preliminary statement that
+     the arclength of the restriction of {\gamma} to {[a,t]} for
+     {a \leq t \leq b} varies continuously in {t} .)
+
+

@@ -1,0 +1,120 @@
+Publishing Research with Undergraduate Co-authors
+
+   Posted on [16]12/23/2016 by [17]Dagan Karp
+
+
+   This is a guest post from [18]Ursula Whitcher, Associate Editor
+   at [19]Mathematical Reviews.
+
+
+   One of the highlights of the Joint Math Meetings every January
+   is the [20]undergraduate student poster session, where hundreds
+   of students present original research projects. Have you
+   mentored undergraduate research? Are you working on a paper
+   based on your results? If so, where will you submit it?
+
+
+   If the paper is solely authored by your research students,
+   there are many options. The Center for Undergraduate Research
+   in Mathematics maintains a nice [21]list of venues for
+   undergraduate math research. However, many of us choose to
+   co-author papers with our students. Why might you do this?
+   Maybe you want the paper to be listed on your CV, or featured
+   in a portfolio for promotion or tenure. Maybe you spent the
+   summer focused on making conjectures and proving results, and
+   want to write up the details in the fall and winter;
+   undergraduates may not be able to devote time to the publishing
+   process during the academic year, especially if they are
+   seniors, or don’t attend your institution. You may have worked
+   with several students or teams of students over a period of a
+   few years, and not have a single student to tap as lead author.
+   You might need to include disciplinary context based on
+   postgraduate-level material. Or perhaps you simply have
+   multiple collaborators, and they’re not all undergraduates.
+
+
+   Some undergraduate research journals do accept papers with
+   faculty authors. If you’re considering journals of this type,
+   [22]Involve is a natural starting point. This is an excellent
+   journal, with an editorial board comprising many prominent
+   mathematicians and experts in mentoring research. At least one
+   third of the authors of a paper submitted to Involve should be
+   undergraduate students. The [23]Pi Mu Epsilon Journal also
+   considers papers by faculty members, if they are accessible to
+   an undergraduate readership.
+
+
+   But where else could you send your paper? It’s always a good
+   idea to have several venues in mind when you begin the
+   submissions process. Making a multi-step plan frees you to be
+   ambitious in sending your paper to well-known and respected
+   journals, without dooming you to despair if the first or second
+   place rejects it.
+
+   Of course, you can always send papers with undergraduates to a
+   “grown-up” research journal. If you need high-profile
+   publications for promotion or tenure, this should be your first
+   step! You may already have identified some targets, based on
+   past experience or the traditions in your subfield; the
+   journals that appear often in your bibliography may also
+   provide inspiration. If you just want to look at a big list of
+   math journals, various rankings are available. Math Reviews
+   computes a “mathematical citation quotient” for every journal
+   in its database; you can find [24]list of the top scorers in
+   the citation section. (You’ll need to log into MathSciNet to
+   view more than the top 10.) Other rankings are collected in
+   [25]this MathOverflow post.
+
+
+   Research with undergraduates often entails computational
+   experimentation, gathering evidence that may lead to new
+   conjectures. Journals such as [26]Experimental Mathematics
+   feature this style of research. You’ll have the most success
+   with experimental journals if your methods are interesting in
+   their own right; ask yourself whether you have created a new
+   algorithm, or surmounted a significant technical obstacle.
+
+
+   What if your paper has expository elements? If the paper is
+   aimed at researchers in your field, you can seek out
+   opportunities to submit to refereed conference proceedings,
+   which often accept a mix of exposition and original research.
+   Ask your colleagues whether they know of a suitable venue:
+   though this doesn’t hold in all fields, in mathematics it’s
+   often possible to submit to a “conference proceedings” without
+   attending the conference. A bonus of proceedings publication
+   for your undergraduate collaborators is that their names will
+   appear in a hardbound book.
+
+   If your paper has a strong expository element and a broad
+   potential readership, consider submitting to a journal whose
+   mission is exposition. Don’t expect publication in an
+   expository journal to be easier than publication in a
+   research-focused journal! You will have multiple referees, some
+   from far outside your research area, and you may need to
+   rewrite your paper multiple times to make it crystal clear.
+
+   The best-known expository journals are the [27]MAA magazines.
+   You’ll likely be choosing between The College Math Journal,
+   Mathematics Magazine, and The American Mathematical Monthly.
+   Officially, CMJ is focused on the first- and second-year math
+   major curriculum, Math Magazine covers all of undergraduate
+   mathematics, and The Monthly is aimed at mathematicians of all
+   sorts. Because undergraduate research in mathematics usually
+   takes junior- and senior-level classroom mathematics as a
+   starting point, Math Magazine is often a good venue for papers
+   on undergrad research projects. One advantage of publishing in
+   MAA magazines is eligibility for [28]MAA prizes.
+
+
+   What are your favorite places to submit research with
+   undergraduates? Please share your ideas in the comments
+   section!
+
+   This entry was posted in [29]Journals and Publications.
+   Bookmark the [30]permalink.
+   [31]← The 2016 SACNAS conference reignited my dreams
+   [32]Actively Embracing Mentoring →
+
+
+

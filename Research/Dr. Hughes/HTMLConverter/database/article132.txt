@@ -1,0 +1,86 @@
+Number Theory: An Introduction via the Density of Primes
+
+   Benjamin Fine and Gerhard Rosenberger
+   Publisher:
+   Birkhäuser
+   Publication Date:
+   2016
+   Number of Pages:
+   413
+   Format:
+   Hardcover
+   Edition:
+   2
+   Price:
+   79.99
+   ISBN:
+   9783319438733
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   Allen Stenger
+   , on
+   11/9/2016
+   ]
+
+   This is an interesting take on an introductory number theory
+   course, one that is heavily slanted toward the prime numbers.
+   As such, it omits or mentions only briefly many topics that
+   would normally appear in an introductory course, such as
+   Diophantine equations, partitions, and continued fractions. It
+   squeezes in a little bit on irrational numbers and on quadratic
+   reciprocity, but these are given as isolated results that don’t
+   go anywhere.
+
+   The book is chatty and leisurely, with lots of historical notes
+   and lots of worked examples. The exercises at the end of each
+   chapter are good and there are a reasonable number of them. The
+   prerequisites are higher than usual for a book at this level:
+   single and multiple variable calculus and linear algebra. The
+   book develops all the complex analysis and abstract algebra it
+   needs.
+
+   The book is subtitled “An Introduction via the Density of
+   Primes”, which is not really true because it does many other
+   things too. It does have very good coverage of prime
+   distribution, including proofs of Dirichlet’s theorem on primes
+   in arithmetic progressions, Bertrand’s Postulate that between
+   each number and its double is a prime, Newman’s simple analytic
+   proof of the prime number theorem, a mostly-complete sketch of
+   the Selberg–Erdös elementary proof of the prime number theorem,
+   and Brun’s theorem that the sum of the reciprocals of the twin
+   primes converges. There’s a lot on primality testing, including
+   a description of the AKS polynomial-time algorithm. Most of the
+   proofs are familiar ones; the innovation in the book is in the
+   choice of topics rather than the approach.
+
+   The emphasis on primes leads to some peculiarities, especially
+   because of the exclusion of Diophantine equations. For example,
+   there are lengthy chapters on algebraic numbers and on p-adic
+   numbers that has almost no applications. There’s also a good
+   development of elliptic curves, but they are used only for
+   primality testing and proving and not for studying equations.
+
+   Bottom line: a good text for an introductory course, if you
+   have enough flexibility to omit many traditional topics.
+     __________________________________________________________
+
+   Allen Stenger is a math hobbyist and retired software
+   developer. He is an editor of the [309]Missouri Journal of
+   Mathematical Sciences. His personal web page is
+   [310]allenstenger.com. His mathematical interests are number
+   theory and classical analysis.
+
+
+   See the table of contents in the [311]publisher's webpage.
+   Tags:
+   [312]Algebraic Number Theory
+   [313]Analytic Number Theory
+   [314]Number Theory
+
+
+
+

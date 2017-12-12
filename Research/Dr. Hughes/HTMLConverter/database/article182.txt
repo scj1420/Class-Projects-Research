@@ -1,0 +1,244 @@
+Assessing Risks to Global Food Security
+
+How Mathematicians Can Help
+
+   By [47]James Case
+
+
+   The inaugural [48]SIAM Conference on Mathematics of Planet
+   Earth, held last September in Philadelphia, Pa., featured a
+   public lecture by Molly Jahn of the University of Wisconsin,
+   Madison (UW-Madison). Jahn, whose talk was entitled “Risks and
+   Resilience in Global Food Systems: An Invitation for
+   Mathematicians,” holds appointments in the Department of
+   Agronomy, the Global Health Institute, and the Center for
+   Sustainability and the Global Environment. She has served as
+   dean of the university’s College of Agriculture and Life
+   Sciences, director of the Wisconsin Agricultural Experiment
+   Station, and Deputy and Acting Under Secretary of Research,
+   Education, and Economics at the U.S. Department of Agriculture.
+
+
+   Jahn began her lecture by conceding that the current
+   agricultural establishment (farmers, agribusinesses, and the
+   agricultural research community) has been “stunningly
+   successful” in improving agricultural productivity and
+   efficiency. How else could we possibly be feeding a global
+   population that has grown from under 2 billion to over 7
+   billion in the last century? She hastened to add, however, that
+   the existing food delivery system is by no means ideal. It
+   leaves some 800 million people undernourished, while 1.5
+   billion are overweight or obese. Meanwhile, estimates indicate
+   that 1.4 billion tons of food are wasted each year. Though this
+   is a small fraction of the total quantity produced, it is still
+   significant – more than enough to feed the 1.4 billion people
+   subsisting on $1.25 per day, or the 1.5 billion people who
+   reside on degrading land. According to the Commission on
+   Sustainable Agriculture and Climate Change (CSACC), more than
+   30 million acres of agricultural land are degraded each year
+   due to overgrazing and other poor agricultural practices,
+   climate change, groundwater depletion, urban sprawl, and
+   additional human activities.
+
+   Cropland degradation, however, is not the only way in which
+   current practices are overtaxing the planet. According to Jahn,
+   the historic focus of research and intensive inputs on
+   maximizing crop yield has obscured the extent and vulnerability
+   of globalized and regionalized food delivery systems: large
+   parts of the world no longer do—and presumably no longer
+   can—feed themselves. Crop failures or food system
+   interruptions, especially due to multiple major events in a
+   single annual growing cycle in either North or South America,
+   could bring large parts of Europe and Asia to the brink of
+   starvation (see Figure 1). Interruption of ocean transport, a
+   cyber disaster, or major telecommunication networks could do
+   the same. How great, one wonders, are the risks of such
+   disasters?
+
+   Figure 1. Main trade flows of corn, wheat, soybean complex, and
+   palm oil. Image credit: Rabobank.
+
+   Food security is inalterably connected to other forms of
+   security, including energy, water, physical (infrastructure),
+   environmental, economic, and human (personal) security. New
+   intelligence paradigms involving multiscale tools that
+   distinguish between, for instance, slow and fast-moving trends
+   are altering our understanding of these interconnections and
+   the way that shocks propagate through the system.
+
+   The CSACC has issued a series of seven recommendations for
+   achieving global food security. Some are fairly predictable,
+   including #2: Significantly raise the level of global
+   investment in sustainable agriculture and food systems in the
+   next decade, and #4: Develop specific programmes and policies
+   to assist populations and sectors that are most vulnerable to
+   climate changes and food insecurity. However, Jahn focused on
+   the last one, recommendation #7: Create comprehensive, shared,
+   integrated information systems that encompass human and
+   ecological dimensions [of agricultural and food systems].
+
+   Why, she asked, does this recommendation deserve special
+   attention? To answer this question, Jahn presented two maps of
+   India with brightly colored areas indicating irrigated lands.
+   One map showed some 279 million acres of irrigated land, while
+   the other displayed little more than half as many. Jahn said
+   that the representations were from two mainstream institutions
+   in the country, reinforcing the limitations of such
+   visualizations. Which figure should be included in an
+   integrated information system intended to inform the policy
+   process?
+
+   Integrated (and interactive) near-real-time information systems
+   already exist. Figure 2 shows the homepage of one such system,
+   which can track production sites, transport vessels, weather
+   conditions, infrastructure, and more. Yet it reflects only
+   currently-available data, including dubious estimates of many
+   important quantities and no estimates at all of some others.
+
+   Information concerning the demand for food is particularly
+   fragmented and incomplete. Ultimately, displays like the one in
+   Figure 2 will depict the flow of energy, including that of
+   human beings, from place to place. Current available
+   representations, however, fail to portray energy flows with
+   sufficient clarity. Might it one day be possible to produce a
+   dynamic and comprehensive display—akin to a weather map—of
+   energy flows throughout the global food delivery system, with
+   an indication of the level of uncertainty?
+
+   Figure 2. Near-real-time interactive maps track vessels,
+   weather conditions, and infrastructure. Image credit: Thomson
+   Reuters Eikon.
+
+   As matters stand, the world has a severely incomplete
+   understanding of risks that could result in food system
+   instability or breakdown. A number of unconventional
+   partnerships have recently formed to address the issue – by
+   assembling trustworthy bodies of information suitable for
+   planning purposes and making them available to the public. Jahn
+   spoke of a nascent collaboration between Oak Ridge National
+   Laboratory and the International Maize and Wheat Improvement
+   Center (better known by its Spanish acronym, CIMMYT), aided by
+   Thomson Reuters’ platform Eikon and the Multi-Agency
+   Collaboration Environment. She also mentioned the work of a
+   group of insurance practitioners, who convened at Lloyd’s of
+   London in 2015 to assess the cascade of impacts that could
+   result from a plausible scenario (developed by the Jahn
+   Research Group of UW-Madison, in conjunction with the U.K./U.S.
+   Task Force on Resilience of the Global Food Supply Chain to
+   Extreme Events) of a shock to the worldwide production of
+   certain staple food crops. The group concluded that food
+   insecurity will be among the largest risks to global society
+   over the next ten years, and that climate change will be one of
+   the most important supply-side drivers of that insecurity. They
+   quantified the economic impact of the shock in question as
+   follows: U.S. stocks lose 5% of their value, E.U. stocks lose
+   19% of their value, global rice production falls 7%, maize
+   production falls 10%, soybean production falls 11%, and rice
+   prices rise 500%.
+
+   These and related factors create both risk and opportunity for
+   certain types of businesses. For example, food and beverage
+   companies are painfully exposed to supply risks, which have
+   grown with the extension of their supply chains. To reduce such
+   risks, certain features of the global food delivery system will
+   need to change. Global conditions will force governments to
+   prohibit some currently-profitable activities, such as the
+   depletion of fossil water reserves in the mighty (but
+   non-regenerating) Ogallala Aquifer to grow grain for sale in
+   Southeast Asia. In so doing, they will incur the wrath of those
+   whose profits diminish, in league with a swarm of supply-side
+   economists.
+
+   Mathematicians can help improve global food security by
+   familiarizing themselves with economic models other than the
+   “supply-side” model so favored by the Ronald Reagan
+   administration. It differs in name only from the long-dominant
+   “neoclassical model” of economic behavior. Jahn quoted Ha-Joon
+   Chang, a gadfly in the economics profession, whose book [1]
+   furnishes an eminently readable (if somewhat incomplete) guide
+   to alternative schools of economic thought. Because the
+   dominant model favors inaction in almost every circumstance,
+   mathematicians can hasten Jahn’s “needed change” by
+   contributing to the development of more reliable economic
+   models. Yet the incorporation of unfamiliar models in the
+   policy process will likely take decades.
+
+
+   A quicker way for mathematicians to enter the fray against food
+   insecurity is by improving the quality and utility of available
+   information through enhanced data mining techniques, the
+   resolution of conflicting data, and interpolation where gaps
+   occur. Though a great deal of information is already being
+   collected in or near real time, much of it is fragmented and
+   disorganized, possibly delaying recognition of credible
+   threats. Even small contributions to the campaign against food
+   insecurity could significantly impact human wellbeing.^1
+
+   ^
+     __________________________________________________________
+
+   ^1 In a corresponding article entitled "[49]Modeling Food
+   Systems," Hans Kaper and Mary Lou Zeeman illustrate how
+   mathematical and computational skills can help model food
+   systems.
+
+
+   References
+   [1] Chang, H.-J. (2014). Economics: The User’s Guide. New York,
+   NY: Bloomsbury Press.
+
+
+   James Case writes from Baltimore, Maryland.
+   Please enable JavaScript to view the [50]comments powered by
+   Disqus.[51]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [52]Learn more
+   Most Recent
+   [53][Awards.png]
+   [54]Happening Now
+   [55]Red Sock Award Acknowledges Standout Posters at DS17
+   [56][Awards.png]
+   [57]Get Involved
+   [58]James H. Wilkinson Prize
+   [59][Research.png]
+   [60]Research
+   [61]Deep Learning Models in Finance
+   [62][Research.png]
+   [63]Careers
+   [64]Beyond UQ: Dealing with Deep Uncertainty
+   [65][Announcements.png]
+   [66]Announcements
+   [67]Illinois Students Named Champions in National M3 Challenge
+   [68][CurrentIssue.png]
+   [69]Current Issue
+   [70]Electricity Demand Response and Optimal Contract Theory
+   [71][ResearchNuggets.png]
+   [72]Research Nuggets
+   [73]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [74]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [81]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [81] email:webmaster@siam.org
+
+

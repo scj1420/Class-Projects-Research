@@ -1,0 +1,74 @@
+Solution to last week’s Riddler Classic
+
+   Congratulations to 👏 Amy Leblang 👏 of Wayland, Massachusetts,
+   winner of [25]last week’s Classic puzzle!
+
+
+   You have four ropes and a lighter. Each rope takes exactly an
+   hour to burn from end to end, but they all burn at a
+   nonconstant rate. You can light the ropes at their ends at any
+   time you’d like. If you’re strategic in your pyromania, how
+   many different specific lengths of time can you accurately
+   measure?
+
+   You can measure 23 different lengths. Here’s an explanation,
+   adapted from the puzzle’s submitter, Peter Calhoun:
+
+   The first trick is realizing that you can record 30 minutes by
+   burning both ends of one rope. Since you know it takes an hour
+   to burn through a rope from one end to the other, once the two
+   burns meet you know each will have burned through 30 minutes of
+   rope (even though they might not meet at the center of the rope
+   thanks to the nonconstant burn rates). You also have to
+   consider burning the ends of the ropes at different times. For
+   example, to measure 45 minutes, you can burn both ends of the
+   first rope and one end of the second rope. After 30 minutes
+   have passed, you can burn the other end of the second rope,
+   making 45 minutes.
+
+   The calculation gets very tricky as we add ropes. Below are the
+   possible lengths of time (in minutes, not including zero):
+
+   One rope: 30 and 60
+
+   Two ropes: 30, 45, 60, 90 and 120
+
+   Three ropes: 30, 45, 52.5, 60, 67.5, 75, 90, 105, 120, 150 and
+   180
+
+   Four ropes: 30, 45, 52.5, 56.5, 60, 67.5, 71.25, 75, 78.75,
+   82.5, 86.25, 90, 97.5, 105, 112.5, 120, 127.5, 135, 150, 165,
+   180, 210 and 240
+
+   Some of these time points are difficult to determine. For
+   example, below are the many steps it takes to measure precisely
+   71.25 minutes with four ropes. (Let \(r_i\) represent rope
+   \(i\).)
+    1. Light both ends of \(r_1\), one end of \(r_2\), and one end
+       of \(r_3\)
+    2. 30 minutes pass (\(r_1\) burned through)
+    3. Light the other end of \(r_2\) and one end of \(r_4\)
+    4. 15 minutes pass (\(r_2\) burned through)
+    5. Light the other end of \(r_3\)
+    6. 7.5 minutes pass (\(r_3\) burned through)
+    7. Light the other end of \(r_4\)
+    8. 18.75 minutes pass (\(r_4\) burned through)
+
+   The total time passed is 71.25 minutes (=30+15+7.5+18.75).
+
+   Solver Henry Maxfield plotted the times you can measure (in
+   hours) using six, five, four, and so on down, different ropes:
+   ropes
+
+   And solver Thomas Conroy wrote a program in C++ to find the
+   lengths of time, which he was kind enough to [26]post to
+   GitHub.
+
+
+   Finally, solver Russell Yu proposed the following general
+   solution for the number of lengths of time, T, you can measure
+   with N ropes:
+
+   \begin{equation}T = 3 \cdot 2 ^ {N – 1} – 1\end{equation}
+
+

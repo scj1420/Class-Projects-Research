@@ -1,0 +1,84 @@
+  Total Photos vs. Time
+
+   Let’s do this. I will make a plot of the total number of
+   pictures on my computer as a function of year they were
+   created. In Mac OS X Yosemite, I can create a smart folder in
+   Finder that only shows jpeg images from the year 2002. I can
+   also do a similar thing in the Photos app. These two methods
+   can (and will) give slightly different numbers. The Photos app
+   will probably just be pictures I took (or maybe from my wife).
+   The Finder smart folder will give all jpeg images. These could
+   be from any source. Some were created by me for my blog and
+   others were created for other purposes.
+
+   Here is the plot of the total number of pictures vs year
+   created.
+
+                       [42]Total Images Stored
+
+
+   This graph shows that I seem to be taking more pictures each
+   year. But graphs can do more than just look pretty. They can be
+   useful too. Could I use this to estimate how many pictures I
+   will have by next year? Of course I can. The first step is to
+   fit some type of mathematical function to the data. If the data
+   doesn’t look linear, how do you pick a function for the data?
+   Well, you could just guess until you find something that looks
+   nice. You could also fit a function based on your own ideas. I
+   could say “hey, it looks like the number of images added
+   increases each year – this could be an exponential function.”
+   That would work too. Or perhaps the best source of a function
+   is to make a different plot. If I use the same data but plot
+   the vertical data with a log axis, you might be able to see if
+   it’s an exponential. Like this:
+
+                       [43]Total Images Saved
+
+
+   An exponential function would look like a straight line on a
+   log-plot. That looks fairly straight. So, that’s how I picked
+   an exponential function. There is one problem. I have time
+   values in years. If I use the year as the actual time, things
+   might get crazy. I am going to change the time such that the
+   year 2000 is t = 0. Here is the new plot with the fitting
+   function.
+
+                    [44]Total Images on Computer
+
+
+   Let me write the function in a slightly different form (and
+   with units). La te xi t 1 With this equation I can estimate the
+   total number of pictures I will have in the future. Let’s pick
+   the year 2020 (which would be t = 20 yrs). If I put that value
+   in for the time, I get a value for N at 117 thousand (117,171
+   actually). That’s a lot of pictures. I wonder what they will be
+   pictures of? Maybe it will be pictures of me on my fusion
+   powered jet-pack. How many pictures will I take each year? I
+   can get an estimate for this by taking the derivative of the
+   total number of pictures with respect to time. ([45]Here is a
+   quick intro to derivatives.) La te xi t 1 If I put in 14.5
+   years (my numbering scheme says that right now I am in the
+   14.5^th year) into this expression, it says that I am currently
+   taking 5,604 pictures per year. That might seem crazy, but yes,
+   I take a lot of pictures. Let’s just convert that to images per
+   day and I get 15.3 pic/day. Wow. I should slow down. Ok, one
+   last question before I give homework. Suppose I take a picture
+   every second of the day. What year will this happen according
+   to my model? To start this problem, let me convert the picture
+   rate of 1 per second into images per year. Oh, I am going to
+   call the image rate N‘. La te xi t 1 Now I am going to take
+   that same N‘ equation above and solve for t. La te xi t 1 There
+   are two important things to point out. First, the units work. I
+   have one over years to the -1 power. That gives a time in
+   years. Second, the stuff inside the natural log is unitless
+   (you can’t take the natural log of something with units). Now I
+   can put in my value for N‘ and I get a year value of t = 37.653
+   years (or the year 2037). So at that point, I will be basically
+   taking pictures all day long and not have any time to ride in
+   my jet pack. That’s going to suck. No really, this is just a
+   model. Clearly it won’t work for large values of t. At some
+   point I am going to just max out on pictures (maybe like 100 a
+   day).
+
+
+

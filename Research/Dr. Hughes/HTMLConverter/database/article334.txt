@@ -1,0 +1,241 @@
+Colored Operads
+
+   Donald Yau
+   Publisher:
+   American Mathematical Society
+   Publication Date:
+   2016
+   Number of Pages:
+   428
+   Format:
+   Hardcover
+   Series:
+   Graduate Studies in Mathematics 170
+   Price:
+   89.00
+   ISBN:
+   9781470427238
+   Category:
+   Monograph
+
+
+
+   [Reviewed by
+   Ittay Weiss
+   , on
+   11/6/2016
+   ]
+
+   Before the review proper I must address the color issue. The
+   term “colored operad” is an unfortunate historical artifact
+   originating from the fact that the first operads considered
+   were all monochromatic, they all had just one color so there
+   was no need to name this concept at all. But then certain
+   variants of the original operads appeared and those were
+   somewhat hard to digest. Those variants were in fact nothing
+   but operads with two colors, and soon thereafter operads with
+   any set of colors became part of the package. However, using
+   “colors” to refer to the objects of an operad is simply an
+   ad-hoc reaction to the need to distinguish among different
+   things, and why not colorfully. But our understanding of
+   operads has shifted significantly; we now know that an operad
+   is simply the multi-input version of a category. The usage of
+   the term “colored operad,” which was never prevalent, is now
+   nearly extinct. It is unfortunate to see the title reiterating
+   a temporary ill-chosen term! One must hope never to see a book
+   titled Introduction to Colored Monoids instead of Introduction
+   to Categories.
+
+   Operad theory is an increasingly important area of research
+   with applications in mathematics, physics, and computer
+   science. An introductory level book on the subject is very much
+   welcomed, particularly that such texts are scarce; the only
+   other introductory level text is Leinster’s [309]Higher
+   Operads; Higher Categories — a very different book in style and
+   scope.
+
+
+   The book can be described as a gentle introduction to operads
+   which boldly includes all of the technical details — with a
+   strong emphasis on the words “all” and “boldly” — but avoids
+   getting deep into the theory of operads. It can be likened to
+   learning to swim in shallow water, paying full attention to
+   each and every detail of the instruction. While we might
+   certainly catch glimpses of the interesting objects that lie
+   further ahead in the deep waters, they remain just beyond
+   sight.
+
+   I will first address my reasons for this classification of the
+   book, which is divided into four parts dealing with a graph
+   formalism, an introduction to categories oriented toward
+   operads, operads and their algebras, and free operads. The
+   first part, the graph formalism, is particularly simple, easily
+   accessible even to beginning undergraduate students. I find
+   spending about 90 pages on it to be excessive, particularly
+   considering the intended audience. This is reflected in the
+   rather meager selection of exercises in part I — the material
+   is too simple to allow for challenging exercises. Part II, the
+   introduction to categories, concentrates on the topics that
+   lead most naturally to operads. It involves most of the
+   standard ingredients which are of a level of sophistication
+   suitable for the target audience (i.e, adjunctions and Mac
+   Lane’s coherence theorem) but not all (e.g., (co)limits). Part
+   III introduces operads and their algebras, discussing a handful
+   of examples, and then part IV is a study of free operads.
+
+   These choices of topics and their locations in the book are
+   somewhat odd. I feel strongly that the category theory
+   presented in part II really ought to be considered a
+   prerequisite for reading the book (anybody seriously interested
+   in operads should be expected to master a beginner’s knowledge
+   of category theory). It would have been best placed as chapter
+   0. Part I, on the other hand, is highly technical, yet
+   extremely intuitive and very simple — perhaps it should have
+   been an appendix. Again, there is nothing stopping the reader
+   from treating it as such. That would leave Part III and Part IV
+   as the main topic of the book — a well written introduction to
+   operads with much attention to the construction of free
+   operads. Luckily, there is little to stop a reader from
+   beginning with Part III.
+
+   What the book does quite well is provide a very well-written
+   and highly detailed treatment of the basics of operads. Operad
+   theory is notorious for classical [310]introductory [311]texts
+   that are rather hard to follow, with many of the technicalities
+   that this book puts in broad daylight only glossed upon (at
+   best). There is certainly a need for a book which does
+   everything slowly and carefully, for the sake of many a student
+   finding the classical texts too much to handle. The book
+   contains much valuable information and detail, which can
+   potentially save a struggling newcomer into operad land many
+   hours of frustration. In light of that, for the sake of an
+   uninitiated wanderer facing the dilemma of having several
+   sources to choose from, I would like to suggest a recommended
+   way of reading the book: Treat one quarter as chapter 0,
+   another one quarter as an appendix, with the remaining second
+   half of the book a valuable, friendly, and well-written
+   introduction to the basics of operads.
+
+
+   I will detail some dangers one may face if one follows the book
+   in its intended order. First and foremost, the staggering
+   amount of information that precedes the definition of operad
+   may lead a reader to incorrectly infer that an operad is a
+   terribly complicated thing to define; this is a dangerous
+   misconception. Furthermore, Part I is, as already stated, very
+   simple, but it is also very boring. The only motivation
+   provided for traversing those 90 pages or so is that these
+   concepts will be used later on, primarily in parts III and IV.
+   That is certainly true, and that is why it should have been an
+   appendix. Moreover, since the material really is very shallow a
+   student reading it with ease may feel she is an operad savant.
+   But understanding Part I with ease does not a talented operad
+   theorist make. Part II, which should have been chapter 0, is a
+   good introduction to category theory, but it is a bit of a
+   missed opportunity since all there really is there is a
+   geodesic to monoidal categories. The treatment in Mac Lane’s
+   [312]Categories for the Working Mathematician is, in my
+   opinion, better.
+
+
+   So, if not as a first introduction to operads, how should one
+   best use the book? I find the book highly useful as a companion
+   to be consulted while going through any of the other texts on
+   operads. When the going gets tough while one takes the first
+   steps of reading a text where operads are used, one may find
+   comfort in having a companion which will go through some of the
+   details at great length.
+
+   There are however a few more warnings worth paying attention
+   to. The rest of the review aims at providing further
+   suggestions to the interested reader.
+
+   The graph formalism presented is, in my view, very unfortunate.
+   First, it must be realized that the particularities of the
+   formalism are irrelevant to the theory of operads, and further
+   that it is not so much graphs that are of interest but rather
+   trees. There are many formalisms for trees and not all are
+   created equal. Different formalisms may suit different
+   scenarios more than others. I find that point not to be
+   sufficiently clearly emphasized to the reader. The literature
+   on operads exhibits a plethora of tree formalisms, and it can
+   be said with a fair amount of certainty that few experts care
+   much about which formalism is used. That may be attributed to
+   the fact that an ill-chosen formalism quickly becomes a burden
+   rather than an asset when trying to use it to precisely get
+   ideas across and validating theorems. The graph formalism
+   chosen here is certainly among the common ones in the
+   literature but, it is not optimally suited for operads, and I
+   will explain why.
+
+   The graph formalism the author chose is the classical
+   graph-theoretic one: a graph consists of a set of vertices and
+   a set of edges where the edges are formed as pairs of vertices.
+   In other words, the vertices are basic and the edges connect
+   vertices. But there is a dual approach in which the edges are
+   primitive and the vertices consist of information indicating
+   which edges are put together to form the vertex. Most texts on
+   operads (perhaps implicitly) take the latter approach, and for
+   very good reasons.
+
+   Let us explain the advantages of the edge-centric formalism
+   over the vertex-centric one. The need, in chapter one, to
+   distinguish between what the author calls abstract vertices vs.
+   vertices, is completely eliminated in the edge-centric
+   formalism. Then, in chapter four (on page 45, particularly
+   (4.2.2)), taking an edge-centric approach the operation of
+   collapsing an internal edge is simplified, and in particular
+   there is no need at all to identity vertices (since vertices do
+   not exist as primitive objects). It should also be noted that
+   the title “Associativity” for Section 4.4 is not quite in
+   agreement with the content (the section should have been named
+   “Commutativity”, or, better yet, it should have been named
+   “Associativity and Commutativity” with the content suitably
+   amended). Next, the grafting of trees in Chapter five is also
+   greatly simplified in an edge-centric approach, particularly if
+   one is content with grafting to be performed along outer edges
+   and only to be defined along identical edges (in particular, no
+   identifications are required). In sum, the graph formalism
+   presented does not lend itself easily for the purposes of
+   operad theory, and thus quickly becomes a burden rather than an
+   illuminating and supporting conglomerate of ideas.
+
+   Part III starts off very well with a highly readable and
+   friendly Chapter 10 presenting clear motivation for the
+   definition of operad. Any reader who is even only partly
+   familiar with categories can begin reading right there. Chapter
+   11 then delves into the definition of operad in a fairly
+   standard fashion, followed by examining some variants and very
+   elementary examples. Chapter 12 I find very odd, as it is, in
+   light of the clear motivation and detail given in Chapter 10
+   and Chapter 11, simply the comment that since operads are the
+   multi-input version of categories, categories are the special
+   case of operads with only unary operations.
+
+   The reason operads exist is for their algebras, and these are
+   presented in Chapter 13. Here I find the presentation to be
+   suboptimal. The author follows directly in the footsteps of the
+   first definitions of operads and their algebras, but that is
+   not in line with the theme of the book, viewing operads as an
+   extension of categories. It is much clearer to first consider
+   morphisms of operads, and then define the algebra of an operad
+   enriched in a monoidal category simply as a morphism from the
+   former to the latter (after noticing that every monoidal
+   category is canonically an operad, and emphasize the role of
+   Mac Lane’s coherence theorem for this result to be true).
+   Something along these lines is attempted in Section 13.9, but
+   it falls short of truly illuminating the concept of an operad
+   algebra simply as a morphism of operads with a very particular
+   choice of codomain.
+     __________________________________________________________
+
+   Ittay Weiss is a Teaching Fellow at the University of
+   Portsmouth, UK.
+
+   See the table of contents in [313]pdf format.
+   Tags:
+   [314]Category Theory
+
+
+
+

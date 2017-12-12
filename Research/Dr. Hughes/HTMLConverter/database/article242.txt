@@ -1,0 +1,85 @@
+January 20, 2017
+
+2:20 pm
+
+0 Shares
+
+   [share_stumbleupon.png] [share_facebook.png]
+   [share_twitter.png] [share_linkedin.png]
+
+   Google built a multi-billion dollar business based on its
+   ability to weigh site authority. Search and autocomplete are so
+   seamlessly intuitive that most of us couldn’t imagine using the
+   web any other way. But some groups have been tricking the
+   system to boost misinformation in search rankings. And we all
+   know how that turned out.
+
+   The problem seems to be that Google’s search algorithm is
+   designed to find and promote what’s popular online. While this
+   works well to promote a popular local service (like barber
+   shops and restaurants), it’s not really helpful when it comes
+   to disseminating news. The algorithm [129]seems to be promoting
+   information that is simple not true. If you don’t think so,
+   trying doing a search for “climate change is…” and see what you
+   come up with.
+
+
+   Google isn’t the only tech company to face increased scrutiny
+   over the way its algorithms work. [130]Facebook faced similar
+   criticism earlier when the public realized its role in helping
+   misinformation spread during the 2016 US presidential campaign.
+   The social media giant has been accused of unknowingly helping
+   build support for websites that are filled with misinformation.
+   Meanwhile, communication experts and data scientists claim some
+   groups have found creative ways to [131]manipulate social media
+   trends.
+
+
+   Neither Google nor Facebook has made their search algorithms
+   public. In the past, when research groups found weaknesses in
+   the algorithmic search system, Google could adjust the system
+   manually. But this process has never been transparent and the
+   company has never before been held accountable for a bias in
+   the system.
+
+   These manipulations could have an impact on the way searchers
+   perceive the world around them. Constant exposure to fake news
+   influences the way people think about social issues and even
+   play a role in the way they vote. Researchers from the
+   [132]American Institute for Behavioral Research and Technology
+   found that undecided voters could be greatly influenced by
+   manipulating search rankings. In other words, Google and other
+   tech giants that control search engines could have the power to
+   rig an election.
+
+
+   After the update on Google’s search algorithm last year, fake
+   news sites are increasingly outranking accurate reports on
+   high-quality websites. This is due to the algorithm’s
+   inclination to reward search results based on the user’s
+   likeliness to click on them. Because of this,
+   Google’s-autocomplete suggestions now predict that you are
+   searching for fake news even when you might not intend to do
+   so.
+
+   There has also been a widespread misconception that the spread
+   of fake news is all Facebook’s fault. However, social shares,
+   likes, and tweets don’t account for Google’s ranking algorithm.
+   It’s true that fake news has emerged as a serious problem on
+   Facebook recently, but that problem and Google algorithm’s
+   higher ranking of fake news results are separate problems.
+
+   Google admits that its autocomplete and search algorithms are
+   not an ‘[133]exact science.’ These systems are a combination of
+   personalized search results and a [134]variety of secret
+   factors that are used to weigh a website’s importance. The
+   company has made efforts in the past to reduce the way these
+   systems weigh porn, hate speech, and offensive terms. The
+   heated debate around fake news has already pushed Facebook to
+   [135]improve its algorithm. Hopefully, Google will follow suit
+   soon.
+   Tags: [136]Fake News, [137]Google, [138]Google Search,
+   [139]inauguration, [140]President, [141]Trump
+
+
+

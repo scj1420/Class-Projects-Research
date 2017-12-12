@@ -1,0 +1,228 @@
+10/10/17 15:52
+
+Problem 1 (5 points):
+smallest_factor(n) failed for n = 25
+smallest_factor(n) failed for n = 323
+Score += 3
+
+Problem 4 (10 points):
+Fraction.__add__() failed
+	Correct response: 7/6
+	Student response: 11/12
+Fraction.__div__() failed
+	Correct response: -5/6
+	Student response: -5/12
+Fraction.__add__() failed
+	Correct response: 3/2
+	Student response: 17/12
+Fraction.__div__() failed
+	Correct response: -1/2
+	Student response: 1/12
+Fraction.__add__() failed
+	Correct response: 2
+	Student response: 13/6
+Fraction.__div__() failed
+	Correct response: 0
+	Student response: 5/6
+Fraction.__div__() failed
+	Correct response: -1/3
+	Student response: 1/3
+Fraction.__add__() failed
+	Correct response: 9/7
+	Student response: 23/21
+Fraction.__div__() failed
+	Correct response: -5/7
+	Student response: -5/21
+Score += 1
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Coverage (20 points):
+Score += 0
+
+Code Quality (5 points):
+Code can be improved for count_sets()
+Score += 0
+
+Total score: 4/50 = 8.0%
+
+-------------------------------------------------------------------------------
+
+10/13/17 12:17
+
+Problem 1 (5 points):
+smallest_factor(n) failed for n = 25
+smallest_factor(n) failed for n = 323
+Score += 3
+
+Problem 4 (10 points):
+Fraction.__add__() failed
+	Correct response: 7/6
+	Student response: 11/12
+Fraction.__div__() failed
+	Correct response: -5/6
+	Student response: -5/12
+Fraction.__add__() failed
+	Correct response: 3/2
+	Student response: 17/12
+Fraction.__div__() failed
+	Correct response: -1/2
+	Student response: 1/12
+Fraction.__add__() failed
+	Correct response: 2
+	Student response: 13/6
+Fraction.__div__() failed
+	Correct response: 0
+	Student response: 5/6
+Fraction.__div__() failed
+	Correct response: -1/3
+	Student response: 1/3
+Fraction.__add__() failed
+	Correct response: 9/7
+	Student response: 23/21
+Fraction.__div__() failed
+	Correct response: -5/7
+	Student response: -5/21
+Score += 1
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Coverage (20 points):
+Make sure to get full coverage
+Score += 0
+
+Code Quality (5 points):
+Code can be improved for is_set()
+Score += 0
+
+Total score: 4/50 = 8.0%
+
+-------------------------------------------------------------------------------
+
+10/20/17 12:24
+
+Problem 1 (5 points):
+smallest_factor(n) failed for n = 25
+smallest_factor(n) failed for n = 323
+Score += 3
+
+Problem 4 (10 points):
+Fraction.__add__() failed
+	Correct response: 7/6
+	Student response: 11/12
+Fraction.__div__() failed
+	Correct response: -5/6
+	Student response: -5/12
+Fraction.__add__() failed
+	Correct response: 3/2
+	Student response: 17/12
+Fraction.__div__() failed
+	Correct response: -1/2
+	Student response: 1/12
+Fraction.__add__() failed
+	Correct response: 2
+	Student response: 13/6
+Fraction.__div__() failed
+	Correct response: 0
+	Student response: 5/6
+Fraction.__div__() failed
+	Correct response: -1/3
+	Student response: 1/3
+Fraction.__add__() failed
+	Correct response: 9/7
+	Student response: 23/21
+Fraction.__div__() failed
+	Correct response: -5/7
+	Student response: -5/21
+Score += 1
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Coverage (20 points):
+Score += 0
+
+Code Quality (5 points):
+Code can be improved for count_sets()
+Score += 0
+
+Total score: 4/50 = 8.0%
+
+-------------------------------------------------------------------------------
+
+10/23/17 16:30
+
+Problem 1 (5 points):
+smallest_factor(n) failed for n = 25
+smallest_factor(n) failed for n = 323
+Score += 3
+
+Problem 4 (10 points):
+Fraction.__add__() failed
+	Correct response: 7/6
+	Student response: 11/12
+Fraction.__div__() failed
+	Correct response: -5/6
+	Student response: -5/12
+Fraction.__add__() failed
+	Correct response: 3/2
+	Student response: 17/12
+Fraction.__div__() failed
+	Correct response: -1/2
+	Student response: 1/12
+Fraction.__add__() failed
+	Correct response: 2
+	Student response: 13/6
+Fraction.__div__() failed
+	Correct response: 0
+	Student response: 5/6
+Fraction.__div__() failed
+	Correct response: -1/3
+	Student response: 1/3
+Fraction.__add__() failed
+	Correct response: 9/7
+	Student response: 23/21
+Fraction.__div__() failed
+	Correct response: -5/7
+	Student response: -5/21
+Score += 1
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Coverage (20 points):
+Score += 0
+
+Code Quality (5 points):
+Code can be improved for count_sets()
+Score += 0
+
+Total score: 4/50 = 8.0%
+
+-------------------------------------------------------------------------------
+
+10/24/17 15:07
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Coverage (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

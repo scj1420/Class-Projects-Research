@@ -1,0 +1,131 @@
+Transcript
+
+   The interactive transcript could not be loaded.
+
+   Loading...
+
+   Loading...
+   Rating is available when the video has been rented.
+   This feature is not available right now. Please try again
+   later.
+   (BUTTON)
+
+   Published on Mar 4, 2015
+
+   In my video explaining Euler's formula, I gave the intuition
+   for why the function e^x takes the imaginary line in the
+   complex plane, and wraps it around a circle with radius 1,
+   preserving lengths. However, I had to appeal to the vague fact
+   that e^x is "natural". This video introduces the notion of a
+   complex derivative, and how the fact that e^x is its own
+   derivative explains why it acts in the "natural" way we might
+   expect.
+
+
+
+
+
+   (BUTTON) Show more (BUTTON) Show less
+
+   Loading...
+
+   Advertisement
+       calculus - Duration: 13:50. 3Blue1Brown 88,961 views
+       [21]13:50
+
+       continuation - Duration: 22:11. 3Blue1Brown 471,569 views
+       [23]22:11
+
+       21:36. 3Blue1Brown 269,822 views
+       [25]21:36
+
+       Duration: 24:28. 3Blue1Brown 245,181 views
+       [27]24:28
+
+       Borsuk-Ulam - Duration: 21:55. 3Blue1Brown 173,330 views
+       [29]21:55
+
+       3Blue1Brown 222,923 views
+       [31]17:05
+
+       calculus - Duration: 18:38. 3Blue1Brown 183,815 views
+       [33]18:38
+
+       Duration: 22:20. 3Blue1Brown 111,699 views
+       [35]22:20
+
+       Duration: 15:56. 3Blue1Brown 221,377 views
+       [37]15:56
+
+       3Blue1Brown 96,065 views
+       [39]13:59
+
+       3Blue1Brown 162,083 views
+       [41]30:42
+
+       Chapter 6, Essence of calculus - Duration: 15:34.
+       3Blue1Brown 87,591 views
+       [43]15:34
+
+       18:27. 3Blue1Brown 74,516 views
+       [45]18:27
+
+       Essence of calculus - Duration: 18:43. 3Blue1Brown 126,086
+       views
+       [47]18:43
+
+       4, Essence of calculus - Duration: 16:52. 3Blue1Brown
+       91,265 views
+       [49]16:52
+
+       calculus - Duration: 5:39. 3Blue1Brown 45,719 views
+       [51]5:39
+
+       Chapter 8, Essence of calculus - Duration: 20:46.
+       3Blue1Brown 69,460 views
+       [53]20:46
+
+       13:40. 3Blue1Brown 54,598 views
+       [55]13:40
+
+       Essence of calculus - Duration: 12:39. 3Blue1Brown 72,055
+       views
+       [57]12:39
+
+       3Blue1Brown 100,180 views
+       [59]1:32
+
+
+   [gen_204?attributionpartner=YO_jab_esuFRV4b17AJtAw]
+
+
+   [60]History (BUTTON) Help
+
+
+   Loading...
+
+   Loading...
+
+   Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Loading...
+
+   Working...
+
+   [73]Sign in to add this to Watch Later
+
+
+

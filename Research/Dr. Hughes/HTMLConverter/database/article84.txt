@@ -1,0 +1,28 @@
+Embed this Tweet
+
+Embed this Video
+
+   Add this Tweet to your website by copying the code below.
+   [123]Learn more
+
+
+   Add this video to your website by copying the code below.
+   [124]Learn more
+
+
+   Hmm, there was a problem reaching the server. (BUTTON) Try
+   again?
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [X] Include parent Tweet
+   [X] Include media
+
+   By embedding Twitter content in your website or app, you are
+   agreeing to the Twitter [125]Developer Agreement and
+   [126]Developer Policy.
+
+
+

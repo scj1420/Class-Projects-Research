@@ -1,0 +1,418 @@
+Segment Transcript
+
+   IRA FLATOW: This is Science Friday. I’m Ira Flatow.
+
+   [CLASSICAL MUSIC PLAYING]
+
+   Ah, the sweet sound of the string quartet. Violin, viola,
+   cello, and bass, working together in perfect musical harmony.
+   At least that’s what I hear.
+
+   When Carleen Hutchins listened to a string quartet, she heard
+   room for improvement. Hutchins was a luthier, a maker of
+   violins, and not just any luthier. Over half a century, this
+   former school teacher– science teacher– up-ended the world of
+   violin making by bringing science to the woodworking table.
+
+   In her basement lab, she took apart her creations, running
+   hundreds of experiments to figure out what makes a violin sing.
+   And she even one-upped the string quartet. She created her own
+   violin octet, tackling problems with the original violin family
+   that had plagued violin makers for centuries. We’ll hear a
+   little of that octet later.
+
+   Quincy Whitney tells Carleen’s story in her new biography. It’s
+   called American Luthier: The Art and Science of the Violin. She
+   joins me from Boston to talk about it. Welcome to Science
+   Friday.
+
+   QUINCY WHITNEY: Thank you very much, Ira. I’m honored to be
+   here.
+
+   IRA FLATOW: Well, thank you.
+
+   Let’s start at the beginning. I mean, how does this grade
+   school science teacher get hooked on violin making?
+
+   QUINCY WHITNEY: It’s actually a whim and a dare, and then also
+   a creative outlet. It’s a whim because she used to whittle. She
+   started whittling when she was a tomboy about age six. And she
+   had this $75 viola in her hands and just kept thinking maybe
+   she could make it better.
+
+   It was a dare because her best friend, Helen Rice, just said it
+   was an impossible task, and why would she try to do that. And
+   it took her two years to make one.
+
+   And it was a creative outlet because she’d just left her job.
+   She just became a new mom at a rather late age of 36, and I
+   think she needed an outlet badly. And it became carving the
+   plates of her first viola.
+
+   IRA FLATOW: How did she decide that the standard, you know,
+   quartet, string quartet, is not good enough?
+
+   QUINCY WHITNEY: It’s not that she decided that, it’s that after
+   she had been studying acoustics with retired Harvard physicist
+   Frederick Saunders and doing experiments, and after she had
+   also been making about 35 violins with a German violin maker,
+   learning that craft, she got a knock on her door one day at 112
+   Essex Avenue in Montclair, New Jersey, and it was composer
+   Henry Brandt from Vermont who had read some articles about this
+   New Jersey housewife violin maker who was making a little bit
+   of news. And he sort of confronted her with the question. He
+   said, you know, medieval instruments, we have families of
+   instruments in the Renaissance that are recorders, we have
+   families of viols, but we’ve never really had a family of
+   violins. And what do you think? Do you think you could make
+   one?
+
+   So with the question, she sort of decided she would try it. And
+   it took her the next decade–
+
+   IRA FLATOW: Wow.
+
+   QUINCY WHITNEY: –to do that.
+
+   IRA FLATOW: So she creates a whole new family of violins?
+
+   QUINCY WHITNEY: Yeah. It’s really based on the fact that the
+   string quartet has been considered a bit of a sacred cow for
+   many centuries, and everybody thinks it’s perfect. But
+   actually, tonally, it lacks. It lacks a true tenor voice, and
+   also a true alto voice.
+
+   In fact in 16– I think was 1690, Stradivari actually got an
+   order for two alto violins that were going to be played as a
+   contralto and a tenor. So if you look at the string quartet
+   today, sometimes the second violin will play an alto part, or
+   the viola will play a tenor part, but there are alto and tenor
+   gaps in the middle of the string quartet. And that really
+   became the sort of focus for these eight violins across the
+   range of a piano.
+
+   IRA FLATOW: Huh. I always thought that where the violins leave
+   off, then the viola picks up there. And the viola leaves off,
+   the cello picks up. You’re saying there are gaps instead?
+
+   QUINCY WHITNEY: If you look at a family of recorders or a
+   family of viols, it’s like the range of the human voice. You
+   have– and that’s exactly what these eight instruments are.
+   They’re across the range of the human voice.
+
+   So it starts with a treble and then a soprano and a mezzo, an
+   alto, a tenor, a baritone, a bass, and a contrabass. So in that
+   way, you see how complete the range is with eight instruments
+   because it’s across the range of the piano.
+
+   IRA FLATOW: Hm. So she created a piano for the violin,
+   basically?
+
+   QUINCY WHITNEY: Basically. A range, yeah. A tonal range that
+   would fill in the gaps. And also they were tonally matched so
+   that the violins– each one sounds– has the same dynamics. The
+   treble, the tiny 11-inch treble, can compete with the
+   contrabass in terms of dynamics and pizzicato. And that’s sort
+   of revolutionary, too.
+
+   IRA FLATOW: OK, now let’s talk about her as an experimenter.
+   She’s an engineer, and she doesn’t just– well, she starts her
+   work by saying, you know, I have to take these things apart to
+   understand how they work, right? And that doesn’t go over so
+   well with some of the violinists.
+
+   QUINCY WHITNEY: Yeah. Actually, she starts by suggesting that
+   science could make a better fiddle. And that upsets the violin
+   world, because, of course, they’re copying Stradivari for three
+   centuries now thinking that he perfected the craft.
+
+   But she’s suggesting, first of all, that it was OK to apply
+   science to the woodworking shop for the violin maker. And the
+   violin maker was giving her a hard time about the fact that she
+   might be demystifying the art. And she used to laugh at that
+   because she said, of course, you can’t separate acoustics from
+   music.
+
+   Music is a science, and sometimes we forget that. We
+   marginalize it as art only. But we can’t separate acoustics
+   from music.
+
+   IRA FLATOW: Interesting. So she creates what’s called the Swiss
+   cheese violin. What was that?
+
+   QUINCY WHITNEY: One of her most dramatic experiments with
+   Saunders– I think it might have been after Saunders– was a
+   Swiss cheese violin where she punched 64 holes in the ribs of a
+   violin and then plugged each full hole with cotton. And then as
+   she and Saunders were playing that instrument, they would pull
+   cotton out and see what happened to the sound.
+
+   She always said that we did the right thing for the wrong
+   reason, because they thought originally that they were studying
+   the wood modes. And then they realized that maybe the more
+   important thing to study were the air currents inside the box.
+   And there might be hundreds of air currents, and Carleen spent
+   50 years studying basically two, the relationship between two
+   different ones.
+
+   IRA FLATOW: Because we always hear, oh, Stradivari was the
+   great because he had the right wood and the right pattern. And
+   you’re saying she discovered it was the air that was really–
+
+   QUINCY WHITNEY: Yeah, that actually we could look at the violin
+   as a wind instrument.
+
+   The other thing people forget is that Stradivari was, in fact,
+   a contemporary maker. He wasn’t copying anybody. He was making
+   instruments. So in his time, you could buy a contemporary
+   instrument from Stradivari.
+
+   And what’s happened hence is that three centuries, violin
+   makers have thought they had to just copy Amati, Guameri, and
+   Stradivari. And she was suggesting that just maybe we could go
+   further than that.
+
+   IRA FLATOW: So she does some more research. She does some
+   experiments with Christmas glitter. Tell us about it.
+
+   QUINCY WHITNEY: Yeah, Ernst Chladni was the German physicist
+   who started sort of showing the footprints of sound by taking
+   plates– this is, like, the 1780s, he published a whole paper on
+   it– where you could take sand grains and put it on a plate and
+   then vibrate the plate at different frequencies and different
+   geometric patterns would form.
+
+   The parts of the plate that’s vibrating, the sand falls away
+   from to the nodes where they plate is not vibrating. So it
+   becomes these beautiful geometric patterns at different
+   frequencies, and Carleen decided to try to apply that to a free
+   violin plate, which is a top or back plate that’s not connected
+   to the ribs.
+
+   And then when she saw these different patterns, she started to
+   use it as a guide where she had to keep carving the plate. The
+   luthier’s always looking for that ratio between stiffness and
+   flexibility, which has to do with carving that place in a
+   meticulous way. And Stradivari, Amati, she was always saying
+   that the old Italian masters had learned to do it intuitively
+   by touching and tapping, and that this was merely a guide to
+   help modern luthiers do it more consistently.
+
+   IRA FLATOW: So when you say she got certain tones in the plate
+   from putting the glitter on it and when she discovered from
+   people who knew music that, ha, that’s the right tone, she knew
+   how to then make the next piece of wood do exactly the same
+   thing by–
+
+   QUINCY WHITNEY: It wasn’t quite that simple. It was hundreds of
+   hours of trial and error.
+
+   IRA FLATOW: Wow.
+
+   QUINCY WHITNEY: She would carve a plate and then she would put
+   the whole instrument together and give to a player and get a
+   reaction and see what the player thought. And then she’d go
+   back to the drawing board, take it apart, recarve it, test it
+   again with the Christmas glitter, and then all over again.
+   Hundreds and hundreds of hours of cut and try.
+
+   IRA FLATOW: Wow. So just to pay tribute to her and talk more
+   about it, let’s listen to her– Carleen Hutchins’s new violin
+   family. This is a group called The Hutchins Consort playing a
+   tune you might recognize.
+
+   [MUSIC – HUTCHINS CONSORT, “SUMMERTIME”]
+
+   Wow. Wow. Of course that’s Gershwin’s “Summertime.” Quincy, how
+   would you describe this octet sound?
+
+   QUINCY WHITNEY: It’s like something you’ve never heard before.
+   It’s a new palette of sound in string instruments. It’s
+   revolutionary.
+
+   I listened particularly to that piece about 11 times when the
+   Hutchins Consort was on an East Coast tour in 2011. They’re
+   amazing group. They play everything from Medieval and
+   Renaissance to jazz and modern. They do about 40 concerts a
+   year, and on the West Coast. And I’m really hoping that they
+   can come back for an East Coast tour now that the book is out
+   because they’ve been waiting for the book because the book has
+   a chapter on them and tells their story.
+
+   IRA FLATOW: Hm. So how do you describe the sound differently
+   from if it were just a regular string quartet?
+
+   QUINCY WHITNEY: The balance is amazing. And the fact that the
+   dynamics are amazing also. The treble can talk back to the
+   contrabass. The pizzicato is phenomenal. The pizzicato was, of
+   course, the plucked string, and that’s where you really hear
+   the dynamics of an instrument.
+
+   You hear how– lots of times in an orchestra, if you look at the
+   reconfiguration of the orchestra, we have 30 violins to one or
+   two brass instruments. And I’ve had a cellist who plays her
+   baritone, Akua Dixon, say that she could finally play a duo
+   with her maybe former spouse, I’m not sure, who is a wind
+   player. So one string instrument could play with a wind
+   instrument in an equal way because those dynamics and
+   resonances are more powerful now with the research of Carleen
+   Hutchins.
+
+   IRA FLATOW: Is it easy to find someone who’s playing the octet?
+   Or a group of people? If you want to–
+
+   QUINCY WHITNEY: They’re very unusual.
+
+   IRA FLATOW: Yeah?
+
+   QUINCY WHITNEY: She made seven octets, and four of them are in
+   museums, unfortunately, not being played, although one in
+   Edinburgh can actually be loaned to players. But the only
+   ensemble currently is the Hutchins Consort in San Diego,
+   California.
+
+   But there are about seven luthiers now, seven to 10, who are
+   students of Hutchins. And if someone ordered one octet
+   tomorrow, an alto, a baritone, any of them, they could make
+   them. In fact, there are luthiers who have them now, who’ve
+   made them.
+
+   IRA FLATOW: What would it cost to make one?
+
+   QUINCY WHITNEY: I think the going price would be anywhere from
+   five to 10, I’m not sure. $5,000 to $10,000. It just depends on
+   where that is in the luthier’s repertoire at this point.
+
+   IRA FLATOW: All right, we’re talking to Quincy Whitney telling
+   the story of The American Luthier: The Art and Science of the
+   Violin– great new book– on Science Friday from PRI, Public
+   Radio International.
+
+   But you couldn’t really– is there any place to actually put an
+   order in for one? Or could a group get started if they wanted
+   to with a group of them?
+
+   QUINCY WHITNEY: Actually, that’s a great question, and it’s
+   something I should answer on my website. That’s one thing I
+   have not answered. If someone would like to order one, I can
+   certainly list those luthiers on my own website that would be
+   able to produce one.
+
+   Some of them have already have them in their repertoire. They
+   already have them in their shop. And there’s one particular one
+   in– there’s a maker out in New Mexico who has really focused on
+   the vertical viola big time and thought it was that whole
+   solution, you know, for violists if they would be willing to
+   play something vertically. And that’s not happened as greatly
+   as a she would like, but there are luthiers that make these
+   instruments.
+
+   IRA FLATOW: You knew Carleen for 12 years. What kind of person
+   was she?
+
+   QUINCY WHITNEY: She was conflicted a little bit, and
+   contradictory. She would always talk fiddles with anyone who
+   walked in the door. She was a generous spirit in terms of a
+   teacher. But she was very private with respect to her personal
+   life and her personal expression. But she was a very generous,
+   passionate kind of person who sort of got taken away by her
+   passion.
+
+   She was a mother of two, but I think she found it difficult
+   sometimes to put the pieces of her passion together with
+   parenting. She was very lucky to have a modern spouse who
+   basically raised the children because she was taken away so
+   much with her fiddles. But a very– a kind person and
+   generous-spirited and very determined. She was a taskmaster
+   when it came to being a teacher, too.
+
+   IRA FLATOW: How did you bump into her?
+
+   QUINCY WHITNEY: I was a Boston Globe Arts Reporter for the New
+   Hampshire Weekly section of the Sunday Globe for 14 years. And
+   someone said to me at a New Hampshire Humanities Council
+   meeting that if I covered the arts, I ought to go meet this
+   violin maker who lives up on Lake Winnipesaukee in New
+   Hampshire. So I did.
+
+   I called her up, and I said, this is Quincy Whitney with The
+   Boston Globe and I’d like to do a story on you. And she said,
+   no. I don’t have time. And I thought, this is an 87-year-old
+   woman who doesn’t need me, and I was very intrigued.
+
+   So I hung in the phone thinking what else could I say. And she
+   said, what’s your angle? And the first thing that came to mind
+   was the truth. I said, I’m interested in the stories where
+   science and art overlap. And she said, well, that’s exactly
+   what I do. When do we talk?
+
+   IRA FLATOW: Wow. And how much more difficult, is it more
+   difficult, for regular string musicians to play the octet?
+
+   QUINCY WHITNEY: There is definitely a learning curve. And the
+   Hutchins Consort players can particularly address that. And
+   depending on the instrument, which of the eight you’re playing,
+   there are more or less adjustments.
+
+   The real conundrum at the center of the octet is the alto,
+   which is a vertical viola. So, of course, the joke is that
+   violists have to, in some sense, be trained as a cellist. But
+   that’s also just a conundrum.
+
+   There’s also three other instrument– two other instruments, the
+   baritone and the tenor, that are opportunities for cellists. So
+   it just depends on which instrument you’re playing. There’s a
+   Russian virtuoso on the treble, Gregory [INAUDIBLE], who is a
+   St. Petersburg Philharmonic player, and to listen to this man
+   on the treble is an amazing, controversial, and revolutionary
+   experience because you can’t believe his fingers can overlap
+   the way they do on the strings and cover such a tiny
+   instrument.
+
+   IRA FLATOW: So it’s like having a cell phone trying to play an
+   instrument.
+
+   QUINCY WHITNEY: Yes.
+
+   IRA FLATOW: The keyboard’s so tiny.
+
+   QUINCY WHITNEY: Yes.
+
+   IRA FLATOW: The strings are so small–
+
+   QUINCY WHITNEY: Yes.
+
+   IRA FLATOW: –and close together.
+
+   QUINCY WHITNEY: But Gregory’s an amazing virtuoso on it.
+
+   IRA FLATOW: Yeah, well, I guess there are albums out there
+   somewhere that we can listen to him.
+
+   QUINCY WHITNEY: I would suggest everyone should go to my
+   website, which is quincywhitney.com, but also the
+   hutchinsconsort.org, for further information about their
+   recordings.
+
+   IRA FLATOW: Well, thank you very much, Quincy, for taking time
+   to talk about this great book.
+
+   QUINCY WHITNEY: Ira, thank you.
+
+   IRA FLATOW: Quincy Whitney is the author of American Luthier:
+   The Art and Science of the Violin. And if you want to listen a
+   little bit, we ask you to go to our website at
+   sciencefriday.com/violin and you can hear some of the Hutchins
+   violin octet on our website.
+
+   Copyright © 2016 Science Friday Initiative. All rights
+   reserved. Science Friday transcripts are produced on a tight
+   deadline by 3Play Media. Fidelity to the original
+   aired/published audio or video file might vary, and text might
+   be updated or amended in the future. For the authoritative
+   record of ScienceFriday’s programming, please visit the
+   original aired/published recording. For terms of use and more
+   information, visit our policies pages at
+
+
+

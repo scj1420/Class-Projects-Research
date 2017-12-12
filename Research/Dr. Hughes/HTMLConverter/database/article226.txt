@@ -1,0 +1,145 @@
+Connecting Through Numbers at the Joint Math Meetings
+
+How a Random Experiment Found Order in Chaos
+
+   By [46]Jessica Deters
+
+
+   As mathematicians, numbers connect us; we all have an intimate
+   connection with them. Consider picking a random number between
+   1 and 10. As we cycle through the options, each carries so much
+   meaning that none feel truly random. Not even computers can
+   generate truly random numbers. The process they use, while
+   pseudo-random, still has some semblance of order.
+   Histogram depicting results of the random number experiment.
+   Image credit: Jessica Deters
+
+   I decided to ask the attendees of the Joint Math Meetings in
+   Atlanta to pick a random number between 1 and 10 and provide
+   their reasoning—an experiment of sorts on this idea of
+   randomness. JMM can be a bit chaotic with over 6,000 attendees
+   and can begin to feel like swimming through a sea of
+   mathematicians and their work. I set out to not only discover
+   the underlying reasoning to people’s random number picks but to
+   unlock the power of the connectivity of numbers as well.
+
+   Not surprisingly, asking mathematicians to pick a random number
+   is a great way to start a conversation. Nearly every
+   participant asked me about the results after providing their
+   number and justification. Most JMM goers knew what the results
+   should be yet wondered if this select group of mathematicians
+   could beat the odds and produce a uniform distribution, which
+   would indicate randomness.
+
+   The people who participated in my experiment suspected that we
+   would likely not generate a random distribution, as did I.
+   Ideally, each number should have an equal likelihood of being
+   picked, yielding a uniform distribution. But, the connection we
+   each have with numbers, especially 1 through 10, would likely
+   bring out some sort of pattern in people’s picks.
+
+   We were right, and our connection with numbers won out over our
+   knowledge of random distributions. Overwhelmingly, the most
+   popular numbers were 3 and 7. However, everyone provided a
+   different reason for picking their number—reasons that, as we
+   might imagine, are far from random. Some picked their favorite
+   number. Others settled for the 1 to 10 equivalent of their
+   favorite number. For example, one person who favored 17 picked
+   7. Another said 2, but that 22 would have been more favorable.
+   Some did try to beat the odds and picked 9 or 10 because they
+   figured others wouldn’t.
+
+   Now, not all of the samples were taken independently. While
+   some people were asked individually, the majority were asked in
+   groups. This adds bias but highlights the influence of groups
+   in randomness.
+
+   Discussing random numbers over dinner at the National
+   Association of Mathematics banquet at the Joint Math Meetings.
+   Image credit: Jessica Deters
+   I asked a group of seven over dinner at the National
+   Association of Mathematics banquet to pick a number. Knowing
+   that a truly random distribution should, in theory, produce one
+   or maybe two of each number greatly influenced the results.
+   Where the majority of answers in groups of one or two had been
+   3 and 7, this group picked 3, 3, 4, 6, 7, 9, and 10. People
+   even admitted to changing their choice because a number had
+   already been taken.
+
+   While this data would seem to suggest that people can generate
+   random numbers, true randomness is a lack of predictability.
+   The number choice of each group member became more and more
+   predictable as we circled the table. As mathematicians, we are
+   trained to see patterns, so there is seemingly no way to
+   generate random numbers in a group, especially on such a small
+   domain. We will always recognize the relationships between each
+   number that is picked.
+
+   Perhaps our ability to see and form relationships is more
+   important than our inability to capture true randomness. We all
+   see relationships between numbers and feel a connection to
+   them, and we can use that shared love to connect with each
+   other. Using a mutual love for numbers turned out to be a
+   fantastic icebreaker and allowed me to approach and connect
+   with countless mathematicians at JMM. Though, as humans, we are
+   incapable of generating true randomness, we possess the
+   superpower to see patterns, forge connections and find order in
+   chaos.
+     Jessica Deters is a senior at Colorado School of Mines
+     completing her BS and beginning her MS in Applied Mathematics
+     and Statistics. She's passionate about effective communication
+     of mathematics to the masses and increasing diversity in
+     STEM.
+   Please enable JavaScript to view the [47]comments powered by
+   Disqus.[48]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [49]Learn more
+   Most Recent
+   [50][Awards.png]
+   [51]Happening Now
+   [52]Red Sock Award Acknowledges Standout Posters at DS17
+   [53][Awards.png]
+   [54]Get Involved
+   [55]James H. Wilkinson Prize
+   [56][Research.png]
+   [57]Research
+   [58]Deep Learning Models in Finance
+   [59][Research.png]
+   [60]Careers
+   [61]Beyond UQ: Dealing with Deep Uncertainty
+   [62][Announcements.png]
+   [63]Announcements
+   [64]Illinois Students Named Champions in National M3 Challenge
+   [65][CurrentIssue.png]
+   [66]Current Issue
+   [67]Electricity Demand Response and Optimal Contract Theory
+   [68][ResearchNuggets.png]
+   [69]Research Nuggets
+   [70]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [71]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [78]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [78] email:webmaster@siam.org
+
+

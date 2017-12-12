@@ -1,0 +1,174 @@
+The Mathematics of Electing a President
+
+Discrepancies Between the Popular Vote and the Electoral College
+
+   By [46]Nathan Ritchey
+
+
+   In 1787, Article 2 of the [47]United States Constitution
+   established the Executive Branch of government and the system
+   of electing a president. Over the years, changes have been made
+   to this article, but it continues to rely on the Electoral
+   College to elect the president. In fact, Article 2, Section 1
+   states that ”Each State shall appoint, in such Manner as the
+   Legislature thereof may direct, a Number of Electors equal to
+   the whole number of Senators and Representatives...” It also
+   covers what to do in the event that no candidate receives the
+   majority of Electoral Votes.
+
+
+   Since the early days of the Constitution, many people have
+   argued that extreme outcomes are possible using this method of
+   electing a president. In his book How America Chooses Its
+   Presidents, Alex Belenky lists sixteen extreme outcomes that
+   can result during an election. The most common undesired
+   outcome is when the elected president does not receive a
+   majority in the popular vote. This has now occurred five times
+   in U.S. history, twice since 2000. In each recent case,
+   however, one could argue that the popular vote was nearly 50%
+   for each major candidate. A reasonable question is just how
+   wide the discrepancy between the popular vote and the Electoral
+   College may be. In his 1961 article for The Mathematics
+   Teacher, “The minimum fraction of the popular vote that can
+   elect the President of the United States,” George Polya
+   provided an inequality that can be used to show that the margin
+   between the popular vote and the Electoral College can be quite
+   large. For the 2016 election, this mathematics is recreated as
+   follows.
+   2016 U.S. Presidential Election results by state, shaded
+   according to winning candidate's percentage of the vote. Image
+   courtesy of Wikipedia.
+
+   Let \(T\) be the total number of votes cast in an election,
+   \(W\) be the number of votes earned by the winning candidate,
+   and \(r_i\) be the number of representatives for state \(i\),
+   where \(i = 1, ..., 54\)  (includes D.C., Nebraska split into
+   three pieces, and Maine split into two pieces). We adjust
+   \(r_i\) to accurately reflect the fact that Maine and Nebraska
+   are not “winner take all” states. The number of Electoral
+   College votes for each state is \(r_i + 2\), where
+   \(i=1,...,54\). Also, let \(v_i\) be the number of popular
+   votes cast in state \(i\), where \(i = 1, ..., 54\), and \(s\)
+   be the number of states won by the winning candidate. We are
+   interested in finding a lower bound on the quotient \(P =
+   W/T\), which is the proportion of the popular vote won by the
+   elected president.
+
+   Suppose that a candidate wins the election by winning at least
+   270 Electoral College votes in \(s\) states, reordered to
+   reflect the states won. Then,
+
+   \[(r_1 + 2) + (r_2 + 2) + \cdots + (r_s + 2) \ge 270,\]
+
+   or
+
+   \[r_1 + r_2 + \cdots + r_s \ge 270 - 2s. \tag1\]
+
+   If we assume that, on average, the number of votes cast in a
+   given state is proportional to its population, and therefore to
+   its number of representatives, then \(T = 436K\). Therefore,
+   \(K = T/436\).
+
+   Now, to win the  \(r_i + 2\) votes for a given state \(i\), a
+   candidate needs at least half of the votes cast plus one, or
+   \(v_i/2 + 1\). This means that a winning candidate will have
+
+   \[W \ge (\frac{v_1}{2}  + 1) + (\frac{v_2}{2} + 1) +\cdots+
+   (\frac{v_s}{2} +1),\]
+
+   \[W \ge (\frac{Kr_1}{2}  + 1) + (\frac{Kr_2}{2} + 1) +\cdots+
+   (\frac{Kr_s}{2} +1),\]
+
+   \[W \ge \frac{K}{2}(r_1 + r_2 +\cdots + r_s) + s.\]
+
+   Dividing by \(T = 436K\) and using \((1)\) leads to
+
+   \[\frac{W}{T} \ge \frac{270- 2s}{872} + \frac{s}{436K} \approx
+   \frac{270 - 2s}{872},\]
+
+   since \(K\) is a large number.
+
+   In 2016, the eleven largest states had exactly 270 total
+   Electoral College votes, which implies that those states could
+   have determined the outcome of the election, provided they work
+   in concert. Using the inequality above, this could have
+   happened with  only 28.4% of the  popular vote.  In parallel,
+   the forty-one states with the least number of Electoral College
+   votes currently have a total  of 282 votes. In this case, if
+   all the Electoral College votes for these states were awarded
+   to a single candidate, then only 21.6% of the popular votes
+   would be needed to elect a president in which nearly 78% of the
+   voters may not ever vote for the elected president.
+
+   Other people have used complicated mathematical algorithms to
+   show that it is possible to reduce this threshold to nearly
+   17%. It is also possible to skew the results even further by
+   considering an election in which there are three or more viable
+   candidates. This simple mathematics, however, illustrates that
+   the Electoral College has characteristics that could lead to
+   wide variations between the popular vote and the Electoral
+   College. Given the results of the most recent presidential
+   election, it will not be surprising if the Electoral College
+   debate finds renewed energy.
+   Nathan Ritchey is the senior officer responsible for the
+   oversight of Kent State University’s seven regional campuses.
+   Ritchey is also a mathematician with areas of interest in
+   mathematical modeling, optimization, and developing talent in
+   mathematics. After receiving a Bachelor of Arts degree in
+   mathematics from Mansfield University of Pennsylvania, Ritchey
+   earned a Ph.D. in mathematics from Carnegie Mellon University
+   in 1987. He can be reached at [48]nritche2@kent.edu.
+   Please enable JavaScript to view the [49]comments powered by
+   Disqus.[50]blog comments powered by Disqus
+   About SIAM News Blogs
+
+     [48] mailto:nritche2@kent.edu
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [51]Learn more
+   Most Recent
+   [52][Awards.png]
+   [53]Happening Now
+   [54]Red Sock Award Acknowledges Standout Posters at DS17
+   [55][Awards.png]
+   [56]Get Involved
+   [57]James H. Wilkinson Prize
+   [58][Research.png]
+   [59]Research
+   [60]Deep Learning Models in Finance
+   [61][Research.png]
+   [62]Careers
+   [63]Beyond UQ: Dealing with Deep Uncertainty
+   [64][Announcements.png]
+   [65]Announcements
+   [66]Illinois Students Named Champions in National M3 Challenge
+   [67][CurrentIssue.png]
+   [68]Current Issue
+   [69]Electricity Demand Response and Optimal Contract Theory
+   [70][ResearchNuggets.png]
+   [71]Research Nuggets
+   [72]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [73]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [80]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [80] email:webmaster@siam.org
+
+

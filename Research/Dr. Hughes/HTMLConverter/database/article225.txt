@@ -1,0 +1,148 @@
+Infinity plus one
+
+   supermanvsbatman
+
+   I think most of us have had this conversation. Two kids keep
+   trying to one-up each other with bigger and bigger numbers,
+   until one inevitably pulls out the trump number, infinity.
+
+   The problem is, Superman here is wrong.
+
+   Infinity plus one is totally a thing.
+
+   To really understand infinity, we need to think about about it
+   in two different ways. The first is to ask, “What is the number
+   infinity?” The second is to ask, “What does it mean to have
+   infinitely many?” The first we’ll answer in this post, the
+   second we’ll answer next week.
+
+   So, what is infinity?
+
+   All of this depends on what precise definitions you choose to
+   use, but the school child’s idea is still about right. What
+   number occurs after all the other numbers? Well, infinity, of
+   course.
+
+   Think about it this way: two is the number after one. Three is
+   the number after two, and so on. Each counting number (also
+   called natural number) is followed by another. Then, we define
+   a number \omega , the Greek letter omega, to be the number just
+   after all of the counting numbers^[22]1. This clearly has to be
+   infinity!
+
+   But what’s the number after \omega ? Well, \omega + 1 of
+   course. Then \omega +2 . And, after all of those, \omega\cdot 2
+   . It goes on. You can go on for as many layers as you wish.
+   omega-to-the-omega Representation of the ordinal numbers up to
+   \omega^\omega . Each turn of the spiral represents one power of
+   \omega
+
+   Numbers like 1, 2 or \omega are called ordinals since they
+   define the order of things. You have the first thing, the
+   second thing and the \omega -th thing.
+
+   While \omega isn’t useful in a lot of places in math, it does
+   provide one resolution of the famous Zeno’s paradox. (Actually,
+   Zeno has [23]six surviving paradoxes, but let’s talk about the
+   most famous one.) Achillles, the fastest of the Greek warriors,
+   is chasing a tortoise. However, he can’t ever catch the
+   tortoise. Why not?
+
+
+   racestart
+
+   In order to catch the tortoise, Achilles must first reach the
+   place where the tortoise began. But by the time he arrives, the
+   tortoise has moved farther away. Thus, Achilles has to run to
+   that spot, but, again, the tortoise has moved on. Since
+   Achilles must repeatedly reach the spot where the tortoise was,
+   he can never catch the tortoise.
+
+   tied
+
+   Now, of course this sounds silly. Many of these philosophical
+   paradoxes do. Zeno tried to use this to show that all movement
+   is an illusion, despite our experience to the contrary.
+
+   But let’s talk about this using our new idea.
+
+   Let’s say Achilles runs 10 times faster than the
+   tortoise^[24]2, but starts 100 meters behind him. After
+   Achilles has gone 100 meters, the tortoise is still 10 meters
+   ahead. After Achilles has gone that next 10 meters (110 meters)
+   total), the tortoise is yet another meter ahead. And after
+   Achilles has gone that additional meter (111 meters total), the
+   dang tortoise is already ahead by another tenth of a meter. And
+   so on and so forth, ad nauseum.
+   zeno_achilles_paradox Source: Grandjean, Martin (2014)
+   [25]Henri Bergson et les paradoxes de Zénon : Achille battu par
+   la tortue ?
+
+
+   After 20 cycles of this, Achilles has still not caught up,
+   though he is closer than the diameter of an electron.
+
+   Achilles is still behind the tortoise, though.
+
+   But the \omega -th cycle is, by definition, the cycle after all
+   of those cycles. And since he’s getting infinitely close during
+   the first finitely many cycles, at the \omega -th cycle,
+   Achilles has exactly caught up to the tortoise.
+
+   How long does it take for Achilles to catch the tortoise?
+
+   If he is traveling at 10 m/s (Olympic sprinter pace), the first
+   cycle―100 meters―takes ten seconds, the first two
+   cycles―110 meters total―takes 11 seconds, while the first
+   \omega cycles takes 11.1111… seconds (or 100/9, to be exact).
+
+   And so, Achilles can quickly catch the tortoise.
+
+   achilles-wins
+
+   Using this idea, we’ve come up with a number representing
+   infinity. We also have numbers that are after infinity. But
+   while \omega +1 is after \omega , is it bigger than \omega ?
+   How about \omega \cdot 2 or \omega^\omega ?
+
+   Before you decide, listen to this story.
+
+   The [26]Hitchhiker’s Hotel is the largest hotel in the galaxy.
+   In fact, it has infinitely many rooms. One night, every room
+   was filled, when an unfortunate traveler came in begging for a
+   room for the night. Fortunately for her, the hotel has a policy
+   for such circumstances. They called each room and told them to
+   pack up and move to the room with the next higher number on it.
+   Each guest did so and the hotel worker put the new guest up in
+   room number one.
+
+
+   When we started, we had infinitely many guests in infinitely
+   many rooms. After our lucky guest came, we had one more guest
+   and the same number of rooms, but each guest still had their
+   own room. So they must be the same size, right?
+
+   In the next post, I’ll talk about how to carefully tell which
+   set of things is bigger, and then show that some surprisingly
+   different things are the same size.
+     __________________________________________________________
+
+    1.  Really, to define this carefully, we need set theory. The
+       ordinal zero is the empty set. The ordinal one is the set
+       of the empty set, i.e., the set of the ordinal zero. The
+       ordinal two is the set of the ordinals zero and one. The
+       ordinal three is the set of the ordinals zero, one and two.
+       This goes on infinitely. The ordinal  \omega is then
+       defined to be the limit of this process over all the
+       counting numbers. Following this same pattern, \omega+1 is
+       union of \omega with the set \{\omega\} , i.e., the set of
+       all the finite ordinals along with \omega . For more
+       details, see [27]Wikipedia, that endless source of
+       knowledge. [28]↩
+    2.  The land speed record for a tortoise is 5 miles per hour,
+       so Achilles is going cheetah speed! [29]↩
+
+
+   Advertisements
+
+

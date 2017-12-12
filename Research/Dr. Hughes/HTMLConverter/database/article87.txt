@@ -1,0 +1,87 @@
+49 Ways to Celebrate the Most Perfect Day of the Year
+
+   June 28—6/28 or 28/6—is the most mathematically perfect day of
+   the year. Celebrate by befriending a perfect number
+
+
+
+
+   Share on Facebook
+   Share on Twitter
+   Share on Reddit
+   Email
+   Print
+   Share via
+
+
+
+   The bees know how to celebrate the number six. Credit: [35]Alex
+   Wild
+   Advertisement |
+   Report Ad
+
+
+   You may know tomorrow, June 28, as [36]Tau Day, a celebration
+   of the number 2π, which some people believe to be
+   the [37]superior circle constant. I prefer to observe the[38]
+   most mathematically perfect day of the year, if for no other
+   reason than the fact that it works whether you prefer to write
+   your dates as dd/mm or mm/dd.
+
+
+   June 28 is a [39]perfect date because 6 and 28 are both
+   [40]perfect numbers, numbers whose divisors add up to
+   themselves. The numbers 1, 2, and 3 are the three divisors of 6
+   (other than 6 itself) and 1+2+3=6. Likewise, 28=1+2+4+7+14.
+
+
+   Euclid's Elements contains the [41]first known theorem about
+   perfect numbers. It says that if 2^n-1 is prime, then
+   (2^n-1)×2^n-1 is a perfect number. So 6 is (2^2-1)×2^2-1, or
+   3×2; 28 is (2^3-1)×2^3-1, or 7×4. Prime numbers of the
+   form 2^n-1, the numbers that generate these perfect numbers,
+   are called Mersenne primes after the 17th-century French priest
+   and math enthusiast [42]Marin Mersenne. Almost all of the
+   [43]largest known prime numbers are Mersenne primes because
+   they’re easier to find than other primes.
+
+
+   Euclid knew that every Mersenne prime gave us an even perfect
+   number, but it also goes the other way: all even perfect
+   numbers must come from Mersenne primes. This theorem was
+   finally proved by Euler, and it's called the [44]Euclid-Euler
+   theorem, possibly maximizing the chronological distance between
+   a theorem's eponyms. The [45]odd perfect numbers are more
+   mysterious. We haven’t found any yet, and if we do find one, it
+   will have to be [46]greater than 10^1500, but you never know
+   what might be lurking around the corner.
+
+
+   Another mystery is whether there are infinitely many Mersenne
+   primes, and therefore infinitely many perfect numbers, or if
+   the Mersenne primes dry up somewhere down the number line,
+   leaving us with only finitely many points of perfection.
+
+   For the time being, we’ve only found 49 Mersenne primes, so we
+   know exactly 49 perfect numbers. On June 28, [47]find one of
+   those numbers. Get to know it. Appreciate its exponents, make
+   friends with its factors.
+
+
+   You can start small, getting cozy with one of the perfect
+   numbers Euclid knew: 6, 28, 496, or 8128. Or you can reach for
+   the stars and adopt the latest, greatest perfect number
+   (2^74,207,281-1)×2^74,207,280, with its 44,677,235 digits, as
+   your friend for the day.
+
+   There are [48]49 choices. Make yours count.
+
+
+   The views expressed are those of the author(s) and are not
+   necessarily those of Scientific American.
+   [49][rightsPermsIcon.png] Rights & Permissions
+   Advertisement |
+   Report Ad
+
+
+

@@ -1,0 +1,295 @@
+Inquiry and Equity
+
+   Posted on [15]March 3, 2017 by [16]Brian Katz
+
+
+   Education is, at its heart, about justice. It is the
+   institution that empowers individuals to improve the conditions
+   around them, to be intentional and involved citizens, to live
+   meaningful and fulfilling lives. Or at least it should.
+
+   Cultural institutions like education can also be the mechanisms
+   through which individuals are indoctrinated into a system that
+   has power over them, in other words, school can be a tool of
+   oppression. We, the community of mathematicians and mathematics
+   educators, have been complicit in this oppression for years. We
+   have taught students that experts are the source of
+   mathematical knowledge/understanding/skill and that their
+   mathematical thinking is valid only to the extent that it
+   mimics our own. Our classrooms teach them that mathematical
+   competence is rare, that this competence is a good proxy for
+   intelligence, that this intelligence is determined at birth
+   (and rarer by demographics), and that general power in our
+   society comes from this intelligence and the financial
+   compensation it can command. Our culture validates this rarity
+   by suggesting that power should be concentrated in the hands of
+   a few, that abdicating this power is normal and happier than
+   the alternative.
+
+   In short, our discipline has denied almost every member of our
+   society access to mathematical inquiry. In the words of Paulo
+   Freire, “any situation in which some [people] prevent others
+   from engaging in the process of inquiry is one of violence;… to
+   alienate humans from their own decision making is to change
+   them into objects” [Pedagogy_of_the_oppressed.jpg] (Pedagogy of
+   the Oppressed). I design my courses from a perspective of
+   inquiry-based learning (IBL) because I think it offers a chance
+   for students to take back this power, to stop and reverse some
+   of this violence (see [17]AMS T&LM and [18]DAoM). Friends and
+   colleagues, including Aditya Adiredja, Jess Ellis, and
+   Christine Andrews-Larson, have articulated important critiques
+   and qualifications on this sweeping claim that I will think,
+   read, and write about soon.
+
+
+   Instead, I would like to turn the lens of equity onto the
+   community of educators who teach with inquiry. There are many
+   paths to this work. Some of us developed our approach to
+   teaching in relative isolation , as was the case for me. Some
+   learned from and with local colleagues. Some come from the long
+   and rich K-12 tradition that uses a different language to
+   express very similar values. Some read about Socrates, Dewey,
+   and Freire. Some come from mathematics education research.
+   Others had heard about teaching with inquiry and sought out
+   professional development experiences and supports. Regardless
+   of our paths, I think all of us are happy and relieved to know
+   that there are others like us.
+
+   I think of the IBL community as the union of the people in the
+   threads represented by these various paths. This community has
+   mapped itself partially onto various formal organizations,
+   including the Academy of Inquiry-Based Learning, the
+   Educational Advancement Foundation, a special interest group of
+   the MAA called IBL SIGMAA, and many others. Having multiple
+   organizations that meet diverse needs should be positive, in
+   theory, but that is not what has happened historically.
+
+   One approach to teaching with inquiry is attributed to Robert
+   Lee Moore; the thread associated with Moore is highly visible
+   partially because of the position that Moore and his students
+   held in the national mathematical societies and partially
+   because of  generous financial contributions given in support
+   of community building. As a result, sometimes this thread in
+   the community is equated with the entire community in some
+   parts of our discipline. However, Moore’s courses were
+   explicitly unwelcoming to some students because he advocated
+   racist, misogynistic, and anti-Semitic views about who belongs
+   in mathematics in general and his classrooms in particular.
+
+   Combining the two previous paragraphs, this means that
+   educators who found ways to offer their students experiences
+   with mathematical inquiry either had to deal with joining a
+   (large sub-)community that was named after a bigot or forego
+   many of the resources offered by this community. Certainly some
+   people participated in this community without being aware of
+   the bigotry, as was the case with me for several years. Others
+   participated with knowledge because they wanted to spread parts
+   of Moore’s “legacy” while rejecting the bigotry. However, it is
+   an extraordinary privilege to go through the world unaware of
+   structural inequality or participating in institutions
+   selectively like this.
+
+   Unsurprisingly then, the attachment of Moore’s name to an
+   educational movement/community has erected a barrier that keeps
+   people without that privilege from benefiting from this
+   community’s resources, [19]further expanding the privilege gap.
+   The nature of this privilege has the impact of nearly silencing
+   the voices that are repelled from this community by Moore’s
+   name, but awareness of this privilege has been growing. In a
+   talk at JMM 2017, Sandra Laursen laid out a powerful case,
+   based on recent research, that Moore’s name is a barrier to the
+   spread of inquiry in our classrooms, even as this community has
+   increasingly emphasized equity issues for our students and a
+   “[20]big tent” interpretation of inquiry for educators.
+
+
+   IFRAME:
+   =1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=tr
+   ansparent
+
+
+   I encourage you to read the paper on which this talk is based
+   as well as several response pieces from various positions in
+   relation to this community, all of which are hosted [22]here.
+
+
+   I am a person who has benefited from these privileges and the
+   resources of this community, so I would like to finish by
+   talking about my plans for responding to this inequity. I will,
+   of course, write about this responsibility from my own
+   perspective; I do so publicly in order to make myself more
+   accountable to this plan and to open myself to critique and
+   feedback. I’ve organized these thoughts in increasing
+   complexity, from symbolic gestures to deep and sustained change
+   of the IBL community.
+
+   I make these plans as an individual, but I plan to make use of
+   my privileges and positions to accomplish the work. In
+   particular, I am currently the chair of the recently-formed
+   [23]IBL SIGMAA (special interest group of the MAA), which is a
+   mapping of the IBL community onto the MAA.
+
+
+   (1) Rejecting our inequitable past (and present).
+       Zach Haberler and Chuck Hayward, linked above. I have tried
+       to make the need for the rejection of Moore’s legacy of
+       bigotry personal by comparing it to my more contemporary
+       experiences of homophobia.
+
+       rejects the bigotry connected to some of the threads of the
+       evolving IBL community that it seeks to represent.
+       Furthermore, the IBL SIGMAA charter makes equity a guiding
+       principle rather than a peripheral outcome.
+       name, but I agree that without his name, it is easier for
+       those of us with privilege to forget about this history
+       [25](as discussed here). I don’t think I understand what it
+       will take to reject this past without forgetting it.
+
+       narratives that frame the strand within this community
+       associated with Moore as the canonical, central, real, or
+       major form of teaching with inquiry and thereby making the
+       experiences and expertise of other educators invisible or
+       less valid. I certainly need to work to learn about inquiry
+       that has been happening outside my field of vision so far.
+       I thank [26]Debra Borkovitz and others for pushing me on
+       this aspect.
+
+
+   While writing statements and passing resolutions is important,
+   we could just be shouting these words into the void of the
+   internet.
+
+   (2) Removing barriers to accessing the resources of (my segment
+   of) the IBL community.
+       Moore and his legacy that helped build community among IBL
+       practitioners. I think it is essential that there be such a
+       conference, but attending it must not require educators to
+       contend with a symbol of bigotry. I am happy to announce
+       that the IBL SIGMAA and the Educational Advancement
+       Foundation, in collaboration with the MAA, are hosting a
+       mini-conference inside MathFest this summer entitled
+       “Constructing the Future of IBL”. My hope is that the IBL
+       SIGMAA will soon host a stand-alone, sustainable, annual
+       conference that is easily accessible to all who are
+       interested.
+       often involves additional barriers such as time and money.
+       Travel can be particularly hard on some people, including
+       parents and people who are differently able. I commit to
+       engaging these barriers to participation as part of my
+       reform agenda. Two efforts that are underway: (i) making
+       sure that funding sources are reserved to help support
+       people who are less able to pay for the costs of travel and
+       registration and (ii) making sure that IBL workshops and
+       community networks are seeded in various locations so that
+       interested instructors don’t need to travel to participate.
+       who wish to teach with inquiry that are freely available.
+       However, many of these are invisible or inaccessible unless
+       you are already plugged into this community. One of the
+       main functions of the IBL SIGMAA will be to build and
+       maintain a list of these resources and how to access them.
+       Moving away from Moore’s name is important for this effort
+       because it removes the barrier of having to already know
+       this name to find these resources.
+       are important. Many instructors face institutional
+       pressures that resist their efforts to teach with inquiry.
+       As a member of a community that has coalesced to engage
+       these pressures, I feel responsible for helping others with
+       their efforts. This is especially true if some of the
+       pressure comes from an awareness of the history of bigotry
+       that has been connected to these efforts.
+
+   Of course, removing Moore’s name from this conference is, at
+   best, opening a door, but it does nothing to critique or change
+   the community it named. Without this critique, the ideas above
+   become a form of colonialism powered by (white) saviorism and
+   (white) guilt.
+
+   (3) Supporting the evolution of the IBL community into
+   something more equitable.
+       there was a focus on lineage (how the speaker was descended
+       from Moore, intellectually) and purity (how closely aligned
+       they were with Moore’s approach, and how rigorous/strict
+       were their expectations). I found these foci off-putting to
+       say the least; had I been aware of the connection to
+       racism, discussions of lineage and purity would probably
+       have driven me away immediately. I am happy to report that
+       more recently, the focus has shifted to evidence-based
+       practices and decision-making and the goals have shifted
+       towards equitable outcomes. My personal sense is that this
+       community will continue to evolve as discussions of the
+       “definition” of IBL connects us more deeply with RUME
+       (research on undergraduate mathematics education),
+       especially in terms of theoretical perspectives and
+       grounding. The 2017 RUME conference contained a large
+       amount of discussion of IBL, especially its connection to
+       equity for students. Moreover, these shifts away from
+       lineage mean that anyone who does the work has access to
+       IBL expertise through these perspectives. I would also like
+       to facilitate further connections between IBL SIGMAA and
+       RUME SIGMAA members, possibly by scheduling adjacent or
+       concurrent conferences for the SIGMAAs to encourage
+       cross-over.
+       Unlike the other institutions related to IBL teaching, the
+       IBL SIGMAA is organized around a Charter document that lays
+       out its operations, has open membership (though it requires
+       one to be a paying member of the MAA), and makes decisions
+       and elects officers with votes of the membership. I see
+       this as a powerful way to give voice to anyone who wants to
+       be part of the IBL community. This kind of democracy is
+       certainly not guaranteed to lift up diverse perspectives,
+       so I think that the executive board of the IBL SIGMAA has a
+       responsibility to implement structures that help us realize
+       this goal. I am working to make this happen, in part by
+       expanding the executive board to include more diverse
+       voices and more person-power to do this work; I worry about
+       tokenism in this effort, and I am striving to make sure
+       members have real power. We have also recently surveyed the
+       IBL SIGMAA membership to understand the priorities they
+       have for the organization in the short-term.
+       at IBL events, and that space must be safe and supportive
+       for them to share experiences and critiques that can lead
+       to structural change in the community. In addition to
+       diversifying the collection of voices in terms of race and
+       identity, we need to make space for experiences like those
+       of faculty at community colleges. I am helping to organize
+       a panel for this summer’s mini-conference about diversity
+       in IBL that I hope will make some of this space there. The
+       IBL SIGMAA has also proposed a paper session at JMM 2018 to
+       further these discussions. I worry that these efforts ask
+       people who have felt marginalized to take a risk to educate
+       more privileged people, which could become exploitative,
+       but I hope they will be affirming.
+
+   It is important to help my community evolve. This evolution
+   will involve changing. It will also involve learning, because
+   there is definitely expertise outside of the IBL community as
+   it appears to me from the inside.
+
+   (4) Building trust.
+       one-time efforts. It will require focus and commitment
+       spread over many years. I don’t think I can prescribe
+       actions that will lead to trust because it must be
+       negotiated jointly and responsively. However, I do think
+       that one way to make this sustained effort is to ground it
+       in shared values. Hence, I plan to organize discussions in
+       which the IBL community articulates these values and
+       recommits to them in an ongoing fashion.
+       write and plan, I must listen. Not to respond but under the
+       assumption that I have things to learn.
+
+   I see injustice and inequity; returning to the words of Paulo
+   Freire: “the educator has the duty of not being neutral” (We
+   Make the Road by Walking).
+
+   There are too many people who have helped me evolve my thinking
+   about my responsibilities to thank them all individually, but
+   recent conversations with Edray Goins, Sandra Laursen, Aditya
+   Adiredja, and Dave Kung shine brightly in recent memory.
+   This entry was posted in [27]inquiry, [28]racism, [29]sexism.
+   Bookmark the [30]permalink.
+   [31]← Hands Off My Confidence
+   [32]Equity in Review: Reflections on Equity Research
+   Perspectives at the 2017 RUME Conference →
+
+
+

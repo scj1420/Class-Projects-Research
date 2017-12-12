@@ -1,0 +1,116 @@
+By [35]Gregory Buck
+
+
+     August 9, 2012
+
+
+   Gregory Buck on the mathematics of swimwear. Gregory Buck on
+   [36]the mathematics of swimwear.
+
+
+   Like everyone else I know, when I go to the beach I think
+   mathematics. Archimedes, my favorite mathematician, did too—his
+   perhaps best-known work is the “Sand Reckoner,” wherein he
+   counts the grains of sand it would take to fill the universe.
+   He must have been at the beach when he thought how to do it.
+   I’m not sure Archimedes picked the most interesting thing about
+   the beach for analysis, but he might be forgiven—because the
+   ancient Greeks didn’t wear swimsuits.
+
+   Swimsuits often remind me of Carl Friedrich Gauss, a superb
+   nineteenth-century mathematician who really understood a curved
+   surface. He could have told you why you can’t iron most
+   suit-tops from a two piece swimsuit. In a geometrical sense,
+   curved surfaces, like the surface of a sphere, just don’t lie
+   flat—they don’t have enough surface area. (When you are
+   finished making guacamole, try flattening the hollowed out
+   avocado skin. It will tear.) Many suit-tops are constructed by
+   sewing together two petal-shaped sections of flat fabric, just
+   the same way you can make the earth by sewing together regions
+   bounded by the lines of longitude. Lemon wedges are another
+   example. The peel from a lemon wedge will not lie flat. But if
+   you pressed it as flat as it would go, outlined it on a piece
+   of paper, did the same for all the wedges of that particular
+   lemon, cut the regions out, colored them with a yellow
+   highlighter, then taped them together along their borders, you
+   would have an approximate lemon. The trick for both the
+   suit-top and the approximate lemon is that though they are
+   constructed of flat sections (fabric and paper are flat), the
+   way they are joined together makes the curved surface.
+
+   The job of a swimsuit is to uphold decency while you hang out
+   in places where people might, conceivably, swim. We can think
+   of this decency, this modesty, as a load or strain the suit
+   must bear. Different suit designs solve this problem in
+   different ways, though each must take into account the regions
+   which must be covered (RMBCs). There has, it’s well known, been
+   a considerable decline in the percentage of skin area covered
+   by swimsuits over the last hundred years (which has increased
+   visual volatility—dramatic swings to both ends of the
+   attraction/repulsion spectrum). As the suit becomes smaller and
+   smaller, each square inch takes on more and more of the weight
+   of propriety.
+
+   The equation here is pretty straightforward. For example, let
+   DL represent the total decency load. DL has been declining with
+   time, but can be considered fixed during any given beach
+   season. Let SA be the surface area of the suit, and SK the
+   surface area of the skin. Then if VV is the visual volatility,
+   we have:
+   equation,jpg.jpg
+
+   The proper mathematical way to look at this is to say that
+   since, as the suit shrinks, a finite decency mass is
+   concentrated into an ever smaller region, the decency density
+   grows larger and larger—growing toward infinity. This point of
+   infinite density is called a singularity. So we have that each
+   RMBC has an associated singularity. And each beach-goer, on
+   each beach, has an associated decency surface, with some number
+   of singularities. The first thing a mathematician does, when
+   faced with a surface or space with singularities, is, naturally
+   enough, count them. A most unusual aspect of this particular
+   singularity problem is that the count is culturally
+   dependent—in fact there are countries where the sum is less
+   than it is in the United States. I have heard that there are
+   beaches where a bather’s decency surface might have no
+   singularities at all, a prospect I have not the courage to
+   consider.
+
+   Perhaps the best way to look at a swimsuit is topologically—an
+   approach that makes the beach a bit more egalitarian. The idea
+   of topology is that you can deform things—stretch or shrink
+   them any which way—but you can’t tear them. To a topologist a
+   sphere is the same as a cube, but differs from a bagel because
+   a bagel has a hole. We can classify swimsuits topologically by
+   counting holes, say like this: assume the suit begins as a
+   sphere, and we will cut holes so we can wear it. For example,
+   in a two-piece women’s suit, a tube top (a strapless top)
+   requires two holes—one for the torso at the bottom, and one at
+   the top where the head and both arms emerge. A halter top has
+   the torso hole, and one for the neck, and the arms share
+   another one for a total of three. A standard top that goes over
+   both shoulders (say by straps), has a hole for each arm and the
+   neck, and of course the torso, for a total of four. One-piece
+   suits are five-holers. Men’s trunks, and the bottoms of
+   two-piece suits, have three holes: two legs and the waist. The
+   idea is that, say, all tube tops are topologically
+   equivalent—they all have the same number of holes. But a tube
+   top is not equivalent to a halter top. On another hand, halter
+   tops and men’s trunks are topologically equivalent (go ahead,
+   try stretching one into the other).
+
+   Now the beach is not always fair to all of us, but topology
+   makes it more so. My physical form may fall a bit short of
+   ideal, but damn if my suit isn’t topologically equivalent to
+   Brad Pitt’s. Surf’s up!
+
+   Read more from our [37]Swimsuit Issue.
+
+
+   Illustration by Richard McGuire.
+
+      More:
+
+
+
+

@@ -1,0 +1,708 @@
+57 Responses to Exponential Zero
+
+    1. [21]Anders Kaseorg says:
+       [22]25 June, 2016 at 7:27 am
+       While the limiting form 0^0 is indeterminate, there are
+       good reasons to define the value 0^0 as 1 despite the
+       nonremovable discontinuity there. In fact, we use this
+       definition all the time, sometimes without realizing it.
+       It’s why we can write a polynomial as p(x) = \sum_{n=0}^d
+       a_nx^n . It’s why we can use the binomial theorem (a + b)^n
+       = \sum_{k=0}^n \binom nk a^{n-k}b^k at a = 0 or b = 0 .
+       It’s why we can use the power rule \frac{d}{dx}x^n =
+       nx^{n-1} at n = 1 . It’s why we can write the number of
+       functions from S to T as |T|^{|S|} even when S = T =
+       \varnothing . See also Donald Knuth’s “[23]Two notes on
+       notation” (1992) and [24]this Quora question.
+       [25]Reply
+
+            [27]25 June, 2016 at 3:28 pm
+            Yes, that’s watertight. Thanks
+            [28]Reply
+    2. [29]chrisnamastephys11 (Christian Luca) says:
+       [30]25 June, 2016 at 11:27 am
+       Very interesting and stimulating post, indeed! Where the
+       discussion involves level sets approaching the origin,
+       there’s a typo:
+       \ln(x^y) = x\ln(y) should be
+       \ln(x^y) = y\ln(x) [31]Reply
+
+            [33]25 June, 2016 at 3:04 pm
+            Thanks, I just fixed that.
+            [34]Reply
+    3. Anonymous says:
+       [35]25 June, 2016 at 11:30 am
+       After studying mathematics for a while, I came to the
+       conclusion that exponentiation of arbitrary numbers x^y is
+       actually a quite artificial operation compared to things
+       like addition and multiplication; there’s only the power
+       function x^k defined for arbitrary x and integer k as x
+       multiplied by itself k times, or its reciprocal -k times,
+       and the exponential function \exp(\cdot) defined by the
+       limit of (1+\tfrac x n)^n or the power series \sum \frac
+       {x^n} {n!} . It’s just a happy coincidence that they can be
+       made to agree (and then be interpolated) by setting x^k =
+       \exp(k \ln(x)) . Most justifications for setting 0^0 = 1
+       rely on the properties of the former function; others are
+       combinatorial, which still boils down to the same function.
+       I resolve similarly the question of whether zero is a
+       natural number: it’s meaningless, just as asking whether
+       Pluto is a planet. I regard natural numbers as (ironically)
+       one of the most artificial concepts in mathematics. Instead
+       of speaking about them, one should rather refer to finite
+       cardinal/ordinal numbers (of which zero is a perfectly
+       valid example) or equivalence classes, under multiplication
+       by units, of integers having a prime decomposition (in
+       which case zero isn’t among them).
+       [36]Reply
+    4. opr says:
+       [37]25 June, 2016 at 1:26 pm
+       The introduction is so wrong on many levels…
+       [38]Reply
+
+            [40]25 June, 2016 at 3:10 pm
+            What is one of the levels on which it’s wrong?
+            [41]Reply
+    5. [42]Greg Egan says:
+       [43]25 June, 2016 at 1:45 pm
+       Interesting post!
+       Here’s one attempt to visualise the level sets:
+       [44][exponential_level_sets.gif]
+       This takes regions of the level sets for which x lies in
+       the unit disk and projects them into the 3-dimensional
+       subspace of \mathbb{C}^2 given by dropping the imaginary
+       part of y from each pair (x,y) . The three surfaces shown
+       in each frame of the animation are for values of z with
+       magnitudes 1/2, 1 and 3/2, and the argument of z runs from
+       0 to 2 \pi over the course of the animation.
+       [45]Reply
+
+            [47]26 June, 2016 at 3:50 am
+            Sorry, this isn’t showing quite what I intended. I
+            said that z takes values with magnitudes 1/2, 1, and
+            3/2 and arguments ranging between 0 and 2\pi , but in
+            fact the level sets I’m showing use those values for
+            ln(z) rather than z.
+            I didn’t read the post carefully enough, and check the
+            formulas I was using. At one point in the post it is
+            correctly stated that the parametric form of the level
+            set for x^y = z is (x, ln(z)/ln(x)), which of course
+            is the formula I should have used. But later in the
+            post there’s a typo:
+
+
+     … the formula for the level set L(z), which is y = z / ln(x)
+            and I used that to make the image.
+            So the image does still show level sets of the
+            function x^y , but the particular values of z used are
+            a bit weird: \exp(r \exp(i \phi)) with \phi ranging
+            from 0 to 2\pi over the course of the animation, and r
+            taking the values 1/2, 1 and 3/2 in each frame.
+            [48]Reply
+
+            [50]26 June, 2016 at 3:57 am
+            I made the mistake of trying to write exponents in my
+            last comment with HTML’s sup tag, rather than LaTeX,
+            so where xy appears, I meant x^y .
+            [51]Reply
+
+            [53]26 June, 2016 at 4:46 am
+            Hi Greg, that looks really nice. I fixed the typo in
+            the article, thanks for pointing it out, and also
+            edited your comment to make the syntax corrections you
+            indicated. Sorry that the typo percolated into your
+            animation.
+            My impression from the images here are that the level
+            sets look like they fit together in a smooth way — and
+            each level set doesn’t have a chaotic appearance, even
+            towards the origin.
+            For an individual level set, what statements can be
+            made about the tangent space, near the origin?
+            [54]Reply
+    6. [55]Greg Egan says:
+       [56]25 June, 2016 at 1:53 pm
+       The image didn’t show up in my last comment, probably
+       because I used an img tag rather than just mentioning the
+       URL. I’m a bit worried that WordPress might clone the image
+       rather than showing the original file, which will cause
+       headaches if I want to improve the original. So … I’ll
+       mention the URL in human-readable form here for anyone who
+       wants to look at it, and hope WordPress doesn’t interpret
+       it.
+       ExponentialLevelSets1.gif
+       [58]Reply
+
+            [60]25 June, 2016 at 4:13 pm
+            Since most people will be too lazy to follow that
+            link, I copied your image to my website and put that
+            version in your original post. If you want to change
+            it just send me a new version and I’ll do what it
+            takes to get that to appear (by giving it a new name).
+            Sorry things are a bit annoying.
+            If anyone wants to simply post an image here, just
+            type in its URL. If the URL ends in .gif, .jpg or
+            .png, the image will show up. Unfortunately WordPress
+            will create a copy of your image and show that, so if
+            you later change your image, that change won’t appear
+            here.
+            [61]Reply
+    7. [62]Nathaniel Virgo says:
+       [63]25 June, 2016 at 1:57 pm
+       Another nice thing about 0^0=1 is that it plays nicely with
+       the convention in information theory that p\log p=0 when
+       p=0 , since e^{p\log p} = p^p .
+       [64]Reply
+    8. [65]Andrius Kulikauskas says:
+       [66]25 June, 2016 at 2:00 pm
+       David, Excellent post! A beautiful example in math of
+       investigating the simplest issue of the deepest
+       consequence. Also, a vivid illustration of “implicit math”,
+       that is, what goes on in our minds.
+       I taught a precalculus course at UCSD where I tried to
+       distill the deepest ideas. One of them was “extending the
+       domain”, in particular, of the addition formula 2^(x+y) =
+       2^x 2^y . Supposing that we know what this means for x, y =
+       1,2,3… then we can extend the domain to 0 by asking what
+       2^0 must mean for the addition formula to continue to hold.
+       Well, generally, a^x = a^x+0 = a^x a^0 and so a^0 = 1.
+       However, at this point, if a=0 , then we could have 0^0=0 .
+       This issue is dealt with first and only then do we extend
+       the domain further for x = -1, -2, -3… and derive = a^-1 =
+       1/a . Whereas you use the latter to define what 0^0 must
+       be. So I find that point in your derivation unconvincing, a
+       sleight of hand.
+       Also, I’m curious what your thinking about 0^0 means for
+       the field with one element where 0 = 1 = infinity.
+       [67]Reply
+
+            [69]25 June, 2016 at 3:52 pm
+            Well, in that field, I think that 0^0 equals 1.
+            :)
+            [70]Reply
+
+            [72]26 June, 2016 at 4:24 am
+            Andrius, thanks, I appreciate your enthusiasm for
+            these subjects.
+            Tomorrow when the new day brings a chance to begin
+            again, I will speak to your concern that my argument
+            was a kind of party trick.
+            Regarding your question about the field with one
+            element, where 0 = 1 = infinity, the serious answer to
+            your question is that I don’t have an opinion about
+            zero-to-the-zero here, because I have never thought
+            about this field before.
+            I just read the wikipedia article on the field with
+            one element,
+            nt, and I was surprised to see that the theory of a
+            field with just one element was not trivial. On a
+            first reading, I didn’t really get it.
+            What is the connection here with infinity?
+            [74]Reply
+               o [75]Andrius Kulikauskas says:
+                 [76]26 June, 2016 at 7:43 am
+                 David, briefly, I’ve been realizing that a lot of
+                 the discussion of the field with one element
+                 comes from considerations of the finite field Fq
+                 of characteristic q where we are counting, for
+                 example, the number of k-dimensional subspaces of
+                 n-dimensional vector spaces. The answers are
+                 polynomials in q. But then I realized that from
+                 the point of view of these fields, q is just 0.
+                 And all of this counting is ridiculous from their
+                 point of view. Kind of like counting the number
+                 of ways that you can add positive and negative
+                 numbers to get 0. And then I realized that for
+                 these fields, from their point of view, q is
+                 infinity. So for the field with one element, it’s
+                 like a clock with a single hour which means 0 or
+                 1 or infinity, depending on how you think about
+                 it. For example, 0 * infinity = infinity * 0 = 1.
+                 These are just some thoughts I’m working on.
+                 [77]Reply
+
+            [79]26 June, 2016 at 3:08 pm
+
+
+     Whereas you use the latter to define what 0^0 must be. So I
+     find that point in your derivation unconvincing, a sleight
+     of hand.
+            Let me try a different approach to the same point.
+            There are all kinds of ways that we could define 0^0 ,
+            but there is only one definition of it that doesn’t
+            call for special exceptions to be added to the general
+            catalog of statements of mathematical facts.
+            Anders gave a good list of these facts, in the first
+            comment to this post.
+            One of the clearest there is this: how many functions
+            are there from a set of size A to a set of size B?
+            Clearly, it is B^A .
+            In the article, I pointed towards another such fact:
+            the multiplicative inverse of a^x is a^{-x} .
+            Now, if 0^0 is defined as anything other than 1, we
+            would have to modify the statements above, to say: the
+            number of functions is B^A , except when A and B are
+            empty, then it is 1. And the multiplicative inverse of
+            a^x is a^{-x} , except when a and x are both zero.
+            So, if nothing else other than sheer laziness, why
+            don’t we go with the most “globally parsimonious”
+            definition?
+            I also think that these are hints about what the gods
+            of mathematics prefer :)
+            [80]Reply
+               o [81]Todd Trimble says:
+                 [82]26 June, 2016 at 3:54 pm
+                 For me, the rule of thumb is that 0^0 = 1 is
+                 essentially always the correct convention in
+                 discrete math contexts (including, e.g., the
+                 situation where we are decategorifying from
+                 finite sets). For continuous math contexts,
+                 wherever you want exponentiation as a binary
+                 operation to be continuous on its domain of
+                 definition, it seems to be safest to declare 0^0
+                 to be undefined, and leave it at that. For
+                 different paths to (0, 0) lead to different
+                 limits.
+                 So the point is that it’s really just a matter of
+                 being mindful of the surrounding context — I
+                 don’t think there’s any controversy about that
+                 point for practicing mathematicians.
+                 [83]Reply
+                      [84]30 June, 2016 at 5:11 pm
+                      This is the sense in which the integers have
+                      to be considered on their own in their fully
+                      discrete glory instead of as a subset of the
+                      continuum.
+    9. etatoby says:
+       [85]25 June, 2016 at 3:22 pm
+       I’ve always marveled about the exponential function.
+       Here’s a visualization of z=x^y that supports the 0^0 is
+       undefined camp:
+       [86]
+       [x_y.gif]
+       does not appear above. Made with Grapher.app and Gimp.)
+       You can clearly see that the surface is tangent to the z
+       (vertical) axis, which suggests that any z\geq 0 satisfies
+       z=0^0
+       [88]Reply
+
+            [90]26 June, 2016 at 5:04 am
+            That sure looks cool. Thanks for putting it together.
+            I am having trouble studying it in detail, because its
+            turning pretty quickly. Can you post any still shots
+            from this, which show the main outlines of what is
+            going on. Or a very slowly turning version.
+            I’m not totally sure what the axes are, because
+            they’re not labeled, but by inference the half-axis to
+            which the surface is attached is the positive x-axis.
+            It appears that the surface isn’t plotted for the
+            region with negative values for y? Was that
+            intentional, perhaps to make the structure of the
+            surface more visible?
+            [91]Reply
+
+            [93]30 June, 2016 at 4:43 am
+            The horizontal arrows demarcate the first quadrant,
+            that is, the region where x > 0 and y > 0. You can see
+            that the function being graphed, namely x^y, equals
+            zero along the y axis, since 0^y = 0 for y > 0 . And
+            if you look harder you can see that it takes a
+            constant positive value along the x axis, consistent
+            with the fact that x^0 = 1 for x > 0.
+            [94]Reply
+   10. [95]John Baez says:
+       [96]25 June, 2016 at 4:33 pm
+       Congratulations, David! Your post shot up above 1000 views
+       per hour:
+       [97][azimuth-statistics_a_quirky_function_6-25-2016.jpg]
+       About 2,300 viewers were referred here from Hacker News and
+       265 from Twitter.
+       If we can focus our posts on saving the planet while being
+       this attractive, it’ll be saved in no time. [tongue2.gif]
+       [98]Reply
+   11. Trip says:
+       [99]25 June, 2016 at 8:43 pm
+       why not \lim_{n\to\infty} (e^x)^n ?
+       [100]Reply
+
+            [102]26 June, 2016 at 4:03 am
+            Hi Trip. This a function of x. What is your statement
+            about this function?
+            [103]Reply
+
+            [104]27 June, 2016 at 6:04 pm
+            Hey Trip,
+            I think that’s the right intuition with a misplaced
+            sign
+            \lim_{n\to\infty} (e^{-x})^n = \lim_{n\to\infty}
+            (e^{-n})^x = 0^x
+            [105]Reply
+   12. [106]mclaury says:
+       [107]25 June, 2016 at 9:22 pm
+       I remember reading a historical article about some obscure
+       mathematician (obviously working before the modern
+       distinction between functions and formulas was worked out)
+       who came up with the idea of using something like this as
+       an indicator function — if I recall correctly, I think his
+       involved a tower of exponents with multiple zeroes that
+       somehow made him feel it was better justified — and felt
+       that this was an extremely important contribution to
+       mathematics. Of course in some sense it was, since he was
+       anticipating the definition of more general functions than
+       things that could be “represented by formulas.”
+       [108]Reply
+
+            [110]25 June, 2016 at 9:33 pm
+            I found it! The mathematician was Guglielmo Libri, the
+            notation was 0^{0^x} , and the article is “Two Notes
+            on Notation” by Donald Knuth:
+            [112]Reply
+   13. David says:
+       [113]25 June, 2016 at 10:23 pm
+       The Wikipedia article on Exponentiation has a nice aside
+       about the ongoing debate about 0^0. It’s really wild, and
+       kind of cool honestly, to reflect on the fact that people
+       have been arguing this point for over 200 years!
+       _of_differing_points_of_view
+       [115]Reply
+   14. [116]Qiaochu Yuan says:
+       [117]26 June, 2016 at 4:49 am
+       More fun zero exercises:
+       What is the determinant of the empty (zero-by-zero) matrix?
+       Is the empty space connected?
+       Is the empty function (from the empty set to itself)
+       constant? Is it locally constant?
+       Is the empty space a manifold? If so, what is its
+       dimension?
+       [118]Reply
+
+            [120]26 June, 2016 at 6:12 am
+            Similarly: what is the degree of the zero polynomial?
+            [121]Reply
+
+            [123]26 June, 2016 at 2:15 pm
+            Quote from Roger Stafford on
+            r/view_thread/294696?requestedDomain=www.mathworks.com
+            The determinant of a square n x n matrix is obtained
+            as the sum, with appropriate signs, of n factorial
+            products, each of which is composed of n factors. If
+            we let n be zero, this is zero factorial terms each
+            composed of zero factors – that is to say one term
+            composed of no factors and therefore possessing the
+            value one. Hence the sum must be one.
+            [125]Reply
+
+            [127]26 June, 2016 at 4:16 pm
+            I’d like there to be an empty manifold of each
+            dimension. There are times when I want a category of
+            n-manifolds and smooth maps between them. If there’s
+            an empty n-manifold, this category will have finite
+            coproducts! In other words: they have coproducts
+            (disjoint unions), and making there be an empty
+            n-manifold means they also have an initial object.
+            It’s also true that the empty set is an n-manifold for
+            each n if we say “an n-manifold is a topological space
+            such that each point has a neighborhood homeomorphic
+            to \mathbb{R}^n. ”
+            There’s also a category of manifolds where different
+            components are allowed to have different dimensions,
+            and this is a kind of rig category, with finite
+            products and coproducts. In this category, the
+            question “what is the dimension of this manifold?”
+            doesn’t make sense; the right question is “what is the
+            dimension of this component of a manifold?”, and the
+            empty manifold has no components.
+            [128]Reply
+
+            [130]30 June, 2016 at 8:31 pm
+            @David: that’s the correct answer, but a much more
+            conceptual derivation is possible. The determinant of
+            a linear transformation T : V \to V from a
+            finite-dimensional vector space to itself is the
+            scalar by which T acts on the top exterior power of V
+            , which is 1 -dimensional. If \dim V = 0 then the top
+            exterior power is the zeroth one, which is the unit
+            (that is, the underlying field, as a 1 -dimensional
+            vector space), with T acting by multiplication by 1 .
+            A related but more concrete argument is that 1 is the
+            unique answer consistent with cofactor expansion for a
+            1 \times 1 matrix.
+            [131]Reply
+   15. [132]Greg Egan says:
+       [133]26 June, 2016 at 5:08 am
+       Here’s a new image in which the level sets are x^y = r
+       \exp(i \phi) with \phi ranging from 0 to 2\pi over the
+       course of the animation, and r taking the values 1/2, 1 and
+       3/2 in each frame.
+       [134][ExponentialLevelSets2.gif]
+       The variable x parameterising each surface is taken from
+       the unit disk, and the surfaces are projected into 3
+       dimensions by dropping the imaginary component of y .
+       [135]Reply
+
+            [137]27 June, 2016 at 11:21 pm
+            I made a stupid mistake in both [138]the image above
+            and [139]an earlier image: the phases for z all have
+            an extra factor of \pi compared to what was intended,
+            and so instead of running from 0 to 2\pi over the
+            animation, they run from 0 to 2\pi^2 . No wonder these
+            images seem to go through multiple cycles within each
+            animation, and jump strangely between the end and the
+            start.
+            I won’t redo these animations, though, since they
+            don’t really show what’s happening near the origin,
+            which is where things are interesting. The two images
+            below
+            [140]here and [141]here hopefully make it clear what
+            happens to the level sets near the origin.
+            [142]Reply
+   16. [143]Greg Egan says:
+       [144]27 June, 2016 at 3:18 am
+       Suppose we fix two complex numbers, x_0 \neq 0 and y_0 .
+       Then along the straight line through the origin in
+       \mathbb{C}^2 that passes through (x_0, y_0) , we have:
+       \lim_{s \to 0} (s y_0) \log(s x_0) = 0
+       \lim_{s \to 0} (s x_0)^{s y_0} = 1
+       So, x^y approaches 1 as we approach the origin along any
+       such line.
+       The only way to get values other than 1 is to make x
+       exponentially smaller than y , and approach the origin
+       along a curve such as:
+       (x(s),y(s)) = (\exp(-1/s) x_0, s y_0)
+       We then have:
+       \lim_{s \to 0} (s y_0) \log(\exp(-1/s) x_0) = -y_0
+       \lim_{s \to 0} (\exp(-1/s) x_0)^{s y_0} = \exp(-y_0)
+       So the level set x^y = z for any complex number z comes
+       arbitrarily close to the origin in \mathbb{C}^2 , but all
+       these sets for z \neq 1 approach the surface x=0 very
+       rapidly as they approach the origin.
+       [145]Reply
+   17. [146]Greg Egan says:
+       [147]27 June, 2016 at 4:51 am
+       Here’s a view of the level sets for the five values z \in
+       \{0.95, 0.975, 1, 1.025, 1.05\} .
+       [148][ExponentialLevelSets3.png]
+       The top set is 0.95, the bottom set is 1.05, and 1 is the
+       flat set in the middle. I’ve inserted a small sphere to
+       mark the origin.
+       It’s apparent here that the sets for z\neq 1 converge
+       rapidly on x=0 as they approach the origin. As in the
+       previous images, I’m projecting down to 3 dimensions by
+       dropping the imaginary component of y .
+       [149]Reply
+   18. [150]Greg Egan says:
+       [151]27 June, 2016 at 11:07 pm
+       Here’s a view of the level sets for the three values z \in
+       \{\exp(i \pi/4), 1.25 \exp(i \pi/4), 1.5 \exp(i \pi/4) \} .
+       [152][ExponentialLevelSets4.png]
+       Here, instead of projecting into three dimensions by
+       dropping the imaginary part of y , I’ve made the third
+       dimension a suitable multiple of the magnitude of y . As
+       with real values of z , the level sets rapidly approach x=0
+       as they approach the origin.
+       [153]Reply
+
+            [155]28 June, 2016 at 1:23 am
+            Nice! Are you getting any kind of mental picture about
+            what the structure looks like as a whole?
+            [156]Reply
+
+            [158]28 June, 2016 at 8:19 am
+
+
+     Are you getting any kind of mental picture about what the
+     structure looks like as a whole?
+            Treating x as the parameter for each level set L(z) ,
+            as you approach x=0 along different straight lines
+            through the origin, x_{\theta}(r) = r exp(i \theta) ,
+            the unit tangents wrt r to the corresponding paths
+            through L(z) all converge on a vector in \mathbb{C}^2
+            that is independent of \theta :
+            (0, -\log(z) / |\log(z)|)
+            So not only do the level sets squeeze down into
+            something almost 1-dimensional as they approach the
+            origin, different level sets L(z_1) and L(z_2)
+            approach along almost the same line when \log(z_1) is
+            a real multiple of \log(z_2) .
+            So I don’t think the foliation is pathologically
+            twisted as you approach the origin, but most sets are
+            squashed together ever closer to the surface x=0 ,
+            while the sets L(z) for z close to 1 occupy more and
+            more space around the origin.
+            [159]Reply
+   19. [160]Greg Egan says:
+       [161]28 June, 2016 at 5:14 am
+       Here’s an attempt to show the full, four-dimensional shapes
+       of the level sets by taking a rotating slice.
+       [162][ExponentialLevelSets5.gif]
+       Each frame gives a 3-dimensional “radial” slice through
+       \mathbb{C}^2 for a particular phase for x . There are 24
+       level sets shown, coloured red, green, and blue for
+       magnitudes 1/2,1, and 3/2, with 8 equally-spaced phases at
+       each magnitude. The unchanging vertical green line is for
+       z=1 .
+       As with the other images, it’s clear that most of the level
+       sets rapidly approach x=0 as they approach the origin, with
+       z=1 the exception. Of course the level sets fill the whole
+       space, so the gaps between z=1 and the other sets will be
+       filled mostly by sets with z very close to 1.
+       [163]Reply
+   20. [164]Dan Christensen says:
+       [165]28 June, 2016 at 4:59 pm
+       If we look at exponentiation on the natural numbers as
+       nothing more than repeated multiplication, then it seems to
+       be impossible to justify any particular value for 0^0 .
+       There are in fact infinitely many binary functions ^ on N
+       that satisfy n^2 = n\cdot n and n^{m+1}=n^m \cdot n . The
+       thing is, they disagree only on the value of 0^0 for which
+       any value will do. Thus, we might be justified in simply
+       leaving it undefined.
+       [166]Reply
+
+            [168]28 June, 2016 at 5:58 pm
+            I see what you’re saying. However I have become
+            conditioned to expect more from exponents, including
+            that n^m = n^{m+0} = n^m \cdot n^0 , and that n^m
+            \cdot n^{-m} = 1 . If it is to be defined, these
+            uniquely determine the value of 0^0 .
+            [169]Reply
+               o [170]Dan Christensen says:
+                 [171]28 June, 2016 at 9:23 pm
+                 If you want to consider other requirements in
+                 addition to just modelling repeated
+                 multiplication on the natural numbers, you might
+                 be able to narrow 0^0 down to either 0 or 1.
+                 [172]Reply
+
+            [174]30 June, 2016 at 3:06 am
+            I thought it was widely agreed that multiplying no
+            numbers at all gives the answer 1, just as the sum of
+            no numbers at all equals 0. If so, the fact that the
+            numbers you’re multiplying none of happen to all equal
+            zero shouldn’t affect the answer. Just as eating no
+            doughnuts has the same effect on your waistline as
+            eating no sticks of celery, multiplying your wealth by
+            zero no times at all should have the same effect as
+            doubling it no times at all. This is just a
+            plausibility argument, but in category theory we turn
+            it into a theorem: the empty product is the terminal
+            object, 1.
+            [175]Reply
+               o [176]Dan Christensen says:
+                 [177]2 July, 2016 at 3:27 am
+                 Consider multiplying repeatedly by 0 . We can
+                 agree that 0^2 = 0\times 0=0 . Then 0^0\times 0
+                 \times 0 = 0^2 = 0 . The trouble is, this
+                 equation will work for any value of 0^0 . You
+                 don’t run into this problem with repeated adding
+                 0 ‘s. The only value that works for $0+0$ is 0 .
+                 [178]Reply
+                      [180]2 July, 2016 at 1:07 pm
+                      Correction. Last line should be: The only
+                      value that works for 0\times 0 is 0 .
+   21. arch1 says:
+       [181]28 June, 2016 at 8:57 pm
+       Wouldn’t 0^0 = -1 also satisfy both of those identities?
+       [182]Reply
+
+            [183]28 June, 2016 at 9:01 pm
+            No arch1, they don’t satisfy the first identity when
+            n=0 and m=0.
+            [184]Reply
+   22. [185]John Baez says:
+       [186]1 July, 2016 at 1:54 am
+       Over on [187]the G+ discussion of this post, Ron Avitsur
+       wrote:
+
+
+     Knuth writes: “Some textbooks leave the quantity 0^0
+     undefined, because the functions x^0 and 0^x have different
+     limiting values when x decreases to 0. But this is a
+     mistake. We must define x^0 = 1, for all x, if the binomial
+     theorem is to be valid when x = 0, y = 0, and/or x = -y. The
+     theorem is too important to be arbitrarily restricted! By
+     contrast, the function 0^x is quite unimportant.”﻿
+       Matt Harden replied:
+
+     Google must have listened to Knuth:
+       If you do a Google search on “0^0”, you’ll see makes a
+       definitive claim about what 0^0 equals. This will annoy the
+       ‘undefined’ camp.
+       However, if you click on the above link you don’t get to
+       the same page. Apparently WordPress gags when it sees the
+       symbol ^ in a URL. Or maybe it just doesn’t like 0^0.
+       [189]Reply
+
+            [191]1 July, 2016 at 2:40 am
+            I wonder if WordPress will allow
+            That’s “escaping” the symbol ^ as a hexadecimal
+            version of its character code.
+            [193]Reply
+
+            [195]1 July, 2016 at 3:01 am
+            That does work. And it looks like Matt Harden wrote it
+            that way on G+.
+            If you ever need to write a URL with characters other
+            than letters, numbers, dash, underscore, period or
+            tilde (the “unreserved characters” in the table
+            [196]here), and they aren’t playing a role in the
+            syntax of the URL (like a forward slash, a colon, or
+            any of the other “reserved characters” listed in the
+            same article), then the most robust way to write those
+            characters is with a percent sign followed by two
+            hexadecimal digits giving the character code.
+            You can even do this for characters with codes beyond
+            the normal 8-bit range, but then you need to convert
+            the code into UTF-8 and express it as multiple bytes.
+            This is a bit of a pain in the neck, and it can make
+            some links to Wikipedia articles tedious to write,
+            because they like using em-dashes and accented
+            characters that can only be expressed this way.
+            [197]Reply
+   23. [198]itaibn says:
+       [199]28 July, 2016 at 7:08 pm
+       In my opinion, the right way to resolve this question is to
+       say that the notation x^y refers to multiple distinct
+       functions. These functions are:
+       x^n where n is a natural number and x is an arbitrary
+       complex number. This function is used to define polynomials
+       and power series. With this function we must have 0^0 = 1
+       for the function to be well-behaved.
+       x^i where i is an integer and x is a nonzero complex
+       number.
+       e^x where x is a complex number is the exponential
+       function. The e at the bottom is just a symbol, though by
+       abuse of notation some people define the number e = e^1 ,
+       which makes this power compatible with other power
+       functions.
+       x^y = e^{y \log x} where x is a positive real number and y
+       is a complex number. We can also extend this to be defined
+       for any x in a set where \log x can be defined
+       consistently, or even to all nonzero x if we make this a
+       multi-valued function. We can also extend the function
+       continuously so that 0^x = 0 for all positive real numbers
+       x . However, there is no way to extend this function
+       continuously to (0,0), so with this function 0^0 is
+       undefined.
+       These functions are frequently confused because in any
+       point where two of them are defined, they give the same
+       value. However, it is crucial to distinguish them when
+       analyzing the expression 0^0 : According to the first
+       definition it is 1 , but according to the rest it is
+       undefined. Finally, applying this to your riddle, I must
+       object to your solution as well: There is no single power
+       function such that 0^x looks like that.
+       [200]Reply
+   24. Wendy Krieger says:
+       [201]26 February, 2017 at 12:03 pm
+       The thing about x ^ y , is that it’s not even discontinious
+       at 0^y. What happens is seen by letting x approach 0, it
+       goes up sharply at y -> 0, and always passes through 1 at
+       y=0.
+       Any line of the form x^ax (a sloping line) converges on 1
+       when x = 0, without dispute.
+       Edging along the line of y=0, and x ->0, is a kind of
+       division by zero.
+       [202]Reply
+
+
+

@@ -1,0 +1,191 @@
+Easy as ABC?
+
+   By
+   Marianne Freiberger
+   Submitted by Marianne on October 5, 2016
+
+   Mathematics is full of stories of geniuses toiling away in
+   isolation before presenting the world with a monumental result
+   that takes years for everyone else to understand. A famous
+   example is [17]Fermat's last theorem, a 350-year old problem
+   that was solved in the 1990s by [18]Andrew Wiles after years of
+   secretive work. Another is the Poincaré conjecture, [19]proved
+   in the 2000s by the reclusive Grigory Perelman who later
+   refused all reward and recognition for his work.
+   Shinichi Mochizuki
+
+
+   Shinichi Mochizuki.
+
+   This summer the world of number theory made a renewed effort to
+   understand another such result, first published in 2012 by the
+   mathematician [20]Shinichi Mochizuki. Mochizuki had spent many
+   years working in private on a famous problem known as the ABC
+   conjecture. His papers, which run to over 500 pages, purport to
+   prove the conjecture, but turned out to be impenetrable. There
+   were too many new formalisms and too much unfamiliar
+   terminology for other mathematicians to handle. Mochizuki
+   didn't help by refusing to travel outside of Japan to explain
+   his work. A conference that took place in Oxford last December,
+   without Mochizuki, failed to elucidate the proof, though it did
+   give people a deeper insight into his methods. It wasn't until
+   this summer, nearly four years after publishing the papers,
+   that Mochizuki offered some more pentrable guidance at a
+   conference in Kyoto. And although his proof is far from
+   understood, attending mathematicians expressed some hope that
+   they will eventually get there.
+   [21]Watch Andrew Wiles talk about his work!
+
+
+   The ABC conjecture cuts right to the heart of number theory by
+   linking its two most basic operations: addition and
+   multiplication. Multiplication is intimately linked to those
+   favourite friends of number theorists, the prime numbers.
+   Primes are natural numbers that are only divisible by
+   themselves and $1.$ Examples are $2$ , $3$ , $5$ , $7$ and
+   $11.$ A famous result that was already known to the ancient
+   Greeks states that every natural number can be written as a
+   product of primes, for example
+     \[ 4 = 2 \times 2, \]
+     \[ 9 = 3 \times 3, \]
+
+   and
+     \[ 12 = 2 \times 2 \times 3. \]
+
+   The result is the reason why multplication and primes go hand
+   in hand. For example, if you know the prime factors of two
+   numbers $a$ and $b$ , you immediately know the prime factors of
+   their product
+     \[ c=a \times b. \]
+
+   They are simply the prime factors of $a$ and the prime factors
+   of $b$ taken together. As an example, if $a=4=2^2$ and
+   $b=9=3^2$ , you immmediately know that the prime factors of the
+   product ( $36$ ) are $2$ (twice) and $3$ (twice):
+     \[ 4 \times 9 = 2^2 \times 3^2 = 36. \]
+
+   When it comes to addition, though, the primes aren’t quite so
+   amenable. Suppose you have three numbers $a,$ $b,$ and $c$ such
+   that
+     \[ a+b=c. \]
+
+   There’s nothing obvious you can say about the prime factors of
+   the three numbers in this case. If $a=4$ and $b=9$ as above,
+   then
+     \[ c=a+b=13, \]
+
+   which is itself prime. In this case the result of the sum ( $c$
+   ) involves a larger prime ( $13$ ) than both $a$ and $b$ (which
+   involve primes $2$ and $3$ .) But this isn’t always the case.
+   If $a=4$ and $b=5$ then the result of the sum
+     \[ c=4+5=9=3^2, \]
+
+   only involves a prime ( $3$ ) that nestles in size between
+   those appearing in $a$ and $b$ ( $2$ and $5$ ). Is it possible
+   to say anything at all about the primes appearing in $c$
+   compared to those appearing in $a$ and $b$ ?
+
+   One way of gauging the size of the primes that divide three
+   numbers $a,$ $b,$ and $c$ is to multiply all their prime
+   factors together, but only keeping one copy of each. For
+   $a=4=2^2,$ $b=5$ and $c=9=3^2$ the prime factors are $2$
+   (twice), $5,$ and $3$ (twice). Multiplying them together but
+   only using one copy of each gives
+     \[ 2\times 3\times 5 = 30. \]
+   ABC
+
+   Not quite as easy as ABC.
+
+   Even if you didn’t know what $a,$ $b$ and $c$ were to start
+   with, knowing that this product is $30$ would tell you
+   immediately that the only prime factors involved in the three
+   numbers are $2,$ $3$ and $5.$ The product is called the radical
+   of $abc$ and written as $rad(abc).$ You can regard it as a sort
+   of average. It doesn’t tell you what the three numbers involved
+   are exactly, but it encodes information about the size of their
+   prime factors.
+
+   In our example with $a=4,$ $b=5$ and $c=9$ we have
+     \[ rad(abc)=2 \times 3 \times 5 = 30. \]
+
+   This radical is bigger than the result $c=9$ of the sum. The
+   same goes for the example $a=4$ , $b=9$ and $c=13.$ In this
+   case the radical is
+     \[ rad(abc) = 2 \times 3\times 13 = 78, \]
+
+   which is again bigger than the result $c=13$ of the sum.
+   Playing around with a few more examples will soon lead you to
+   suspect that this is always the case.
+
+   This is what the ABC conjecture would like to say. That given a
+   triple $a$ , $b$ and $c$ without common factors (because that
+   would be boring), and with $a+b=c,$ we always have
+     \[ c<rad(abc). \]
+
+   Unfortunately though, this isn’t true. A counter example is
+   $a=2$ , $b=243$ and $c=2+243=245$ . The only prime factor of
+   $a$ is $2$ , the only prime factor of $243$ is $3$ (since
+   $243=3^5$ ) and the prime factors of $245$ are $5$ and $7$
+   (since $245=5\times 7^2$ ). The radical is therefore
+     \[ rad(abc) = 2 \times 3\times 5\times 7 = 210, \]
+
+   which is smaller than $c=245.$
+
+   So instead, the ABC conjecture says that $c<rad(abc)$ is
+   usually true, where the meaning of "usually" is made up of two
+   components. The first component relates to the fact that there
+   are infinitely many triples $a$ , $b$ and $c$ with no common
+   factors (co-prime triples) and with $a+b=c.$ You can easily
+   make as many as you like yourself: simply pick two co-prime
+   numbers $a$ and $b$ and add them together to get $c$ . The
+   "usually" in this context is interpreted as meaning that only a
+   finite number of such triples don’t comply with the requirement
+   that
+     \[ c<rad(abc). \]
+
+   A finite number can still be large of course (think of
+   1,000,000) but it would still pale into insignificance compared
+   to the infinity of cases that do comply.
+
+   So is it true that only finitely many of the infinite number of
+   co-prime triples $a$ , $b$ and $c$ with $a+b=c$ do not have
+   $c<rad(abc)$ ? Unfortunately not — it’s possible to find
+   infinitely many such triples — which leads to the second
+   meaning of the word "usually".
+
+   The other way to create a little leeway is to allow $c$ to be a
+   tiny little bit bigger than $rad(abc)$ . Given any positive
+   number $r$ , the number
+     \[ rad(abc)^{1+r} \]
+
+   is bigger than $rad(abc)$ . For example, if $r=1$ we get
+     \[ rad(abc)^{2}, \]
+
+   which is quite a lot bigger than $rad(abc).$ If you take $r$ to
+   be really small, for example $r=0.000001,$ then
+     \[ rad(abc)^{1+r} \]
+
+   is only a tiny little bit bigger than $rad(abc).$
+
+   Applying this meaning of "usually" and combining it with the
+   first meaning gives us the ABC conjecture in its full glory.
+   Given any number positive $r$ , which can be as small as you
+   like, there are only finitely many co-prime triples $a$ , $b$
+   and $c$ with $a+b=c$ that do not have
+     \[ c<rad(abc)^{1+r}. \]
+
+   The triples that do not comply depend on the value you choose
+   for $r$ . There’ll be more such triples for a smaller $r$ than
+   there are for a larger one. But however small or large your $r$
+   , if the conjecture is true, you can rest assured that only
+   finitely many triples don’t comply.
+
+   The ABC conjecture might not be as easy to explain as Fermat’s
+   last theorem, but a proof would be no less exciting. Many other
+   important results in number theory would follow from it,
+   including Fermat’s last theorem itself. It’s an exciting
+   prospect — but it seems we need to wait for a little while
+   longer to see it fulfilled.
+     __________________________________________________________
+
+

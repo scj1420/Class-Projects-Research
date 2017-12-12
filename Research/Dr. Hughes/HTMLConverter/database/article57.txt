@@ -1,0 +1,190 @@
+Varsity Math: Week 44
+
+   Photo: Luci Gutierrez
+   Jul 14, 2016 1:17 pm ET
+   [375]4 COMMENTS
+
+
+   Most of the Varsity Math team is back in the town Logiton,
+   where the authorities need their help again.
+
+   Guarding Variety | Junior Varsity
+
+   First, a private security firm asks them for assistance. “You
+   guys, old Julius Petersen, owner of the Pentagon Mansion on the
+   outskirts of town, is having his annual open house. He’s hired
+   us to guard his eclectic collection of objets d’art. In his
+   crazy floor plan [below], there are doors in every internal
+   wall. If anybody swipes anything, a silent alarm will
+   immediately lock down the only door out of the building, but
+   then we have to catch the thief. My guards might be anywhere
+   when the theft happens, and it could happen in any room. After
+   that, first the thief and then each of the guards will be able
+   to move from any room to any adjacent room (or stay put) once
+   each minute. We can track the thief on video surveillance, but
+   we need to get a guard into the same room as the thief at some
+   point to apprehend him. I have to pay my guards a lot for an
+   assignment like this, so I want to keep the staffing down.”
+
+   Photo: National Museum of Mathematics
+
+   What is the smallest number of guards that will guarantee that
+   any single thief can be apprehended within a finite number of
+   minutes?
+
+   As the Day Is Wrong | Freshman
+
+   Next, the police chief needs the team’s help. He’s rounded up
+   two members of Non Sequitur, the crime ring in Logiton, because
+   he’s learned the group is planning to steal the platinum
+   doorknobs of the Pentagon Mansion next week. Here’s the
+   interrogation of the two ring members, known only as X and Y.
+
+   Chief: So when is this job going down?
+
+   Y: Saturday.
+
+   X: No, Sunday.
+
+   Chief: Hmmm. You’re going to need to fence the doorknobs the
+   day after the crime. What day will that be?
+
+   X: Tuesday.
+
+   Y: No, Wednesday.
+
+   Chief: This isn’t making sense! OK, you’ll need to case the
+   mansion the day before the crime. When will that be?
+
+   Y: Thursday.
+
+   X: No, Friday!
+
+   Then the chief gets a big break: He learns that the peculiar
+   code of honor that X and Y follow requires each of them to give
+   exactly one true answer out of every three questions they’re
+   asked.
+
+   Which day will Non Sequitur attempt to rob the Pentagon
+   Mansion?
+
+   See answers to [376]last week’s puzzles below. Come back next
+   week for answers and more puzzles. Note: Comments may include
+   spoilers.
+
+
+   The National Museum of Mathematics (MoMath) is North America’s
+   only museum devoted to mathematics. Learn more at
+   [377]momath.org.
+
+
+   [378]Solutions
+
+
+   For the relay that ended last week, the Fractured Fruit farmer
+   brought 312 peaches to the fair. The center three cards
+   inTriangulating the Difference add up to 24, and in Crusty
+   Conundrum either of the two end slices has the most crust. In
+   the remaining problem, Relation Riddle, the other attendees at
+   the reunion consist of the following relatives of Finley:
+   father, mother, sister, sister’s husband and sister’s three
+   children (two girls and one boy).
+
+   [379]See MoMath’s website for extended solutions.
+
+
+
+
+
+   [383]Previous Back Taxes (Thursday Crossword) [384]Next Host of
+   Possibilities (Crossword Contest)
+
+
+          Save Article
+          [385]Sign In to Save
+          [386]Subscribe to WSJ
+
+
+          Text Size
+          Regular
+          Medium
+          Large
+
+          Google+
+
+          Print
+
+   SHOW COMMENTS HIDE COMMENTS (4)
+   Failed to load comments
+   4 comments
+   [387]  Livefyre
+
+
+
+
+   [390]Sign in
+
+   Post comment
+
+   Link
+   Newest | Oldest
+   Edward Brading
+   Edward Brading subscriber 5pts
+
+   As the Day is Wrong.  The robbery will be attempted on
+   Saturday.  If Y's first statement is true, then Y's next two
+   statements are false, which is consistent with the code.  Also,
+   if Y's first statement is true, then X's third statement is
+   true and X's first and second statements are false, which is
+   consistent with the code.  Running the remaining six days of
+   the week through the answers of Y and X does not produce any
+   situation in which exactly one statement of Y is true and
+   exactly one statement of X is true.
+   Dorit Hochbaum
+   Dorit Hochbaum subscriber 5pts
+
+   Three guards (G) are required. Even if the Thief (T) knows the
+   G positions he will be captured.
+
+   T cannot enter a room X if there is a G in X or if there is a G
+   in a neighboring (N) room of X since it will be captured.
+   Therefore, 3 G can form a Front of up to 9 adjacent rooms
+   (enough to cross the mansion) that T cannot cross or bypass.
+   The G strategy is to move towards T, maintaining a sufficiently
+   long Front but progressively reducing the space available for T
+   until a capture in a finite number of moves.
+
+   Example:  place 3G in the outmost 3 bottom rooms and then move
+   each G to its inward N. This forms a 7 room Front. If T is
+   below or stays on the Front – it is captured. If T is above,
+   the G move upward while controlling a Front of 7-9 adjacent
+   rooms so T must always stay on the same side. During the last
+   moves the required Front becomes shorter.
+
+   Starting from arbitrary positions the G can always form a
+   Front.
+
+   2 G cannot block T in a room with 3 exits – the chase may not
+   end.
+   John Fuller
+   John Fuller user 5pts
+
+   Guarding Variety: each room connects to three others, so three
+   guards should be sufficient (plus one on the video
+   surveillance, I suppose). If there are only two guards moving
+   from room to room, the thief will always have an escape route.
+   With three, they should eventually be able to trap the thief in
+   a room that only leads to rooms where the guards are located.
+
+   As the Day is Wrong: the job will be on Saturday. Y is correct
+   on the day of the job, and X is correct on the day of the
+   casing. However, this violates what we already know about
+   criminals in Logiton which is that they always tell lies.
+   william woolson
+   william woolson subscriber 5pts
+
+   Non Sequitur commits the crime on Saturday
+   Show More Archives
+   Advertisement
+
+

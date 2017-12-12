@@ -1,0 +1,367 @@
+A math whiz who beat the odds of life and of the blackjack table and
+Wall Street
+
+   The inside track on Washington politics.
+   Be the first to know about new stories from PowerPost. Sign up
+   to follow, and we’ll e-mail you free updates as they’re
+   published.
+   You’ll receive free e-mail news updates each time a new story
+   is published.
+   You’re all set!
+   ____________________ Sign up
+
+   Got it
+   Got it
+
+   [AP_189596947321.jpg?uuid=uaJD4u16EeaZc8Xvt8z7DQ]
+   After Edward O. Thorp devised a mathematical way to win at
+   gambling, he turned his attention to beating Wall Street — “
+   the greatest casino on earth.” (Gary Thompson/AP)
+   By Margaret Wertheim By Margaret Wertheim February 9
+
+   Margaret Wertheim is a science writer and author of books on
+   the cultural history of physics.
+
+   Halfway through Edward O. Thorp’s lark-filled account of his
+   pioneering career as a gambler and inventor of stock-trading
+   tools, he tells us that “gambling is investing simplified.” So
+   by reverse, investing is gambling complexified. A good deal of
+   Thorp’s life has been devoted to proving that the same kinds of
+   mathematical skills that come in handy counting cards can also
+   be fruitfully applied to “the greatest casino on earth”: Wall
+   Street.
+
+   Thorp has won in both arenas. As a young mathematician at MIT
+   in the early 1960s, he developed a theoretical framework that
+   showed how a blackjack player could beat the house advantage,
+   despite centuries of mathematical reasoning that had supposedly
+   proved this impossible. Once he published his “high-low” system
+   in his bestselling book “Beat the Dealer” (1962), it unleashed
+   an army of math nerds who brought such an onslaught of science
+   to bear on the game that it forced casinos to change their
+   rules, including moving from one deck of cards in a shoe to
+   several. Legions of professional blackjack teams using Thorp’s
+   system have engaged in a Darwinian war with casinos ever since,
+   among them a legendary MIT team whose exploits inspired[190]
+   the film “21,” starring Kevin Spacey.
+
+
+   [[191]Investing books that just keep paying dividends]
+
+
+   Thorp’s experience with the mathematics of blackjack, and later
+   other casino games such as roulette and baccarat, prompted him
+   to start applying his talents to the stock market. Here, too,
+   he found ways to beat the system by discovering and exploiting
+   pricing anomalies in securities. “Betting on a hedge I had
+   researched was like betting on a blackjack hand where I had the
+   advantage,” he writes, only instead of $500 a hand, the stakes
+   were now “$50,000 to $100,000 per hedge.”
+   "A Man for All Markets: From Las Vegas to Wall Street, How I
+   Beat the Dealer and the Market," by Edward O. Thorp and Nassim
+   Nicholas Taleb (Random House)
+
+   Although Thorp didn’t invent hedging, he made significant
+   theoretical contributions to its development and thus became
+   one of the quants who revolutionized Wall Street. At one point
+   his Princeton/Newport Partners was beating the stock market by
+   more than 20 percent. For those lucky enough to have what
+   eventually became a $10 million minimum, Thorp could almost
+   guarantee brilliant returns: PNP “never had a losing year, or
+   even a losing quarter,” he states.
+
+   With his Rockyesque rounds of beating the odds, Thorp has led a
+   remarkable life, but what strikes me most about his story is
+   what happened before he set foot in a casino. As he describes
+   his early years and the obstacles he overcame, we have a
+   narrative arc with some of the same qualities as that of Louis
+   Zamperini, the Olympic track-star hero of Laura Hillenbrand’s
+   “Unbroken,” who grew up just a few miles from Thorp in a
+   disadvantaged suburb of Los Angeles County.
+
+   Before he got the gambling bug, Thorp had been pursuing a life
+   in science, and what a life!
+
+   Born in 1932, Thorp grew up a Depression-era son of caring, but
+   hugely overworked, blue-collar parents, who often labored on
+   night shifts and, of necessity, largely left their two sons to
+   raise themselves. During World War II, his mother worked as a
+   riveter at Douglas Aircraft, and his father, who’d attended
+   college for a year on the GI bill, was unable to afford to
+   complete his degree. Both hoped Edward would be able to partake
+   of the education they’d been denied.
+
+   Left to his own devices in a C-grade school district, Thorp was
+   a self-starter who taught himself chemistry and built a
+   homemade lab in which, like the young Oliver Sacks, one of his
+   chief lines of research was blowing stuff up. He learned to
+   make gunpowder and used it to launch rockets and rocket-powered
+   sleds. He progressed to gun-cotton and nitroglycerine and
+   nearly blew off his hand before wisely deciding to stop. Like
+   Sacks (in his memoir “Uncle Tungsten”), Thorp understands the
+   horror these exploits will induce in the minds of contemporary
+   parents and is grateful for the freedom that gave him an
+   education that couldn’t be learned solely from books.
+
+   As a high school junior, he decided to enter a chemistry
+   competition in which the prizes were scholarships to leading
+   universities. Having skipped a grade, he was just 15, and most
+   of the competition would be 17- and 18-year-old seniors. But,
+   since his parents couldn’t help him with college fees, a
+   scholarship was the only way he might realize his dream of
+   becoming a scientist. Unfortunately, he couldn’t afford a
+   proper slide rule, so he was unable to complete enough
+   calculations during the exam and only came in third in a field
+   stacked with kids from L.A’.s elite schools. The next year, he
+   taught himself physics and was one of 40 finalists, out of
+   16,000 entrants, in the national Westinghouse Science Talent
+   Search, which won him a scholarship to Berkeley.
+
+   There, too, he encountered unfairness, causing him to switch
+   fields from chemistry to quantum physics, and finally to a PhD
+   in math at UCLA. His trajectory reflects the movements in a
+   pinball machine, and Thorp acknowledges that in other economic
+   circumstances, his career might have been different. Financial
+   difficulty helped fuel his attraction to gambling, though he
+   insists he wasn’t in it for the money: “What intrigued me was
+   the possibility that merely by sitting in a room and thinking,
+   I could figure out how to win.”
+
+   There are several questions opened up here: What if this
+   beautiful mind hadn’t been hampered by pecuniary problems? What
+   else might Thorp have achieved? With a decent slide rule, he’d
+   probably have won the chemistry competition and a place at
+   Caltech. “Science [was] my playground,” he says, and one rather
+   mourns the loss to science. How many other Thorps are being
+   thwarted?
+
+   And why does it take gambling to ignite enthusiasm for
+   mathematics among publishers? When Thorp began his blackjack
+   calculations at MIT, he was a post-doc in one of the world’s
+   great math departments. We get endless details about
+   card-counting and not a hint about his research. I wanted to
+   know about his day job. Thorp remained in academics until 1982,
+   professing a love for research and teaching, but the financials
+   finally took over — as they have done for an increasing number
+   of mathematicians. This seems to me an enormous loss, not only
+   because the quants have already brought us once to the brink of
+   ruin, but because so much IQ is being channeled away.
+
+   The second half of Thorp’s book is a history of the financial
+   world over the past 50 years, with its growing reliance on
+   math, and it makes for pretty unsavory reading. By his telling,
+   the rewards will be deeply divided between the rich and the
+   rest. Along with Warren Buffett, he urges us to put our money
+   safely into index funds. Just as most gamblers can’t beat the
+   house, most of us can’t beat the market. “Gambling now is
+   largely a socially corrosive tax on ignorance, draining money
+   from those who cannot afford the losses,” he writes in his
+   closing pages. “Most of what I’ve learned from gambling is also
+   true for investing.” It is to Thorp’s credit as a human being
+   that he lands his final punch straight.
+   A Man for all Markets
+   From Las Vegas to Wall Street, How I Beat the Dealer and the
+   Market
+
+   By Edward O. Thorp
+
+   Random House. 396 pp. $30
+
+   opinions
+
+   Orlando Shooting Updates
+
+   News and analysis on the deadliest mass shooting in U.S.
+   history.
+
+   post_newsletter348
+
+   follow-orlando
+
+   true
+
+   after3th
+
+   false
+
+   Please provide a valid email address.
+   ____________________
+   Sign up
+   (BUTTON) Sign up
+   You’re all set!
+   [192]See all newsletters
+   true :: test
+   subscribe
+   The story must be told.
+   Your subscription supports journalism that matters.
+   [193]Try 1 month for 99¢
+
+
+   Comments
+
+
+
+   Show Comments
+   [196]Discussion Policy
+   Comments
+
+
+   SuperFan Badge
+
+   SuperFan badge holders consistently post smart, timely comments
+   about Washington area sports and teams.
+
+   [197]More about badges | [198]Request a badge
+
+
+   Culture Connoisseur Badge
+
+   Culture Connoisseurs consistently offer thought-provoking,
+   timely comments on the arts, lifestyle and entertainment.
+
+   [199]More about badges | [200]Request a badge
+
+
+   Fact Checker Badge
+
+   Fact Checkers contribute questions, information and facts to
+   [201]The Fact Checker.
+
+
+   [202]More about badges | [203]Request a badge
+
+
+   Washingtologist Badge
+
+   Washingtologists consistently post thought-provoking, timely
+   comments on events, communities, and trends in the Washington
+   area.
+
+   [204]More about badges | [205]Request a badge
+
+
+   Post Writer Badge
+
+   This commenter is a Washington Post editor, reporter or
+   producer.
+
+   Post Forum Badge
+
+   Post Forum members consistently offer thought-provoking, timely
+   comments on politics, national and international affairs.
+
+   [206]More about badges | [207]Request a badge
+
+
+   Weather Watcher Badge
+
+   Weather Watchers consistently offer thought-provoking, timely
+   comments on climates and forecasts.
+
+   [208]More about badges | [209]Request a badge
+
+
+   World Watcher Badge
+
+   World Watchers consistently offer thought-provoking, timely
+   comments on international affairs.
+
+   [210]More about badges | [211]Request a badge
+
+
+   Post Contributor Badge
+
+   This commenter is a Washington Post contributor. Post
+   contributors aren’t staff, but may write articles or columns.
+   In some cases, contributors are sources or experts quoted in a
+   story.
+
+   [212]More about badges | [213]Request a badge
+
+
+   Post Recommended
+
+   Washington Post reporters or editors recommend this comment or
+   reader post.
+
+   You must be logged in to report a comment.
+   [214]Sign in here
+
+
+   You must be logged in to recommend a comment.
+   [215]Sign in here
+
+
+   Comments our editors find particularly useful or relevant are
+   displayed in Top Comments, as are comments by users with these
+   badges: . Replies to those posts appear here, as well as posts
+   by staff writers.
+
+   All comments are posted in the All Comments tab.
+   [216]More about badges
+   [217]Get a badge
+
+
+   To pause and restart automatic updates, click "Live" or
+   "Paused". If paused, you'll be notified of the number of
+   additional comments that have come in.
+   Comments our editors find particularly useful or relevant are
+   displayed in Top Comments, as are comments by users with these
+   badges: . Replies to those posts appear here, as well as posts
+   by staff writers.
+
+   Among the criteria for featured comments: likes by users,
+   replies by users, previous history of valuable commenting, and
+   selection by moderators.
+           javascript:void(0)
+
+           javascript:void(0)
+
+           javascript:void(0)
+
+
+
+
+   Most Read
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Opinion With his London tweets, Trump embarrasses himself —
+       and America — once again
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Opinion Trump’s diplomacy of narcissism only makes him look
+       weak
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Opinion After 75 years of progress, was last week a hinge
+       in history?
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Opinion Trump ignores the messy reality of global warming —
+       and makes it all about him
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Perspective I can’t stop laughing at the Trump
+       administration. That’s not a good thing.
+
+   subscribe
+   The story must be told.
+   Subscribe to The Washington Post.
+   [223]Subscribe
+
+
+   Our Online Games
+
+   Play right from this page
+
+

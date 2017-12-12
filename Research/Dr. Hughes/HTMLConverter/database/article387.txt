@@ -1,0 +1,116 @@
+Carnegie Mellon University Pittsburgh professor applies math to
+real-life problems in Pittsburgh and around the world
+
+“Every week is different; this last week’s topic was about Star
+Wars.”
+
+   By [71]Ryan Deto [72]@RyanDeto
+   click to enlarge [73]Po-Shen Loh - PHOTO COURTESY OF CARNEGIE
+   MELLON SWARTZ CENTER FOR ENTREPRENEURSHIP
+
+       Entrepreneurship
+
+   Carnegie Mellon University math professor Po-Shen Loh wants
+   everyone with internet access to think about math as much as
+   they can. His new free website Expii crowdsources math problems
+   and solutions from students, teachers and math enthusiasts from
+   around the globe. Expii gives users the ability to explore math
+   through real-world and pop-culture problems, like which artists
+   will win the most music awards, how one makes a bigger Death
+   Star, and how self-driving cars can improve travel times. Loh,
+   who is also the coach of the USA International Math Olympiad
+   Team, heads a small Expii team in a nondescript office in
+   Oakland. Users can visit at [74]www.expii.com.
+
+
+   Why did you start Expii?
+
+   I have been trying to popularize mathematics as not just a
+   thing that you do in school, but something you do to really
+   understand the world better, in a really practical way. We can
+   use math to find some surprising insights in the real world. …
+   Every week, I sit down and meditate on some topic in the real
+   world and try to see if there are any surprising math insights
+   there — thinking about a real thing as a mathematician, in
+   contrast to just thinking about mathematical theory. Every week
+   is different; this last week’s topic was about Star Wars. ...
+   Another one was the American Music Awards. There was this
+   question — who is winning these things? Actually, it turns out
+   there is a really strong correlation between the winners and
+   how many Instagram followers they have. Which is what you might
+   expect, because it is fan-voting, but I myself was shocked at
+   how huge that correlation was. I can almost predict who are
+   going to be the top [winners]. This is what we do.
+
+   When I was thinking about cars on the anniversary of the Model
+   T Ford. I was thinking about the mathematics behind cars,
+   transportation and so on, and noticed a few observations about
+   self-driving vehicles and transit.
+
+   What kind of insights did you have about self-driving cars?
+
+   First, I want to say that I am not the first person to ever
+   think of these things — I am just trying to popularize [ideas
+   like these]. I have heard before that traffic is caused by
+   people braking and accelerating, causing these waves of
+   traffic. But there is another thing that fundamentally governs
+   traffic. Take the Fort Pitt tunnel. …  Following distance is
+   generally two to three seconds; this is because of
+   human-reaction time. You can’t just follow [so close] because
+   you can’t hit the brakes fast enough. ... This means only one
+   car every two seconds can pass in each lane, or one car per
+   second for the tunnel. That means the numbers of cars that can
+   pass through the Fort Pitt Tunnel, no matter how fast they are
+   driving or slow they are driving, is 3,600 [per hour]. That is
+   real life. If your capacity of the tunnel is only 3,600 per
+   hour, now you know why there is rush hour. I know that highway
+   engineers know this, but now I was finally thinking about it in
+   the same way.
+
+   Now, how does this factor into self-driving cars? The
+   two-second following-distance reaction time is because of
+   human-reaction time. As a human, I can only see the car in
+   front of me; I don’t have this omniscient view of traffic five
+   miles ahead. Now, imagine a huge network of self-driving cars;
+   in fact, the value of the self-driving car is in this
+   swarm-like network. Now suddenly, you don’t need that
+   two-second following time. You can actually pack cars closer,
+   and that is the only way to overcome this. If you allow a
+   shorter following distance, we can break through this barrier
+   of only 3,600 cars per hour. But the extreme case of this
+   [already exists]; it’s the subway train. Take New York City,
+   trains come every five minutes, with 10 cars, and each car can
+   fit 150 people. That’s 1,500 people every five minutes, that’s
+   18,000 people an hour.
+
+   What do you hope to accomplish with Expii?
+
+   We are trying to help everyone in the world learn mathematics,
+   where all they need is a smartphone. We are trying to deliver
+   mathematics learning to the whole world for free. There are two
+   ways to do this. One is to evangelize why mathematics might be
+   worth doing in the first place. This is why I try to come up
+   with these problems, so [users] too might want to come up with
+   [mathematical] insights. The other part is to make it so you
+   don’t have to pay. So [Expii] is an automatic virtual tutor,
+   which lets you have a personalized road to learn mathematics.
+   Ours is a learning platform where people have contributed
+   towards the problems and mini-lessons, and so everyone shares
+   in it together.
+   [75]Tweet
+   [76]Email
+   [77]Print
+   [78]Favorite
+   Saving…
+   [79]Share
+
+
+   Tags: [80]News, [81]Carnegie Mellon University, [82]CMU,
+   [83]math, [84]mathematics, [85]real-life, [86]problems,
+   [87]Expii, [88]Po-Shen Loh
+
+
+   [89]More News »
+
+
+

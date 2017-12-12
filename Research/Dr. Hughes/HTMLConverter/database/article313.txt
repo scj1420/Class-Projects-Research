@@ -1,0 +1,147 @@
+Question 1:
+
+     Imagine a gene that is 108 letters with A, T, G, C in random
+     sequence. Assume that every year, there is a random change —
+     one of the letters somewhere on this gene mutates and is
+     replaced by one of the other three. After each year, you
+     compare the current copy of the gene with the original and
+     tally how many letters have changed. After a certain time
+     “the evolutionary clock will have slowed to a crawl” — that
+     is, the number of changed letters will have stopped rising.
+     The evolutionary rate from here on is zero. How many letters
+     of the original gene will have changed at that point? How
+     many years will it take to get to this point? Is the curve
+     exponential?
+
+   As the letters of the gene change, a point is reached when the
+   probability of a preserved original letter (u) mutating to a
+   different one is the same as an already mutated letter (m)
+   changing back to the original one. Any change in a u converts
+   it to an m, whereas an m has only a one-third chance of
+   changing back to a u. So at a point when there are three times
+   as many m’s as there are u’s, the evolutionary rate will become
+   0. This happens when there are 81 mutated letters
+   (three-fourths of 108).
+
+   The second part of this question can be answered in several
+   ways, depending on how you define the endpoint. In their
+   comments, readers obtained different answers for just this
+   reason. Let’s consider a few of these endpoint choices.
+
+   One point of view looks at the expected, or average, number of
+   mutated letters. Since there is always a finite, albeit
+   diminishing, probability that some particular letter, just by
+   chance, remains unchanged for thousands or even millions of
+   years, the expected number of mutations approaches ever closer
+   to 81 over time in an asymptotic manner but never quite reaches
+   this value. So one way to proceed is to define an endpoint of
+   80.5 as [14]Michael did. This approximation is based on the
+   fact that, at a point this close to equilibrium, there is a 50
+   percent chance that the number of mutations will increase the
+   next year and push the total number over 81. The endpoint in
+   this case takes 410 years.
+
+
+   Incidentally, this quick method of using the average
+   expectation up to a point close to the desired value, and then
+   using the fluctuations to “go over the top,” brings to mind the
+   following elementary school puzzle: A snail is at the bottom of
+   a 20-foot well. Every day, it climbs upward 2 feet during the
+   day, but slips back 1 foot during the night. After how many
+   days of doing this will it be out of the well?
+
+   If you came up with 20, think again! The actual answer
+   ([15]click here to reveal): 18.5. Here too, we use the average
+   up to a point, and then rely on the discrete fluctuations to
+   get over the top.
+
+
+   For more accurate methods, several readers turned to the
+   mathematics of [16]Markov chains or Markov processes: In such
+   processes, as in gene evolution, there is a chain of nodes
+   whose state at a given time completely determines the
+   possibilities available to it in the future , without the need
+   for a prior history. There are sophisticated mathematical
+   techniques involving things like “finding eigenvalues of
+   [17]transition matrices” that mathematicians use to deal with
+   Markov processes. But that does not mean that the ideas behind
+   these processes are difficult to grasp — they just involve the
+   repeated applications of some simple formulas. In the present
+   problem, you can easily model the expected value of the gene’s
+   mutations in a spreadsheet using two columns with two simple
+   repeated formulas as described below (you can do it with a
+   single column, but the two-column version is a little easier to
+   understand). In column A, put the numbers of consecutive years
+   starting from 0 in cell A2, going down the rows all the way to
+   1000 at A1002. Label cell B1 in Column B “Original” and cell C1
+   in Column C “Mutated.” In year 0, we start with 108 original
+   letters and no mutated ones, so put 108 in cell B2 and 0 in
+   cell C2. In the next row we will place the two formulas that
+   describe how the numbers change from year to year. The number
+   of original letters can decrease by a mutation that strikes an
+   original letter from the previous year (probability = u/108) or
+   can increase by a mutated letter reverting back to the
+   original, which will happen a third of the time (probability =
+   (m/108)/3). This is captured by the following formula in cell
+   B3: = B2-(B2/108)+(C2/108)/3. Similarly, the change in the
+   number of mutated letters based on the previous year is given
+   by the following formula in cell C3: = C2-(C2/108)/3) + B2/108.
+   These formulas can be copied over all the 1,000 rows and voilà,
+   you can see how the number of expected mutations changes,
+   inching ever closer to 81 as the years go by, passing 80.5 at
+   410 years.
+
+
+   The two equations shown above can be combined with some algebra
+   into a single iterated function: m[n ]= (80/81)m[n-1 ]+1 where
+   m[n] is the expected number of mutated genes in year n. This
+   yields the following exponential formula, described by [18]Mark
+   P: m[n]=81-81*(80/81)^n. This is an exact exponential, which
+   covers half the remaining distance to 81 mutations about every
+   56 years. The number of mutations starts off by increasing
+   rapidly, then tails off and slows to a crawl.
+
+
+   A second approach to solving this problem, rather than looking
+   at the expected values, is called the “hitting time,” and is
+   standard in Markov processes. Here, the number 81, the dynamic
+   equilibrium point, is treated as the “absorbing node.” This
+   means that whenever any gene reaches 81 mutations, it is
+   considered to have hit its target and is “absorbed,” and the
+   future evolution of this gene is not considered. Using this
+   approach, [19]Mark P. got an answer of 262 years, while
+   [20]Ashish and [21]Dennis obtained 281.8 years.
+
+
+   The reason for the difference can be explained as follows.
+   Imagine that there are, say, 1000 separate isolated populations
+   that all have the same evolving gene, with the same mutation
+   rate. The question that Mark P. answered is: How many years
+   will it take for 50 percent of these gene populations to reach
+   81 mutations? This is the median value. Ashish and Dennis, on
+   the other hand, found the average time for all the 1000 genes
+   to reach 81 mutations. This time is slightly longer because
+   there will be some genes that will take far longer times just
+   by chance. The spreadsheet method that I described above can be
+   used to obtain both these answers. It just takes a larger
+   spreadsheet — one that has 82 columns, one for each number of
+   possible mutated letters from 0 to 81, again having simple
+   formulas relating the number of mutations from one year to the
+   next.
+
+   Note that the “hitting time” approach gives a smaller number
+   than the expected value of about 400 years that we calculated
+   earlier. This is because the hitting method does not take into
+   account the fact that the genes keep changing even after
+   reaching 81 mutations, and some may dip below this number by
+   random reversals, even after initially hitting the number
+   earlier. So the hitting approach overestimates the actual
+   proportion of genes with a given number of mutations in any
+   year. If continued evolution is included in the model, as can
+   be done by extending the humble spreadsheet approach to 109
+   columns, you can see that the first time that 50 percent of the
+   genes actually have 81 or more mutations in a given year is
+   closer to the expected value we calculated earlier — about 400
+   years.
+
+

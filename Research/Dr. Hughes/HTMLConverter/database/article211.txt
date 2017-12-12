@@ -1,0 +1,490 @@
+[10]Azimuth
+
+
+
+
+
+
+The Circular Electron Positron Collider
+
+   [13]Chen-Ning Yang is perhaps China’s most famous particle
+   physicists. Together with Tsung-Dao Lee, he [14]won the Nobel
+   prize in 1957 for discovering that the laws of physics known
+   the difference between left and right. He helped create
+   [15]Yang–Mills theory: the theory that describes all the forces
+   in nature except gravity. He helped find the [16]Yang–Baxter
+   equation, which describes what particles do when they move
+   around on a thin sheet of matter, tracing out braids.
+
+
+   Right now the world of particle physics is in a shocked,
+   [17]somewhat demoralized state because the Large Hadron
+   Collider has not yet found any physics beyond the Standard
+   Model. Some Chinese scientists want to forge ahead by building
+   an even more powerful, even more expensive accelerator.
+
+
+   But Yang recently came out against this. This is a big deal,
+   because he is very prestigious, and only China has the will to
+   pay for the next machine. The director of the Chinese institute
+   that wants to build the next machine, Wang Yifeng, issued a
+   point-by-point rebuttal of Yang the very next day.
+
+   Over on G+, [18]Willie Wong translated some of Wang’s rebuttal
+   in some comments to [19]my post on this subject. The real goal
+   of my post here is to make this translation a bit easier to
+   find—not because I agree with Wang, but because this discussion
+   is important: it affects the future of particle physics.
+
+
+   First let me set the stage. In 2012, two months after the Large
+   Hadron Collider found the Higgs boson, the Institute of High
+   Energy Physics proposed a bigger machine: the [20]Circular
+   Electron Positron Collider, or CEPC.
+
+
+   This machine would be a ring 100 kilometers around. It would
+   collide electrons and positrons at an energy of 250 GeV, about
+   twice what you need to make a Higgs. It could make lots of
+   Higgs bosons and study their properties. It might find
+   something new, too! Of course that would be the hope.
+
+   It would cost $6 billion, and the plan was that China would pay
+   for 70% of it. Nobody knows who would pay for the rest.
+
+   According to [21]Science:
+
+
+     On 4 September, Yang, in an [22]article posted on the social
+     media platform WeChat, says that China should not build a
+     supercollider now. He is concerned about the huge cost and
+     says the money would be better spent on pressing societal
+     needs. In addition, he does not believe the science
+     justifies the cost: The LHC confirmed the existence of the
+     Higgs boson, he notes, but it has [23]not discovered new
+     particles or inconsistencies in the standard model of
+     particle physics. The prospect of an even bigger collider
+     succeeding where the LHC has failed is “a guess on top of a
+     guess,” he writes. Yang argues that high-energy physicists
+     should eschew big accelerator projects for now and start
+     blazing trails in new experimental and theoretical
+     approaches.
+
+
+     That same day, IHEP’s director, Wang Yifang, posted a
+     point-by-point [24]rebuttal on the institute’s public WeChat
+     account. He criticized Yang for rehashing arguments he had
+     made in the 1970s against building the BECP. “Thanks to
+     comrade [Deng] Xiaoping,” who didn’t follow Yang’s advice,
+     Wang wrote, “IHEP and the BEPC … have achieved so much
+     today.” Wang also noted that the main task of the CEPC would
+     not be to find new particles, but to carry out detailed
+     studies of the Higgs boson.
+
+
+     Yang did not respond to request for comment. But some
+     scientists contend that the thrust of his criticisms are
+     against the CEPC’s anticipated upgrade, the Super
+     Proton-Proton Collider (SPPC). “Yang’s objections are
+     directed mostly at the SPPC,” says Li Miao, a cosmologist at
+     Sun Yat-sen University, Guangzhou, in China, who says he is
+     leaning toward supporting the CEPC. That’s because the cost
+     Yang cites—$20 billion—is the estimated price tag of both
+     the CEPC and the SPPC, Li says, and it is the SPPC that
+     would endeavor to make discoveries beyond the standard
+     model.
+
+     Still, opposition to the supercollider project is mounting
+     outside the high-energy physics community. Cao Zexian, a
+     researcher at CAS’s Institute of Physics here, contends that
+     Chinese high-energy physicists lack the ability to steer or
+     lead research in the field. China also lacks the industrial
+     capacity for making advanced scientific instruments, he
+     says, which means a supercollider would depend on foreign
+     firms for critical components. Luo Huiqian, another
+     researcher at the Institute of Physics, says that most big
+     science projects in China have suffered from arbitrary cost
+     cutting; as a result, the finished product is often a far
+     cry from what was proposed. He doubts that the proposed CEPC
+     would be built to specifications.
+
+     The state news agency Xinhua has lauded the debate as
+     “progress in Chinese science” that will make big science
+     decision-making “more transparent.” Some, however, see a
+     call for transparency as a bad omen for the CEPC. “It means
+     the collider may not receive the go-ahead in the near
+     future,” asserts Institute of Physics researcher Wu Baojun.
+     Wang acknowledged that possibility in a 7 September
+     interview with Caijing magazine: “opposing voices naturally
+     have an impact on future approval of the project,” he said.
+
+   Willie Wong’s prefaced his translation of Wang’s rebuttal with
+   this:
+
+     Here is a translation of the essential parts of the
+     rebuttal; some standard Chinese language disclaimers of
+     deference etc are omitted. I tried to make the translation
+     as true to the original as possible; the viewpoints
+     expressed are not my own.
+
+   Here is the translation:
+
+     Today (September 4) published the article by CN Yang titled
+     “China should not build an SSC today”. As a scientist who
+     works on the front line of high energy physics and the
+     current director of the the high energy physics institute in
+     the Chinese Academy of Sciences, I cannot agree with his
+     viewpoint.
+
+     (A) The first reason to Dr. Yang’s objection is that a
+     supercollider is a bottomless hole. His objection stemmed
+     from the American SSC wasting 3 billion US dollars and
+     amounted to naught. The LHC cost over 10 billion US dollars.
+     Thus the proposed Chinese accelerator cannot cost less than
+     20 billion US dollars, with no guaranteed returns. [Ed:
+     emphasis original]
+
+     Here, there are actually three problems. The first is “why
+     did SSC fail”? The second is “how much would a Chinese
+     collider cost?” And the third is “is the estimate reasonable
+     and realistic?” Here I address them point by point.
+
+     (1) Why did the American SSC fail? Are all colliders
+     bottomless pits?
+
+     The many reasons leading to the failure of the American SSC
+     include the government deficit at the time, the fight for
+     funding against the International Space Station, the party
+     politics of the United States, the regional competition
+     between Texas and other states. Additionally there are
+     problems with poor management, bad budgeting, ballooning
+     construction costs, failure to secure international
+     collaboration. See references [2,3] [Ed: consult original
+     article for references; items 1-3 are English language]. In
+     reality, “exceeding the budget” is definitely not the
+     primary reason for the failure of the SSC; rather, the
+     failure should be attributed to some special and
+     circumstantial reasons, caused mainly by political elements.
+
+     For the US, abandoning the SSC was a very incorrect
+     decision. It lost the US the chance for discovering the
+     Higgs Boson, as well as the foundations and opportunities
+     for future development, and thereby also the leadership
+     position that US has occupied internationally in high energy
+     physics until then. This definitely had a very negative
+     impact on big science initiatives in the US, and caused one
+     generation of Americans to lose the courage to dream. The
+     reasons given by the American scientific community against
+     the SSC are very similar to what we here today against the
+     Chinese collider project. But actually the cancellation of
+     the SSC did not increase funding to other scientific
+     endeavors. Of course, activation of the SSC would not have
+     reduced the funding to other scientific endeavors, and many
+     people who objected to the project are not regretting it.
+
+     Since then, LHC was constructed in Europe, and achieved
+     great success. Even though its construction exceeded its
+     original budget, but not by a lot. This shows that
+     supercollider projects do not have to be bottomless, and has
+     a chance to succeed.
+
+     The Chinese political landscape is entirely different from
+     that of the US. In particular, for large scale
+     constructions, the political system is superior. China has
+     already accomplished to date many tasks which the Americans
+     would not, or could not do; many more will happen in the
+     future. The failure of SSC doesn’t mean that we cannot do
+     it. We should scientifically analyze the situation, and at
+     the same time foster international collaboration, and
+     properly manage the budget.
+
+     (2) How much would it cost? Our planned collider (using
+     circumference of 100 kilometers for computations) will
+     proceed in two steps. [Ed: details omitted. The author
+     estimated that the electron-positron collider will cost 40
+     Billion Yuan, followed by the proton-proton collider which
+     will cost 100 billion Yuan, not accounting for inflation.
+     With approximately 10 year construction time for each
+     phase.] The two-phase planning is to showcase the scientific
+     longevity of the project, especially entrainment of other
+     technical development (e.g. high energy superconductors),
+     and that the second phase [ed: the proton-proton collider]
+     is complementary to the scientific and technical
+     developments of the first phase. The reason that the second
+     phase designs are incorporated in the discussion is to
+     prevent the scenario where design elements of the first
+     phase inadvertently shuts off possibility of further
+     expansion in the second phase.
+
+     (3) Is this estimate realistic? Are we going to go down the
+     same road as the American SSC?
+
+     First, note that in the past 50 years , there were many
+     successful colliders internationally (LEP, LHC, PEPII,
+     KEKB/SuperKEKB etc) and many unsuccessful ones (ISABELLE,
+     SSC, FAIR, etc). The failed ones are all proton
+     accelerators. All electron colliders have been successful.
+     The main reason is that proton accelerators are more
+     complicated, and it is harder to correctly estimate the
+     costs related to constructing machines beyond the current
+     frontiers.
+
+     There are many successful large-scale constructions in
+     China. In the 40 years since the founding of the high energy
+     physics institute, we’ve built [list of high energy
+     experiment facilities, I don’t know all their names in
+     English], each costing over 100 million Yuan, and none are
+     more than 5% over budget, in terms of actual costs of
+     construction, time to completion, meeting milestones. We
+     have a well developed expertise in budget, construction, and
+     management.
+
+     For the CEPC (electron-positron collider) our estimates
+     relied on two methods:
+
+     (i) Summing of the parts: separately estimating costs of
+     individual elements and adding them up.
+
+     (ii) Comparisons: using costs for elements derived from
+     costs of completed instruments both domestically and abroad.
+
+     At the level of the total cost and at the systems level, the
+     two methods should produce cost estimates within 20% of each
+     other.
+
+     After completing the initial design [ref. 1], we produced a
+     list of more than 1000 required equipments, and based our
+     estimates on that list. The estimates are refereed by local
+     and international experts.
+
+     For the SPPC (the proton-proton collider; second phase) we
+     only used the second method (comparison). This is due to the
+     second phase not being the main mission at hand, and we are
+     not yet sure whether we should commit to the second phase.
+     It is therefore not very meaningful to discuss its potential
+     cost right now. We are committed to only building the SPPC
+     once we are sure the science and the technology are mature.
+
+     (B) The second reason given by Dr. Yang is that China is
+     still a developing country, and there are many
+     social-economic problems that should be solved before
+     considering a supercollider.
+
+     Any country, especially one as big as China, must consider
+     both the immediate and the long-term in its planning. Of
+     course social-economic problems need to be solved, and
+     indeed solving them is taking currently the lions share of
+     our national budget. But we also need to consider the long
+     term, including an appropriate amount of expenditures on
+     basic research, to enable our continuous development and the
+     potential to lead the world. The China at the end of the
+     Qing dynasty has a rich populace with the world’s highest
+     GDP. But even though the government has the ability to
+     purchase armaments, the lack of scientific understanding
+     reduced the country to always be on the losing side of wars.
+
+     In the past few hundred years, developments into
+     understanding the structure of matter, from molecules,
+     atoms, to the nucleus, the elementary particles, all
+     contributed and led the scientific developments of their
+     era. High energy physics pursue the finest structure of
+     matter and its laws, the techniques used cover many
+     different fields, from accelerator, detectors, to low
+     temperature, superconducting, microwave, high frequency,
+     vacuum, electronic, high precision instrumentation,
+     automatic controls, computer science and networking, in many
+     ways led to the developments in those fields and their broad
+     adoption. This is a indicator field in basic science and
+     technical developments. Building the supercollider can
+     result in China occupying the leadership position in such
+     diverse scientific fields for several decades, and also lead
+     to the domestic production of many of the important
+     scientific and technical instruments. Furthermore, it will
+     allow us to attract international intellectual capital, and
+     allow the training of thousands of world-leading specialists
+     in our institutes. How is this not an urgent need for the
+     country?
+
+     In fact, the impression the Chinese government and the
+     average Chinese people create for the world at large is a
+     populace with lots of money, and also infatuated with money.
+     It is hard for a large country to have a international voice
+     and influence without significant contribution to the human
+     culture. This influence, in turn, affects the benefits China
+     receive from other countries. In terms of current GDP, the
+     proposed project (including also the phase 2 SPPC) does not
+     exceed that of the Beijing positron-electron collider
+     completed in the 80s, and is in fact lower than LEP, LHC,
+     SSC, and ILC.
+
+     Designing and starting the construction of the next
+     supercollider within the next 5 years is a rare opportunity
+     to let us achieve a leadership position internationally in
+     the field of high energy physics. The newly discovered Higgs
+     boson has a relatively low mass, which allows us to probe it
+     further using a circular positron-electron collider.
+     Furthermore, such colliders has a chance to be modified into
+     proton colliders. This facility will have over 5 decades of
+     scientific use. Furthermore, currently Europe, US, and Japan
+     all already have scientific items on their agenda, and
+     within 20 years probably cannot construct similar
+     facilities. This gives us an advantage in competitiveness.
+     Thirdly, we already have the experience building the Beijing
+     positron-electron collider, so such a facility is in our
+     strengths. The window of opportunity typically lasts only 10
+     years, if we miss it, we don’t know when the next window
+     will be. Furthermore, we have extensive experience in
+     underground construction, and the Chinese economy is
+     currently at a stage of high growth. We have the ability to
+     do the constructions and also the scientific need. Therefore
+     a supercollider is a very suitable item to consider.
+
+     (C) The third reason given by Dr. Yang is that constructing
+     a supercollider necessarily excludes funding other basic
+     sciences.
+
+     China currently spends 5% of all R&D budget on basic
+     research; internationally 15% is more typical for developed
+     countries. As a developing country aiming to joint the ranks
+     of developed country, and as a large country, I believe we
+     should aim to raise the ratio to 10% gradually and
+     eventually to 15%. In terms of numbers, funding for basic
+     science has a large potential for growth (around 100 billion
+     yuan per annum) without taking away from other basic science
+     research.
+
+     On the other hand, where should the increased funding be
+     directed? Everyone knows that a large portion of our basic
+     science research budgets are spent on purchasing scientific
+     instruments, especially from international sources. If we
+     evenly distribute the increased funding amount all basic
+     science fields, the end results is raising the GDP of US,
+     Europe, and Japan. If we instead spend 10 years putting 30
+     billion Yuan into accelerator science, more than 90% of the
+     money will remain in the country, and improve our technical
+     development and market share of domestic companies. This
+     will also allow us to raise many new scientists and
+     engineers, and greatly improve the state of art in
+     domestically produced scientific instruments.
+
+     In addition, putting emphasis into high energy physics will
+     only bring us to the normal funding level internationally
+     (it is a fact that particle physics and nuclear physics are
+     severely underfunded in China). For the purposes of
+     developing a world-leading big science project, CEPC is a
+     very good candidate. And it does not contradict a desire to
+     also develop other basic sciences.
+
+     (D) Dr. Yang’s fourth objection is that both supersymmetry
+     and quantum gravity have not been verified, and the
+     particles we hope to discover using the new collider will in
+     fact be nonexistent.
+
+     That is of course not the goal of collider science. In [ref
+     1] which I gave to Dr. Yang myself, we clearly discussed the
+     scientific purpose of the instrument. Briefly speaking, the
+     standard model is only an effective theory in the low energy
+     limit, and a new and deeper theory is need. Even though
+     there are some experimental evidence beyond the standard
+     model, more data will be needed to indicate the correct
+     direction to develop the theory. Of the known problems with
+     the standard model, most are related to the Higgs Boson.
+     Thus a deeper physical theory should have hints in a better
+     understanding of the Higgs boson. CEPC can probe to 1%
+     precision [ed. I am not sure what this means] Higgs bosons,
+     10 times better than LHC. From this we have the hope to
+     correctly identify various properties of the Higgs boson,
+     and test whether it in fact matches the standard model. At
+     the same time, CEPC has the possibility of measuring the
+     self-coupling of the Higgs boson, of understanding the Higgs
+     contribution to vacuum phase transition, which is important
+     for understanding the early universe. [Ed. in this previous
+     sentence, the translations are a bit questionable since some
+     HEP jargon is used with which I am not familiar] Therefore,
+     regardless of whether LHC has discovered new physics, CEPC
+     is necessary.
+
+     If there are new coupling mechanisms for Higgs, new
+     associated particles, composite structure for Higgs boson,
+     or other differences from the standard model, we can
+     continue with the second phase of the proton-proton
+     collider, to directly probe the difference. Of course this
+     could be due to supersymmetry, but it could also be due to
+     other particles. For us experimentalists, while we care
+     about theoretical predictions, our experiments are not
+     designed only for them. To predict whether a collider can or
+     cannot discover a hypothetical particle at this moment in
+     time seems premature, and is not the view point of the HEP
+     community in general.
+
+     (E) The fifth objection is that in the past 70 years high
+     energy physics have not led to tangible improvements to
+     humanity, and in the future likely will not.
+
+     In the past 70 years, there are many results from high
+     energy physics, which led to techniques common to everyday
+     life. [Ed: list of examples include sychrotron radiation,
+     free electron laser, scatter neutron source, MRI, PET,
+     radiation therapy, touch screens, smart phones, the
+     world-wide web. I omit the prose.]
+
+     [Ed. Author proceeds to discuss hypothetical economic
+     benefits from
+     a) superconductor science
+     b) microwave source
+     c) cryogenics
+     d) electronics
+     sort of the usual stuff you see in funding proposals.]
+
+     (F) The sixth reason was that the institute for High Energy
+     Physics of the Chinese Academy of Sciences has not produced
+     much in the past 30 years. The major scientific
+     contributions to the proposed collider will be directed by
+     non-Chinese, and so the nobel will also go to a non-Chinese.
+
+     [Ed. I’ll skip this section because it is a
+     self-congratulatory pat on one’s back (we actually did
+     pretty well for the amount of money invested), a promise to
+     promote Chinese participation in the project (in accordance
+     to the economic investment), and the required comment that
+     “we do science for the sake of science, and not for winning
+     the Nobel.”]
+
+     (G) The seventh reason is that the future in HEP is in
+     developing a new technique to accelerate particles, and
+     developing a geometric theory, not in building large
+     accelerators.
+
+     A new method to accelerate particles is definitely an
+     important aspect to accelerator science. In the next several
+     decades this can prove useful for scattering experiments or
+     for applied fields where beam confinement is not essential.
+     For high energy colliders, in terms of beam emittance and
+     energy efficiency, new acceleration principles have a long
+     way to go. During this period, high energy physics cannot be
+     simply put on hold. In terms of “geometric theory” or
+     “string theory”, these are too far from experimentally
+     approachable, and is not a problem we can consider
+     currently.
+
+     People disagree on the future of high energy physics.
+     Currently there are no Chinese winners of the Nobel prize in
+     physics, but there are many internationally. Dr. Yang’s
+     viewpoints are clearly out of mainstream. Not just
+     currently, but also in the past several decades. Dr. Yang
+     has been documented to have held a pessimistic view of
+     higher energy physics and its future since the 60s, and
+     that’s how he missed out on the discovery of the standard
+     model. He is on record as being against Chinese collider
+     science since the 70s. It is fortunate that the government
+     supported the Institute of High Energy Physics and
+     constructed various supporting facilities, leading to our
+     current achievements in synchrotron radiation and neutron
+     scattering. For the future, we should listen to the younger
+     scientists at the forefront of current research, for that’s
+     how we can gain international recognition for our scientific
+     research.
+
+   It will be very interesting to see how this plays out.
+
+

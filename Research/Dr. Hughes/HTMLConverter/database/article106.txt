@@ -1,0 +1,68 @@
+Use in the Classroom
+
+   Cowley’s work can be used in Mathematics Education classes to
+   discuss kinesthetic activities for teaching geometric concepts.
+   It can also serve as motivation for lessons and projects in
+   Geometry classes. Students can make models, for example, of the
+   Platonic Solids, and discover Euler’s Formula (V - E + F = 2)
+   while reviewing Vertices, Edges, and Faces.
+
+   Students may also enjoy a proof of why there are only 5 regular
+   (Platonic) solids. This proof reviews regular polygons and the
+   fact that each angle in a regular polygon has (n - 2)180/n
+   degrees when n is the number of sides; therefore each interior
+   angle of an equilateral triangle is 60 degrees, each interior
+   angle of a square is 90 degrees, each interior angle of a
+   regular pentagon is 108 degrees, and each interior angle of a
+   regular hexagon is 120 degrees. We first search for
+   two-dimensional diagrams consisting only of equilateral
+   triangles. A minimum of 3 such triangles converging at the same
+   vertex are needed to fold up to a 3-dimensional shape. So, it
+   would require either 3 equilateral triangles at a vertex
+   (adding to 180 degrees) or 4 equilateral triangles at a vertex
+   (adding to 240 degrees) or 5 equilateral triangles at a vertex
+   (adding to 300 degrees). There could not be 6 equilateral
+   triangles at a vertex because that adds to 360 degrees, and it
+   would not be possible to fold up the diagram into a
+   3-dimensional shape.
+
+   Shapes for folding up regular solids.
+
+   Those valid choices give us the patterns for the tetrahedron (3
+   equilateral triangles at a vertex), octahedron (4 equilateral
+   triangles at a vertex), and icosahedron (5 equilateral
+   triangles at a vertex).
+
+   Next, we investigate patterns with squares. A minimum of 3
+   converging at the same vertex are needed to fold up to a
+   3-dimensional shape. So, it would require either 3 squares at a
+   vertex (adding to 270 degrees) or 4 squares at a vertex which
+   adds to 360 degrees, in which case the folder would not be able
+   to fold up the diagram into a 3-dimensional shape. So, the only
+   pattern is that of a hexahedron, or cube, with 3 squares
+   converging at the same vertex.
+
+   Next, classes can investigate patterns with regular pentagons.
+   A minimum of 3 converging at the same vertex are needed to fold
+   up to a 3-dimensional shape. So, it would require either 3
+   regular pentagons at a vertex (adding to 324 degrees) or 4
+   regular pentagons at a vertex which adds to 432 degrees, in
+   which case one could not fold up the diagram into a
+   3-dimensional shape. So, the only pattern is that of a
+   dodecahedron with 3 regular pentagons converging at the same
+   vertex.
+
+   Next, we investigate patterns with regular hexagons. A minimum
+   of 3 converging at the same vertex are needed to fold up to a
+   3-dimensional shape. So, it would require 3 at a vertex (adding
+   to 360 degrees), but one would not be able to fold up the
+   diagram into a 3-dimensional shape. Our search is done. There
+   are only 5 regular polyhedra.
+
+   In a History of Mathematics class, Cowley's book could motivate
+   a discussion of Plato, his mathematical contributions (such as
+   Socrates and the Slave Boy), and what he thought the Platonic
+   Solids represented. One could also discuss Kepler and how he
+   used the Platonic Solids to investigate the solar system.
+
+

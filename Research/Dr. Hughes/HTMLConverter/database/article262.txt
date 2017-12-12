@@ -1,0 +1,47 @@
+Problem
+
+   You lead a scientific expedition to Siberia, where your team
+   successfully obtains a sample of an ancient virus preserved in
+   the permafrost. Ecstatic about the discovery, you and your team
+   quickly head back to the lab to isolate the virus.
+
+   After a long night's work, you successfully isolate the virus
+   in a series of test tubes for study. You are the last person to
+   leave the lab, and as you do, a sudden earthquake rocks the
+   surrounding countryside. After the tremors cease, you hear an
+   alarm that indicates the vials of the isolated virus have been
+   shattered.
+   Advertisement - Continue Reading Below
+
+   The lab consists of 16 rooms in a 4x4 configuration. The
+   entrance is at the top left, and the exit is at the bottom
+   right. All of the rooms except for the entrance had test tubes
+   of the virus in them, and they all shattered, contaminating the
+   rooms. A noxious chemical gas is released in the rooms with
+   broken test tubes, and in a short time, the lab will
+   automatically vent the rooms out into the world, releasing a
+   deadly plague.
+
+   Michael Stillwell
+   More From [51]Riddles
+   20 articles
+   Riddle of the Week #29
+   Riddle of the Week #28: The Bicycle Killer
+   Riddle of the Week #27: The Blue-Eyed Islanders
+   Riddle of the Week #26
+   Riddle of the Week #25: The Pool Ball Problem
+
+
+   You spring into action and don your hazmat suit, ready to pull
+   the emergency switches in each room, which will release a
+   chemical slurry into the room and neutralize the deadly virus.
+   But there is a problem. Once you enter a contaminated room, you
+   must pull the emergency switch in order to open the exit. After
+   you leave, the room locks down and you cannot reenter that
+   room.
+
+   How do you find a path through the lab that allows you to pull
+   the emergency switch in every contaminated room before leaving
+   the lab?
+
+

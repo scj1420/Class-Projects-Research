@@ -1,0 +1,101 @@
+NPZ Model: Maturity in the Juvenile Zooplankton
+
+   Planktonic ecosystems make up the bottom nutritive levels of
+   aquatic food webs, providing a vital source of food to many
+   large marine organisms. Researchers build
+   nutrient-phytoplankton-zooplankton (NPZ) mathematical models in
+   order to describe the bottom trophic levels of aquatic
+   ecosystems, aiding future research of phytoplankton.
+
+   In a paper recently published in the [48]SIAM Journal on
+   Applied Mathematics, authors Sue Ann Campbell, Matt Kloosterman
+   and Francis J. Poulin conducted a study of a closed NPZ model
+   to understand the role of maturity in the juvenile zooplankton
+   population within an ecosystem.
+
+
+   Using different forms of the NPZ model, the authors performed a
+   qualitative analysis of the solutions, studying existence and
+   uniqueness, positivity and boundedness, local and global
+   stability of the solutions as well as conditions for
+   extinction. The authors show that an NPZ model can provide a
+   more accurate description of reality and still be able to
+   obtain results analytically. The authors were also able to add
+   size dependence and spatial dependence to the NPZ model. This
+   leads to rich modeling possibilities, such as coupling with
+   external factors like fluid dynamics or higher predation.
+
+   In this study, the authors were able to choose the modeling
+   framework that is most convenient for the situation at hand.
+   Furthermore, in a practical sense, the different models offer
+   flexibility in what initial data is required for numerical
+   simulations.
+
+   [49]Read the full version of this article now, and view other
+   [50]SIAM Nuggets.
+
+
+   Source Article: An NPZ Model with State-Dependent Delay Due to
+   Size-Structure in Juvenile Zooplankton. SIAM Journal on Applied
+   Math, 76(2). (Online publish date: March 8, 2016)
+
+   About the authors:
+   Sue Ann Campbell is Professor, Department of Applied
+   Mathematics, Faculty of Mathematics, University of Waterloo;
+   Matt Kloosterman is a PhD applied mathematics student,
+   University of Waterloo; Francis J. Poulin is Associate
+   Professor, Department of Applied Mathematics, University of
+   Waterloo.
+   Please enable JavaScript to view the [51]comments powered by
+   Disqus.[52]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [53]Learn more
+   Most Recent
+   [54][Awards.png]
+   [55]Happening Now
+   [56]Red Sock Award Acknowledges Standout Posters at DS17
+   [57][Awards.png]
+   [58]Get Involved
+   [59]James H. Wilkinson Prize
+   [60][Research.png]
+   [61]Research
+   [62]Deep Learning Models in Finance
+   [63][Research.png]
+   [64]Careers
+   [65]Beyond UQ: Dealing with Deep Uncertainty
+   [66][Announcements.png]
+   [67]Announcements
+   [68]Illinois Students Named Champions in National M3 Challenge
+   [69][CurrentIssue.png]
+   [70]Current Issue
+   [71]Electricity Demand Response and Optimal Contract Theory
+   [72][ResearchNuggets.png]
+   [73]Research Nuggets
+   [74]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [75]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [82]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [82] email:webmaster@siam.org
+
+

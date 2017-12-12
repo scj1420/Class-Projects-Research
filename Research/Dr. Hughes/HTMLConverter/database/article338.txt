@@ -1,0 +1,230 @@
+   IFRAME: [1]//www.googletagmanager.com/ns.html?id=GTM-56QKB5
+
+
+   [ ] [DEL: :DEL] [DEL: :DEL] [DEL: :DEL]
+
+
+
+
+
+
+
+
+
+
+   ____________________ (BUTTON)
+
+
+
+
+
+
+
+
+
+
+   [20]News [21]Tech [22]Health [23]Planet Earth [24]Strange News
+   [25]Animals [26]History [27]Culture [28]Space.com
+   ____________________ (BUTTON)
+
+
+
+
+
+     [30]Tech
+
+
+              Book Excerpt: 'Are Numbers Real?' (US 2016)
+
+   By Live Science Staff | December 2, 2016 12:35pm ET
+
+
+   Book Excerpt: 'Are Numbers Real?' (US 2016)
+
+   Have you ever wondered what humans did before numbers existed?
+   How they organized their lives, traded goods, or kept track of
+   their treasures? What would your life be like without them?
+   Numbers began as simple representations of everyday things, but
+   mathematics rapidly took on a life of its own, occupying a
+   parallel virtual world. In "Are Numbers Real?," Brian Clegg
+   explores the way that math has become more and more detached
+   from reality, and yet despite this is driving the development
+   of modern physics. Below is an excerpt from "Are Numbers Real?"
+   (St. Martin's Press, 2016).
+
+   Not entirely surprisingly, inﬁnity is a topic that never fails
+   to stimulate the mind. Thoughts about the nature and existence
+   of inﬁnity go back all the way to the Ancient Greeks. They were
+   certainly aware that a sequence of numbers like the positive
+   integers, the simple counting numbers would go on forever. If
+   there were a biggest integer—call it max—then there surely
+   could always be max + 1, max + 2, and so on. But the whole idea
+   of inﬁnity made the Greeks uncomfortable. Their word for it,
+   apeiron, suggested chaos and disorder.
+
+   The Greek philosopher who took the deﬁnitive approach to
+   inﬁnity for the period (a point of view that would remain
+   dominant for centuries to come) was Aristotle, born in 384 BC
+   in northern Greece. Aristotle argued that inﬁnity was both
+   necessary and impossible. He used examples of aspects of the
+   universe that he considered inﬁnite. The integers, as we have
+   seen, or the span of time—which he argued had no end. And he
+   believed that something could be divided up an inﬁnite set of
+   times. But equally he came up with a range of often confusing
+   arguments as to why inﬁnity could not exist in the real world.
+   For example, he pointed out that a body is deﬁned by its
+   boundaries. If a body were inﬁnite it would have no boundaries,
+   hence it could not exist.
+
+   After what was clearly a considerable mental struggle,
+   Aristotle ﬁnally decided that inﬁnity was a potential, rather
+   than a concept that was fulﬁlled in reality. This “potential
+   inﬁnity” was something that could be aimed for, but could never
+   practically be achieved. Inﬁnity existed, but could not be made
+   real on demand. To illustrate the concept he used the neat
+   example of the Olympic games. The games existed—there was no
+   doubt of that. It wasn’t a ﬁctional concept. But generally
+   speaking, if someone asked you to show him or her the Olympic
+   games, you couldn’t. The games were a potential entity, rather
+   than something you could point at and identify. Aristotle was
+   careful to point out, though, that some potential entities were
+   going to become actual at a point in space or time, yet this
+   wasn’t the case with inﬁnity.
+
+   This neutered concept of potential inﬁnity was exactly what
+   Newton and Leibniz (see chapter 9) were dealing with when they
+   devised calculus. The inﬁnity of calculus is something that we
+   head toward—it is a limit that is never practically reached.
+   And the target is exactly what the familiar symbol for inﬁnity,
+   the lemniscate (∞) represents. It is the symbol for Aristotle’s
+   potential inﬁnity. The lemniscate was introduced by Newton’s
+   contemporary, John Wallis, who had written a rather dull
+   treatise on the three-dimensional shapes known as conic
+   sections, which are the result of cutting a pair of cones
+   positioned point to point along various planes. (No one can
+   accuse mathematicians of not knowing how to have fun.) Wallis
+   just throws in a line that says “let ∞ represent inﬁnity”
+   without ever explaining where this symbol comes from.
+
+   For the vast majority of mathematicians, with one notable
+   exception, this was sufficient to carry all the way through to
+   the nineteenth century. In fact, potential inﬁnity was
+   generally considered to be the only respectable way to think
+   about the inﬁnite. For example, Carl Friedrich Gauss, the
+   eminent nineteenth- century German mathematician deﬁnitively
+   remarked:
+
+   I protest against the use of an inﬁnite quantity as an actual
+   entity; this is never allowed in mathematics. The inﬁnite is
+   only a manner of speaking, in which one properly speaks of
+   limits to which certain ratios can come as near as desired,
+   while others are permitted to increase without bound.
+
+   The exception to this blinkered thinking was the remarkable
+   Galileo Galilei. The ﬁrst thing that springs to mind when
+   Galileo is mentioned was his championing  of  the  Copernican
+   theory that put the Sun rather than the Earth  at  the  center
+   of  the  universe, leading to his trial by the Inquisition and
+   permanent house arrest. However, in scientiﬁc terms his most
+   signiﬁcant work was the book he published in 1638 called
+   Discorsi e Dimostrazioni Matematiche Intorno a Due Nuove
+   Scienze (Discourses and Mathematical Demonstrations Concerning
+   Two New Sciences).  This was his masterpiece of physics, laying
+   the ground for Newton’s triumphant completion of this work on
+   mechanics, forces, and movement.
+
+   Like his book on Copernican theory that got him into so much
+   trouble, this new work was structured as a conversation between
+   three characters, a format that was very popular at the time.
+   Written in conversational Italian rather than stuffy Latin, it
+   remains far more readable today than the formal and often
+   near-impenetrable work of Newton. Given his position, serving a
+   life sentence for the publication, it was remarkable that
+   Galileo got the book published at all. He attempted to do so
+   originally in Venice, then proud of its independence from Rome,
+   but there was still a requirement to get the go-ahead from the
+   Inquisition, which had issued a blanket prohibition on printing
+   anything that Galileo wrote.
+
+   If there was one thing that Galileo excelled in, it was
+   stubbornness. Despite the prohibition, despite the risks of
+   even indirectly evading it, when the Dutch publisher Lodewijk
+   Elzevir visited Italy in 1636, Galileo managed to get a copy of
+   his new manuscript to him. One fascinating aspect of the book
+   as it ﬁnally came to print is the dedication. In earlier years,
+   Galileo had always attempted to dedicate his writing to a power
+   ﬁgure, who might as a result give him patronage. This book he
+   dedicated to a former pupil who was now the French ambassador
+   to Rome, Count François de Noailles. However, where previously
+   Galileo could simply lavish as much praise as was possible (and
+   plenty was possible in the sycophantic style of the time), here
+   he had to be more careful, as the last thing he wanted to do
+   was get Noailles into trouble with the Inquisition.
+
+   In the wording, Galileo combined deviousness with an apparent
+   naïveté. It is highly unlikely that the Inquisition fell for
+   his attempt at deception— though, in practice, they seemed to
+   have turned a blind eye. According to Galileo:
+
+   I had decided not to publish any more of my work. And yet in
+   order to save it from complete oblivion, it seemed wise to
+   leave a manuscript copy in some place where it would be
+   available at least to those who follow intelligently the
+   subjects which I havetreated. Accordingly I chose ﬁrst to place
+   my work in your Lord- ship’s hands ...
+
+   So, on the one hand Galileo was thanking Noailles for his help.
+   But at the same time he didn’t want to make it sound as if
+   Noailles had been directly responsible for the publication, so
+   he threw in some mysterious intermediaries:
+
+   I was notiﬁed by the Elzevirs that they had these works of mine
+   in press and that I ought to decide upon a dedication and send
+   them a reply at once. This sudden unexpected news led me to
+   think that the eagerness of your Lordship to revive and spread
+   my name by passing these works on to various friends was the
+   real cause of their falling into the hands of printers who,
+   because they had already published other works of mine, now
+   wished to honor me with a beautiful and ornate edition of this
+   work.
+
+   He could thank Noailles, but also managed to blame un- named
+   friends of the ambassador for passing the manuscript to the
+   printer. It’s clear that the idea that all this had happened
+   without Galileo’s knowledge until the book was almost ready to
+   print was a ﬁction. Not only did he ensure that Elzevir
+   received a copy of the manuscript on his Italian visit, there
+   was a considerable correspondence between Galileo and Elzevir
+   over the content of the book. Galileo was the kind of author
+   that cause publishers to tear their hair out, wanting to tweak
+   his output to the last possible moment before going to print.
+   This is bad enough with today’s electronic printing, but was a
+   nightmare when each page had to be carefully set up in movable
+   type and made into a physical printing plate. But whether the
+   Inquisition was fooled or simply looked the other way, it did
+   not intervene and the book was published, if unavailable for
+   sale in Galileo’s native Italy.
+
+   The “two new sciences” in the book’s title were those of the
+   nature of solid matter and an analysis of motion, and it was in
+   the ﬁrst section that the topic of inﬁnity came up. In trying
+   to understand why solid matter sticks together so
+   effectively—why, for instance, a piece of metal is so hard to
+   break up—one of Galileo’s protagonists suggested that it is the
+   vacuum between the tiny particles of matter that held them
+   together. (He was wrong, it is electromagnetism, but it wasn’t
+   a bad idea.) This theory was queried by Simplicio, whose role
+   in the book was to challenge new thinking, mostly sticking to
+   Ancient Greek ideas. Simplicio argued that there could only be
+   a tiny bit of vacuum in so small a space, which could only
+   apply a tiny force—far smaller than the powerful force that
+   holds a piece of metal together.
+   [31]Buy Are Numbers Real? on Amazon.com >>>
+
+
+   Excerpted from "Are Numbers Real?: The Uncanny Relationship of
+   Mathematics and the Physical World" by Brian Clegg. Copyright ©
+   2016 by the author and reprinted with permission of St.
+   Martin's Press, LLC.
+
+

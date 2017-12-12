@@ -1,0 +1,89 @@
+Guest Author: Andrea McNally
+
+   Anyone involved in the discipline of math can most likely
+   recall one, if not multiple, instances of being questioned on
+   the usefulness of math. Eduardo Saenz de Cabezon addresses this
+   question in his TED talk “Math is fore[20] Andrea
+   McNally_925512_assignsubmission_file_cartoon pic ver” (which
+   can be found [21]here). He claims there are three types of
+   responses. First, the attacking one, which states math has a
+   meanings all its own without the need for application. Next is
+   the defensive one, which replies math is behind everything from
+   bridge building to credit card numbers. The third response is
+   where Eduardo claims math’s utility stems from its ability to
+   control intuition, thus making it eternal.
+
+
+   Is math forever? Eduardo seems to think so stating diamonds
+   aren’t forever, a theorem is. Mathematicians spend their lives
+   generating conjectures and searching for ways to prove them.
+   Once a conjecture is proven true though, it becomes a theorem,
+   [22]Andrea McNally_925512_assignsubmission_file_blogpostpic 1
+   which is a truth that will remain so forever. Therefore,
+   concepts such as the Pythagorean Theorem and the Honeycomb
+   Theorem will forever be true, regardless of whether or not we
+   are here to acknowledge it. This idea is rooted from Platonism,
+   which is the philosophical view that there are abstract math
+   objects that exist independently from our thoughts. Thus, all
+   math truths are waiting to be discovered and not invented.
+
+
+   There are two main contributors in the world of mathematical
+   philosophy. The first is German mathematician David Hilbert
+   (pictured to the left), creator of Hilbert’s Program. He
+   claimed that all math is formulized in axiomatic form with a
+   proof to accompany it; it is done so by using finitary methods
+   only which gives proper justification for classical mathematic
+   problems. Hilbert believed theories could be developed without
+   the need for intuition and would generate a set of rules and
+   axioms that are consistent so one cannot prove an assertion as
+   well as its opposite. Hilbert, like Eduardo, believed the
+   capabilities of math were limitless.
+
+   Hilbert’s work, in turn, inspired the work of Kurt Gӧdel
+   [23]Andrea McNally_925512_assignsubmission_file_blogpostpic 2
+   (pictured right) and his Incompleteness Theorems. Gӧdel proved
+   that Hilbert’s concept of a decision procedure that generates
+   axioms cannot be possible; there will always be conjectures
+   that need a proof that may not actually exist. Gӧdel’s first
+   incompleteness theorem proved that math knowledge cannot be
+   specifically summed up and identified. Even the soundest basic
+   rules will have statements about numbers that can’t be
+   verified. It is important to note however, that Gӧdel never had
+   the intention of disproving Hilbert’s program but rather to
+   offer a new view.
+
+
+   So this leaves the math community open to explore if math is
+   created or exists regardless of human recognition. If a tree
+   falls in the woods when no one is around, does it make a sound?
+   If no one has been able to prove a conjecture, does that
+   theorem still exist? Like many schools of thought, there is
+   ambiguity and uncertainty. As an individual in the math
+   community, we all are responsible for looking into the
+   information and opinions and coming to our own conclusions. Yet
+   one thing remains certain, intuition and creativity
+   are absolutely essential in mathematics.
+
+   Sources:
+   de Cabezon, Eduardo Saenz. “Math is Forever.” TED. TED, Oct.
+   2014. Web. 05 Apr. 2016.
+   Elwes, Richard. “Ultimate Logic. (Cover Story).” New Scientist.
+   211.2823 (2011): 30-33. Academic Search Complete. Web. 4 Apr.
+   2016
+   Linnebo, Oystein. “Platonism in the Philosophy of Mathematics.”
+   Stanford University. Stanford University, 18 July 2009. Web. 05
+   Apr. 2016.
+   Peterson, Ivars. “The Limits of Mathematics.” Science News.
+   Society for Science & the Public, 2 Mar. 2006. Web. 5 Apr.
+   2016.
+   Zach, Richard. “Hilbert’s Program.” Stanford University.
+   Stanford University, 31 July 2003. Web. 05 Apr. 2016.
+
+   Image 1 retrieved from:
+   Image 2 retrieved from:
+   Image 3 retrieved from:
+   s
+
+
+

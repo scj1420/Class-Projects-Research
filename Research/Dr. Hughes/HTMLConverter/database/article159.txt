@@ -1,0 +1,127 @@
+Student Team Addresses Gerrymandering With Mathematics
+
+   Project develops nonpartisan way to assess the fairness of
+   congressional districts
+   Students on the Data+ team are looking to quantify the effect
+   of gerrymandering on congressional elections.
+   Students on the Data+ team are looking to quantify the effect
+   of gerrymandering on congressional elections.
+   Share this story
+
+
+
+
+
+   Karen Kemp, Sanford School of Public Policy
+
+   A Duke University research team has applied mathematical
+   modeling techniques to develop a novel, nonpartisan way to
+   assess the fairness of congressional districts.
+
+   The team led by mathematics professor Jonathan Mattingly found
+   that states with independent redistricting commissions, such as
+   Iowa, had statistically fairer results than states with
+   partisan redistricting systems, such as North Carolina and
+   Maryland.
+
+   They also evaluated the districts drawn earlier this fall by a
+   mock bipartisan redistricting panel formed by Terry Sanford
+   Distinguished Fellow Tom Ross. The “Beyond Gerrymandering”
+   project panelists were former North Carolina Supreme Court
+   justices and lower court judges.
+
+   In partisan systems, the party that controls the state
+   legislature typically draws boundaries to favor its own
+   candidates, a practice known as gerrymandering. Politically
+   gerrymandered districts have contributed to a congressional
+   climate in which only small a fraction of U.S. Representatives
+   face serious opposition in most elections.
+
+   “When random districts are drawn and the results of previous
+   elections are re-tabulated,” said Mattingly, “the results shed
+   light on the ways gerrymandered political boundaries stifle
+   disparate political voices. The same voters, arranged into
+   different districts, would have produced vastly different
+   results.”
+
+   In North Carolina, the research team examined the state’s 2012
+   congressional elections, in which Democrats won a majority of
+   the popular vote but won just four of North Carolina’s 13
+   congressional districts.
+
+   “In our samples, Democrats win five, six and even seven
+   congressional districts with far greater frequency than four,
+   confirming that the observed outcome is indeed very odd,” the
+   research team wrote.
+
+   Initially, Mattingly worked with a team of undergraduate and
+   graduate students during the summer of 2015 to analyze the
+   congressional redistricting efforts in North Carolina,
+   Tennessee, Maryland, New York, Texas, Iowa, Wisconsin and
+   Arizona.
+
+   Their process and results are available on a website,
+   [17]Quantifying Gerrymandering.
+
+
+   More recently, a second team developed two indices to
+   characterize a state’s congressional districts: An index of
+   gerrymandering and an index of representativeness. The first
+   measures how packed the districts are. Packing is the act of
+   concentrating one party in a few districts to minimize the
+   effect of their votes statewide, and tends to create more
+   partisan districts. The second index measures how
+   representative the results are for a given set of districts
+   over a series of elections.
+
+   Using these ideas, Mattingly’s team analyzed maps produced by
+   Ross’s “Beyond Gerrymandering” project.
+
+   They compared the outcomes using the mock panel’s map and those
+   used in the 2012 and 2016 N.C. congressional elections to the
+   hypothetical outcomes of thousands of alternative district
+   maps. They found that those produced by the mock panel of
+   judges scored much better on the indices of gerrymandering and
+   representativeness.
+
+   The alternative maps were drawn using the same criteria that
+   guided the creation of the actual maps: Equal populations in
+   each district, compactness, number of counties that are split
+   into multiple districts, and the share of the minority voting
+   age population within the districts.
+
+   Mattingly said the project was intended as a nonpartisan
+   demonstration.
+
+   “Our purpose is not to create a panacea for political map
+   drawing. Rather, we wanted to provide a nonpartisan, objective
+   way of determining which sets of districts are more
+   representative and less gerrymandered,” he said.
+
+   Students involved in the project in the summer of 2015 were
+   Sachet Bangia, Bridget Dou and Sophie Guo, undergraduates at
+   Duke, and Christy Vaughn Graves, now a graduate student at
+   Princeton.
+
+   The 2016 team consisted of visiting assistant professor Gregory
+   Herschlag, graduate student Robert Ravier and undergraduates
+   Justin Luo and Hansung Kang.
+   Share this story
+
+
+
+
+
+   Tagged with
+   [22]News Releases & Tips, [23]Research, [24]Faculty,
+   [25]Students [26]View all tags
+
+
+
+    © 2017 Office of News & Communications
+    614 Chapel Drive, Box 90563, Durham, NC 27708-0563(919)
+    684-2823
+
+   (BUTTON) ×
+
+

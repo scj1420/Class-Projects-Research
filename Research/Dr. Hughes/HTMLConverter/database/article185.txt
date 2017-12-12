@@ -1,0 +1,37 @@
+4 thoughts on “Positive polynomials and squares”
+
+    1. SteveBrooklineMA
+       [30]29 June 2016 at 22:08
+       How about an easier problem? Can there be a n-variable
+       polynomial that is positive and surjective, sending R^n
+       onto (0,\infty)? Someone posted this on a board a couple
+       weeks ago, and an answer was quickly provided. Note
+       Motzkin’s has p(1,1)=0.
+    2. [31]Aaron Meurer
+       [32]29 June 2016 at 22:20
+       It is a sum of squares, but you have to use rational
+       functions instead of polynomials. In that case, the
+       converse is true. This is Hilbert’s 17th problem, which was
+       solved by Artin in 1927
+       oblem
+    3. [34]DTA
+       [35]30 June 2016 at 06:50
+       @Aaron perhaps you could demonstrate these rational
+       functions using sympy? I have a hard time “visualizing”
+       this.
+    4. [36]Aaron Meurer
+       [37]30 June 2016 at 11:07
+       As far as I know, SymPy doesn’t have any algorithms for
+       computing this. I’m not even sure what the sum of squares
+       form of Motzkin’s polynomial is.
+       The way to think of this is that for real polynomials,
+       there is only one inequality, x^2 >= 0. All other
+       inequalities are reducible to this form (subtract
+       everything to the greater than side, rewrite the expression
+       as a sum of squares).
+       See for instance
+       tive-polynomials/, which shows some famous inequalities
+       (AM-GM and Cauchy-Shwarz) in this way.
+
+
+

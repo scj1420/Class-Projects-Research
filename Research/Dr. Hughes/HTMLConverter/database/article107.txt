@@ -1,0 +1,288 @@
+Analyzing Multiple Time Scales in Two-Dimensional Fluids Using
+Dynamical Systems
+
+   By [47]Margaret Beck and [48]C. Eugene Wayne
+
+
+   The time scales over which fluids evolve have a critical effect
+   on the physical systems in which they occur. These time scales
+   arise from an interplay of different effects, some of
+   which—like Lagrangian coherent structures—tend to stabilize the
+   flow, while others, such as shear (inviscid) damping or viscous
+   damping, tend to break down structures, at least on
+   small-length scales. A variety of recent investigations, many
+   of which involve a dynamical systems point of view, have begun
+   to shed light on the origin of these time scales in the case of
+   two-dimensional fluid flows. Since the basic questions of
+   existence and uniqueness for two-dimensional fluid flows are
+   well understood, one can ask more detailed queries about their
+   evolution. Moreover, these flows have a tendency to form large,
+   vortical structures on both laboratory and geophysical scales,
+   as seen in Figure 1, a satellite photo of the Gulf Stream.
+   Dynamical systems theory is well suited to answer these types
+   of questions since invariant families of solutions often appear
+   to organize the dynamics, effectively creating the multiple
+   time scales and observed asymptotic behavior [3, 5]. In simple
+   settings, invariant manifolds [4, 9] can even characterize this
+   organization.
+
+   A particularly important example of this is the two-dimensional
+   incompressible Navier-Stokes equation with small viscosity, \(0
+   \ll \nu < 1 \):
+
+   \[ \partial_t \omega + {\bf u}\cdot \nabla \omega = \nu \Delta
+   \omega, \quad  \omega = \omega(x,t), \quad  x \in \Omega
+   \subseteq {\bf R}^2.\]
+
+   Figure 1. Satellite photo of the Gulf Stream. Image courtesy of
+   NASA.
+   Here, \(\omega\) is the vorticity of the fluid and
+   \(\bf{u}\) is the fluid velocity, recoverable from the
+   vorticity via the Biot-Savart law. In other words, \(\omega =
+   (\nabla \times \mathbf{u}) \cdot (0,0,1)\). When \(\nu=0\), the
+   equation reduces to the Euler equation, which has infinitely
+   many stationary solutions. Though these no longer remain
+   stationary states for positive (but small) vorticity, it is
+   reasonable to believe that they still play an important role in
+   the longtime evolution of the Navier-Stokes equation. However,
+   most stationary states of the Euler equation are surprisingly
+   never observed in the Navier-Stokes evolution. Instead, a small
+   number of the Euler states become quasi-stationary states of
+   Navier-Stokes, and only a subset of these seem to have
+   long-term influence. As a first “guess” at the time scales over
+   which the viscosity makes itself felt, one can note that the
+   two-dimensional Navier-Stokes equations on
+   \(\mathbb{R}^2\) have a family of exact solutions known as the
+   Oseen vortices, given by
+
+   \[\omega^O(x,t) = \frac{A}{1+t} e^{-\frac{|x|^2}{4 \nu
+   (1+t)}}.\]
+
+   From this formula, it seems as if the viscosity should be
+   perceptible on a time scale
+
+   \[t_{visc} \sim \frac{1}{\nu}.\]
+
+   However, numerical experiments indicate that vortices and other
+   large-scale characteristic structures emerge in the flow on a
+   much shorter time scale. For instance, in the numerical
+   simulation of Figure 2 [10], the viscous time scale would be
+   \(t_{visc} \sim 1500\), but large-scale vortical structures
+   emerge on a much shorter time scale. Understanding the origin
+   of these scales is currently a question of great interest.
+
+
+   Figure 2. A numerical simulation of a two-dimensional flow at
+   six different times. Image credit: [10], by permission of John
+   Wiley & Sons, Inc.
+
+
+   There is presently no mathematical theory predicting which of
+   the Euler solutions will play the most important role in the
+   viscous evolution. However, a finite subset of these
+   quasi-stationary states correspond to an explicit family that
+   decays on the viscous time scale \(\mathcal{O}(e^{-\nu
+   t})\) and can be described by the lowest four Fourier modes,
+   \(\{e^{\pm ix}, e^{\pm iy}\}\). Bar states (also known as
+   Komogorov flow, a type of shear flow) are solutions that vary
+   only in the \(x\) or only in the \(y\) direction, while dipoles
+   vary in both directions. Researchers have observed, both
+   experimentally and numerically, that most initial conditions
+   lead to solutions which originally experience rapid evolution
+   to either a bar state or a dipole, followed by slow decay to
+   the background rest state (zero solution). A classical approach
+   to analyzing such behavior begins by linearizing the
+   Navier-Stokes equation about a bar state or dipole and
+   attempting to determine the rate of convergence to the state,
+   which should correspond to the observed initial period of rapid
+   evolution. This type of linearization near a bar state [5]
+   suggests that the rapid evolution occurs on the time scale
+   \(\mathcal{O}(e^{-\sqrt{\nu}t})\), at least at the linear
+   level. Interestingly, the linearization leads to a highly
+   non-self-adjoint operator, making it unclear whether the
+   multiple time scale phenomenon is spectral or pseudospectral. A
+   dynamical systems perspective is useful in this analysis
+   because it permits a separation between the decay rate to the
+   invariant family, at \(\mathcal{O}(e^{-\sqrt{\nu}t})\), and the
+   decay rate within the family, at \(\mathcal{O}(e^{-\nu t})\).
+
+
+   A related work also analyzes the rapid convergence to bars and
+   dipoles using a dynamical systems perspective [3]. Researchers
+   take the two-dimensional Navier-Stokes equation, written in
+   Fourier space, and formally project that system onto the lowest
+   eight modes: the lower four contain the bars and dipoles and
+   the next four model the effects of all higher modes. They then
+   use classical dynamical systems techniques, including invariant
+   manifolds and estimates involving Duhamel’s formula, to study
+   the resulting eight-dimensional ordinary differential equation
+   (ODE). This method focuses on understanding the effects of
+   perturbing the domain from a square torus, represented by a
+   parameter \(\delta = 1\), to a rectangular torus, represented
+   by \(\delta \neq 1\). The parameter \(\delta\) controls whether
+   a particular invariant manifold is a center \((\delta = 1)\),
+   stable \((\delta <1)\), or unstable \((\delta>1)\)
+   manifold, which then determines if the dominant
+   quasi-stationary state was a dipole, \(y\)-bar state, or
+   \(x\)-bar state, respectively. In this ODE model, the initial
+   period of rapid decay notably occurred on the time scale
+   \(\mathcal{O}(e^{-t/\nu})\) instead of time scale
+   \(\mathcal{O}(e^{-\sqrt{\nu}t})\), which researchers observed
+   in the previously-mentioned work.
+
+
+   The dynamical systems perspective sheds light not only on the
+   question of multiple time scales in fluids, but on other
+   aspects of their motion as well. For example, one can analyze
+   the stability and interaction of vortices in the planar
+   Navier-Stokes equation with limit \(\nu \to 0\) using a point
+   vortex model [11]. A key aspect of that work is its ability to
+   capture the higher-order effects of vortex interaction, showing
+   that for motions in which the centers of vorticity were
+   initially well-separated, the essentially inviscid motion of
+   the vortex cores accurately described the overall nature of the
+   flow until the distance between vortices became comparable to
+   the size of the vortex core. Interestingly, such configurations
+   of near point vortices appear in a host of experimental
+   circumstances (see Figure 3) [1].
+
+
+   Figure 3. Experimental illustrations of point vortices. Image
+   credit: [1], by permission of the Royal Society.
+
+
+   In work more closely related to the above discussion about bar
+   state metastability [6], researchers studied solutions of the
+   two-dimensional Navier-Stokes equations in a neighborhood of
+   Couette flow, a particular type of shear flow in a channel.
+   Using careful partial differential equation (PDE) estimates in
+   Gevrey spaces, they were able to treat the full nonlinear
+   problem. This work is particularly interesting because it
+   identifies precisely different time scales associated with an
+   initial period of so-called inviscid damping—in which the Euler
+   equations essentially govern flow—followed by a rapid evolution
+   due to enhanced diffusion and then a final, slow period of
+   convergence to the Couette flow, during which viscosity
+   dominates. The intermediate period of enhanced diffusion
+   relates to the hypocoercivity in [5, 8], and is further
+   connected to the phenomenon of Taylor dispersion, which also
+   occurs in the channel setting but for different boundary
+   conditions. Originally studied in the 1950s, Taylor dispersion
+   is another example of a situation in which shearing in the
+   ambient flow field enhances dispersive or dissipative effects.
+
+
+   Researchers have recently attacked this problem from two
+   different perspectives using dynamical systems ideas. In [7],
+   hypocoercivity methods are used to analyze the decay
+   enhancement in a variety of shearing flows. In [2], more
+   classical dynamical systems methods like invariant manifolds
+   play a key role, but not in an entirely straightforward way.
+   Although the PDE does not seem to possess an invariant
+   manifold—in fact, evidence suggests that it does not—its
+   solutions are shown to be well-approximated by solutions to an
+   ODE that does possess a center manifold, on which the enhanced
+   diffusion can be computed explicitly. This matches Taylor’s
+   original formal calculations from the 1950s.
+
+      [2] javascript:void(0)
+
+   References
+   [1] Aref, H. (2008). Something old, something new. Phil. Trans.
+   R. Soc. A, 366, 2649-2670.
+   [2] Beck, M., Chaudhary, O., & Wayne, C.E. (2015). Analysis of
+   enhanced diffusion in Taylor dispersion via a model problem. In
+   Hamiltonian partial differential equations and applications
+   (pp. 31-71). Vol. 75 of Fields Institute Communications. New
+   York, NY: Springer, Inc.
+   [3] Beck, M., Cooper, E., & Spiliopoulos, K. (2017). Selection
+   of quasi-stationary states in the Navier-Stokes equation on the
+   torus. Preprint, arXiv:1701.04850.
+   [4] Beck, M., & Wayne, C.E. (2011). Using global invariant
+   manifolds to understand metastability in the Burgers equation
+   with small viscosity. SIAM Review, 53(1), 129-153.
+   [5] Beck, M., & Wayne, C.E. (2013). Metastability and rapid
+   convergence to quasi-stationary bar states for the
+   two-dimensional Navier-Stokes equations. Proc. Roy. Soc.
+   Edinburgh Sect. A, 143(5), 905-927.
+   [6] Bedrossian, J., Masmoudi, N., & Vicol, V. (2016). Enhanced
+   dissipation and inviscid damping in the inviscid limit of the
+   Navier-Stokes equations near the two dimensional Couette flow.
+   Arch. Ration. Mech. Anal., 219(3), 1087-1159.
+   [7] Bedrossian J., & Zelati, M.C. (2015). Enhanced dissipation,
+   hypoellipticity, and anomalous small noise inviscid limits in
+   shear flows. Preprint, arXiv:1510.08098.
+   [8] Gallagher, I., Gallay, T., & Nier, F (2009). Spectral
+   asymptotics for large skew-symmetric perturbations of the
+   harmonic oscillator. Int. Math. Res. Not. IMRN, 12, 2147-2199.
+   [9] Haller, G. (2015). Lagrangian coherent structures. Annual
+   Review of Fluid Mechanics, 47, 137-162.
+   [10] Robinson, M., & Monaghan, J.J. (2012). Direct numerical
+   simulation of decaying two-dimensional turbulence in a no-slip
+   square box using smoothed particle hydrodynamics. Int. J.
+   Numer. Meth. Fluids, 70, 37-55.
+   [11] Thierry, G. (2012). Interacting vortex pairs in inviscid
+   and viscous planar flows. In Mathematical aspects of fluid
+   mechanics (pp. 173-200). Vol. 402 of London Mathematical
+   Society Lecture Note Series. Cambridge: Cambridge University
+   Press.
+
+      [2] javascript:void(0)
+      [4] javascript:__doPostBack('dnn$dnnSEARCH$cmdSearch','')
+
+   Margaret Beck is an associate professor of mathematics at
+   Boston University. C. Eugene Wayne is a professor of
+   mathematics at Boston University.
+   Please enable JavaScript to view the [49]comments powered by
+   Disqus.[50]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [51]Learn more
+   Most Recent
+   [52][Awards.png]
+   [53]Happening Now
+   [54]Red Sock Award Acknowledges Standout Posters at DS17
+   [55][Awards.png]
+   [56]Get Involved
+   [57]James H. Wilkinson Prize
+   [58][Research.png]
+   [59]Research
+   [60]Deep Learning Models in Finance
+   [61][Research.png]
+   [62]Careers
+   [63]Beyond UQ: Dealing with Deep Uncertainty
+   [64][Announcements.png]
+   [65]Announcements
+   [66]Illinois Students Named Champions in National M3 Challenge
+   [67][CurrentIssue.png]
+   [68]Current Issue
+   [69]Electricity Demand Response and Optimal Contract Theory
+   [70][ResearchNuggets.png]
+   [71]Research Nuggets
+   [72]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [73]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [80]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [80] email:webmaster@siam.org
+
+

@@ -1,0 +1,53 @@
+Maths in a minute: Poincaré and the beginnings of chaos
+
+   Submitted by Marianne on February 28, 2017
+   Hotel
+
+   Henri Poincaré (1854 - 1912) — looking as if he were stunned by
+   his own discovery.
+
+   In 1887 King Oscar II of Sweden and Norway offered a prize for
+   the solution of an important maths problem. Suppose you have a
+   number of celestial bodies (for example several planets and the
+   Sun), and you know their masses and the speed and direction
+   they are moving in at some given point in time. Their future
+   motion is described by Newton's [17]laws of motion and, since
+   the bodies exert a gravitational pull on each other, by his
+   [18]universal law of gravitation. Use those laws to calculate
+   the trajectories of the bodies.
+
+
+   King Oscar's prize was won three years after it was launched,
+   in 1890, by the French mathematician [19]Henri Poincaré (1854 -
+   1912), who restricted himself to the case in which there are
+   just three bodies. After winning the prize Poincaré discovered
+   a major flaw in his argument, putting him in a rather
+   embarrassing situation since his manuscript was to be published
+   for the King's birthday within a few weeks' time. Honourably,
+   Poincaré admitted his mistake and a new manuscript was
+   published a year later.
+
+
+   What Poincaré discovered in his feverish attempt to correct his
+   work was that even this seemingly simple problem suffered from
+   what is now called the butterfly effect, or, more technically,
+   sensitive dependence on initial conditions. The smallest
+   variation in the initial values (that is, the mass, location,
+   speed and direction of motion of the bodies) can build up over
+   time into huge discrepancies. You therefore can't reliably
+   predict the motion of the planets over time because you can't
+   possibly know the initial values with an infinite degree of
+   accuracy.
+
+   Poincaré later suggested that the phenomenon might be
+   ubiquitous, arising in many other situations, including in
+   meteorology. With the advent of computers, which enabled the
+   many calculations that were necessary to make the effect
+   apparent, it became clear that he was right. Unknowingly,
+   Poincaré had laid the foundations of chaos theory.
+
+   You can [20]read more about chaos theory on Plus.
+
+
+
+

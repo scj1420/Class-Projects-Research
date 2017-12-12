@@ -1,0 +1,58 @@
+The digital artists
+
+   Visualization tools have helped mathematicians share their work
+   in creative and surprising ways – even to rethink what the job
+   of a mathematician might entail.
+
+   Take [61]mathematician Fabienne Serrière, who raised US$124,306
+   through Kickstarter in 2015 to buy an industrial knitting
+   machine. Her dream was to make custom-knit scarves that
+   demonstrate cellular automata, mathematical models of cells on
+   a grid. To realize her algorithmic design instructions,
+   Serrière hacked the code that controls the machine. She now
+   works full-time on custom textiles from a Seattle studio.
+   In this sculpture by Edmund Harriss, the drill traces are
+   programmed to go perpendicular to the growth rings of the tree.
+   This makes the finished sculpture a depiction of a concept
+   mathematicians know as ‘paths of steepest descent.’ Edmund
+   Harriss, Author provided
+
+
+   [62]Edmund Harriss of the University of Arkansas hacked an
+   architectural drilling machine, which he now uses to make
+   mathematical sculptures from wood. The control process involves
+   some deep ideas from differential geometry. Since his ideas are
+   basically about controlling a robot arm, they have wide
+   application beyond art. According to his website, Harriss is
+   “driven by a passion to communicate the beauty and utility of
+   mathematical thinking.”
+
+
+   Mathematical algorithms power the products made by [63]Nervous
+   System, a studio in Massachusetts that was founded in 2007 by
+   Jessica Rosenkrantz, a biologist and architect, and Jess
+   Louis-Rosenberg, a mathematician. Many of their designs, for
+   things like custom jewelry and lampshades, look like naturally
+   occurring structures from biology or geology.
+
+
+   Their first [64]3-D printed dress consists of thousands of
+   interlocking pieces designed to fit a particular model. In
+   order to print the dress, the designers folded up their virtual
+   version, using protein-folding algorithms. A selective laser
+   sintering process fused together parts of a block of powder to
+   make the dress, then let all the unwanted powder fall away to
+   reveal its shape.
+
+
+   Meanwhile, a delightful collection called [65]Geometry Games
+   can help everyone, from elementary school students to
+   professional mathematicians, explore the concept of space. The
+   project was founded by mathematician Jeff Weeks, one of the
+   rock stars of the mathematical world. The iOS version of his
+   “Torus Games” teaches children about multiply-connected spaces
+   through interactive animation. According to Weeks, the app is
+   verging on one million downloads.
+
+
+

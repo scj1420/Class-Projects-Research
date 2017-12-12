@@ -1,0 +1,206 @@
+Pages
+
+
+
+
+Tuesday, December 13, 2016
+
+You can find the secret to doing mathematics in a tubeless bicycle
+tire
+
+                        [7][CountryView.jpg]
+     The author climbing the locally-notorious Country View Road
+                     just south of San Jose, CA
+
+
+   As regular readers may know, one of my consuming passions in
+   life besides mathematics is cycling. Living in California,
+   where serious winters were wisely banned many years ago, on any
+   weekend throughout the year you are likely to find me out on a
+   road- or a mountain bike.
+   Being also a lover of well-designed technology, I long ago
+   switched to using tubeless tires on my road bike. Actually,
+   it’s bikes, in the plural—my road bikes number four, all with
+   different riding conditions in mind, but all having in common
+   the same kind of ultra- narrow saddle that non-cyclists think
+   must be excruciatingly painful, but is in fact engineered to be
+   the only thing comfortable enough to sit on for many hours at a
+   stretch. [Keep going; I am working my way to making a
+   mathematical point. In fact, I am heading towards THE most
+   significant mathematical point of all: What is the secret to
+   doing math?]
+   Road tubeless tires have several advantages over the more
+   common type of tire, which requires an airtight innertube. One
+   advantage is that you need inflate them only to 80 pounds per
+   square inch, as opposed to the 110 psi or more for a tubed
+   tire, which provides even more comfort over those many hours in
+   the saddle.
+   You need tire pressures 3 or more times that of a car tire
+   because of the extremely low volume in a road-bike tire, which
+   sits on a 700 cm diameter wheel with a rim whose width is
+   between 21 mm and 25 mm. It is that high pressure that made the
+   manufacture of tubeless wheels and tires for bicycles such a
+   significant challenge. How can you ensure an almost totally
+   airtight fit when the tire is inflated, and it still be
+   possible for an average person to remove and mount a deflated
+   tire with their bare hands. (Tire levers can easily damage
+   tubeless wheels and tires.) We are almost to the secret to
+   doing math. Hang in there.
+
+                      [8][Tubeless_Rims.png]
+    Clever design: Tubeless rims and tires on a road bike wheel.
+
+
+   The airtight fit is possible precisely because of that
+   relatively high pressure inside the tire—80 psi is over five
+   times the air pressure outside the tire. (An automobile tire is
+   inflated to roughly twice atmospheric pressure, much lower.)
+   The cross-sectional photo on the left shows how a tubeless tire
+   has a squared-off ridge that fits into a matching notch in the
+   rim. The more air pressure there is in the tire, the tighter
+   that ridge binds to the rim, increasing the air seal.
+   The problem is, as I mentioned, getting the tire on and off the
+   rim. The tire ridge that fits into the rim-notch has a steel
+   wire running through it, and its squared-off shape is designed
+   to make it difficult for the tire to separate from the
+   rim—that, after all, is the point. To solve the
+   mounting/removal problem, the wheel has a channel in the
+   middle, as shown more clearly in the photo on the right.
+   To mount the tire, you push the two tire-rims into that
+   channel, one after the other. By the formula for the
+   circumference of a circle, when a tire rim is in that center
+   channel, you have just over 3 times the depth of the channel of
+   superfluous tire length to play with, roughly 12mm of tire
+   looseness. The idea is to use that “looseness” to work your way
+   around the wheel, pushing (actually rolling) first one tire
+   edge over the wheel rim and into the channel, then the other.
+   Once the tire is seated on the rim, inflating it with a hand
+   pump forces the tire rims out of the channel into the notches.
+   To remove the tire after it is deflated, you push the two tire
+   rims into the channel and reverse the process.
+   That, at least, is the theory. Putting theory into practice
+   turns out to be quite a challenge. When I first started to use
+   road tubeless tires, several years ago, I read several online
+   manuals and watched a number of YouTube videos demonstrating
+   how to do it, and could never do it. I usually ended up taking
+   the wheel and tire to my local bike shop, where the mechanic
+   would do it for me with seeming ease before my eyes. “Fifteen
+   dollars, please.”
+   But what would happen if I had a flat on one of the remote
+   rides I regularly do in the mountains that surround Silicon
+   Valley, where I live? One major advantage of tubeless tires is
+   that, even if they puncture, usually the air leaks out only
+   very slowly, and can generally be stopped by inflating the tire
+   from a small pressure-can of air and liquid latex you carry in
+   your back pocket, which seals the hole. Which is how I was
+   always able to get to a bike shop where someone else could
+   solve the problem for me. But a major puncture in the remote,
+   with no cell phone access, could leave me dangerously stranded.
+   Clearly, I had to learn how to do it myself.
+   From now on, when I say “change a tubeless tire”, you can
+   interpret it as “do mathematics”. The secret is coming up.
+   Moreover, it is coming with a moral that those of us in
+   mathematics education ignore at our students’ peril.
+   What I find cool is that, for me I somehow stumbled on the
+   secret to doing math fairly early in life, before math had
+   become such a problem that I felt I could never do it. But
+   taking up cycling later in life, when I had a fully developed
+   set of metacognitive skills, I approached the problem of
+   changing a tubeless tire in much the same way as many
+   people—including, I suspect, the mechanics in my local bicycle
+   shop—see math. Namely, people like me (and that smart kid
+   sitting in the front row in the school math class) make doing
+   math look effortless, but many people feel they could never
+   master it in a million years.
+   Nothing, surely, can look less requiring of skill or expertise
+   than putting a tire on a bicycle wheel. (This is why I think
+   this is such a great example.) Surely, you just need to read an
+   instruction manual, or perhaps have someone demonstrate to you.
+   But no matter how many times I read the instructions, no matter
+   how many times I viewed—and re-viewed—those how-to YouTube
+   videos, and no matter how many times I stood alongside the bike
+   shop mechanic and watched as he quickly and effortlessly put
+   the tire onto the wheel, I could never do it.
+   Just think about that for a moment. For some tasks, instruction
+   (on its own) just does not work. Not even for the seemingly
+   simple task of changing a bicycle tire. And yet we think that
+   forcing kids to sit in the math class while we force-feed
+   instruction will result in their being able to do math! Dream
+   on.
+   What does work, in fact what is absolutely necessary, both for
+   changing tubeless tires and doing math, is that the learner has
+   to learn to see things the way the expert does. And, since
+   instruction does not work, that key step has to be made by the
+   learner. All that a good teacher can do, then, is find a way to
+   help the learner make that key leap. [That short initial word
+   “all” belies the human expertise required to do this.]
+   Clearly, when I was, yet again, standing in the bicycle repair
+   shop, watching the mechanic change my tire, what he was
+   doing—more precisely, what he was experiencing—was very
+   different from what I was doing and experiencing when I tried
+   and failed. What was I not getting?
+   My big breakthrough finally came the one time when the
+   mechanic, holding the wheel horizontally pressed to his
+   stomach, while manipulating the tire with both hands, told me
+   what he was really doing. “You have to think of the tire as
+   alive,” he said. “It wants to be sitting firmly on the rim”
+   [that, after all, is what it was—expensively—designed for],
+   “but it is not very disciplined. It’s like a small child. It
+   moves around and resists your attempts to force it. You have to
+   understand it, and be aware, through your hands, of what it is
+   doing. Work with it—be constantly aware of what it is trying to
+   do—so you both get what you want: the tire gets onto the wheel,
+   where it belongs, and you can inflate it and get back on your
+   bike (where you want to be).”
+   Fanciful? Maybe. But it worked. And it continues to work. As a
+   result, not only can I now change my tubeless tires, it has for
+   me become “mindless and automatic,” as effortless (to me) as
+   Picasso drawing a simple doodle on a restaurant napkin to pay
+   the bill for his meal was to him. (I thought that if you got
+   this far, you deserved a second example with greater cultural
+   overtones.)
+   It took many years for Picasso to learn to draw the way he did
+   (and for the marketplace to assign high value to his work), but
+   that does not mean his work was not skillful; rather, he simply
+   routinized part of it. When I watch a film of him at work, I
+   see superficially how he created, and it looks routine and
+   effortless, but I do not see his canvas as he did, and I could
+   not draw as he did.
+   Likewise, my skill in fitting a tubeless tire, now effortless
+   and automatic, is a result of my now seeing and understanding
+   what earlier had been opaque.
+   I admit that it is far easier to learn to mount a tubeless tire
+   on a road bike wheel than to draw like Picasso. But I am less
+   sure the difference is so great between changing a tubeless
+   tire and being able to solve any one particular kind of math
+   problem. Still, no matter how great the difference in the
+   degree of skill required, it is possible to learn from the
+   analogy.
+   Given what I have said here, will reading this essay mean you
+   can go out and immediately be able to change a tubeless tire?
+   Have I just made a case for instruction working after all? It’s
+   possible—for changing bicycle tires, but surely not for
+   painting like Picasso. Instruction can and does work, and it is
+   an important part of learning. But my guess is you would find
+   my words are not enough. I think that the reason that one piece
+   of bike-shop instruction was so instantly transformative for me
+   was that I had spent an aggregate of many hours struggling to
+   change my tire and failing. I had reached a stage where the
+   effective key was to get inside the mind of an expert. But the
+   ground had to be prepared for that simple revelation to work.
+   In education, as in so many parts of life, there are no silver
+   bullets. But given enough of the right preparation—enough
+   experience acquired through repeated trying and failing—an
+   ordinary lead bullet will do the job.
+   ----
+   This month’s column is loosely adapted from a passage of my
+   forthcoming book [9]Finding Fibonacci: The Quest to Rediscover
+   the Forgotten Mathematical Genius Who Changed the World, due
+   out in March.
+   Posted by [10]Mathematical Association of America at [11]4:14
+   PM
+   [12]Email This[13]BlogThis![14]Share to Twitter[15]Share to
+   Facebook[16]Share to Pinterest
+
+
+

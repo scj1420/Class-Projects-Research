@@ -1,0 +1,164 @@
+A Few of My Favorite Spaces: The Menger Sponge
+
+   It’s not quite two-dimensional, it’s not quite
+   three-dimensional. Welcome to the weird world of fractal
+   dimension
+
+
+
+   Share on Facebook
+   Share on Twitter
+   Share on Reddit
+   Email
+   Print
+   Share via
+
+
+
+   Five stages in the evolution of a Menger sponge. Credit:
+   [34]Niabot Wikimedia [35](CC BY 3.0)
+   Advertisement |
+   Report Ad
+
+
+   I packed up my office recently, so some mathematical objects
+   came home with me: a [36]house with two rooms, an [37]origami
+   counterexample, some [38]British objects of constant width. And
+   then there were the leftovers from that time we built a Menger
+   sponge.
+   Lonely cubes seek 18 identical friends to build a build a life
+   together. Must enjoy long walks on the beach and non-integral
+   dimensions. Credit: Evelyn Lamb
+
+
+   Thanks to [39]Megamenger, a worldwide effort to build a huge
+   fractal distributed around the globe, the Menger sponge will
+   always be one of [40]my favorite fractals. You can make a
+   Menger sponge by taking a solid cube and drilling a square hole
+   through the center of one face through to the other side. Now
+   do this twice more for the remaining faces. (Worried about
+   drilling a square hole? [41]A Reuleaux triangle will come in
+   handy.) You’ve now completed one level of the Menger sponge,
+   and you’re left with something that looks like a Rubik’s cube
+   with a bunch of cubes removed.
+
+
+   To keep Menger-izing, you drill square holes into all the
+   remaining cubes the same way you did the first one. Then drill
+   square holes into the remaining cubes, and so on. Like the
+   [42]Cantor set or [43]Wallis sieve, which I’ve written about
+   earlier, the only barrier to actually making this object in the
+   real world is that you have to repeat the construction process
+   forever.
+   Several iterations of the infinite process that creates a
+   Menger sponge. Credit: [44]MATTCOM Wikimedia [45](CC BY-SA 4.0)
+
+
+   In Megamenger, instead of making the object by drilling and
+   removing, each group built it from the ground up. We made 20
+   small cubes out of six business cards each, assembled them into
+   one holey cube, and took 20 of those to make a larger cube.
+   Assembly details are available on the [46]Megamenger site.
+   A University of Utah student puts the finishing touches on our
+   level-two Menger sponge for Megamenger in October 2014.
+   Credit:  Evelyn Lamb
+
+
+   The reason I wanted to write about the Menger sponge right now
+   is because it is 2.7268(ish)-dimensional. Earlier this month
+   [47]I wrote about dimensions. You can read my post about it,
+   but the basic idea was to link dimension to the number of
+   coordinates used to measure or label something. That kind of
+   dimension is always a whole number. Fractals do have
+   dimensionality in the traditional sense, but they are such
+   puzzling creatures that people had to come up with a new
+   definition of dimension to fully describe them.
+
+
+   Here’s the problem: the Menger sponge has infinite surface area
+   but zero volume. It’s too big if we measure it in two
+   dimensions but too small if we measure it in three dimensions.
+   In contrast, let’s think about a 1×1 solid square in the
+   two-dimensional plane. Its length is infinite: there are
+   infinitely many 1-unit line segments that are part of this
+   square. Its area is 1 square unit, and its volume is 0 because
+   it has no depth. In this example, there’s one dimension in
+   which it has infinite size, one dimension in which it has zero
+   size, and one dimension in which it has a measurable size. It’s
+   like Goldilocks. The two-dimensional plane is “just right” for
+   measuring a solid square.
+
+   In the case of the Menger sponge, two-dimensional space is too
+   small, and three-dimensional space is too large. Could there be
+   some number in between there that is “just right” for the
+   Menger sponge?
+
+   There is! To figure out how to find it, we need to be creative
+   about how we think about dimension. What features other than
+   the number of coordinates define dimension? One is scaling. At
+   the risk of being Captain Obvious, let’s start small. In
+   one-dimensional space, if you triple an object’s length, the
+   object becomes three times as long. In two-dimensional space,
+   if you triple an object’s length in every direction—for
+   example, tripling the length and width of a rectangle—the
+   object becomes nine times as large. Equivalently, it takes nine
+   small squares to make one square with triple the side length.
+   In three dimensions, if you triple the length, width, and
+   height of a cube, it becomes 27 times as large. It takes 27
+   small cubes to make one cube with triple the side length. We
+   can see a pattern here. The numbers 3, 9, 27 can also be
+   written 3^1, 3^2, 3^3—the dimension is the power to which we
+   raise the scale factor to get the new size.
+
+   Now we can see why the Menger sponge doesn’t  quite work as
+   either a two-dimensional or a three-dimensional object. When we
+   stretch each side of the Menger sponge by a factor of three, we
+   get 20 copies of the Menger sponge back, so we have multiplied
+   its size by 20. Another way to think about it is that it only
+   takes 20 cubes to build a level-one Menger sponge and 20
+   level-ones to build a level-two. But the level-two Menger
+   sponge’s sides are three times as long as the level-one’s.
+
+   Because we can raise numbers to non-integer powers, we can use
+   scaling to understand what dimension might mean for objects
+   like the Menger sponge that don’t scale the way whole
+   number-dimensional objects like a solid cube do. The dimension
+   is the power to which we raise the scale factor to get the new
+   size. For the Menger sponge, its dimension d is the number that
+   solves the equation 3^d=20. The number 2.7268 just about does
+   it. (The exact answer is log[3]20 or log(20)/log(3).)
+
+
+   It would be a shame to leave a post about the Menger sponge and
+   fractal dimension without a rabbit-hole for you to dive down,
+   so here you go: the [48]Wikipedia list of fractals by
+   dimension. You’re welcome!
+
+
+   Read about more of my favorite spaces:
+   [49]The Cantor Set
+   [50]Fat Cantor Sets
+   [51]The Topologist’s Sine Curve
+   [52]Cantor's Leaky Tent
+   [53]The Infinite Earring
+   [54]The Line with Two Origins
+   [55]The House with Two Rooms
+   [56]The Fano Plane
+   [57]The Torus
+   [58]The Three-Torus
+   [59]The Möbius Strip
+   [60]The Long Line
+   [61]Space-Filling Curves
+   [62]The Wallis Sieve
+   [63]Two Tori Glued along a Slit
+   [64]The Empty Set
+
+
+   The views expressed are those of the author(s) and are not
+   necessarily those of Scientific American.
+   [65][rightsPermsIcon.png] Rights & Permissions
+   Advertisement |
+   Report Ad
+
+
+

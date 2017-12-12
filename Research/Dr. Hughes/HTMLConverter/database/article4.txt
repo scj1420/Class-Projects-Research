@@ -1,0 +1,564 @@
+Hitler’s Math
+
+Germany in the 1930s: The Great mathematician Abraham A. Fraenkel
+remembers the challenges he and his Jewish colleagues faced under the
+slow rise of the Nazis
+
+   By [23]Abraham A. Fraenkel
+   February 8, 2017 • 12:00 AM
+
+
+
+
+
+
+
+   This is the first article in an occasional series,
+   [29]Premonitions of Disaster, on the lives of German Jews in
+   the 1920s and 1930s. Abraham Fraenkel was born in Germany in
+   1891, and died in Israel in 1965, aged 74.
+   His [30]Recollections of a Jewish Mathematician in Germany were
+   reissued last year by Springer.
+
+
+
+   My report about this last phase of my life in Germany should
+   not close without my describing some people who in every
+   respect deserve to be highlighted. Those who first come to mind
+   are eight scientists. Of course, I cannot and do not wish to
+   offer biographies or acknowledgments of their scientific
+   accomplishments that can be easily found elsewhere. Instead, I
+   will mention primarily those aspects that were significant for
+   my own development. Of these eight men, there are four
+   mathematicians: Hilbert, Brouwer, Landau, and von Neumann; two
+   physicists: Einstein and Niels Bohr; and two Protestant
+   theologians and philosophers: Rudolf Otto and Heinrich Scholz.
+
+   In his time David Hilbert (1862–1943) was the most significant
+   mathematician in the world. For a long time, he shared this
+   honor with Henri Poincaré, who died in 1912. In contrast to
+   most of his colleagues, Hilbert’s discoveries in successive
+   periods encompassed the broadest range of pure mathematics. He
+   hardly dealt with applied mathematics, except for one not very
+   successful period devoted to physics. He was born in Königsberg
+   and never relinquished his East Prussian accent. The number of
+   true anecdotes about him is legion, as he was, without doubt, a
+   highly original character. He became a professor in Göttingen
+   in 1895 and declined appointments to Leipzig, Berlin,
+   Heidelberg, and in 1919 to Bern. He was correctly considered
+   the scientific head of German mathematics, and was acknowledged
+   throughout the world. Students flocked to him from all over
+   Europe and the United States. At the second International
+   Congress of Mathematicians in Paris in 1900 he gave a
+   programmatic lecture on “Mathematical Problems.” The 23 key
+   unsolved problems he enumerated largely determined the
+   developments in mathematics in the subsequent decades. Most of
+   these problems have since been solved, problem No. 1 by Paul J.
+   Cohen in 1963.
+
+   Hilbert always remained free of all national and racist
+   prejudices. After the turn of the 20th century, he had a large
+   number of Jewish students, both in absolute and relative terms.
+   In his own working life, he was greatly influenced by two Jews,
+   Adolf Hurwitz and Hermann Minkowski. His authority and tenacity
+   managed twice to break through the prewar prejudice in the
+   Prussian Ministry of Education and Cultural Affairs against
+   appointing Jews to full professorships: Minkowski in 1902 and
+   Landau in 1909. He pushed through the postdoctoral professorial
+   qualification (Habilitation) granted Emmy Noether at the
+   University of Göttingen despite the resistance of many
+   colleagues, including some Jews, although this resistance was
+   chiefly directed to her being a woman, rather than on account
+   of her being a Jew and salon communist. Hilbert’ s response to
+   a question of Bernhard Rust, the Nazi Reich Minister for
+   Science, Education, and Popular Culture, was typical. At a
+   banquet in 1934 in Göttingen, Rust asked: “Is it really true,
+   Mr. Professor, that your institute suffered so much from the
+   departure of the Jews and their friends?” to which Hilbert
+   replied, in his characteristic East Prussian dialect:
+   “Suffered? No, it hasn’t suffered, Mr. Minister. It simply
+   doesn’t exist anymore!”
+
+   I never studied in Göttingen so I was never actually a student
+   of Hilbert. It is thanks to a fortuitous occurrence that I
+   nevertheless had the opportunity to develop a close
+   relationship with him. His last creative period, starting in
+   1918, was dedicated to axiomatics and the foundation of
+   mathematics in general. Totally unrelated to that, in 1921, I
+   had taken on the axiomatics of set theory, the fundamental
+   discipline of mathematics, to which Hilbert had always attached
+   great significance, and whose creator, Georg Cantor, he had
+   defended against harsh criticism. Hilbert’ s highly talented
+   assistant and close collaborator Paul Bernays (descendant of
+   the famous Hamburg Talmud scholar Chacham [Isaac] Bernays)—who
+   taught at the Swiss Institute of Technology (ETH) in Zurich
+   starting in 1933—focused as of 1935 specifically on set theory.
+   As a result of my own engagement with set theory, Hilbert asked
+   me in 1922 to give lectures at the Göttingen Mathematical
+   Society. A relentless and yet objective critic on such
+   occasions, he must have been impressed with my results, because
+   he offered me warm praise. Our further communication took place
+   mostly in writing. Although he had accepted my invitation to
+   hold a lecture in Kiel, due to external circumstances this did
+   not come to pass. After the third edition of my Einleitung in
+   die Mengenlehre (Foundations of Set Theory) was published, I
+   received a very cordial handwritten letter of thanks. Not until
+   much later did I learn that he had considerable influence on my
+   receiving the appointment in 1928 as a full professor in Kiel,
+   since the Ministry had sought his opinion on the various
+   candidates.
+
+   L.E.J. Brouwer [1881–1966] of Holland can be viewed as the
+   decided adversary of Hilbert. His mathematical merits are
+   limited to two—to be sure, very important— achievements. He
+   mastered, especially from 1911 to 1914, certain difficult
+   topographical problems that have to do with the concept of
+   dimension; however, this was the virtual extent of his actual
+   mathematical work. But even earlier, and also in the years
+   1918–1930, he had developed an original doctrine in an
+   ultradogmatic manner that he referred to as “intuitionism,” and
+   later “neointuitionism,” in which he rejected the greatest part
+   of “classical” mathematics of the last three centuries as well
+   as “classical” (Aristotelian) logic, with the argument that
+   these were in part meaningless and in part incorrect teachings,
+   since they were based in particular on “existence” rather than
+   “construction.”
+
+   His standpoint was rejected by the overwhelming majority of
+   mathematicians and logicians. His discussions with Hilbert, in
+   particular, assumed a personal note. The two virtually drowned
+   one another with their cursing. The dispute took on a
+   particular nuance in the sense that the Dutchman Brouwer set
+   himself up as a champion of Aryan Germanness. Consequently,
+   Hilbert removed him from the editorial board of the
+   Mathematische Annalen after he objected to what he felt were
+   too many Eastern European Jewish (“Ostjuden”) authors. In 1922
+   he published a 16-page Open Letter of protest to the Dutch
+   Minister of Education for allowing the outstanding French
+   scholar Arnaud Denjoy, who was professor at the University of
+   Utrecht and a member of the Amsterdam Academy of Sciences, to
+   maintain a “corresponding membership” although Denjoy conducted
+   himself, according to Brouwer, like an “agent for the French
+   government.” Brouwer also openly protested against
+   participating in the International Congress of Mathematicians
+   in Bologna in 1928, claiming that the many German scholars, who
+   under Hilbert’s leadership participated in the Congress along
+   with the French, had sinned against the “Manes of Gauss and
+   Riemann.” Luckily, his instinct saved him—in contrast, mutatis
+   mutandis, to another outstanding Dutch mathematician—from
+   accepting a position at the University of Berlin, which the
+   Nazis offered him in 1933.
+   L.E.J. Brouwer (right) with his brothers, date unknown.
+   (Nationale bibliotheek van Nederland)
+
+   I often got together with Brouwer, especially in Amsterdam, and
+   was among the first mathematicians outside of Holland who
+   treated his intuitionist views in lectures, articles, and books
+   in a non-dogmatic, often critical form. At first, Brouwer was
+   enthusiastic in his praise of me, but I later became the object
+   of his passionate and grievous rejection. My presentations of
+   intuitionism were the earliest, but by no means the most
+   in-depth. Starting in 1930 many esteemed mathematicians from
+   Holland, the United States, and other countries distilled from
+   Brouwer’s ideas all that made sense and lacked dogmatic
+   prejudice, and was insightful and sometimes groundbreaking also
+   in classical mathematics.
+
+   Brouwer was temporarily suspended in 1945 by the Dutch
+   government because of his connections to the Nazis, especially
+   during the German occupation of Holland, when the Dutch Jews
+   suffered extremely cruel treatment and most were exterminated
+   in camps, but he later regained his position. I found it
+   impossible to resume our former friendly relations.
+
+   Edmund Landau (1877–1938) can also be described as an original
+   sort of character. Starting in the 1920s he took on the middle
+   name “Yechezkel,” after the Prague rabbi and Talmudist
+   Yechezkel Landau, whose brother was an ancestor of his. Edmund
+   Landau’ s father was the well-known Berlin gynecologist
+   Professor Leopold Landau, who, after originally being rather
+   distant to Judaism, later espoused the national-Jewish stance
+   and supported the cause of the Palestine/land of Israel Jewish
+   Colonization Association (PICA). He proudly showed me Hebrew
+   inscriptions in the courtyard of his mansion near Berlin’s
+   Pariser Platz.
+
+   Landau was one of the most prolific scientists of his time.
+   From 1904 to 1909 alone he published more than 50 papers, some
+   of which were very extensive, and a two-volume, innovative book
+   on the distribution of prime numbers. His main areas of
+   research were the theory of functions and analytical number
+   theory. He worked together with the outstanding English
+   mathematicians G.H. Hardy and John Edensor Littlewood, with
+   Harald Bohr, the brother of Niels Bohr, and many others. Over
+   time he developed an increasingly concise, concentrated style
+   of writing, not only in his papers but also in his books,
+   totally erasing the intuitive dimension of his mathematical
+   problem-solving—in a tradition first introduced by Gauss. Not
+   everyone likes this style, especially when dealing with such
+   difficult subjects. Apart from that, he did not lack a sense of
+   humor, as demonstrated by his prefaces to Foundations of
+   Analysis, which was widely read in both German and English.
+
+   In 1899 Landau completed his doctorate and in 1901, at 24, his
+   postdoctoral professorial qualification, both at the University
+   of Berlin. After the premature death of Minkowski, Hilbert
+   wanted a first-class successor, from whom he anticipated
+   creative talents. And so it happened that in 1909, Landau, at
+   32 years of age, received the important Göttingen professorial
+   position, in every sense an unusual appointment, skipping the
+   then usual intermediate step of nontenured associate professor
+   (Extraordinarius). He was very successful as a teacher in
+   Göttingen and attracted doctoral candidates from all over the
+   world. His relationship to Hilbert, however, turned out not to
+   be as agreeable as had been expected. After Felix Klein (dubbed
+   the “foreign minister of mathematics”) retired, Hilbert
+   appointed the Jewish mathematical analyst Richard Courant as
+   his successor; Courant is credited especially for the
+   establishment of Göttingen’s prestigious Mathematical Institute
+   after the First World War, with funding from the United States.
+   In 1933 special efforts were made to try to keep him, but he
+   was lucky to soon receive an academically and administratively
+   more outstanding position at New York University.
+
+   Landau’s avid wish to receive a professorship in Berlin did not
+   come true. His quirky nature had made him many enemies,
+   especially Ludwig Bieberbach, who had enjoyed a full
+   professorship in Berlin since 1921. By virtue of his parents’
+   and his brother-in-law Paul Ehrlich’ s assets, Landau was a
+   wealthy man. He built a mansion-like home in Göttingen to house
+   his huge scientific library. As a guest, I often had the chance
+   to admire his lavishly designed home. Aside from mathematical
+   research, to which Landau was dedicated with untiring
+   diligence, he had two hobbies: He owned an extensive and
+   probably valuable postage-stamp collection, which he constantly
+   expanded, and in his free time he read detective stories with a
+   passion.
+
+   After the founding of the Hebrew University in Jerusalem in
+   1925 with initially three institutes, it seemed natural that a
+   chair should also be established for mathematics, a science
+   often characterized as “Jewish.” In addition to the two
+   world-famous mathematicians Jacques Hadamard and Edmund Landau,
+   the university’ s Board of Governors also included Selig
+   Brodetsky who in 1924 had taken up a position as professor of
+   applied mathematics at the University of Leeds and who as a
+   Zionist leader had rendered great service to the university. At
+   first Einstein was also a member, but he soon withdrew from the
+   Board of Governors. Shortly after the 14th Zionist Congress in
+   Vienna, the Board of Governors of the Hebrew University met in
+   September 1925 in the home of Dr. Elias Straus in Munich. On
+   the agenda was also the question of the appointment of a
+   mathematics chair. As I remember, it was the last (or even the
+   only) session in which Einstein participated. I was also in
+   Munich at the time, at my father’s deathbed, and Landau visited
+   me. Obviously, there was a proposal that Landau go to Jerusalem
+   either temporarily or long-term. He was in fact offered the
+   position and was prepared to accept it. Although he had not
+   been raised close to Jewish tradition, much less Hebrew
+   scripture, he made an effort in his usual energetic fashion to
+   learn Hebrew and managed amazingly quickly to master the
+   language, especially to speak it fluently. And so he went to
+   Jerusalem in the fall of 1927 as the first professor of
+   mathematics. Supported by associate professor Dr. Benjamin
+   Amira, who was raised in Palestine/Land of Israel and had
+   completed his doctorate at the University of Geneva, Landau
+   successfully taught the eager students for the duration of the
+   semester.
+
+   This is not the place to discuss the differences that arose
+   between Landau, the university management, and the Board of
+   Governors. In any case, Landau left Jerusalem at the end of the
+   winter semester and never returned. Thus the Board, when it
+   convened again in June 1928 in London, had once again to place
+   the appointment of the mathematics chair on the agenda.
+
+   Edmund Landau had also paid attention to my prewar publications
+   and followed my work from the early 1920s even more closely,
+   although it was in a field that was relatively unrelated to
+   his. In 1927, when I was still a non-tenured associate
+   professor (Extraordinarius) in Marburg, he had already spoken
+   with me somewhat tentatively of his intention to suggest me to
+   the Board of Governors for the professorial chair in Jerusalem.
+   I did not take him too seriously, especially when I heard that
+   Hadamard wanted to suggest the distinguished Polish-French
+   analyst Szolem Mandelbrojt; besides that, Landau’ s own
+   decisions before he left for Jerusalem were anything but firm.
+   Thus it was a great surprise for me when on June 5, 1928, in
+   Kiel, only a few weeks after I assumed my position there, I
+   received a telegram from London offering me the chair in
+   Jerusalem. As Landau later explained to me, Mandelbrojt had
+   decided not to leave France, so his candidacy had never even
+   been considered. And he did, in fact, receive a position in
+   Paris a short time later, as Hadamard’s successor at the
+   Collège de France. My appointment had been unanimous, with even
+   the approval of the physicist on the Board of Governors,
+   Leonard S. Ornstein from the Netherlands.
+
+   Landau’s and my relationship became increasingly close in those
+   years, encouraged by his growing competence in Hebrew. He even
+   sent me telegrams in Hebrew from Göttingen to Marburg! My last
+   encounter with Landau was in Switzerland shortly after the
+   Nazis came to power. In contrast to Courant, he was not
+   frightened, but rather filled with an incomprehensible
+   optimism. But the blow came soon— even sooner for him than for
+   other Jewish professors. The Göttingen students demonstrated
+   against him—evidently having been incited from higher up—and
+   demanded his dismissal. A certain lecture sheds light on the
+   background to this “resolute rejection” of Landau. It was held
+   by Berlin professor Ludwig Bieberbach in spring 1934 in Berlin
+   at the annual conference of the Verein zur Förderung des
+   mathematischen und naturwissenschaftlichen Unterrichts. The
+   press, for example, the Deutsche Zukunft (German Future) of
+   April 8, 1934, and Forschungen und Fortschritte (Research and
+   Progress) of June 20, 1934, gave extensive coverage of the
+   lecture. Cited here are some passages from it:
+
+     The conduct of the Göttingen students toward Edmund Landau
+     is well-founded and justified, as the Landau case clearly
+     shows that there is a German and a Jewish mathematics, two
+     worlds, separated by an unbridgeable chasm. The selection of
+     the problems and the style of treating them is
+     characteristic of the thinker and therefore a product of his
+     racial affiliation. … A people that has come into its own
+     cannot tolerate such teachers and must reject foreign
+     thought.
+
+   Bieberbach then made reference to the psychological typology of
+   Erich Jaensch, assigning the abstracting S type to the Jews and
+   speakers of Romance languages, and that of the J type, which
+   seeks to understand reality in all its manifold aspects, to the
+   Germans. He remarked on the explication of imaginary numbers by
+   Cauchy and Goursat (both of whom are not Jews!):
+
+     The Cauchy-Goursat theorem arouses intolerable displeasure
+     in us Germans. But certainly not in a Landau. Such a thing
+     is mentally determined. … All in all, such juggling with
+     concepts and a pronounced shrewdness characterize the
+     nonorganic, hostile S type, especially Jewish mathematics.
+
+   This was then compared to the “Eastphalian” Gauss, the
+   “Nordic-Dinaric” Felix Klein, and the “Eastern Baltic–Nordic”
+   Hilbert:
+
+     Abstract Jewish thinkers of the S type knew how to deform
+     [the axiomatics of Hilbert], so that they can be used as
+     intellectual varieté. … This is a typical example of how
+     race-alien influences and race-alien seduction blocks the
+     Germans from the source of their own strength. … There is no
+     self-sufficient mathematical domain that is independent of
+     ideology and life; the dispute on the fundamental principles
+     that is now raging is in reality a dispute over race.
+
+   The journal Deutsche Zukunft drew its own conclusions:
+
+     For practical cultural policy it turns out that mathematics
+     is freed from the curse of sterile intellectualism; its
+     burden falls upon those thinkers who are alien to the nation
+     and the race, who will no longer exist in the future and
+     whose representatives belong to the past and can no longer
+     be viewed as German scientists. German mathematics is rooted
+     in blood and soil.…
+
+   These statements caused incredible outrage abroad, perhaps more
+   than did the brutal dismissal of Landau himself and all the
+   Jewish and “half-Jewish” scholars in Germany. In a letter to
+   Bieberbach of May 19, 1934, one of the most eminent American
+   mathematicians, Professor Oswald Veblen of the Institute for
+   Advanced Study in Princeton, New Jersey, expressed his disgust
+   at the distinctions made between Jewish and German mathematics
+   and at such pseudo-scientific justification of the measures
+   taken against Landau, “one of the great mathematicians of our
+   epoch.” He added that the article in Deutsche Zukunft was
+   received in the United States “with varying degrees of sorrow,
+   derision, and contempt.” Veblen had written this letter in an
+   outburst of pure humanitarianism, without having been able at
+   the time to foresee that the expulsion of all “non-Aryan”
+   scholars from Germany, and later also from Austria, would make
+   the hospitable United States (together with Russia) into the
+   center of the world for mathematics and physics, even before
+   the end of the 1930s, particularly in view of modern nuclear
+   physics.
+
+   The consequences of this shift are generally known. After
+   losing his professorial chair in Göttingen, Landau moved to
+   Berlin. Although he also went abroad to give lectures, he never
+   managed to decide to emigrate, which would have meant losing
+   all his assets. He died in 1938 at the age of only 61.
+
+
+   Reprinted from [31]Recollections of a Jewish Mathematician in
+   Germany, by Abraham A. Fraenkel, edited by Jiska
+   Cohen-Mansfield, translated by Allison Brown. Copyright © 2016
+   Springer International Publishing AG. All rights reserved.
+
+
+   Abraham A. Fraenkel was a world-renowned mathematician in
+   pre–Second World War Germany, whose work on set theory was
+   fundamental to the development of modern mathematics.
+
+
+
+
+
+
+   [37]EMAIL [38]PRINT [39]COMMENT
+   [comments-header.gif]
+
+
+   Click here for access to comments
+
+   COMMENTING CHARGES
+   Daily rate: $2
+   Monthly rate: $18
+   Yearly rate: $180
+
+   WAIT, WHY DO I HAVE TO PAY TO COMMENT?
+   Tablet is committed to bringing you the best, smartest, most
+   enlightening and entertaining reporting and writing on Jewish
+   life, all free of charge. We take pride in our community of
+   readers, and are thrilled that you choose to engage with us in
+   a way that is both thoughtful and thought-provoking. But the
+   Internet, for all of its wonders, poses challenges to civilized
+   and constructive discussion, allowing vocal—and, often,
+   anonymous—minorities to drag it down with invective (and
+   worse). Starting today, then, we are asking people who'd like
+   to post comments on the site to pay a nominal fee—less a
+   paywall than a gesture of your own commitment to the cause of
+   great conversation. All proceeds go to helping us bring you the
+   ambitious journalism that brought you here in the first place.
+
+   I NEED TO BE HEARD! BUT I DONT WANT TO PAY.
+   Readers can still interact with us free of charge via Facebook,
+   Twitter, and our other social media channels, or write to us at
+   letters@tabletmag.com. Each week, we’ll select the best letters
+   and publish them in a new letters to the editor feature on the
+   Scroll.
+
+   We hope this new largely symbolic measure will help us create a
+   more pleasant and cultivated environment for all of our
+   readers, and, as always, we thank you deeply for your support.
+   [40]Access0comments
+   Name (required) ______________________ Email (required, will
+   not be published) ______________________ Website (optional)
+   ______________________
+   Message
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   2000
+
+
+   Your comment may be no longer than 2,000 characters,
+   approximately 400 words. HTML tags are not permitted, nor are
+   more than two URLs per comment. We reserve the right to delete
+   inappropriate comments.
+   Submit
+
+
+
+
+
+
+
+
+
+       By [48]Abraham A. Fraenkel
+
+       By [50]Todd Pitock
+
+       By [52]Unorthodox
+
+       By [54]Thomas Doherty
+
+
+   [wellcometoyou.png]
+   Sign up for Tablet’s daily newsletter
+
+   Email address_______ JOIN
+
+   [55]Donate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Tablet Magazine is a project of Nextbook Inc.
+
+   Copyright © 2017 Nextbook Inc. All rights reserved.|[82]Terms
+   of Service & Privacy Policy|Site by [83]Superfame
+
+
+   [84]X ____________________ SEARCH
+   [85]X
+   Your email address (required) ____________________
+   Your email is not valid
+   Your name (required) ____________________ Recipient's email
+   address (required) ____________________
+   Recipient's email is not valid
+   Message
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [86]Submit
+
+
+   Your email has been sent.
+
+   [87]Click here to send another
+
+
+   [tablet-t.gif]
+   We'll Come to You!
+   Sign Up For Our Daily Newsletter
+   [88]x
+   Email Address ____________________
+   Name (optional) ____________________
+   Zip (optional) ____________________
+   ____________________
+   SIGN ME UP
+
+
+   [tablet-t.gif]
+   Like Tablet on Facebook!
+   [89]x
+
+
+   Quantcast
+
+   Quantcast
+
+

@@ -1,0 +1,149 @@
+Polynomial Methods in Combinatorics
+
+   Larry Guth
+   Publisher:
+   American Mathematical Society
+   Publication Date:
+   2016
+   Number of Pages:
+   273
+   Format:
+   Paperback
+   Series:
+   University Lecture Series 64
+   Price:
+   48.00
+   ISBN:
+   9781470428907
+   Category:
+   Monograph
+   BLL Rating:
+   [307]BLL*
+
+
+   The Basic Library List Committee recommends this book for
+   acquisition by undergraduate mathematics libraries.
+
+
+
+   [Reviewed by
+   Darren Glass
+   , on
+   08/16/2016
+   ]
+
+   Most of the books that we cover here at [310]MAA Reviews deal
+   with mathematics that was done decades, if not centuries, ago
+   rather than being truly contemporary. There is good reason for
+   that, as it can be difficult to write a good book about a topic
+   until it is clear how it fits into the bigger picture of the
+   discipline, what applications it might have, and even what
+   terminology and notation the community will eventually settle
+   on. When books are written about contemporary topics, they tend
+   to be dense monographs intended for specialists in the area
+   rather than expository books written for graduate students, or
+   even undergraduates.
+
+
+   While there are good reasons that authors often don’t try to
+   convey new ideas to more general audiences, Larry Guth’s new
+   book, Polynomial Methods in Combinatorics is the exception that
+   proves the rule. In this volume, he attempts to take a very
+   modern area of mathematics — roughly described as the
+   intersection of geometric combinatorics and harmonic analysis —
+   where research is being actively done by some of the top
+   mathematicians in the world, and write about it in a way that
+   is accessible to advanced undergraduate students. And he
+   succeeds marvelously. His book is essentially a treatise on
+   polynomials, and how a close look at certain polynomials can be
+   used to answer deep and exciting questions in algebraic
+   geometry and combinatorics.
+
+   To illustrate this idea, the book starts by stating the
+   [311]finite field Kakeya problem: Given a finite field
+   \(\mathbb{F}_q\), what is the smallest set of points \(K\) in
+   \(\mathbb{F}_q^n\) so that \(K\) contains a line in every
+   direction? In 2009, Dvir showed that this set \(K\) must
+   contain at least \((10n)^{-n}q^n\) points. While the problem as
+   stated sounds like a geometric problem, Dvir’s approach was
+   actually algebraic in nature, as he considered the properties
+   of the lowest degree polynomial that vanishes on all of the
+   points in \(K\).
+
+
+   As another example, Guth describes the [312]Erdős distinct
+   distance problem, and how he and Nets Katz have been able to
+   very recently show that any set of \(n\) points in
+   \(\mathbb{R}^2\) must have at least \(cn(\log(n))^{-1}\)
+   distinct distances between them, for some constant \(c\).
+   Again, this problem seems to be geometric in nature but their
+   approach uses polynomials.
+
+
+   Guth gives proofs of both of these theorems and also spends
+   time discussing why more naïve approaches to them did not give
+   results that were as strong as those that were achieved using
+   these approaches. He then uses all of these ideas as a
+   launching pad to explore a variety of areas of mathematics. The
+   bulk of the book applies these ideas to the study of incidence
+   geometry, which looks at the various ways that lines and
+   circles intersect in the plane. One of the first results in
+   this area was [313]due to Szemeredi and Trotter in the 1980s,
+   and says that if you have a set of \(L\) lines in the plane
+   \(\mathbb{R}^2\) then the number of points that lie on \(r\) or
+   more of these points is bounded (up to a constant) by
+   \(L^2r^{-3}+Lr^{-1}\). Guth’s book extends these ideas to
+   higher dimensions as well as additional hypotheses: for
+   example, what if you insist that some portion of your lines lie
+   on a given hypersurface? Does that additional structure give
+   you better bounds? Along the way to addressing all of these
+   questions, Guth introduces ideas in error-correcting codes,
+   algebraic geometry (Bezout’s theorem plays a particularly large
+   role), polynomial partitions, ruled surface theory,
+   differential geometry, and even Fourier analysis.
+
+
+   A final chapter looks at applications of the polynomial method
+   to questions in number theory. In particular, Guth looks at
+   solutions to diophantine equations as well as Thue and Roth’s
+   theorems about approximations to diophantine equations. These
+   results are more classical than most of the material in the
+   book (although even they only really date to the early
+   twentieth century), but show that the idea of using polynomials
+   throughout mathematics has a rich history.
+
+   The ideas in Guth’s book are simultaneously very deep and very
+   elementary. The book is not for the faint of heart, but at the
+   same time most of the book does not require much more
+   background than a good abstract algebra course along with some
+   familiarity with number theory and linear algebra.
+
+   Guth’s exposition is truly wonderful, and he has a good sense
+   of when to do concrete examples and when to keep the material
+   more abstract. He often goes on digressions, but they never
+   feel like they take you too far off the path. There are a
+   handful of exercises, so one can imagine using this book for an
+   advanced undergraduate or beginning graduate course, but I
+   think the book will find its best audience from people who just
+   want to learn about some of these recent developments in
+   geometry. No matter what stage they are at, I think that anyone
+   who reads this book will walk away feeling like they have a
+   deeper understanding of a very exciting area of mathematics.
+     __________________________________________________________
+
+   Darren Glass is a Professor of Mathematics at Gettysburg
+   College. His mathematical interests include algebraic geometry,
+   graph theory, and number theory. He can be reached at
+   [314]dglass@gettysburg.edu.
+
+    [314] mailto:dglass@gettysburg.edu
+
+   See the [315]table of contents in pdf format.
+   Tags:
+   [316]Algebraic Geometry
+   [317]Combinatorics
+   [318]Geometric Combinatorics
+
+
+
+

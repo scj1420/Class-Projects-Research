@@ -1,0 +1,51 @@
+Duality in spherical trigonometry
+
+   Posted on [23]28 August 2016 by [24]John
+
+
+   This evening I ran across an unexpected reference to spherical
+   trigonometry: Thomas Hales’ [25]lecture on lessons learned from
+   the formal proof of the Kepler conjecture. He mentions at one
+   point a lemma that was awkward to prove in its original form,
+   but that became trivial when he looked at its spherical dual.
+
+
+   The sides of a spherical triangle are formed by great circular
+   arcs through the vertices. Since the sides are portions of a
+   circle, they can be measured as angles. So in spherical trig
+   you have this interesting interplay of two kinds of angles: the
+   angles formed at the intersections of the sides, and the angles
+   describing the sides themselves.
+
+   Here’s how you form the dual of a spherical triangle. Suppose
+   the vertices of the angle are A, B, and C. Think of the arc
+   connecting A and B as an equator, and let C‘ be the
+   corresponding pole that lies on the same side of the arc as the
+   original triangle ABC. Do the analogous process to find the
+   points A‘ and B‘. The triangle A‘B‘C‘ is the dual of the
+   triangle ABC. (This idea goes back to the Persian mathematician
+   Abu Nasr Mansur circa 1000 AD.)
+
+   The sides in  A‘B‘C‘ are the supplementary angles of the
+   corresponding intersection angles in ABC, and the intersection
+   angles in  A‘B‘C‘ are the supplementary angles of the
+   corresponding sides in ABC.
+
+   In his paper “Duality in the formulas of spherical
+   trigonometry,” published in American Mathematical Monthly in
+   1909, W. A. Granville gives the following duality principle:
+
+     If the sides of a spherical triangle be denoted by Roman
+     letters a, b, c and the supplements of the corresponding
+     opposite angles by the Greek letters α, β, γ, then from any
+     given formula involving any of these six parts, we may wrote
+     down a dual formula simply by interchanging the
+     corresponding Greek and Roman letters.
+
+   Related: [26]Notes on Spherical Trigonometry
+   Categories : [27]Math
+   Tags : [28]Math
+   Bookmark the [29]permalink
+
+
+

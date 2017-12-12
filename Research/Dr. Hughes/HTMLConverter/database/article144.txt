@@ -1,0 +1,162 @@
+You can use Markdown or HTML in your comments. You can also use
+LaTeX, like this: $latex E = m c^2 $. The word 'latex' comes right
+after the first dollar sign, with a space after it. [22]Cancel reply
+
+   Enter your comment here...
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Fill in your details below or click an icon to log in:
+
+       IFRAME: [23]googleplus-sign-in
+
+
+   [24]Gravatar
+   Email (required) (Address never made public)
+   ____________________
+   Name (required)
+   ____________________
+   Website
+   ____________________
+   WordPress.com Logo
+
+
+   You are commenting using your WordPress.com account.
+   ( [25]Log Out / [26]Change )
+   Twitter picture
+
+     [25] javascript:HighlanderComments.doExternalLogout( 'wordpress' );
+
+   You are commenting using your Twitter account.
+   ( [27]Log Out / [28]Change )
+   Facebook photo
+
+     [27] javascript:HighlanderComments.doExternalLogout( 'twitter' );
+
+   You are commenting using your Facebook account.
+   ( [29]Log Out / [30]Change )
+   Google+ photo
+
+     [29] javascript:HighlanderComments.doExternalLogout( 'facebook' );
+
+   You are commenting using your Google+ account.
+   ( [31]Log Out / [32]Change )
+   [33]Cancel
+
+     [31] javascript:HighlanderComments.doExternalLogout( 'googleplus' );
+     [33] javascript:HighlanderComments.cancelExternalWindow();
+
+   Connecting to %s
+
+   [ ] Notify me of new comments via email.
+
+   [ ] Notify me of new posts via email.
+
+   Post Comment
+
+
+
+
+
+
+
+
+
+
+
+
+       [44]@whut on [45]Complexity Theory and Evolutio…
+       nad on [46]Complexity Theory and Evolutio…
+       [47]Todd Trimble on [48]The Dodecahedron, the Icosahed…
+       [49]John Baez on [50]The Dodecahedron, the Icosahed…
+       Philip Gibbs on [51]The Dodecahedron, the Icosahed…
+       [52]John Baez on [53]The Dodecahedron, the Icosahed…
+       Philip Gibbs on [54]The Dodecahedron, the Icosahed…
+       [55]John Baez on [56]The Dodecahedron, the Icosahed…
+       [57]Scott Hotton on [58]The Dodecahedron, the Icosahed…
+       Giampiero Campa on [59]Complexity Theory and Evolutio…
+
+       You can [60]include math in your comments using LaTeX, but
+       you need to do it this way:
+       $latex E = mc^2$
+       You need the word 'latex' right after the first dollar
+       sign, and it needs a space after it. Double dollar signs
+       don't work, and other limitations apply, some described
+       [61]here. You can't preview comments here, but I'm happy to
+       fix errors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       [120]RSS Feed  [121]RSS - Posts
+       [122]RSS Feed  [123]RSS - Comments
+
+       Enter your email address to subscribe to this blog and
+       receive notifications of new posts by email.
+       Join 4,202 other followers
+       ____________________
+       Sign me up!
+       Search ____________________ Search
+
+   [124]Blog at WordPress.com.
+
+
+

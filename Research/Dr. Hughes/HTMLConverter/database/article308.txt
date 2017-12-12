@@ -1,0 +1,280 @@
+Related stories
+
+       think
+
+       – but does that mean much?
+
+
+   Movies like to depict mathematicians as weirdos, but they
+   usually miss the one legitimately weird thing about them: an
+   extreme love of blackboards.
+
+   Not whiteboards, not smartboards – blackboards. We’re talking
+   chalk dust and erasers made of felt, like you had in elementary
+   school.
+
+   “If I walk to a room and see something written on a blackboard
+   rather than a whiteboard, I’m more likely to assume it was done
+   by a mathematician,” said Michael Barany, a postdoctoral fellow
+   in the Department of History at Dartmouth, whose background is
+   in mathematics and whose research examines the sociology of the
+   field. “There are cases of a university where the
+   administration is doing a building renovation or moving a
+   department, and wanted to upgrade . . . and math departments
+   have actively protested to keep their blackboards.”
+
+   Barany knows because his research includes what strikes me as
+   the most intriguing question I’ve heard in ages: Why do
+   mathematicians like blackboards so much? And they surely do.
+
+   In 2015, for example, the Japanese company that manufactured
+   Hagoromo Fulltouch Chalk went out of business, and
+   mathematicians around the world panicked because Hagoromo is
+   widely considered the finest blackboard chalk in the world,
+   producing clean lines and little dust. As Gizmodo reported, a
+   Japanese TV station came to Stanford University to do a story
+   about frantic mathematicians, one of who had stockpiled 15
+   years’ worth of Hagoromo supplies.
+
+   Closer to home, ponder a casual admission that Barany made in
+   the midst of our conversion: “I have a collection of colored
+   chalk I carry with me. You never know if there’s going to be
+   good colored chalk where you’re going.”
+
+   That is not something most people would say, unless they were
+   kindergarteners or sidewalk artists. But among Barany’s
+   publications and co-authorship of the 2014 study “Chalk:
+   Materials and Concepts in Mathematics Research,” a 26-page
+   analysis (with five pages of source notes) that includes
+   sentences like “the formal rigor at the heart of mathematical
+   order becomes indissociable from the ‘chalk in hand’ character
+   of routine mathematical work.”
+
+   What’s behind this phenomenon? Barany has a few hypotheses,
+   some his own and some gathered from various sources:
+   Tradition
+
+   Serious mathematics has always been done on blackboards, so if
+   your proof is written on some other wall-hanging device, it
+   must not be serious mathematics.
+
+   “There is definitely a mystique to a blackboard. Prestigious
+   math departments prize putting blackboards in many places, as
+   prominently as they reasonably can. A lot of places have
+   blackboards in elevators – they don’t get used that much, part
+   of it is just keeping up appearances of being a blackboard-y
+   discipline,” Barany said.
+
+   “Math (departments) often have blackboard in hallways. It’s a
+   way you mark a space as (being) a place for mathematical
+   collaboration.”
+
+   There are even reports of blackboards in math building
+   restrooms, although that might be rumors floated by jealous
+   physicists.
+   Noise
+
+   “The sound of the chalk is loud enough, disruptive enough,
+   sharp enough to have an active effect in turn-taking when
+   someone’s presenting something to a group. This limits the
+   allowable spaces for interruption; gives a certain control over
+   the way a conversation plays out just by making a particular
+   kind of noise,” he said. “You can talk over someone if they’re
+   writing on a smartboard or a whiteboard, that’s a lot harder to
+   do on a blackboard.”
+
+   This tickled my fancy. The click-click-click when writing with
+   chalk on blackboard is like no other sound out there, and I
+   could see it affecting group dynamics in a way that would help
+   research mathematics, the most information-dense communication
+   system that humanity has ever devised. In mathematics, lack of
+   interruption is important – unlike activities such as, say,
+   writing a newspaper column, where any random schlub can chime
+   in.
+   Functionality
+
+   “It’s hard to write small on a blackboard. That forces you to
+   limit number of symbols, to have an economy of writing,” he
+   said.
+
+   Sounds reasonable, but Barany’s other functionality-related
+   idea is a lot more fun: “The other thing about blackboards is
+   that they smudge productively.”
+
+   Smudge productively! I love it – but what does it mean?
+
+   “Often a mathematical argument will involve taking some term or
+   idea and rewriting it or rephrasing it in a fruitful way. You
+   can do that by using an eraser or the side of your hand to rub
+   out the thing you’ve rephrased and writing over it, but the
+   smudge will still be visible. Being able to write over
+   something while leaving visual evidence there was something
+   before – is a nontrivial part of how mathematicians communicate
+   those kinds of arguments.”
+
+   Amazing. The inherent messiness of blackboards turns out to be
+   a feature, not a bug.
+   Physicality
+
+   “People say, ‘I can write more quickly on a blackboard,’ ”
+   Barany said. “They say, ‘I have to put my body into the
+   writing, it brings it to life some way.’ ”
+
+   And here’s a minor but non-zero benefit to using blackboards:
+   “You can tell when chalk is about to run out in a way that you
+   can’t tell when a whiteboard marker is about to run out.”
+
+   All these answers are intriguing, but Barany says none is the
+   answer. As with all things involving the behavior of the
+   universe’s most complex system, – human beings – the variables
+   are so numerous and the interactions so tangled that it’s
+   almost impossible to sort them out.
+
+   What’s most intriguing is that these “fuzzy” sociology and
+   psychology factors (fuzzy to a hard-science fan, anyway) are
+   important in the development of the purest of human activities:
+   high-level mathematics. Math often seems to be nothing less
+   than truth itself freed from the constraints and biases of
+   carbon-based life forms. “Euclid alone has looked on beauty
+   bare,” as the poet Edna St. Vincent Millay famously put it.
+
+   But Barany said that’s not really true. Math, he notes, is done
+   by humans and should be viewed through the prism of humanity,
+   through the realities of the person he calls “the witness,” or
+   the mathematician who makes a finding.
+
+   “People think that it shouldn’t matter who the witness is as a
+   person – that the character of the witness is not what makes
+   the evidence reliable. . . . But one learns very quickly about
+   mathematicians is that this is not how mathematicians share
+   ideas, and it’s not how research takes place. It ends up
+   looking a lot more like other kinds of witnessing, that are
+   better understood,” he said.
+
+   If the witness is more comfortable or more effective or more
+   likely to be understood when using the compressed skeletal
+   remains of sea creatures to write on thin sheets of slate, then
+   so be it. If nothing else, it’s a celebration of the
+   technology’s staying power in our here-today-gone-tomorrow
+   world.
+
+   “It’s unlikely that blackboards will be used 50 years from now
+   in the same way they are used today, but it’s a good bet
+   they’ll be used 50 years from now in some way,” Barany said.
+
+   One place he hopes they’ll be used, incidentally, is his new
+   home in Dartmouth’s history department.
+
+   “I’m trying to commandeer a blackboard for the hallway.”
+
+   (David Brooks can be reached at 369-3313 or
+   dbrooks@cmonitor.com or on Twitter @GraniteGeek)
+   Politics/Federal
+   [101]
+
+
+   New opposition emerges as Trump renews push for travel ban
+   News/Nation-World
+   [102]
+
+
+   Grande returns to Manchester to honor victims with benefit
+   News/Local
+   [103]
+
+
+   Downtown Concord: Wellington’s Marketplace goes up for sale
+   News/Nation-World
+   [104]
+
+
+   12 arrested in London’s night of terror; ISIS claims attack
+   Newsletter Signup
+   ____________________ (Submit) Sign up
+
+
+
+
+   Submissions
+   (BUTTON) Submit news or announcements
+
+
+
+
+
+
+
+
+
+
+
+
+     [121]Nuissance bears near Dartmouth caught, released in N.H.
+   North Country
+
+
+     [122]Hanover bears to be trapped, released in Northern New
+   Hampshire
+
+
+     [123]N.H. Fish and Game plan to kill family of bears near
+   Dartmouth College faces backlash
+
+
+     [124]“Mr. Connolly has ALS” – Documentary on former CHS
+   principal premieres Tuesday
+
+
+     [125]Return to the River Part 4: Guiding Franklin’s future
+   with science
+
+
+     [126]My Turn: This is beyond a health crisis
+
+
+     [127]Katy Burns: Exit stage right
+
+
+     [128]Letter: About Seth Rich
+
+
+     [129]Letter: John Stark cynics
+
+
+     [130]Letter: The self-pity president
+
+
+     [131]Flying Yankee train won’t be returning to Concord after
+   plans derailed
+
+
+     [132]Hundreds pay tribute to 23-year-old murder victim at
+   Concord vigil
+
+
+     [133]Downtown Concord: Wellington’s Marketplace goes up for
+   sale
+
+
+     [134]NASCAR notebook: Kyle Busch says fans need to support
+   NHMS to keep racing date in New Hampshire
+
+
+     [135]Islamic society seeks to establish the first permanent
+   mosque in Concord
+     __________________________________________________________
+
+
+   [CM-logo-small.png]
+
+   Concord Monitor Office
+   1 Monitor Drive
+   Concord,NH 03301
+   603-224-5301
+
+
+
+
+   © 2016 Concord Monitor
+
+

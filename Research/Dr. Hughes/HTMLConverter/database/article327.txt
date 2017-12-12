@@ -1,0 +1,70 @@
+[15]What’s Wrong with This Experiment?
+
+
+   By [16]Dan Meyer • December 22, 2016 • [17]21 Comments
+
+
+   If you’re the sort of person who helps students learn to design
+   controlled experiments, you might offer them [18]W. Stephen
+   Wilson’s experiment in The Atlantic and ask for their critique.
+
+
+   First, Wilson’s hypothesis:
+
+     Wilson fears that students who depend on technology
+     [calculators, specifically –dm] will fail to understand the
+     importance of mathematical algorithms.
+
+   Next, Wilson’s experiment:
+
+     Wilson says he has some evidence for his claims. He gave his
+     Calculus 3 college students a 10-question calculator-free
+     arithmetic test (can you multiply 5.78 by 0.39 without
+     pulling out your smartphone?) and divided the them into two
+     groups: those who scored an eight or above on the test and
+     those who didn’t. By the end of the course, Wilson compared
+     the two groups with their performance on the final exam.
+     Most students who scored in the top 25th percentile on the
+     final also received an eight or above on the arithmetic
+     test. Students at the bottom 25th percentile were twice as
+     likely to score less than eight points on the arithmetic
+     test, demonstrating much weaker computation skills when
+     compared to other quartiles.
+
+   I trust my readers will supply the answer key in the comments.
+
+   BTW. I’m not saying there isn’t evidence that calculator use
+   will inhibit a student’s understanding of mathematical
+   algorithms, or that no such evidence will ever be found. I’m
+   just saying this study isn’t that evidence.
+
+   Featured Tweet
+
+   Got one!
+
+     I think you just found me a new example for chapter 4
+     (experimental design)...
+     — David Griswold (@DavidGriswoldHH) [19]December 23, 2016
+
+
+   Featured Comment
+
+   [20]Scott Farrand:
+
+     The most clarifying thing that I can recall being told about
+     testing in mathematics came from a friend in that business:
+     you’ll find a positive correlation between student
+     performance on almost any two math tests. So don’t get too
+     excited when it happens, and beware of using evidence of
+     correlation on two tests as evidence for much.
+
+   [21]tech contrarianism
+
+
+   About [22]Dan Meyer
+   I'm Dan and this is my blog. I'm a former high school math
+   teacher and current head of teaching at [23]Desmos. [24]More
+   here.
+
+
+

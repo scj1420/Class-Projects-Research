@@ -1,0 +1,43 @@
+Squares Are Your Friends
+
+   These simple tricks are all fine and well, but large numbers
+   present a different challenge. For that, a physicist from
+   [40]askamathematician.com says it’s a good idea is use the
+   difference of squares (a square being a number multiplied by
+   itself).
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=
+   =]
+
+
+   “Take the two numbers you’re multiplying and think of them as
+   their average, x, plus and minus the difference between each
+   and their average, ±y,” he says. “These two numbers are
+   squared, so rather than memorizing entire multiplication tables
+   you only memorize squares.”
+
+   Advertisement
+
+   It may seem like a daunting task, but memorizing all the
+   squares from 1 to 20 isn’t as bad as it sounds. It’s just 20
+   numbers, after all. Armed with this prior knowledge, you can
+   perform some pretty incredible calculations.
+
+   Here’s how it works, starting with a simple example. Let’s
+   assume for a moment that we don’t know the answer to 10x4. The
+   first step is to figure out the average number between these
+   two numbers, which is 7 (i.e. 10-3=7, and 4+3=7). Next,
+   determine the square of 7, which is 49. We now have a number
+   that’s close, but not close enough. To get the correct answer,
+   we have to square the difference between the average (in this
+   case 3) providing us with 9. The last step is to do some simple
+   subtraction, 49-9=40, and wouldn’t you know it you have the
+   correct answer.
+
+   That might seem like a roundabout way to calculate 10x4 (it
+   is), but this same technique works for bigger numbers. Take
+   15x11 for example. Once again, we have to find the average
+   number between these two, which is 13. The square of 13 is 169.
+   The square of the difference in the average (2) is 4. Finally,
+   169-4=165, the correct answer.
+
+

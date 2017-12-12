@@ -1,0 +1,347 @@
+[39]Tai-Danae Bradley
+
+
+
+
+
+
+
+
+
+
+
+
+Math3ma
+
+   Welcome! Math3ma is a math blog maintained by Tai-Danae, a PhD
+   student at the CUNY Graduate Center.
+
+   Categories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Archives
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Plus there's more in
+   [91]The Back Pocket!
+   [92]Tweets by @tai_danae
+
+
+   Instagram, lately:
+   [93](35 grad students + 5 days + 1 house) × #homotopytheory = 1
+   healthy dose of #mathematics. . Up there is a snapshot of some
+   scribbles from this year's MIT Talbot Workshop where I heard
+   all about 'obstruction theory for structured ring spectra.' (We
+   took over a big house in the middle of nowhere, duct-taped some
+   whiteboards to the wall, and did #math for a week!) . The
+   “structure" is encoded by these gadgets called operads (a
+   portmanteau of opera + monad) which have applications in many
+   areas of math: #algebra (e.g. vertex algebras, quantum
+   algebra), #algebraictopology (e.g. string topology, homotopy
+   groups of spheres), #differentialgeometry (e.g. fluid
+   mechanics, Kähler manifolds), #algebraicgeometry (e.g. moduli
+   spaces of algebraic curves, Frobenius manifolds), and
+   name a few! . While I don't know much about ring spectra, I do
+   know a little about operads, and they're what I plan to blog
+   about next! Hoping to have some down-time soon so I can write
+   it all up! (35 grad students + 5 days + 1 house) ×
+   a snapshot of some scribbles from this year's MIT Talbot
+   Workshop where I heard all about 'obstruction theory for
+   structured ring spectra.' (We took over a big house in the
+   middle of nowhere, duct-taped some whiteboards to the wall, and
+   did #math for a week!) . The “structure" is encoded by these
+   gadgets called operads (a portmanteau of opera + monad) which
+   have applications in many areas of math: #algebra (e.g. vertex
+   algebras, quantum algebra), #algebraictopology (e.g. string
+   topology, homotopy groups of spheres), #differentialgeometry
+   (e.g. fluid mechanics, Kähler manifolds), #algebraicgeometry
+   (e.g. moduli spaces of algebraic curves, Frobenius manifolds),
+   and #mathematicalphysics (e.g. Feynman diagrams, field
+   theories) to name a few! . While I don't know much about ring
+   spectra, I do know a little about operads, and they're what I
+   plan to blog about next! Hoping to have some down-time soon so
+   I can write it all up!
+   [94](Drumroll please... 🥁) Alright y'all, here it is! Right now
+   on the blog, I’m answering that frequently asked question:
+   “What’s up with all the note-taking?!?” I’ve put the link in my
+   profile! . In today's post, I outline a step-by-step process
+   that I tried to follow during my last few years of college and
+   first two years of grad school. It goes a little something like
+   this: . Step 1: Read the appropriate chapter/section in the
+   book before class. (Fun fact: all my books/PDFs are littered
+   with writing in the margins.) . Step 2: Attend lecture and take
+   notes. (Another fun fact: I write down MUCH more than what the
+   professor writes on the board… also, in this part of the blog
+   post, I provide the links to my favorite notebooks, pens, and
+   pencils! Yes, the very ones you see in all my IG photos 😉) .
+   Step 3: Rewrite lecture notes. (This is the step in which most
+   of my learning happens. ) . Step 4: Do homework problems. (This
+   is really priority, even though I've listed it as step #4. As a
+   wise person once said, “The only way to learn math is to DO
+   math.”) . But these steps are only the skeleton! All of the
+   juicy bits are on the blog. (I can't fit 'em all into a little
+   IG post.) I do hope I've answered all your questions. Go check
+   it out and let me know! Hope you enjoy :) [Link to the blog
+   post “Some Notes on Taking Notes” in profile.] . PS: another
+   nice thing about taking so many notes is that you get to make
+   cool photos 👆😎 (Drumroll please... 🥁) Alright y'all, here it
+   is! Right now on the blog, I’m answering that frequently asked
+   question: “What’s up with all the note-taking?!?” I’ve put the
+   link in my profile! . In today's post, I outline a step-by-step
+   process that I tried to follow during my last few years of
+   college and first two years of grad school. It goes a little
+   something like this: . Step 1: Read the appropriate
+   chapter/section in the book before class. (Fun fact: all my
+   books/PDFs are littered with writing in the margins.) . Step 2:
+   Attend lecture and take notes. (Another fun fact: I write down
+   MUCH more than what the professor writes on the board… also, in
+   this part of the blog post, I provide the links to my favorite
+   notebooks, pens, and pencils! Yes, the very ones you see in all
+   my IG photos 😉) . Step 3: Rewrite lecture notes. (This is the
+   step in which most of my learning happens. ) . Step 4: Do
+   homework problems. (This is really priority, even though I've
+   listed it as step #4. As a wise person once said, “The only way
+   to learn math is to DO math.”) . But these steps are only the
+   skeleton! All of the juicy bits are on the blog. (I can't fit
+   'em all into a little IG post.) I do hope I've answered all
+   your questions. Go check it out and let me know! Hope you enjoy
+   :) [Link to the blog post “Some Notes on Taking Notes” in
+   profile.] . PS: another nice thing about taking so many notes
+   is that you get to make cool photos 👆😎
+   [95]Well I think it’s safe to say I learned a lot this
+   semester. A LOT. And now there’s so much to blog about.
+   Eeeeeep! Where do I even begin?! Limits/colimits? Adjunctions?
+   Kan extensions? Operads? (There’s the little cubes operad and
+   colored operads and Riemann surfaces as operads and… a swiss
+   cheese operad?!) Associahedra? A-infinity algebras? Simplicial
+   sets? Factorization homology? All the above!?! *gasps for air*
+   Such cool stuff, y'all. . Ps. I'm also thinking about blogging
+   on how I take notes/study math. Turns out this is one of the
+   most frequently asked questions. Because apparently people
+   think I like to take notes. Can't imagine why though. Heh. 😉 .
+   Good luck to everyone taking finals exams and/or quals! (And
+   congrats if you're done!) Well I think it’s safe to say I
+   learned a lot this semester. A LOT. And now there’s so much to
+   blog about. Eeeeeep! Where do I even begin?! Limits/colimits?
+   Adjunctions? Kan extensions? Operads? (There’s the little cubes
+   operad and colored operads and Riemann surfaces as operads and…
+   a swiss cheese operad?!) Associahedra? A-infinity algebras?
+   Simplicial sets? Factorization homology? All the above!?!
+
+   about blogging on how I take notes/study math. Turns out this
+   is one of the most frequently asked questions. Because
+   apparently people think I like to take notes. Can't imagine why
+   though. Heh. 😉 . Good luck to everyone taking finals exams
+   and/or quals! (And congrats if you're done!)
+   [96]In my last post, I mentioned something about a 1-line proof
+   that the fundamental group of the circle (i.e. all the ways you
+   can wrap a circle around itself) is basically just the
+   integers: …, -2, -1 , 0 , 1 , 2,…. Well, here it is! . I’ve
+   include TWO (very condensed) versions of the proof in the
+   pictures above: the “I have no idea what she’s talking about,
+   but this sounds really cool” version. And the “I’ve taken a
+   course in #algebraictopology and know a little #categorytheory
+   version.” Version 1 is in white, version 2 is in gray. Hope you
+   enjoy :) Feel free to ask any questions in the comments! . And
+   if you're curious to know more, head on over to the blog! All
+   the details are there! Link in profile. In my last post, I
+   mentioned something about a 1-line proof that the fundamental
+   group of the circle (i.e. all the ways you can wrap a circle
+   around itself) is basically just the integers: …, -2, -1 , 0 ,
+   1 , 2,…. Well, here it is! . I’ve include TWO (very condensed)
+   versions of the proof in the pictures above: the “I have no
+   idea what she’s talking about, but this sounds really cool”
+   version. And the “I’ve taken a course in #algebraictopology and
+   know a little #categorytheory version.” Version 1 is in white,
+   version 2 is in gray. Hope you enjoy :) Feel free to ask any
+   questions in the comments! . And if you're curious to know
+   more, head on over to the blog! All the details are there! Link
+   in profile.
+   [97]Once upon a time, I wrote a six-part (🙈!) blog series on
+   why the fundamental group (i.e. the group of "holes" of) the
+   circle is ℤ, the integers. (Intuitively, because you can wrap a
+   circle around itself 0 or 1 or 2 or 3,... times in either the
+   clockwise or counterclockwise direction.) . I now know a
+   one-line proof. . One. Line. . Very blog-worthy 😏 (Hint: loop
+   spaces + fibrations!) . On a different note, good luck to
+   everyone studying for the qualifying exams! (If you're
+   wondering, "What are these 'quals' anyway?" check out the link
+   in bio!) . [Pictured above: today's notes on #topology
+   (factorization homology!), #algebra (algebras over operads!),
+   and #categorytheory (homotopy (co)limits!)... all to appear on
+   the blog this summer, hopefully 🤞 😎] Once upon a time, I wrote
+   a six-part (🙈!) blog series on why the fundamental group (i.e.
+   the group of "holes" of) the circle is ℤ, the integers.
+   (Intuitively, because you can wrap a circle around itself 0 or
+   1 or 2 or 3,... times in either the clockwise or
+   counterclockwise direction.) . I now know a one-line proof. .
+   One. Line. . Very blog-worthy 😏 (Hint: loop spaces +
+   fibrations!) . On a different note, good luck to everyone
+   studying for the qualifying exams! (If you're wondering, "What
+   are these 'quals' anyway?" check out the link in bio!) .
+   [Pictured above: today's notes on #topology (factorization
+   homology!), #algebra (algebras over operads!), and
+   blog this summer, hopefully 🤞 😎]
+   [98]Cannot! Contain!! Excitement!!! Today my advisor gave me a
+   paper (a journal article) to read. It relates to some very cool
+   things like topological quantum field theory and gauge theory
+   and manifold topology and higher category theory (*squeee!*)
+   and a plethora of other mathematical physics-y things that I do
+   not understand (so don't ask me about the details yet 😉), and
+   ohmygoshyouguys I’m starting to droolallovermyphone 🤤 because I
+   am so excited!!!!! . I first became interested in mathematical
+   physics seven years ago. At that time, I knew I wanted attend
+   graduate school so that I could (slowly) build the foundation
+   necessary to (start to) understand the language and ideas used.
+   I'm still not there yet: it’s a work in (very slow 🐌) progress,
+   and I have a long (long!) ways to go. But I was quite surprised
+   (and kinda blown away) when I flipped through that paper today
+   and realized, “Snap! I actually know what some of these words
+   mean!” . Long story short, grad school takes a lot of hard
+   work, but I am *immensely* grateful for the opportunity to do
+   so. The #math is really quite thrilling! . Alright, well,
+   unfortunately I didn't have a cool math-physics picture to
+   share (unless you want to see more of my notes 😏), so here’s a
+   photo of a subway station near my apartment. It’s got lots of
+   cool #geometry going on. ;) . #EnduranceIsKey Cannot! Contain!!
+   Excitement!!! Today my advisor gave me a paper (a journal
+   article) to read. It relates to some very cool things like
+   topological quantum field theory and gauge theory and manifold
+   topology and higher category theory (*squeee!*) and a plethora
+   of other mathematical physics-y things that I do not understand
+   (so don't ask me about the details yet 😉), and ohmygoshyouguys
+   I’m starting to droolallovermyphone 🤤 because I am so
+   excited!!!!! . I first became interested in mathematical
+   physics seven years ago. At that time, I knew I wanted attend
+   graduate school so that I could (slowly) build the foundation
+   necessary to (start to) understand the language and ideas used.
+   I'm still not there yet: it’s a work in (very slow 🐌) progress,
+   and I have a long (long!) ways to go. But I was quite surprised
+   (and kinda blown away) when I flipped through that paper today
+   and realized, “Snap! I actually know what some of these words
+   mean!” . Long story short, grad school takes a lot of hard
+   work, but I am *immensely* grateful for the opportunity to do
+   so. The #math is really quite thrilling! . Alright, well,
+   unfortunately I didn't have a cool math-physics picture to
+   share (unless you want to see more of my notes 😏), so here’s a
+   photo of a subway station near my apartment. It’s got lots of
+   cool #geometry going on. ;) . #EnduranceIsKey
+   [99]How cool is this! The 3D associahedra! In short, it
+   (topologically) captures the 14 ways you can ‘multiply’ 5
+   things. . You see, when we write down a∙b∙c∙d∙e, it may not be
+   clear what we mean. Do we first multiply a∙b, then multiply by
+   c, then d, then e? Or do we first multiply c∙d, then multiply
+   by b on the left, then e on the right, then a on the left? Of
+   course, if a,b,c,d,e are numbers, then it doesn’t matter:
+   multiplication in ℝ is associative. . BUT there lots of
+   mathematical gadgets *besides* numbers that we can combine with
+   a "multiplication" ∙ that is not associative! (For instance,
+   the cross product of vectors in ℝ³.) So the associahedra help
+   keep track of how the different ways of placing your
+   parentheses are related to one another. . The solid polytope
+   above has 14 vertices, 20 edges, and 9 faces (6 pentagonal, 3
+   rectangular). (In topology-lingo, it’s a cell complex.) Each
+   vertex represents a way of putting parentheses around (i.e.
+   associating) 5 elements: for starters, you have a vertex for
+   (((a∙b)∙c)∙d)∙e, and another for a∙(b∙(c∙(d∙e))). And your
+   remaining vertices are for everything in between! . And there’s
+   an edge between two vertices if you can get from one to the
+   other by an ‘association’ of 3 elements. For instance, there’s
+   an edge between (((a∙b)∙c)∙d)∙e and ((a∙(b∙c))∙d)∙e to keep
+   track of the move (a∙b)∙c a∙(b∙c). The faces of the polytope
+   represent the various associations of 4 elements. (ONE of which
+   was shown in my previous post!) . On the left was my attempt at
+   drawing the polytope, but today I ran into someone who made a
+   3D one with paper and staples! (You can use graph theory and
+   label everything with trees - that's what you see there.) .
+   Needless to say, I was pretty stoked. 😄And of course there's
+   much more to the story here, but perhaps I'll save it for
+   another day :) How cool is this! The 3D associahedra! In short,
+   it (topologically) captures the 14 ways you can ‘multiply’ 5
+   things. . You see, when we write down a∙b∙c∙d∙e, it may not be
+   clear what we mean. Do we first multiply a∙b, then multiply by
+   c, then d, then e? Or do we first multiply c∙d, then multiply
+   by b on the left, then e on the right, then a on the left? Of
+   course, if a,b,c,d,e are numbers, then it doesn’t matter:
+   multiplication in ℝ is associative. . BUT there lots of
+   mathematical gadgets *besides* numbers that we can combine with
+   a "multiplication" ∙ that is not associative! (For instance,
+   the cross product of vectors in ℝ³.) So the associahedra help
+   keep track of how the different ways of placing your
+   parentheses are related to one another. . The solid polytope
+   above has 14 vertices, 20 edges, and 9 faces (6 pentagonal, 3
+   rectangular). (In topology-lingo, it’s a cell complex.) Each
+   vertex represents a way of putting parentheses around (i.e.
+   associating) 5 elements: for starters, you have a vertex for
+   (((a∙b)∙c)∙d)∙e, and another for a∙(b∙(c∙(d∙e))). And your
+   remaining vertices are for everything in between! . And there’s
+   an edge between two vertices if you can get from one to the
+   other by an ‘association’ of 3 elements. For instance, there’s
+   an edge between (((a∙b)∙c)∙d)∙e and ((a∙(b∙c))∙d)∙e to keep
+   track of the move (a∙b)∙c a∙(b∙c). The faces of the polytope
+   represent the various associations of 4 elements. (ONE of which
+   was shown in my previous post!) . On the left was my attempt at
+   drawing the polytope, but today I ran into someone who made a
+   3D one with paper and staples! (You can use graph theory and
+   label everything with trees - that's what you see there.) .
+   Needless to say, I was pretty stoked. 😄And of course there's
+   much more to the story here, but perhaps I'll save it for
+   another day :)
+   [100]Math3ma RSS
+
+
+   Blogroll
+
+   [101]AMS Blog on Math Blogs
+   [102]AMS Grad Blog
+   [103]Baking and Math
+   [104]Math ∩ Programming
+   [105]Math with Bad     Drawings
+   [106]Not Even Wrong
+   [107]Roots of Unity
+
+
+   [] []
+
+

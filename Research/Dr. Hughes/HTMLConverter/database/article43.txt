@@ -1,0 +1,101 @@
+[45]Scientists Have a Crazy Hunch About Why the Sun Is Spinning Too
+Slowly
+
+
+   Physicists have long known that the Sun spins, like the Earth.
+   But a few decades ago, they realized …
+   [46]Read more
+
+
+   What would even produce these magnetic Rossby waves? “Rossby
+   waves are observed in planetary atmospheres partly because the
+   interaction of the fluid that makes up the atmosphere with
+   land,” Mitzi Adams, NASA solar astronomer, told Gizmodo. “On
+   the sun, of course, there is no solid surface” for the outer
+   levels to interact with. The waves, Adams suggested, could
+   result from the outermost layer of the Sun interacting with the
+   layer beneath, but scientists will need to do more modeling
+   work to be certain.
+
+   Advertisement
+
+   Kuhn and Adams both agreed that we need more data.
+   Unforutnately, that won’t be possible for a long time. The key
+   to making an observation like this was the Earth-orbiting Solar
+   Dynamics Observatory, along with the Sun-orbiting STEREO
+   satellites, which let scientists observe the Sun from all sides
+   at the same time. But NASA lost contact with STERO-B, the
+   satellite on the opposite side of the Sun, in 2014. It regained
+   contact briefly in September 2016, but [47]hasn’t had contact
+   with the spacecraft since then (although it’s still trying).
+
+
+   That hasn’t stopped McIntosh’s team from making and testing
+   predictions about the Sun’s activity using his observations and
+   theory. They think these Rossby waves could be used to foretell
+   coming sunspots and increasing solar activity levels, which
+   could lead to an uptick in space weather here on Earth. One
+   paper accepted for publication in The Astrophysical Journal
+   (pre-print [48]here) demonstrates that McIntosh and his
+   colleagues successfully forecast some of the Sun’s magnetic
+   activity in predictions [49]published several years ago. Their
+   new paper also predicts the behavior of solar cycle 25, the
+   next cycle in a pattern of solar magnetic activity that repeats
+   itself every 11 years, and that’s expected to begin anew in
+   2019.
+
+
+   IFRAME:
+   [50]/ajax/inset/iframe?id=jwplayer-video-R8FMfpPu&token=7c62da4
+   6091ddee9ea6a250b74965605&expires=1496664573&property=gizmodo&k
+   ey=qmEhtmX1&post_id=1793663207&player=rXzPsHvOdUYq%2Fi1JAPlQ%2B
+   3QoNo17pgOwQ%2BzsgA%3D%3D
+
+
+   And McIntosh’s solar weather predictions involving Rossby wave
+   observations really do seem so be working.
+
+   “So far, everything is behaivng exactly the way we expected it
+   to,” McIntosh said, noting that his team has correctly called
+   out flares in solar behavior and predicted that the current
+   solar cycle would have less activity than average. “We said
+   we’d see a solar minimum soon, and that new sunspots would show
+   up in 2019. Everything seems to be tracking perfectly,” he
+   said. “But whether we’re lucky or actually tracking something,
+   that’s up to other people.”
+
+   Sponsored
+
+   The results have plenty of other implications besides space
+   weather predicting. Rossby waves on the Sun might mean other
+   stars also have temporary clusters of bright points that
+   traverse the surface with regularity. “One might mistake [a
+   star with Rossby waves] to be a planet of some distance,” said
+   Orkan Umurhan, a research scientist at the NASA Ames Research
+   Center. He thought that some of the distant exoplanets
+   scientists have catalogued might actually just be Rossby waves
+   on those stars. “There’s going to be interest from the
+   astronomers as well for this reason.”
+
+   The ultimate goal is to use these observations to forecast
+   sunspots and flares in solar behavior with more than a few
+   hours of lead time, allowing NASA to rotate satellites to
+   minimize damage, or helping us prepare for a [51]potential
+   power outage. McIntosh will continue making predictions and
+   hoping they play out as he expects. He’s confident about his
+   observations, but definitely needs more data, which will
+   require more satellites. “I’ve been working on this for 15
+   years but that doesn’t mean that it’s right,” he said.
+
+
+   Advertisement
+
+   Advertisement
+
+   Correction: This article has been updated to correct Orkan
+   Umurhan’s affiliation.
+
+   [[52]Nature Astronomy]
+
+
+

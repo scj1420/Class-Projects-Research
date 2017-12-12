@@ -1,0 +1,369 @@
+"/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java" -Didea.launcher.port=7534 "-Didea.launcher.bin.path=/Applications/Android Studio.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/charsets.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/localedata.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunec.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jce.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jsse.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/management-agent.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/resources.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/dt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/jconsole.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/sa-jdi.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/tools.jar:/Users/Seong-EunCho/Desktop/Dr. Hughes RA/HTMLConverter/lib/build/classes/main:/Applications/Android Studio.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain URLtoString http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+
+Sending 'GET' request to URL : https://www.w3.org/services/html2txt?url=http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+Response Code : 200
+     * [1]Fox News
+      file://foxnews.com/
+
+     * [2]Fox Business
+      file://foxbusiness.com/
+
+     * [3]Fox News Go
+      file://www.foxnewsgo.com/
+
+     * [4]Fox News Radio
+      file://radio.foxnews.com/
+
+     * [5]Fox Nation
+      file://nation.foxnews.com/
+
+     * [6]Fox News Insider
+
+      [6] file://foxnewsinsider.com/
+
+[7]Fox News
+
+      [7] file://www.foxnews.com/
+
+[8]Politics
+
+      [8] file://www.foxnews.com/politics.html/?intcmp=sectionname
+
+   [9]Expand/Collapse Search
+
+      [9] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+
+   ____________________ Search
+
+     * [10]Home
+      file://www.foxnews.com/
+
+     * [11]Video
+      file://video.foxnews.com/
+
+     * [12]Politics
+      file://www.foxnews.com/politics.html
+
+     * [13]U.S.
+      file://www.foxnews.com/us.html
+
+     * [14]Opinion
+      file://www.foxnews.com/opinion.html
+
+     * [15]Business
+      file://www.foxbusiness.com/
+
+     * [16]Entertainment
+      file://www.foxnews.com/entertainment.html
+
+     * [17]Tech
+      file://www.foxnews.com/tech.html
+
+     * [18]Science
+      file://www.foxnews.com/science.html
+
+     * [19]Health
+      file://www.foxnews.com/health.html
+
+     * [20]Travel
+      file://www.foxnews.com/travel.html
+
+     * [21]Lifestyle
+      file://www.foxnews.com/leisure
+
+     * [22]World
+      file://www.foxnews.com/world.html
+
+     * [23]On Air
+
+      file://www.foxnews.com/shows/index.html
+
+     * [24]Politics Home
+      http://www.foxnews.com/politics/index.html
+
+     * [25]Executive
+      http://www.foxnews.com/politics/executive-branch/index.html
+
+     * [26]Senate
+      http://www.foxnews.com/politics/senate/index.html
+
+     * [27]House
+      http://www.foxnews.com/politics/house/index.html
+
+     * [28]Defense
+      http://www.foxnews.com/politics/defense/index.html
+
+     * [29]Judiciary
+      http://www.foxnews.com/politics/judiciary/index.html
+
+     * [30]Fox News Poll
+
+     [30] http://www.foxnews.com/official-polls/index.html
+
+[31]EXECUTIVE
+
+     [31] http://www.foxnews.com/category/politics/executive.html
+
+Trump says he will submit evidence of wiretapping to House committee
+'very soon'
+
+   Published March 15, 2017
+   [32]FoxNews.com
+   [33]Facebook0 [34]Twitter0 [35]livefyre [36]Email [37]Print
+   [38]Exclusive: President Trump on the battle over the GOP
+   replacement plan for ObamaCare, wiretapping allegations, the
+   'illegal, disgraceful' leaking of his tax records to media and
+   more #Tucker
+
+     [32] http://www.foxnews.com/
+     [33] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+     [34] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+     [35] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+     [36] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+     [37] http://www.foxnews.com/politics/2017/03/15/trump-says-will-submit-evidence-wiretapping-to-house-committee-very-soon.print.html
+     [38] http://video.foxnews.com/v/5361147496001/trump-wiretap-covers-lot-different-things
+
+
+   President Trump discussed his tweeted accusation that President
+   Obama ordered "wires" at Trump Tower tapped during last year's
+   presidential campaign in an exclusive interview with Fox News'
+   "Tucker Carlson Tonight" Wednesday.
+
+   Trump told host Tucker Carlson that the administration "will be
+   submitting things" to the House Permanent Select Committee on
+   Intelligence "very soon." The president added that he "will be,
+   perhaps speaking about this next week" and predicted that
+   "you’re going to find some very interesting items coming to the
+   forefront over the next 2 weeks."
+
+   When asked by Carlson why he tweeted about the alleged phone
+   tap before producing evidence, Trump said his definition of
+   wiretapping "covers a lot of different things."
+
+   "That really covers surveillance and many other things. Nobody
+   ever talks about the fact that [the words 'wires tapped'] was
+   in quotes [in the tweet], but that’s a very important thing."
+
+   Trump defended his ongoing use of social media while in office,
+   saying that "maybe I wouldn't be here if it wasn't for Twitter,
+   because I get such a fake press, such a dishonest press.
+   [39]Exclusive: President Trump on his use of Twitter, its role
+   in his presidential victory, his attitude toward the press
+   coverage he receives from 'fake new media,'and more #Tucker
+
+     [39] http://video.foxnews.com/v/5361131841001/trump-twitter-allows-me-to-get-my-message-out
+
+
+   "I'm not including Fox," the president added, "because I think
+   Fox has been fair to me ... [but] the news is not honest, much
+   of the news. It's not honest, and when I have close to 100
+   million people watching me on [social media], I have my own
+   form of media."
+
+   When Carlson countered that Trump "devalues his own currency"
+   if allegations he makes on Twitter turn out to be untrue, the
+   president responded, "Well, let's see whether or not I prove
+   it."
+
+   "If I don't do that, I won't get my word out, because when I
+   say things, the press doesn't cover it accurately," Trump later
+   said. "If they're not going to do me the honor or the public
+   the honor of spreading my word accurately ... when I can reach
+   that many people, Twitter is a wonderful thing for me, because
+   I get the word out."
+
+   When Carlson asked whether any of the president's tweets were
+   moderated by his staff, Trump responded, "Sure ... A lot of
+   times, my staff comes to me and they say, 'Can you do a tweet
+   on this or that because it's not being shown correctly.'"
+
+   Trump also responded sharply to the leak of two pages of his
+   2005 tax returns, calling the MSNBC report "a disgrace."
+
+   "I have no idea where they got it but it’s illegal and they’re
+   not supposed to have it and it's not supposed to be leaked, and
+   it’s certainly not an embarrassing tax return at all, but it’s
+   an illegal thing they’ve been doing it, they’ve done it before
+   and I think it’s a disgrace," he said.
+
+   The commander-in-chief's comments came afterDCReport.org
+   reporter David Cay Johnston revealed 2005 Trump tax documents
+   to MSNBC host Rachel Maddow.
+
+   Advertisement
+
+Trending in Politics
+
+     * 1
+    [40]Trump says he will submit evidence of wiretapping to House
+       committee 'very soon'
+      http://www.foxnews.com/politics/2017/03/15/trump-says-will-submit-evidence-wiretapping-to-house-committee-very-soon.html
+
+     * 2
+    [41]Fox News Poll: Trump approval slips, even as more feel
+       economy improving
+      http://www.foxnews.com/politics/2017/03/15/fox-news-poll-trump-approval-slips-even-as-more-feel-economy-improving.html
+
+     * 3
+    [42]FBI No. 2 did not disclose wife's ties to Clinton ally,
+       records show
+      http://www.foxnews.com/politics/2017/03/15/fbi-no-2-did-not-disclose-wifes-ties-to-clinton-ally-records-show.html
+
+     * 4
+    [43]Fox News Poll: 34% of voters favor GOP health care plan
+   http://www.foxnews.com/politics/2017/03/15/fox-news-poll-34-voters-favor-gop-health-care-plan.html
+
+     * 5
+    [44]Federal judge in Hawaii halts Trump travel ban
+
+     [44] http://www.foxnews.com/politics/2017/03/15/federal-judge-in-hawaii-halts-trump-travel-ban.html
+
+   [45]Site Index
+
+     [45] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+
+Sections
+
+     * [46]Home
+      file://www.foxnews.com/
+
+     * [47]Video
+      file://video.foxnews.com/
+
+     * [48]Politics
+      file://www.foxnews.com/politics.html
+
+     * [49]U.S.
+      file://www.foxnews.com/us.html
+
+     * [50]Opinion
+      file://www.foxnews.com/opinion.html
+
+     * [51]Entertainment
+      file://www.foxnews.com/entertainment.html
+
+     * [52]Tech
+      file://www.foxnews.com/tech.html
+
+     * [53]Science
+      file://www.foxnews.com/science.html
+
+     * [54]Health
+      file://www.foxnews.com/health.html
+
+     * [55]Travel
+      file://www.foxnews.com/travel.html
+
+     * [56]Lifestyle
+      file://www.foxnews.com/leisure
+
+     * [57]World
+      file://www.foxnews.com/world.html
+
+     * [58]Sports
+      file://www.foxnews.com/sports.html
+
+     * [59]Weather
+      file://www.foxnews.com/weather
+
+     * [60]On Air
+
+     [60] file://www.foxnews.com/shows.html
+
+Tools
+
+     * [61]Live Video
+      file://video.foxnews.com/#sp=watch-live
+
+     * [62]Trending
+      file://www.foxnews.com/trending
+
+     * [63]Newsletters
+      file://www.foxnews.com/alerts/subscribe.html
+
+     * [64]Alerts
+      file://www.foxnews.com/newsletter-signup/alerts
+
+     * [65]Podcasts
+      file://radio.foxnews.com/podcast/
+
+     * [66]Radio
+      file://radio.foxnews.com/
+
+     * [67]Apps & Products
+
+     [67] file://www.foxnews.com/about/apps-downloads/
+
+About
+
+     * [68]Careers
+      file://careers.foxnews.com/
+
+     * [69]College Students
+      file://careers.foxnews.com/students
+
+     * [70]Fox Around the World
+      file://www.foxnews.com/foxaroundtheworld/
+
+     * [71]Advertise With Us
+      file://advertise.foxnews.com/
+
+     * [72]New Terms of Use [73](What's New)
+      file://www.foxnews.com/about/terms-of-use/
+      file://www.foxnews.com/about/terms-new
+
+     * [74]New Privacy Policy
+      file://www.foxnews.com/about/privacy-policy/
+
+     * [75]Ad Choices
+      file://www.foxnews.com/about/privacy-policy/#ad-choice
+
+     * [76]Help
+      file://help.foxnews.com/index.html
+
+     * [77]Email Newsroom
+      mailto:newsmanager@foxnews.com
+
+     * [78]Media Relations
+      file://press.foxnews.com/
+
+     * [79]Closed Captioning Policy
+
+     [79] file://www.foxnews.com/closed-captioning
+
+Follow
+
+     * [80]Facebook
+      file://www.facebook.com/FoxNews
+
+     * [81]Twitter
+      file://twitter.com/foxnews
+
+     * [82]Google+
+      file://www.google.com/+FoxNews
+
+     * [83]Instagram
+      file://www.instagram.com/foxnews/
+
+     * [84]RSS
+      file://www.foxnews.com/about/rss/
+
+     * [85]Newsletters
+
+     [85] file://www.foxnews.com/alerts/subscribe.html
+
+   [86]Fox News [87]Back to Top
+
+     [86] file://www.foxnews.com/
+     [87] http://www.foxnews.com/politics/2017/03/15/trump-calls-tax-return-leak-illegal-thinks-msnbc-report-is-disgrace.html
+
+   This material may not be published, broadcast, rewritten, or
+   redistributed. ©2017 FOX News Network, LLC. All rights
+   reserved. All market data delayed 20 minutes.
+
+   [dbg52463.moatads.com?a=FoxNews]
+   [d5i9o0tpq9sa1.cloudfront.net?a=FoxNews]
+
+
+
+Process finished with exit code 0

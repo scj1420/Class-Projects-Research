@@ -1,0 +1,293 @@
+21 comments
+
+   [571]Comments feed for this article
+
+
+   [572]5 February, 2017 at 8:42 pm
+
+   [573]ravenclawprefect
+
+
+   Should “elements of $\{1,…,n\}$” read “subsets” instead?
+
+   [Corrected, thanks – T.]
+   [574]Reply
+
+
+   [575]5 February, 2017 at 9:45 pm
+
+   [576]Paata Ivanishvili
+
+
+   For n functions the answer seems to be
+   \frac{\ln \frac{n^{n}}{(n-1)^{n-1}}}{\ln n} . And it
+   approeaches to 1 as 1+\frac{1}{\ln n} when n goes to infinity
+
+   [Hmm, I think you’re right, and the proof methods extend to
+   this setting. We’ll add a remark to this effect in the next
+   revision of the ms. -T.]
+   [577]Reply
+
+
+   [578]6 February, 2017 at 3:56 am
+
+   john doe
+
+   a tiny comment:
+   In equation (1.1) S should be replaced with X
+
+   [Thanks, this will be corrected in the next revision of the ms.
+   – T]
+   [579]Reply
+
+
+   [580]6 February, 2017 at 1:06 pm
+
+   Kodlu
+
+   The notation f_1\ast f_2\ast f_3(1,\ldots,1) is clear in the
+   paper but is somewhat opaque in the post (or at least it was
+   opaque to me!)
+   [581]Reply
+
+
+   [582]8 February, 2017 at 8:26 am
+
+   VMT
+
+   Minor remark: I think there is a slightly simpler proof of
+   inequality (1.4) in the paper.
+   If the left-hand side achieves a maximum for a,b,c\in(0,1)^3 ,
+   one can prove that (a,b,c)=(2/3,2/3,2/3) :
+   imposing the vanishing of the differential, one gets that
+   A:=\frac{1-a}{a} , B:=\frac{1-b}{b} , C:=\frac{1-c}{c} satisfy
+   A^{1-1/p}(B^{1/p}+C^{1/p})=1\ (*_A) and the two other equations
+   obtained by permutation of A,B,C .
+   Assuming wlog that A\le B,C , we have \lambda:=\frac{B}{A}\ge 1
+   , \mu:=\frac{C}{A}\ge 1 . Comparison of (*_A) and (*_B) gives
+   \lambda^{1/p}+\mu^{1/p}=\lambda^{1-1/p}(1+\mu^{1/p}) , but
+   since \frac{1}{p}\le 1-\frac{1}{p} this equation can only hold
+   if \lambda=1 . Similarly \mu=1 and we deduce A=B=C=\frac{1}{2}
+   ,
+   i.e. (a,b,c)=(2/3,2/3,2/3) . The case when (1.4) has a minimum
+   on the boundary of the cube is simpler.
+   [583]Reply
+       [584]9 February, 2017 at 10:10 pm
+       [585]Terence Tao
+       Unfortunately the inequality \frac{1}{p} \leq 1 -
+       \frac{1}{p} is false. As discussed in the paper, there are
+       other critical points arising from local minima rather than
+       local maxima; in your notation, one of them is (A,B,C)
+       \approx (0.09343, 0.09343, 4.85147) .
+       [586]Reply
+
+
+       [587]10 February, 2017 at 12:32 am
+       VMT
+       Whoops! Sorry for wasting your time…
+       [588]Reply
+
+
+   [589]8 February, 2017 at 10:02 am
+
+   [590]David Speyer
+
+
+   Echoing Kodlu’s complaint: I originally assumed that \ast was
+   convolution treating the Hamming cube as an abelian group of
+   order 2^n . It was only after some confusion that I realized we
+   were considering the Hamming cube as a subset of \mathbb{Z}^n
+   and convolving in that group. The paper’s statement is
+   ambiguous on this point as well, although by time I looked that
+   up I was alert to the issue.
+
+   [Clarified here and in the next revision of the ms, thanks –
+   T.]
+   [591]Reply
+
+
+   [592]8 February, 2017 at 11:45 am
+
+   Anonymous
+
+   This optimal exponent implies that the ratio of the best known
+   upper bound to the best known lower bound for the above number
+   of partitions is |X|^{o(1)} . Can this growth estimate of this
+   ratio be improved ? (or even be made bounded?)
+   [593]Reply
+       [594]13 February, 2017 at 4:45 pm
+       [595]Terence Tao
+       Probably it can be improved. One needs to replace the
+       right-hand side |X_1|^{1/p} |X_2|^{1/p} |X_3|^{1/p} in the
+       fourth-display by some more complicated “Bellman function”
+       F(|X_1|, |X_2|, |X_3|) of the three sizes that grows a
+       little bit more slowly than |X|^{3/p} on the diagonal, and
+       also gains something when the |X_1|, |X_2|, |X_3| are
+       different sizes from each other. One will probably have to
+       do some Taylor expansion calculations near the critical
+       point (a,b,c) = (2/3,2/3,2/3) of the elementary inequality
+       used here in order to make sure the induction closes
+       properly.
+       [596]Reply
+
+
+       [597]14 February, 2017 at 5:47 pm
+       [598]Paata Ivanisvili
+       But how to close the induction? If little o is in n in the
+       expression |X|^{o(1)} then the “Bellman function” F should
+       also depend on n . I don’t quite see how these quantities
+       propagate, or maybe I misunderstood the question.
+       [599]Reply
+
+
+       [600]14 February, 2017 at 6:10 pm
+       [601]Terence Tao
+       In the paper, the gap between the upper and lower bounds is
+       of the form 1/n^{O(1)} , which is not quite the same thing
+       as |X|^{o(1)} , though in the key examples, X is of
+       exponential size in n so the gap should be something like
+       1/\log^{O(1)} |X| . To make the induction close, I think
+       one should use a Bellman function that is independent of n
+       and which is smaller than |X|^{3/p} by a power of \log|X|
+       when |X_1|=|X_2|=|X_3|=|X| ; it has to be carefully chosen
+       not only in the main region where |X_1| \sim |X_2| \sim
+       |X_3| but also in the extreme cases when say one of the
+       |X_i| is much smaller than the other two (this corresponds
+       to the fact that in addition to the main critical point
+       (2/3,2/3,2/3) of the key inequality, we also have critical
+       points at (1,1,0) and permutations). Finding the precise
+       Bellman function that works may require a certain amount of
+       trial and error and iteration (trying one Bellman function,
+       finding out the locations where the induction fails to
+       close, tweaking the Bellman function to repair the
+       induction in that case, and then seeing if this causes the
+       induction to stop working at some other location, repeating
+       as necessary).
+       [602]Reply
+
+
+       [603]26 May, 2017 at 4:53 pm
+       [604]Paata Ivanisvili
+       Given integer A=|X|>1 we want to find nonnegative function
+       B on [0,A]^{3} such that B(1,1,1)=1 and
+       B(a_{1},a_{2},b_{3})+B(a_{1},b_{2},a_{3})
+
+       B(a_{1}+b_{1},a_{2}+b_{2},a_{3}+b_{3}) . And the goal is to
+       minimize B(A,A,A) . This problem was solved when A \to
+       \infty with B(x,y,z)=x^{1/p}y^{1/p}z^{1/p} . But for fixed
+       A>1 the best possible B does not have to be this one, it
+       can be smaller. Is this what was meant in your first
+       comment? The only thing that is not clear to me why this
+       main inequality that I wrote on B (and which closes
+       induction easily) should be also necessary for the true B ,
+       i.e., I mean yes I agree, it is sufficient to solve the
+       problem and find some bound, but is it also necessary,
+       i.e., will the result give me sharp bound?
+
+   [605]8 February, 2017 at 4:17 pm
+
+   [606]Paata Ivanishvili
+
+
+   Here is the proof for the finite number of functions (not
+   necessarily 2) which corresponds to n partitions instead of
+   $2$.
+   =0
+   Again the question boils down to the Hamming cube \{-1,1\} of
+   dimension 1 and the best possible power for the convolution
+   inequality is p = \frac{\ln \frac{n^{n}}{(n-1)^{n-1}}}{\ln n} ,
+   and for the number of n-1 partitions we obtain N/p ( I am not
+   sure if N/p is the optimal power for N>3 (I just did not think
+   about the example).
+   [608]Reply
+
+
+   [609]12 February, 2017 at 6:33 am
+
+   [610]Matjaž Gomilšek
+
+
+   Shouldn’t |S| in the rhs of (1.1) be |X| ?
+
+   [This will be corrected in the next version of the ms. -T]
+   [611]Reply
+
+
+       [612]12 February, 2017 at 6:33 am
+       [613]Matjaž Gomilšek
+       In the preprint, that is.
+       [614]Reply
+
+
+   [615]14 February, 2017 at 1:46 am
+
+   [616]SSQR (@SumantriSQR)
+
+
+   is this has any connection with cluster algebra that initiated
+   by fomin-zelevinski??
+
+   [No. – T.]
+   [617]Reply
+
+
+   [618]20 February, 2017 at 5:20 pm
+
+   [619]A Gauss-Bonnet connection - Quantum Calculus
+
+
+   […] are cheap, one can find them in any library or now the
+   internet. But it is also on the internet: An example. End Side
+   […]
+   [620]Reply
+
+
+   [621]27 February, 2017 at 10:13 am
+
+   Romain Viguier
+
+   you should make intervals, make in it a convergent series, make
+   an increasing function on a subset n- (n- (n / i) of
+   the starting set for i ranging from 1 to n,
+   you make a deterministic decomposition (we know the arrival) of
+   the function. Then you remove an interval, and we will have a
+   cos and sin function.
+   The limit at 0 is n ^ 2 – n / i for i ranging from 1 to n.
+   [622]Reply
+
+
+   [623]26 March, 2017 at 3:01 am
+
+   [624]Sergei Ofitserov
+
+
+   Dear Terence Tao! I proceed with big interest to read your
+   notes and want to give reply on “trilinear” bound.
+   ——Quarks in quantum chromodynamics.—— In inequality
+   |X1|~|X2|~|X3| it is necessary to apply meanings u,d,s.
+   Accordingly:
+   |X1|=u, |X2|=d, |X3|=s, because quarks u,d,s to have various
+   quantum numbers. In equality |X1|=|X2|=|X3|=|X| it is necessary
+   to apply meaninqs u,u,u. Accordingly:–
+   |X1|=u, |X2|=u, |X3|=u, because quarks u,u,u to have identical
+   quantum numbers and directions. Matrixs of Gell-Mann (3×3) to
+   form algebra ASU(3). Thus, in this way gauge theory, base on
+   group SU(3), open approach for theory of Yang-Mills.Constrained
+   quarks in groups SU(3)=(u,d,s) or SU(3)=(u,u,u) give
+   possibility to approach for demonstration of Rieman hypothesis
+   with other side. Fourth-display=>this metric siqnature(+—).
+   Thanks!Sergei.
+   [625]Reply
+
+
+   [626]21 April, 2017 at 2:19 pm
+
+   [627]kaave
+
+
+   This is reminding me of a result of Manners:
+   Appendix B, Proposition B.1.
+   [629]Reply
+
+
+

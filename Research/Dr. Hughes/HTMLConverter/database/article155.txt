@@ -1,0 +1,96 @@
+  Flying Over the Jungle
+
+   Despite the complexity of perfectoid spaces, Scholze is known
+   for the clarity of his talks and papers. “I don’t really
+   understand anything until Peter explains it to me,” Weinstein
+   said.
+
+   Scholze makes a point of trying to explain his ideas at a level
+   that even beginning graduate students can follow, Caraiani
+   said. “There’s this sense of openness and generosity in terms
+   of ideas,” she said. “And he doesn’t just do that with a few
+   senior people, but really, a lot of young people have access to
+   him.” Scholze’s friendly, approachable demeanor makes him an
+   ideal leader in his field, Caraiani said. One time, when she
+   and Scholze were on a difficult hike with a group of
+   mathematicians, “he was the one running around making sure that
+   everyone made it and checking up on everyone,” Caraiani said.
+
+   Yet even with the benefit of Scholze’s explanations, perfectoid
+   spaces are hard for other researchers to grasp, Hellmann said.
+   “If you move a little bit away from the path, or the way that
+   he prescribes, then you’re in the middle of the jungle and it’s
+   actually very hard.” But Scholze himself, Hellmann said, “would
+   never lose himself in the jungle, because he’s never trying to
+   fight the jungle. He’s always looking for the overview, for
+   some kind of clear concept.”
+
+   Scholze avoids getting tangled in the jungle vines by forcing
+   himself to fly above them: As when he was in college, he
+   prefers to work without writing anything down. That means that
+   he must formulate his ideas in the cleanest way possible, he
+   said. “You have only some kind of limited capacity in your
+   head, so you can’t do too complicated things.”
+
+   While other mathematicians are now starting to grapple with
+   perfectoid spaces, some of the most far-reaching discoveries
+   about them, not surprisingly, have come from Scholze and his
+   collaborators. In 2013, a result he posted online “really kind
+   of stunned the community,” Weinstein said. “We had no idea that
+   such a theorem was on the horizon.”
+
+   [62]Scholze’s result expanded the scope of rules known as
+   reciprocity laws, which govern the behavior of polynomials that
+   use the arithmetic of a clock (though not necessarily one with
+   12 hours). Clock arithmetics (in which, for example, 8 + 5 = 1
+   if the clock has 12 hours) are the most natural and widely
+   studied finite number systems in mathematics.
+
+
+   Reciprocity laws are generalizations of the 200-year-old
+   quadratic reciprocity law, a cornerstone of number theory and
+   one of Scholze’s personal favorite theorems. The law states
+   that given two prime numbers p and q, in most cases p is a
+   perfect square on a clock with q hours exactly when q is a
+   perfect square on a clock with p hours. For example, five is a
+   perfect square on a clock with 11 hours, since 5 = 16 = 4^2,
+   and 11 is a perfect square on a clock with five hours, since 11
+   = 1 = 1^2.
+
+   “I find it very surprising,” Scholze said. “On the face of it,
+   these two things seem to have nothing to do with each other.”
+
+   “You can interpret a lot of modern algebraic number theory as
+   just attempts to generalize this law,” Weinstein said.
+
+   In the middle of the 20th century, mathematicians discovered an
+   astonishing link between reciprocity laws and what seemed like
+   an entirely different subject: the “hyperbolic” geometry of
+   patterns such as M.C. Escher’s famous [63]angel-devil tilings
+   of a disk. This link is a core part of the “Langlands program,”
+   a collection of interconnected conjectures and theorems about
+   the relationship between number theory, geometry and analysis.
+   When these conjectures can be proved, they are often enormously
+   powerful: For instance, the proof of Fermat’s Last Theorem
+   boiled down to solving one small (but highly nontrivial)
+   section of the Langlands program.
+
+
+   Mathematicians have gradually become aware that the Langlands
+   program extends far beyond the hyperbolic disk; it can also be
+   studied in higher-dimensional hyperbolic spaces and a variety
+   of other contexts. Now, Scholze has shown how to extend the
+   Langlands program to a wide range of structures in “hyperbolic
+   three-space”—a three-dimensional analogue of the hyperbolic
+   disk—and beyond. By constructing a perfectoid version of
+   hyperbolic three-space, Scholze has discovered an entirely new
+   suite of reciprocity laws.
+
+   “Peter’s work has really completely transformed what can be
+   done, what we have access to,” Caraiani said.
+
+   Scholze’s result, Weinstein said, shows that the Langlands
+   program is “deeper than we thought … it’s more systematic, it’s
+   ever-present.”
+
+

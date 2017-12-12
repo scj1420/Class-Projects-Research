@@ -1,0 +1,35 @@
+You're reading: [37]Apéryodical
+
+
+Apéryodical: Scratch and sniff ζ plot
+
+   By [38]Katie Steckles. Posted November 14, 2016 in
+   [39]Apéryodical
+
+
+   [40]zeta-plot
+
+
+   Christian’s put together this fun applet for exploring the Zeta
+   function – you can move your pointer around to reveal the value
+   of $\zeta$ at each point in the complex plane.
+
+   The hue (colour) revealed is the argument of the value, and the
+   lightness (bright to dark) represents the magnitude. There’s a
+   [41]blog post over at Gandhi Viswanathan’s Blog explaining how
+   it works.
+
+
+   The resulting plot has contour lines showing how the function
+   behaves.
+
+   [42]Explore!
+
+
+
+
+
+
+
+
+

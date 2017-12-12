@@ -1,0 +1,115 @@
+10/06/17 17:43
+
+Problem 1 (5 points):
+AttributeError: 'NoneType' object has no attribute 'value'
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 55/60 = 91.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/09/17 17:30
+
+Problem 1 (5 points):
+AttributeError: 'NoneType' object has no attribute 'value'
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 55/60 = 91.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/11/17 15:58
+
+Problem 1 (5 points):
+AttributeError: 'NoneType' object has no attribute 'value'
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 55/60 = 91.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/11/17 16:59
+
+Problem 1 (5 points):
+AttributeError: 'NoneType' object has no attribute 'value'
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 55/60 = 91.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/12/17 09:20
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 60/60 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

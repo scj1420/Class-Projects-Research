@@ -1,0 +1,72 @@
+Don't miss out on WIRED's latest videos.
+       [36]Follow
+
+
+   Advertisement.
+
+   (BUTTON) (BUTTON) (BUTTON)
+
+   [AIPokerTA_17011856983392.jpg]
+
+   Slide: 1 / of 1. Caption: Caption: Professional poker player
+   Jason Les plays against "Libratus," at Rivers Casino in
+   Pittsburgh, on January 11, 2017.Andrew Rush/Pittsburgh
+   Post-Gazette/AP
+   [37]Skip Article Header. Skip to: Start of Article.
+
+
+       A Mystery AI Just Crushed the Best Human Players at Poker
+
+
+   Jason Les Professional poker player Jason Les plays against
+   "Libratus," at Rivers Casino in Pittsburgh, on January 11,
+   2017.Andrew Rush/Pittsburgh Post-Gazette/AP
+
+   Another game just fell to the machines.
+
+   Yesterday, [40]after 20 days of play at a casino in Pittsburgh,
+   an AI built by two Carnegie Mellon researchers officially
+   defeated four top players at no-limit Texas Hold ‘Em—a
+   particularly complex form of poker that relies heavily on
+   longterm betting strategies and game theory. Over the past
+   twenty years, machines have topped the best humans at checkers,
+   chess, Scrabble, Jeopardy!, and [41]even the ancient game of
+   Go. But no AI had ever beaten the best at such an extreme game
+   of “imperfect information,” a game where certain elements, such
+   as the cards on the table, are hidden. Among humans, no-limit
+   Hold ‘Em requires a certain degree of intuition, not to mention
+   luck.
+
+
+   ‘We’re playing against each other. But we’re also trying to win
+   for the humans.’
+
+   Carnegie Mellon professor Tuomas Sandholm and grad student Noam
+   Brown designed the AI, which they call Libratus, Latin for
+   “balance.” Almost two years ago, the pair [42]challenged some
+   top human players with a similar AI and lost. But this time,
+   they won handily: Across 20 days of play, Libratus topped its
+   four human competitors by more than $1.7 million, and all four
+   humans finished with a negative number of chips.
+
+
+   Yes, poker is just a game. But the game theory exhibited by
+   Libratus could help with everything from financial trading to
+   political negotiations to auctions, says University of Michigan
+   professor Michael Wellman, who specializes in game theory and
+   closely follows the world of AI poker. In no-limit Hold ‘Em,
+   players aren’t necessarily trying to win each small hand.
+   They’re trying to win the most money, and that means developing
+   betting strategies that play out over dozens of hands. A
+   machine that masters no-limit Texas Hold ‘Em mimics the kind of
+   human intuition these strategies require.
+
+   According to the human players that lost out to the machine,
+   Libratus is aptly named. It does a little bit of everything
+   well: knowing when to bluff and when to bet low with very good
+   cards, as well as when to change its bets just to thrown off
+   the competition. “It splits its bets into three, four, five
+   different sizes,” says Daniel McAulay, 26, one of the players
+   bested by the machine. “No human has the ability to do that.”
+
+

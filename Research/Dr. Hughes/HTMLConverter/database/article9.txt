@@ -1,0 +1,380 @@
+By [35]Cass Sunstein and [36]Richard Thaler
+
+
+     December 7, 2016
+
+
+   [37]The book “The Undoing Project: A Friendship That Changed
+   Our Minds,” by Michael Lewis, tells the story of the
+   psychologists Amos Tversky, left, and Daniel Kahneman, right.
+   The book “The Undoing Project: A Friendship That Changed Our
+   Minds,” by Michael Lewis, tells the story of the psychologists
+   Amos Tversky, left, and Daniel Kahneman, right.CreditPhotograph
+   Courtesy Barbara Tversky
+
+
+   In 2003, we reviewed “Moneyball,” Michael Lewis’s book about
+   Billy Beane and the Oakland A’s. The book, we noted, had become
+   a sensation, despite focussing on what would seem to be the
+   least exciting aspect of professional sports: upper management.
+   Beane was a failed Major League Baseball player who went into
+   the personnel side of the business and, by applying superior
+   “metrics,” had remarkable success with a financial underdog. We
+   loved the book—and pointed out that, unbeknownst to the
+   author, [38]it was really about behavioral economics, the
+   combination of economics and psychology in which we shared a
+   common interest, and which we had explored together with
+   respect to public policy and law.
+
+
+   Why isn’t the market for baseball players “efficient”? What is
+   the source of the biases that Beane was able to exploit? Some
+   of the answers to these questions, we suggested, might be found
+   by applying the insights of the Israeli psychologists Daniel
+   Kahneman and Amos Tversky, on whose work [39]behavioral
+   economics greatly relies. Lewis read the review, began to take
+   an interest in the whole topic of human rationality, and,
+   improbably, decided to write a book about Kahneman and Tversky.
+   He kindly even gave us credit for setting him down this path.
+
+
+   Though we were pleased that Lewis was taking an interest in our
+   field, we admit to being skeptical when we heard about his book
+   plan. Granted, Lewis has shown many times before—not only with
+   “Moneyball” but also with “The Big Short,” his book about the
+   real-estate market, and “Flash Boys,” which is about high-speed
+   trading—that he can write a riveting book about an arcane
+   subject. And we did not doubt the appeal of the book’s main
+   characters: one of us had written several papers with Kahneman,
+   and the other had known Kahneman and Tversky since 1977 and had
+   collaborated with both men. (Tversky died in 1996, at the age
+   of fifty-nine. Kahneman, now eighty-two, is blessedly still
+   very much with us.) Both of us had been deeply influenced by
+   their joint work on the psychology of judgment and
+   decision-making. Still, how was Lewis going to turn a story
+   about their lives into the kind of page-turner that he’s known
+   for? Kahneman and Tversky were brilliant, but they did most of
+   their work together more than thirty years ago, and they worked
+   primarily by talking to each other, switching between English
+   and Hebrew. Where’s the book?
+
+   Our skepticism was misplaced. The book, titled “The Undoing
+   Project: A Friendship That Changed Our Minds,” captivated both
+   of us, even though we thought we knew most of the story—and
+   even though the book is just what Lewis had said it would be, a
+   book about Amos and Danny, two men who changed how people think
+   about how people think. Lewis accomplishes this in his usual
+   way, by telling fascinating stories about intriguing people,
+   and leaving readers to make their own judgments about what
+   lessons should be learned. He provides a basic primer on the
+   research of Kahneman and Tversky, but almost in passing; what
+   is of interest here is the collaboration between two
+   scientists. Having written several articles and one book
+   together, we have firsthand experience in both the joys and
+   struggles of getting two minds to speak with one voice, and the
+   conflicts that can arise when one author is a fast writer and
+   the other likes to linger over each word. And while one gleans
+   a good deal about teamwork from the book, Lewis doesn’t spell
+   the lessons out. Instead, the reader learns through
+   observation, getting as close as anyone could to being in those
+   closed rooms where the two men worked.
+
+   In 1968, Tversky and Kahneman were both rising stars in the
+   psychology department at the Hebrew University of Jerusalem.
+   They had little else in common. Tversky was born in Israel and
+   had been a military hero. He had a bit of a quiet swagger
+   (along with, incongruously, a slight lisp). He was an optimist,
+   not only because it suited his personality but also because, as
+   he put it, “when you are a pessimist and the bad thing happens,
+   you live it twice. Once when you worry about it, and the second
+   time when it happens.” A night owl, he would often schedule
+   meetings with his graduate students at midnight, over tea, with
+   no one around to bother them.
+
+   Tversky was a font of memorable one-liners, and he found much
+   of life funny. He could also be sharp with critics. After a
+   nasty academic battle with some evolutionary psychologists, he
+   proclaimed, “Listen to evolutionary psychologists long enough,
+   and you’ll stop believing in evolution.” When asked about
+   artificial intelligence, Tversky replied, “We study natural
+   stupidity.” (He did not really think that people were stupid,
+   but the line was too good to pass up.) He also tossed off such
+   wisdom as “The secret to doing good research is always to be a
+   little underemployed. You waste years by not being able to
+   waste hours.” Managers who spend most of their lives in
+   meetings should post that thought on their office walls.
+
+   Early in his career, Tversky was a “mathematical psychologist,”
+   which meant that he used formal models to characterize human
+   behavior. He didn’t care for metaphors: “They replace genuine
+   uncertainty about the world with semantic ambiguity. A metaphor
+   is a cover-up.” He was organized and highly disciplined. His
+   office was spotless; there was nothing on his desk except a
+   pad, a mechanical pencil, and an eraser. (Even Tversky made
+   mistakes.)
+
+   If there were a pad and pencil in Daniel Kahneman’s office, on
+   the other hand, Kahneman would struggle to find them. Born in
+   Tel Aviv when his mother was visiting family, he spent his
+   childhood in Paris, speaking French as his first language. His
+   father was a chemist in a cosmetics company. In 1940, the
+   German occupation put the family at risk. Hiding in the South
+   of France, they managed to survive (with the exception of his
+   father, who died in 1944, from untreated diabetes). After the
+   war, the rest of the family immigrated to Palestine.
+
+   A constant worrier, Kahneman is an early riser who often wakes
+   up alarmed about something. He is prone to pessimism—claiming
+   that, by expecting the worst, he is never disappointed. This
+   pessimism extends to the expectations he has for his own
+   research, which he likes to question: “I get a sense of
+   movement and discovery whenever I find a flaw in my thinking.”
+   In our own collaborations with Kahneman, we saw this close up,
+   as he would proclaim, at what seemed to be the final stages of
+   some joint work, that he had just discovered a fatal problem
+   with our whole approach and that we would have to give up or
+   start all over again. He was usually wrong about that—but
+   sometimes he was right, and the constant worry made the work
+   much better.
+
+   Tversky liked to say, “People are not so
+   complicated. Relationships between people are complicated.” But
+   then he would pause and add, “Except for Danny.” So, yes, they
+   were different, but those who saw them together, spending
+   endless hours just talking, knew that something special
+   happened when they applied their two very different minds to a
+   problem. Lewis both captures and sharpens the contrast between
+   them, showing us why their collaboration was impossibly
+   incongruous and yet perfectly complementary.
+
+   The names Kahneman and Tversky are now well known among social
+   scientists, but even experts in the field will not know the
+   story of how their collaboration began. At the beginning of
+   their careers, they worked in different branches of psychology:
+   Kahneman studied vision, while Tversky studied decision-making.
+   Like much of psychology, these topics can be studied only
+   indirectly; one can’t directly monitor what people see or think
+   (yet). In those days, mathematical psychologists like Tversky
+   conceived of thinking in much the same way as economists:
+   choices were thought to be made more or less “correctly,” as
+   people incorporate new information and make good choices for
+   themselves. By contrast, those studying vision made much use of
+   common mistakes such as visual illusions. (What does the fact
+   that we see what seems to be water on a desert highway tell us
+   about the vision system?) As Kahneman put it, “How do you
+   understand memory? You don’t study memory. You study
+   forgetting.”
+
+   In the spring of 1969, Kahneman invited Tversky to speak at his
+   seminar. Tversky chose to outline some cutting-edge experiments
+   about how people learn from new information. The experiments
+   seemed to demonstrate that ordinary people were close to being
+   rational; they thought like “intuitive statisticians.” Though
+   the presentation was impressive, Kahneman thought that the
+   experiments were, as Lewis writes, “just incredibly stupid,”
+   and that they demonstrated no such thing. Insisting that
+   judgments are more like sensory perceptions (and similarly
+   prone to error), he went after Tversky hard, as people do in
+   the best academic environments. Tversky almost never lost an
+   argument, but he lost this one.
+
+   Very much in character, Tversky reacted to this loss by coming
+   back for more. His friend Avishai Margalit, the distinguished
+   Israeli philosopher, calls the session “Kahneman and Tversky’s
+   Big Bang.” He recalls meeting an agitated Tversky, who “started
+   by dragging me into a room. He said, ‘You won’t believe what
+   happened to me.’ He tells me that he had given this talk and
+   Danny had said, ‘Brilliant talk, but I don’t believe a word of
+   it.’ ”
+
+   Before long, Kahneman and Tversky were in constant
+   conversation. They worked intensely in a small seminar room or
+   a coffee shop, or while taking a long walk. The sessions were
+   private; no one else was invited to join. As they began to
+   produce work together, each sentence would be written,
+   rewritten, and rewritten again, with Kahneman manning the
+   typewriter. (Tversky never did master the art of the keyboard.)
+   On a good day, they would write a paragraph or two. Everything
+   was produced jointly; they did not really know where one’s
+   thought ended and the other’s began. Graduate students “now
+   wondered how two so radically different personalities could
+   find common ground, much less become soul mates,” Lewis writes.
+   One reason was that “Danny was always sure he was wrong. Amos
+   was always sure he was right.”
+
+   That actually did help. While Tversky was “the most terrifying
+   mind most people had ever encountered,” he was
+   uncharacteristically receptive to Kahneman’s ideas. Kahneman,
+   for his part, found Tversky’s arrogance surprisingly
+   liberating: “It was extremely rewarding to feel like Amos,
+   smarter than almost everyone.” And they laughed together—a lot.
+   As Kahneman said, “Amos was always very funny, and in his
+   presence I became funny as well, so we spent hours of solid
+   work in continuous amusement.”
+
+   What followed was a period of extraordinary creativity—the best
+   and most original work that either of them had done, or would
+   do, at any stage in his career. In the period between 1971 and
+   1979, they published the work that would eventually win
+   Kahneman the Nobel Prize in Economics. (The prize would
+   certainly have been shared with Tversky had he still been
+   alive. Nobel Prizes are not awarded posthumously.) There were
+   two distinct themes: judgment and decision-making. Judgment is
+   about estimating (or guessing) magnitudes and
+   probabilities. How likely is it that a billionaire businessman
+   from New York with no experience in government gets elected
+   President? Decision-making is about how we choose, especially
+   when there is uncertainty (meaning almost all the time). What
+   should we do now?
+
+   Kahneman and Tversky showed that, in both of these domains,
+   human beings hardly behave as if they were trained or intuitive
+   statisticians. Rather, their judgments and decisions deviate in
+   identifiable ways from idealized economic models. Most of the
+   importance of Kahneman and Tversky’s work lies in the claim
+   that departures from perfect rationality can be anticipated and
+   specified. In other words, errors are not only common but
+   also predictable.
+
+   For instance: ask people what they think is the ratio of gun
+   homicides to gun suicides in the United States. Most of them
+   will guess that gun homicides are much more common, but the
+   truth is that gun suicides happen about twice as often. The
+   explanation that Kahneman and Tversky offered for this type of
+   judgment error is based on the concept of “availability.” That
+   is, the easier it is for us to recall instances in which
+   something has happened, the more likely we will assume it is.
+   This rule of thumb works pretty well most of the time, but it
+   can lead to big mistakes when frequency and ease of recall
+   diverge. Since gun homicides get more media coverage than gun
+   suicides, people wrongly think they are more likely. The
+   availability heuristic, as Kahneman and Tversky called it,
+   leads people to both excessive fear and unjustified
+   complacency—and it can lead governments astray as well.
+
+   The influence of their work has been immense—not only in
+   psychology and economics, where it has become part of the
+   normal conversation, but in every other field of social
+   science, [40]as well as medicine, law, and, increasingly,
+   business and public policy. And this legacy is based on what by
+   current standards would be considered a very small number of
+   papers—eight, to be precise. (They went on to write more papers
+   together in the years that followed, but the foundation was
+   laid with those few from the nineteen-seventies.)
+
+
+   The low rate of output was one of their strengths, and is a
+   direct result of their joint personality traits. Kahneman’s
+   constant worry about how they might be wrong combined perfectly
+   with Tversky’s mantra: “Let’s get it right.” And it takes a
+   long time to write a paper when both authors have to agree on
+   every word, one by one.
+
+   The Kahneman and Tversky partnership was extraordinary in terms
+   of its scientific impact—they are the Lennon and McCartney of
+   social science—and even now, when joint work is increasingly
+   common in academia, enduring teams like theirs are extremely
+   rare. In Lewis’s account, the relationship between Kahneman and
+   Tversky was as intense as a marriage. As anyone who has been
+   married knows, marriages can be fraught, and they sometimes
+   dissolve entirely, rarely amicably. Tversky and Kahneman never
+   got divorced, but they did start dating other people, and their
+   relationship became strained.
+
+   After the two decided to leave Israel, in 1978, Tversky quickly
+   received offers from Harvard and Stanford (where he ended up).
+   Kahneman, who was looking for jobs jointly with his equally
+   distinguished wife, Anne Treisman, was hired at the University
+   of British Columbia, in Vancouver—a fine university, but lower
+   in status than those that pursued his friend. At a relatively
+   young age, Tversky received honorary degrees from Yale and the
+   University of Chicago.
+
+   Although their work had been a true collaboration of equals,
+   Tversky had unofficially been declared the star of the team,
+   which didn’t sit well with Kahneman. Tensions were aggravated
+   in 1984, when Tversky was given a MacArthur “genius” grant, and
+   Kahneman wasn’t. Kahneman was not actually eligible for the
+   award, which is given only to American citizens or residents,
+   but not many people realized this—and, what’s more, when
+   Kahneman moved to Berkeley, two years later, thus becoming
+   eligible, the MacArthur Foundation still did not give him a
+   fellowship. The incident illustrates another one of Kahneman
+   and Tversky’s most famous concepts: loss aversion. When the
+   MacArthur grants are awarded every year, only the most
+   egomaniacal of us read the list and say, “Damn, I lost.”
+   Unless, that is, your best friend wins the prize for work you
+   did entirely together.
+
+   The two did not stop being friends, or stop talking nearly
+   every day, or stop working on occasional projects. But once
+   they were separated by distance, and began working with
+   students and other co-authors, their relationship lost its
+   ease. The way Kahneman saw it, “Amos changed. When I gave him
+   an idea he would look for what was good in it. For what was
+   right with it. . . . He stopped doing that.” He noted,
+   “Something happens when you are with a woman you love. You know
+   something happened. You know it’s not good. But you go on.”
+   Tellingly, he added, “I wanted something from him, not from the
+   world.” After one particularly difficult interaction, Kahneman
+   decided, and told Tversky, that they were no longer even
+   friends. “I sort of divorced him.” This is the kind of outburst
+   that Kahneman typically takes back within a few days, as he did
+   at least a dozen times when he declared that he was abandoning
+   for good his book project, which would eventually become the
+   mega-best-seller “Thinking, Fast and Slow.”
+
+   In the case of his breakup with Tversky, fate intervened to
+   hasten the inevitable reversal. Only three days later, Tversky
+   called to say that he had just been diagnosed with a malignant
+   melanoma and that he had, at most, six months to live. As
+   Kahneman recalled, “He was saying, ‘We’re friends, whatever you
+   think we are.’ ”
+
+   In the remaining six months, Kahneman and Tversky worked on the
+   introduction to an edited collection of papers related to their
+   work, an introduction Kahneman had to finish after Tversky
+   died. Kahneman had (of course) worried about completing this
+   introduction alone, and Tversky had (of course) assured him
+   that he should just trust the mental model that, by now, he
+   surely had of Tversky’s mind. But no one has that model, alas.
+   That is why collaborations are so special: one partner cannot
+   simply replace the mind of the other, even after twenty-five
+   years.
+
+   Tversky once said, “It is sometimes easier to make the world a
+   better place than to prove you have made the world a better
+   place.” But it is not hard to prove that Amos and Danny did
+   so—you only have to read those papers that they published in
+   the seventies. Or, for that matter, Lewis’s book.
+
+   Cass Sunstein is the Robert Walmsley University Professor at
+   Harvard and the author of “The World According to Star Wars.”
+
+
+   Richard Thaler is a professor at the Booth School of Business,
+   at the University of Chicago, and the author of “Misbehaving:
+   The Making of Behavioral Economics.”
+
+
+      More:
+
+
+
+
+
+
+      Get a weekly digest about the world in literature from The New
+      Yorker.
+
+   Enter e-mail address ____________________ (BUTTON) Go
+
+   Please enter a valid e-mail address
+
+   Submitting...
+
+   Thank you for subscribing. You’ll receive your first newsletter
+   soon. [47]View all newsletters »
+
+
+

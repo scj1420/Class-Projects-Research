@@ -1,0 +1,311 @@
+How Praise Became a Consolation Prize
+
+   Helping children confront challenges requires a more nuanced
+   understanding of the “growth mindset.”
+
+
+
+   Like ​The Atlantic? Subscribe to ​[4]The Atlantic Daily​, our
+   free weekday email newsletter.
+   ____________________ Sign up
+   {{#existing_user}}
+
+
+   Your newsletter subscription preferences have been updated.
+   {{/existing_user}} {{^existing_user}}
+
+   You're almost finished.
+   We just need to confirm your email address.
+   To complete the subscription process, please click the link in
+   the email we just sent you.
+   {{/existing_user}}
+   An unknown error occurred.
+
+   As a young researcher, Carol Dweck was fascinated by how some
+   children faced challenges and failures with aplomb while others
+   shrunk back. Dweck, now a psychologist at Stanford University,
+   eventually identified two core mindsets, or beliefs, about
+   one’s own traits that shape how people approach challenges:
+   fixed mindset, the belief that one’s abilities were carved in
+   stone and predetermined at birth, and growth mindset, the
+   belief that one’s skills and qualities could be cultivated
+   through effort and perseverance. Her findings brought the
+   concepts of “fixed” and “growth” mindset to the fore for
+   educators and parents, inspiring the implementation of her
+   ideas among [5]teachers—and even [6]companies—across the
+   country.
+
+
+   But Dweck recently noticed a trend: a widespread embrace of
+   what she refers to as “false growth mindset”—a misunderstanding
+   of the idea’s core message. Growth mindset’s popularity was
+   leading some educators to believe that it was simpler than it
+   was, that it was only about putting forth effort or that a
+   teacher could foster growth mindset merely by telling kids to
+   try hard. A teacher might applaud a child for making an effort
+   on a science test even if he’d failed it, for instance,
+   believing that doing so would promote growth mindset in that
+   student regardless of the outcome. But such empty praise can
+   exacerbate some of the very problems that growth mindset is
+   intended to counter. A new edition of Dweck’s book, [7]Mindset:
+   The New Psychology of Success, updated to address false growth
+   mindset, comes out at the end of this month. I recently spoke
+   with Dweck about how she wants her ideas to be applied. The
+   interview has been lightly edited and condensed for clarity.
+     __________________________________________________________
+
+
+   Christine Gross-Loh: Could you tell me about the development of
+   the idea of growth mindset? What was it intended to correct?
+   What were you seeing that you felt growth mindset would help
+   improve?
+
+   Carol Dweck: I’ve always been interested, since graduate
+   school, in why some children wilt and shrink back from
+   challenges and give up in the face of obstacles, while others
+   avidly seek challenges and become even more invested in the
+   face of obstacles. So this has been my primary question for
+   over 40 years. At some point, my graduate students and I
+   realized that a student’s mindset was at the foundation of
+   whether [he or she] loved challenges and persisted in the face
+   of failure.
+
+   When students had more of a fixed mindset—the idea that
+   abilities are carved in stone, that you have a certain amount
+   and that’s that—they saw challenges as risky. They could fail,
+   and their basic abilities would be called into question. When
+   they hit obstacles, setbacks, or criticism, this was just more
+   proof that they didn’t have the abilities that they cherished.
+
+   In contrast, when students had more of a growth mindset, they
+   held the view that talents and abilities could be developed and
+   that challenges were the way to do it. Learning something new,
+   something hard, sticking to things—that’s how you get smarter.
+   Setbacks and feedback weren’t about your abilities, they were
+   information you could use to help yourself learn. With a growth
+   mindset, kids don’t necessarily think that there’s no such
+   thing as talent or that everyone is the same, but they believe
+   everyone can develop their abilities through hard work,
+   strategies, and lots of help and mentoring from others.
+
+   Gross-Loh: When I first interviewed you about growth mindset a
+   few years ago, I remember that it was a relatively unknown
+   idea. But growth mindset is now so popular that I’ll hear
+   people who aren’t steeped in educational theory say, “Praise
+   the effort, not the child (or the outcome).” Why do you think
+   this idea struck such a chord, and how did you find out there
+   were people misunderstanding it?
+
+   “Nobody has a growth mindset in everything all the time.”
+
+   Dweck: Many educators were dissatisfied with drilling for
+   high-stakes tests. They understood that student motivation had
+   been a neglected area, especially of late. So many educators,
+   as well as many parents, were excited to implement something
+   that might re-energize kids to focus on learning again, not
+   just memorization and test taking, but on deeper, more joyful
+   learning.
+
+   But a colleague of mine, Susan Mackie, was doing workshops with
+   educators in Australia and observed that many of them were
+   saying they got growth mindset and were running with it, but
+   did not understand it deeply. She told me, “I’m seeing a lot of
+   false growth mindset.” I just did not get it initially—growth
+   mindset is a very straightforward concept, and besides, why
+   would people settle for a false growth mindset if they could
+   have a real one? But I started keeping a list of all the ways
+   people were misunderstanding growth mindset. When the list got
+   long enough, I started speaking and writing about it.
+
+   Gross-Loh: Could you elaborate on false growth mindset?
+
+   Dweck: False growth mindset is saying you have growth mindset
+   when you don't really have it or you don’t really understand
+   [what it is]. It’s also false in the sense that nobody has a
+   growth mindset in everything all the time. Everyone is a
+   mixture of fixed and growth mindsets. You could have a
+   predominant growth mindset in an area but there can still be
+   things that trigger you into a fixed mindset trait. Something
+   really challenging and outside your comfort zone can trigger
+   it, or, if you encounter someone who is much better than you at
+   something you pride yourself on, you can think “Oh, that person
+   has ability, not me.” So I think we all, students and adults,
+   have to look for our fixed-mindset triggers and understand when
+   we are falling into that mindset.
+
+   I think a lot of what happened [with false growth mindset among
+   educators] is that instead of taking this long and difficult
+   journey, where you work on understanding your triggers, working
+   with them, and over time being able to stay in a growth mindset
+   more and more, many educators just said, “Oh yeah, I have a
+   growth mindset” because either they know it’s the right mindset
+   to have or they understood it in a way that made it seem easy.
+
+   Gross-Loh: Why do you think these misunderstandings occurred?
+
+   Dweck: Many people understood growth mindset deeply and
+   implemented it in a very sophisticated and effective way.
+   However, there were many others who understood it in a way that
+   wasn’t quite accurate, or distilled it down to something that
+   wasn’t quite effective, or assimilated it into something they
+   already knew.
+
+   Often when we see kids who aren’t learning well, we might feel
+   frustrated or defensive, thinking it reflects on us as
+   educators. It’s often tempting to not feel it is our fault. So
+   we might say the child has a fixed mindset, without
+   understanding instead that, as educators, it is our
+   responsibility to create a context in which a growth mindset
+   can flourish.
+
+   Gross-Loh: So it seems that the danger is that some teachers
+   think they have growth mindset and believe it will transfer to
+   their students, even though they themselves don’t really
+   understand it. How about this: Are there educators who do
+   understand the idea that abilities can be developed, but don’t
+   understand how to pass it on to students? Are there certain
+   children who are more vulnerable to this sort of
+   misunderstanding of growth mindset?
+
+   Dweck: Yes, another misunderstanding [of growth mindset] that
+   might apply to lower-achieving children is the
+   oversimplification of growth mindset into just [being about]
+   effort. Teachers were just praising effort that was not
+   effective, saying “Wow, you tried really hard!” But students
+   know that if they didn’t make progress and you’re praising
+   them, it’s a consolation prize. They also know you think they
+   can’t do any better. So this kind of growth-mindset idea was
+   misappropriated to try to make kids feel good when they were
+   not achieving.
+
+   The mindset ideas were developed as a counter to the
+   self-esteem movement of blanketing everyone with praise,
+   whether deserved or not. To find out that teachers were using
+   it in the same way was of great concern to me. The whole idea
+   of growth-mindset praise is to focus on the learning process.
+   When you focus on effort, [you have to] show how effort created
+   learning progress or success.
+
+   Gross-Loh: What should people do to avoid falling into this
+   trap?
+
+   Dweck: A lot of parents or teachers say praise the effort, not
+   the outcome. I say [that’s] wrong: Praise the effort that led
+   to the outcome or learning progress; tie the praise to it. It’s
+   not just effort, but strategy … so support the student in
+   finding another strategy. Effective teachers who actually have
+   classrooms full of children with a growth mindset are always
+   supporting children’s learning strategies and showing how
+   strategies created that success.
+
+   Students need to know that if they’re stuck, they don’t need
+   just effort. You don’t want them redoubling their efforts with
+   the same ineffective strategies. You want them to know when to
+   ask for help and when to use resources that are available.
+
+   All of this is part of the process that needs to be taught and
+   tied to learning.
+
+   “Focus on the learning process and show how hard work, good
+   strategies, and good use of resources lead to better learning.”
+
+   Gross-Loh: Is there a right way to praise kids and encourage
+   them to do well?
+
+   Dweck: Many parents and teachers who themselves have growth
+   mindset aren’t passing it on because they are trying to protect
+   the child’s confidence, focus on the child’s ability, and kind
+   of boost the child’s view or protect the child from a failure.
+   They’re conveying anxiety about ability.
+
+   But we have a new line of research (with my former graduate
+   student, Kyla Haimovitz) showing that the way a parent reacts
+   to a child’s failure conveys a mindset to a child regardless of
+   the parent’s mindset. If parents react to their child’s
+   failures as though there is something negative, if they rush
+   in, are anxious, reassure the child, “Oh not everyone can be
+   good at math, don’t worry, you’re good at other things,” the
+   child gets it that no, this is important, and it’s fixed. That
+   child is developing a fixed mindset, even if the parent has a
+   growth mindset.
+
+   But if the parent reacts to a child’s failure as though it’s
+   something that enhances learning, asking, “Okay, what is this
+   teaching us? Where should we go next? Should we talk to the
+   teacher about how we can learn this better?” that child comes
+   to understand that abilities can be developed.
+
+   So, with praise, focus on “process praise”—focus on the
+   learning process and show how hard work, good strategies, and
+   good use of resources lead to better learning. Be
+   matter-of-fact, with not too strong or too passive a reaction.
+
+   You can see evidence of fixed mindset as young as 3.5 or 4
+   years old; that’s when mindsets can start becoming evident,
+   where some kids are very upset when they make a mistake or get
+   criticized and fall into a helpless place. That’s when children
+   become able to evaluate themselves. We collaborated … with
+   researchers from the University of Chicago who had a
+   longitudinal project with videotape of mother-child
+   interactions. What we found was the more praise was
+   process-oriented—not a ton, just where the greater proportion
+   of the praise was process praise [versus outcome praise]—the
+   more those children had a growth mindset and a high desire for
+   challenge five years later, when they were in second grade.
+
+   Gross-Loh: That’s very helpful to know for parents of young
+   children.  But what about older kids who might feel discouraged
+   and worn-down after years of feeling that they weren’t smart
+   enough or a fear that they would never be able to be
+   successful? Is it ever too late to foster a growth mindset in
+   students?
+
+   Dweck: No—we’ve developed a number of online workshops
+   addressed at adolescents and shown that when we teach [those]
+   students a growth mindset, many of them regain their motivation
+   to learn and achieve higher grades, especially students who
+   have been struggling or students who have been laboring under a
+   negative stereotype about [their own] abilities.
+
+   Research conducted last year by my former graduate student,
+   David Yeager [now a professor at the University of Texas], on
+   18,000 students entering ninth grade, shows us that students
+   who took growth-mindset workshops are seeking more challenges.
+
+   You can’t tell adolescents, “We’re adults, we have the answer,
+   and we’re going to tell you what it is.” So we said, “We’re
+   scientists from Stanford University and the University of
+   Texas, and we need your help. We’re experts on the brain and
+   how students learn, but you’re the experts on being a freshman
+   in high school and we’d like your input for a program we’re
+   developing for future freshmen.”
+
+   We then taught them about how the teenage brain is especially
+   open to learning. We talked about how it’s a time of great
+   plasticity, a time they need to take advantage of, and that
+   they can grow their brains through taking on hard tasks in
+   school and sticking to them. We had the students write a letter
+   to a struggling freshman, counseling that person in terms of
+   the growth-mindset principle, which is often very persuasive.
+   We had testimonials from some public figures, talking about how
+   a growth mindset got them to where they were.
+
+   Finally we talked about why someone would want a growth
+   mindset. We realized that some kids would be overjoyed to hear
+   you can develop your intellectual abilities, but others might
+   not think it was the most exciting thing. So we then had a
+   whole section on why you might want to develop your mind.
+   Teenagers are really excited about the idea that they can do
+   something to make the world a better place. So we asked them
+   what they want to make their contribution to in the
+   future—family, community, or societal problems—and then talked
+   about how having a strong mind could help them make their
+   future contribution.
+
+   We’re excited about this because we know the world of the
+   future is going to be about taking on ill-defined, hard jobs
+   that keep changing. It’s going to favor people who relish those
+   challenges and know how to fix them. We are committed to
+   creating a nation of learners.
+
+

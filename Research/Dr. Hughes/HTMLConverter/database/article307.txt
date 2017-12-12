@@ -1,0 +1,150 @@
+Complicating Predictability
+
+   Figure 2. Herd immunity in the SIR model. Image Credit: Bryan
+   Grenfell.
+   Chaos, seasonality, and behavioral dynamics complicate
+   modeling. Behavioral complexities include variable willingness
+   to be vaccinated and self-imposed isolation upon becoming sick.
+   Measles in the pre-vaccination era tended to be less
+   complicated by such behavior. This behavior, as well as the
+   relatively high incidence of measles, make pre-vaccination
+   dynamics an especially good testbed for understanding the
+   epidemic clockwork.
+
+   In the pre-vaccination period, measles persisted for a long
+   time in large cities because sufficient transmissions in many
+   settings maintained a chain of transmission in interepidemic
+   troughs. Epidemics faded out in populations below the critical
+   community size of 250-300K. In contrast, as vaccinations reduce
+   measles incidence, epidemics are becoming more irregular, with
+   frequent local stochastic extinctions of infection. High levels
+   of immunization above a ‘herd immunity’ threshold of 90-95% can
+   interrupt measles transmission even in large populations (see
+   Figure 2).
+
+   Given moderate seasonality of transmission (as in the
+   pre-vaccination United Kingdom data), measles dynamics in large
+   cities corresponded quite well to a relatively predictable
+   limit cycle. Seasonality in the U.K. and the U.S. was largely
+   due to enhanced transmission when children aggregated in
+   school. Typically, outbreaks were high before Christmas and low
+   during the summer holidays.
+
+   But nonlinear dynamics can interact with stronger seasonal
+   forcing to create a more complex picture. For example, measles
+   is still a major threat in Niamey, the capital of Niger, where
+   highly seasonal transmission causes much higher amplitude
+   forcing than in the U.K. This has the same effect as powerfully
+   pushing a pendulum, and leads to much more irregular,
+   apparently chaotic dynamics.
+
+   Even a subtle increase in forcing can drive dynamic
+   complexities. For instance, summer vacations are slightly
+   longer in the U.S. than in the U.K, and these small increases
+   drove remarkably irregular dynamics during the 1920s and 30s.
+   While London saw biennial and annual cycles, Spokane and Los
+   Angeles experienced three- and four-year cycles, as seen in
+   Figure 3 [1].
+
+
+   Figure 3. Epidemic periodicity was longer and more irregular in
+   U.S. cities compared to London. Image Credit: [1].
+
+
+   “Despite these complexities, we should always try to predict
+   epidemics or understand the limits of predictability where we
+   can’t,” Grenfell says. “There are great lessons to be learned
+   from predictions made in weather forecasting, which is arguably
+   a more complex system. At the population level, there is
+   evidence for emerging simplicity in epidemiological dynamics.
+   At reasonable scales, the SIR model works well, exposing the
+   limits of predictability. Predict when you can, and understand
+   that problems arise when reaching the limits.”
+
+   Grenfell believes that in the future a much broader range of
+   expertise will be used to clarify how dynamics of human
+   behaviors, climate change, and pathogen evolution affect
+   epidemic dynamics.
+
+   This article is based on an invited lecture by Bryan Grenfell
+   at the SIAM Annual Meeting, which was held in Boston this July.
+
+   Acknowledgments: SIAM News thanks Tom Kepler (Boston
+   University) for his help with editing this article.
+
+   References
+   [1] Dalziel, B.D., Bjørnstad, O.N., Van Panhuis, W.G., Burke,
+   D.S., Metcalf, C.J.E., & Grenfell, B.T. (2016). Persistent
+   Chaos of Measles Epidemics in the Prevaccination United States
+   Caused by a Small Change in Seasonal Transmission Patterns.
+   PLOS Computational Biology.
+
+
+   [2] Grenfell, B.T., Bjørnstad, O.N., & Kappey, J. (2001).
+   Travelling waves and spatial hierarchies in measles epidemics.
+   Nature, 414, 716-723.
+
+      [2] javascript:void(0)
+
+   Further Reading
+   Grenfell, B.T., Bjørnstad, O.N., & Finkenstadt, B.F. (2002).
+   Dynamics of Measles Epidemics: Scaling Noise, Determinism, and
+   Predictability with the TSIR Model. Ecological Monographs,
+   72(2), 185-202.
+
+   Debbie Sniderman is an applied physics engineer, materials
+   scientist, and CEO of VI Ventures LLC, an engineering
+   consulting company. She can be reached at info@vivllc.com.
+   Please enable JavaScript to view the [51]comments powered by
+   Disqus.[52]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [53]Learn more
+   Most Recent
+   [54][Awards.png]
+   [55]Happening Now
+   [56]Red Sock Award Acknowledges Standout Posters at DS17
+   [57][Awards.png]
+   [58]Get Involved
+   [59]James H. Wilkinson Prize
+   [60][Research.png]
+   [61]Research
+   [62]Deep Learning Models in Finance
+   [63][Research.png]
+   [64]Careers
+   [65]Beyond UQ: Dealing with Deep Uncertainty
+   [66][Announcements.png]
+   [67]Announcements
+   [68]Illinois Students Named Champions in National M3 Challenge
+   [69][CurrentIssue.png]
+   [70]Current Issue
+   [71]Electricity Demand Response and Optimal Contract Theory
+   [72][ResearchNuggets.png]
+   [73]Research Nuggets
+   [74]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [75]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [82]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [82] email:webmaster@siam.org
+
+

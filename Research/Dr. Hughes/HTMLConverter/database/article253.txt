@@ -1,0 +1,104 @@
+Transcript
+
+   The interactive transcript could not be loaded.
+
+   Loading...
+
+   Loading...
+   Rating is available when the video has been rented.
+   This feature is not available right now. Please try again
+   later.
+   (BUTTON)
+
+   Published on Dec 31, 2016
+
+   Here are all the facts and references!
+   FACT 01: It’s a prime number
+   Last: 2011, Next: 2027
+   FACT 02: Has a digit sum 10
+   Last: 2008, Next: 2026
+   Add them up yourself!
+   FACT 03: Has 11 distinct letters
+   Last: 2009, Next: 2019
+   Here they are: adehnostuvw
+   FACT 04: No letters in common with “Prickly fig”
+   Last: 2010, Next: 7000
+   Look, none of these: cfgiklpry
+   FACT 05: It is the sum of two squares
+   Last: 2009, Next: 2018
+   9^2 + 44^2
+   FACT 06: Prime one more than multiple of 4
+   Last: 1997, Next: 2029
+   These are called Pythagorean Primes.
+   FACT 07: Prime one more than multiple of 8
+   Last: 1993, Next: 2081
+   FACT 08: Prime one more than a multiple of 16
+   Last: 1889, Next: 2081
+   FACT 09: Prime one more than a multiple of 32
+   Last: 1889, Next: 2081
+   FACT 10: “2017” is a prime in base 8
+   Last: 2011, Next: 2111
+   In base 8, 2017 is 1039.
+   FACT 11: Prime of the form a^2 + b^4
+   Last: 1777, Next: 2069
+   FACT 12: I turn a prime age in a prime year
+   Last: 2011, Next: 2027
+   It’s just one of those things I keep track of.
+   FACT 13: Number n such that both n and (n+1)/2 are primes
+   Last: 1993, Next: 2137
+   FACT 14 Lower prime of a difference of 10 between consecutive
+   primes
+   Last: 1879, Next: 2029
+   Here is a list of the largest gaps:
+   FACT 15: Smallest palindrome greater than n in bases n and n+1
+   Last: 1892, Next: 2146
+   Other numbers are smaller in other pairs of bases. 2017 is the
+   smallest for bases 31 and 32.
+   232 in base 31, 1v1 in base 32 (v=31)
+   FACT 16: It's not 2016
+   Last: 2015, Next: 2018
+   A calendar.
+   FACT 17: Number of permutations of n elements not containing
+   the consecutive pattern 123
+   Last: 349, Next: 13,358
+   CORRECTIONS:
+   - At [29]1:50 I accidentally say "prime" when I mean
+   "palindrome". First spotted by Oliver Feghali.
+   - I accidentally gave the prime gap after 1327 as the number of
+   non-prime years in-between (33) and not the increase to the
+   next prime (34) like I did for all the others. Sorry, that was
+   me combining two bits of research without thinking! I should
+   have spotted the jarring mismatch of odd and even intervals and
+   realised I was not bring consistent. Pointed out by loads of
+   people, the first of which was TheActualNuttmegger.
+   - The 22 year prime gap ended in the 1970s, not started then
+   (1951 to 1973). Spotted by Scottish Chemist.
+   - For fact 17, it is actually the permutations for n=7, not 8;
+   caught by trigonzobob. The permutation conditions are also more
+   complicated that I managed to explain as well ("without double
+   - Let me know if you spot anything else.
+   Thanks to my patreon supporters! Here are a few mentioned by
+   name:
+   Sjoerd Wennekes
+   Kragar
+   Daniel Wilson-Nunn
+   Samuel Ytterbrink
+   Everett Chouinard
+   Support my videos on Patreon:
+   Music by Howard Carter
+   Design by Simon Wright
+   MATT PARKER: Stand-up Mathematician
+
+
+
+
+
+
+   (BUTTON) Show more (BUTTON) Show less
+
+   Loading...
+
+   Autoplay When autoplay is enabled, a suggested video will
+   automatically play next. [X]
+
+

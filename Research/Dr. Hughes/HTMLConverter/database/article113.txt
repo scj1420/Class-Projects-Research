@@ -1,0 +1,153 @@
+The complex role of gender in faculty hiring
+
+   By [57]Viviane CallierApr. 15, 2016 , 10:00 AM
+
+
+   Gender plays a complicated role in the hiring of computer
+   science tenure-track faculty members, of which on average only
+   about 15% are women, according to a study presented today at
+   the peer-reviewed [58]International World Wide Web Conference
+   in Montreal, Canada, and posted on the [59]arXiv preprint
+   server in February. Gender bias in hiring is not blatant, the
+   authors found, but gender-associated differences in
+   productivity, postdoctoral experience, and institutional
+   prestige of degree-granting institutions—which are likely due
+   to bias against women during the training process—largely
+   account for the observed gender imbalance in computer science
+   faculty hiring networks.
+
+
+   “This is evidence that gender doesn't stand by itself; it's
+   baked into all these other processes,” says Brian Keegan, a
+   research associate at the Harvard Business School who was not
+   involved in the study.
+
+   Despite significant attention to hiring more female faculty
+   members in science, technology, engineering, and mathematics,
+   they remain underrepresented at the top levels of academia. But
+   faculty hiring is a complex and sometimes idiosyncratic
+   process, and the specific underlying reasons for the continuing
+   disparity are unclear. “One of the difficulties in this area
+   [of gender and faculty hiring] is figuring out causality,” says
+   senior author Aaron Clauset, a computer scientist at University
+   of Colorado (CU), Boulder. “Gender, productivity, and
+   postdoctoral training are all related to each other, so trying
+   to tease out how important … a driving factor gender is is
+   quite difficult.”
+
+   To address this question, the authors used a hand-curated
+   dataset of 2659 tenure-track computer science faculty members
+   at 205 Ph.D.-granting departments across North America, which
+   they had previously developed for a [60]2015 study of faculty
+   hiring networks. The dataset included the years the faculty
+   members were first hired as assistant professors, which ranged
+   from 1970 to 2011; the prestige of the institutions where they
+   got their degrees and were hired; whether they had postdoctoral
+   experience; their publication history; and their gender. When
+   the researchers created a model that took all these factors
+   into account to predict the real-world hiring decisions, they
+   found that institutional prestige and productivity alone were
+   sufficient for accurate predictions. In other words, gender as
+   a separate factor did not improve the model's accuracy. So, all
+   other things being equal, gender did not seem to matter during
+   the faculty hiring process.
+
+
+   But the researchers are quick to point out that all other
+   things are not equal. Women in computer science Ph.D. programs
+   operate in cultures that often fail to be inclusive, so when
+   they get to the faculty hiring process, they have already been
+   disadvantaged in their training. Using “unbiased” measures like
+   productivity and prestige can make it look like the decisions
+   are gender-blind, but gender has in fact played a role all
+   through the training process and is therefore already baked in.
+   For example, the authors found that for the assistant
+   professors who started their positions after 2002, women were
+   less productive than men. “The origin of this productivity gap
+   seems unlikely to be related to inherent differences in talent
+   or effort,” the authors write, “and may instead be related to
+   differential access to resources and mentoring, greater rates
+   of hostile work environments or sexual harassment, differences
+   in self-perceptions, or other gender-correlated factors.”
+
+   This result offers a contrast to a [61]controversial paper
+   published last year that found that based on one-page personal
+   narratives or CVs with similar qualifications and either a
+   typically male or female name, reviewers were twice as likely
+   to choose to hire the woman. The authors of that study
+   concluded that there was no longer any discrimination against
+   women in the faculty hiring process, but others found this
+   approach problematic. “It treats gender like it’s in a vacuum,
+   like there is no baggage that goes along with being a woman or
+   a man,” says Jane Stout, director of diversity research at the
+   Computing Research Association in Washington, D.C. Perhaps
+   women are not being discriminated against when reviewers
+   consider resumes, “but what have women and men had to do
+   differently to get to this specific situation right now [of
+   being considered for a faculty job]?"
+
+
+   The authors of the current study hoped to get around this
+   objection by focusing on the outcome of the entire hiring
+   process, not just a single step such as reviewing CVs. “If you
+   are looking at different parts of a complex system, a
+   system-level approach can be really beneficial in helping to
+   put individual pieces together,” says study co-author Daniel
+   Larremore, an applied mathematician at the Santa Fe institute.
+   “We wanted to deconstruct [faculty hiring] … in terms of things
+   we could measure, like publications, information about the
+   prestige of the doctoral program, and so on.”
+
+   However, one of the things that is missing from their model is
+   the effect of the proportion of women who are already on the
+   faculty at a given institution, Larremore adds. Departments
+   that already have female faculty members are likely to have a
+   climate that is friendlier to women, he explains, and therefore
+   attract more women. In contrast, all-male departments might
+   have a harder time recruiting women.
+
+   The researchers also found that women and men were about
+   equally likely to be hired at the most prestigious
+   institutions, but fewer women than men were hired at less
+   prestigious universities. The most prestigious ones tend to
+   out-hire schools in the tier immediately below them because
+   they have more hiring power, the researchers suggest. Due to
+   the paucity of women with Ph.D.s in computer science—in 2011,
+   just 20% of computer science Ph.D. recipients were
+   female—efforts by the top-ranked departments to improve their
+   gender ratios might come at the expense of institutions below
+   them, explains lead author Samuel Way of CU Boulder. “In some
+   ways, it's like a zero sum game, because there are so few women
+   in computer science,” Clauset adds. “When the small number of
+   women choose to go to one place, it means that other places
+   don't get to hire them.”
+
+   Overall, the gender breakdowns of computer science Ph.D.
+   recipients and new faculty hires “are very close,” Clauset
+   says, which “suggests there isn't much slack in the system for
+   intervention at the faculty hiring stage. … If we want to
+   increase the number of women in computing, the data suggest we
+   should really focus on increasing the number of women who get
+   Ph.D.s in computer science.”
+
+   Finally, the authors forecasted when computer science might
+   reach gender parity in faculty hiring at the assistant
+   professor level: It’ll take approximately 60 years. “I think
+   that’s really depressing,” Clauset says. “If we as a community
+   are not happy with this rate, perhaps we as a community should
+   get together and do something to change it. This is a
+   conversation that I hope that can get started as a result of
+   having real quantitative data.”
+   Posted in:
+
+
+
+
+
+
+
+
+
+   DOI: 10.1126/science.caredit.a1600061
+
+

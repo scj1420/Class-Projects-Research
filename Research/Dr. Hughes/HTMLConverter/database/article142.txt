@@ -1,0 +1,102 @@
+‘Messy math’ from sardine studies could help fight flu outbreaks
+
+   By [57]Patrick MonahanOct. 31, 2016 , 3:00 PM
+
+
+   It’s about that time, in the Northern Hemisphere at least: flu
+   season. Each winter in the temperate parts of the world, the
+   influenza virus seemingly awakens from its slumber, leaving
+   fevers, sniffles, and aches in its wake. Now, using
+   mathematical techniques created for studying fluctuating fish
+   populations, a team of researchers has shown that both
+   temperature and humidity influence the timing of flu outbreaks
+   all over the world—a finding that could lead to new ways to
+   fight the virus.
+
+   The relationship between climate and the flu looks simple in
+   places like North America and Europe: Winter’s colder and drier
+   weather means more outbreaks. But in the tropics, those cycles
+   disappear, and things get decidedly harder to predict. Some
+   researchers thought that meant climate just isn’t that
+   important a factor in tropical flu outbreaks. But George
+   Sugihara, a mathematical biologist at Scripps Institution of
+   Oceanography in San Diego, California, suspected there might be
+   a deeper rule connecting how the virus acts in the two regions.
+
+   The problem, according to Sugihara, is that past studies
+   examining flu prevalence have failed to look at it as a whole
+   natural system, instead trying to analyze the impact of
+   individual pieces like temperature and humidity. Sugihara is a
+   pioneer of mathematical methods that throw out the equations
+   and embrace the messiness of natural systems. His lab’s
+   “empirical dynamic modeling” techniques use time-series data to
+   look at the invisible ways these complicated systems are
+   connected: like plucking one string out of a jumbled network
+   and seeing which other strings echo back. In 2012, his group
+   published a widely cited paper describing some of these
+   techniques and their usefulness for studying sardine and
+   anchovy populations. These methods have since been used for all
+   sorts of different problems—from probing how greenhouse gases
+   affect the climate to diagnosing early onset Alzheimer’s
+   disease.
+
+   A group of researchers led by Sugihara’s postdoctoral
+   researcher Ethan Deyle now has applied their fishy methods to
+   flu, looking at 18 years of data on worldwide influenza
+   outbreaks. [58]They found that humidity is the strongest factor
+   in driving influenza, but that temperature also plays a role,
+   combining in a complex way that past studies were unable to
+   pick up on. At temperatures up to about 24°C, drier climates
+   encourage flu outbreaks, as seen in North America. Hotter than
+   that, and the relationship flips: Suddenly, wetter environments
+   are better for the flu, they write today in the Proceedings of
+   the National Academy of Sciences.
+
+
+   The way this relationship flips around 24°C also lines up with
+   what researchers already know about the flu virus. It has a
+   “viral envelope”—similar to a cell membrane—that has two
+   distinct weaknesses: It can swell and burst if the climate is
+   cold and humid, and it dries up when the environment is hot and
+   dry. The authors say that these twin forces could explain why
+   the relationship between temperature and humidity flips around
+   24°C. If this idea turns out to have merit, then it might help
+   fight winter flu outbreaks by, say, simply putting humidifiers
+   in schools, homes for the elderly, and hospitals.
+
+   The study also has an answer to why flu patterns are so
+   different between tropical and temperate areas. The winter
+   cycles of flu in temperate regions are due to the big,
+   consistent changes in humidity and temperature. In the tropics,
+   the same underlying rules link flu to the climate, but seasonal
+   swings in temperature and humidity are so weak that a “flu
+   season” doesn’t emerge from all of the noise.
+
+   The work is “a great analysis,” says Jeffrey Shaman, an
+   infectious disease climate scientist at Columbia University.
+   But Shaman cautions that the team’s proposed mechanism is just
+   one of a number of ways climate could act on the flu and needs
+   to be tested further. He agrees that modifying indoor
+   environments has untapped potential as a way of controlling
+   disease transmission—but even if it’s possible to make the
+   environment harder for a flu virus to spread, that could just
+   create the ideal habitat for moisture-loving bacteria and
+   molds. “There is no such thing as a free lunch,” he says.
+
+   Others are less impressed with the analysis. Julian Tang, a
+   clinical virologist at the United Kingdom’s University
+   Hospitals of Leicester NHS Trust, notes that the humidity and
+   temperature data used in the study come from outdoor weather
+   monitoring stations, whereas it’s believed most flu
+   transmission occurs indoors. “If you don’t use the right data,”
+   Tang says, “whatever model you develop and apply, no matter how
+   innovative, is likely to give you the wrong conclusions.”
+   Posted in:
+
+
+
+   DOI: 10.1126/science.aal0326
+   [61][headshot_crop.JPG?itok=ONyL-YFO]
+
+
+

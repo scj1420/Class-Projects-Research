@@ -1,0 +1,358 @@
+[1]National Science Foundation - Where Discoveries Begin
+
+
+
+
+
+   ____________________ (BUTTON) search
+   [4]Skip to main content
+   [5]NSB
+
+
+
+               o [9]Biological Sciences (BIO)
+               o [10]Computer and Information Science and
+                 Engineering (CISE)
+               o [11]Education and Human Resources (EHR)
+               o [12]Engineering (ENG)
+               o [13]Environmental Research and Education (ERE)
+               o [14]Geosciences (GEO)
+               o [15]Integrative Activities (OIA)
+               o [16]International Science and Engineering (OISE)
+               o [17]Mathematical and Physical Sciences (MPS)
+               o [18]Social, Behavioral and Economic Sciences
+                 (SBE)
+
+               o Related Links
+               o [19]Interdisciplinary Research
+               o [20]NSF Organization List
+               o [21]Staff Directory
+               o [22]Understanding NSF Research
+
+
+               o [24]About Funding
+               o [25]Browse Funding Opportunities A-Z
+               o [26]Due Dates
+               o [27]Find Funding
+               o [28]Merit Review
+               o [29]Policies and Procedures
+               o [30]Preparing Proposals
+               o [31]Recent Opportunities
+               o [32]Transformative Research
+
+               o Related Links
+               o [33]Proposal and Award Policies and Procedures
+                 Guide (PAPPG)
+               o [34]Research.gov
+               o [35]FastLane
+               o Funding Opportunities For
+               o [36]Graduate Students
+               o [37]K-12 Educators
+               o [38]Postdoctoral Fellows
+               o [39]Undergraduate Students
+               o [40]Small Business
+
+
+               o [42]About Awards
+               o [43]Award Statistics (Budget Internet Info
+                 System)
+               o [44]Award Conditions
+               o [45]Managing Awards
+               o [46]Policies and Procedures
+               o [47]Presidential and Honorary Awards
+               o [48]Search Awards
+
+               o Related Links
+               o [49]Research.gov
+               o [50]FastLane
+               o [51]NSF Public Access Repository (NSF-PAR)
+
+
+               o [53]All Documents
+               o [54]National Center for Science and Engineering
+                 Statistics (NCSES)
+               o [55]Obtaining Documents
+               o [56]Search Documents
+
+
+               o [58]All News
+               o [59]For News Media
+               o [60]Multimedia Gallery
+               o [61]NSF Director's Newsletter
+               o [62]Search News
+               o [63]Special Reports
+               o [64]Speeches and Lectures
+
+               o Related Links
+               o [65]About NSF Logo
+               o [66]Events
+
+
+               o [68]About NSF
+               o [69]Broadening Participation/Diversity
+               o [70]Budget and Performance
+               o [71]Career Opportunities
+               o [72]Contracting Opportunities
+               o [73]History
+               o [74]National Science Board (NSB)
+               o [75]NSF and Congress
+
+               o [76]NSF Toolkit
+               o [77]Office of Diversity and Inclusion
+               o [78]Organization List
+               o [79]Partners
+               o [80]Staff Directory
+               o [81]Transparency and Accountability
+               o [82]Visit NSF
+
+
+
+
+
+
+
+
+
+
+    1. [90]Home
+    2. [91]News
+
+
+   [92]Email [93]Print Share
+      Discovery
+
+     [93] javascript:printThis();
+
+   Tackling intractable computing problems
+
+   Theoretical computer science project helps solve long-standing
+   questions with benefits for security and machine learning
+
+                    theoretical computer science
+
+   Researchers hope to develop machine learning algorithms with
+   provable guarantees.
+   [94]Credit and Larger Version
+
+
+   June 29, 2016
+
+   Computers have proven capable of helping scientists solve many
+   research problems, from the dynamics of black hole mergers to
+   distant connections in reams of genomic data.
+
+   But there are some problems that computers cannot solve -- at
+   least not in a reasonable time frame.
+
+   The question concerning which problems can and can't be solved
+   efficiently, also known as "intractability," are a great
+   scientific challenge for computer scientists. One such question
+   is one of the longest-standing unsolved problems in computer
+   science, something called "[95]P versus NP."
+
+
+   This problem can be thought of as the question of whether every
+   problem whose solution can be quickly verified by a computer
+   can also be quickly solved by a computer. Or, put another way:
+   is it substantially harder to find a solution than it is to
+   check that a given solution is correct?
+
+   (P vs. NP is one of the [96]Clay Mathematics Institute
+   Millennium Prize Problems, with a million-dollar prize to
+   whomever can find a solution.)
+
+
+   Intractability -- if it truly exists -- means we might not be
+   able to always find accurate, efficient algorithms for some
+   important problems: from eliminating bugs from software
+   programs, to knowing for sure if and when our encryption
+   schemes are secure, to fully understanding how the brain works.
+
+   Limitations in these areas would have implications for privacy,
+   economics and many scientific and societal problems.
+
+   Solving serious games
+
+   Supported by a $10 million National Science Foundation (NSF)
+   [97]Expeditions in Computing award, an interdisciplinary,
+   multi-institutional team led by Sanjeev Arora at Princeton
+   University worked between 2008 and 2013, to find the sources of
+   intractability, to circumvent intractability when possible
+   using approximations and other means, and to understand the
+   implications of intractability for other areas, from physics
+   and biology to economics and information theory.
+
+
+   During that time, the team made several theoretical advances,
+   including a new understanding of the [98]Unique Games
+   Conjecture, which is one of the approaches used to try to make
+   progress toward understanding the N versus NP question.
+
+
+   The Unique Games Conjecture postulates that for many of the
+   problems people would most like to solve, the current
+   algorithms for finding a good approximation cannot be improved.
+
+   Arora, working with Boaz Barak of Microsoft Research
+   (previously of Princeton) and David Steurer of Cornell
+   University, showed that there is an algorithm for solving
+   Unique Games that is in fact better: one that is faster than
+   exponential-time (where the time it takes to approximate the
+   answer increases exponentially based on the data size) but
+   still not as fast as polynomial-time (where the time to
+   solution increases by a power of the data size). This means
+   that some complex and seemingly intractable problems can be
+   solved more efficiently than believed.
+
+   Their [99]results were published in the October 2015 issue of
+   the Journal of the ACM.
+
+
+   On the other hand, Subhash Khot, a theoretical computer
+   scientist on the team who introduced the conjecture in the
+   first place and subsequently won the [100]2010 Alan T. Waterman
+   Award, made important progress towards proving the Unique Games
+   Conjecture was in fact true. (There is still no consensus in
+   the community regarding the truth of the Unique Games
+   Conjecture.)
+
+
+   The team wrestled with a related real-world application as
+   well: public-key cryptography, the means by which e-commerce
+   and much of internet traffic is kept secure.
+
+   All current forms of public-key cryptography (such as SSL and
+   SSH) use a handful of algebraic methods. However, emerging
+   algorithms, both classical and quantum, could break them all.
+   The team derived fundamentally new forms of public-key
+   cryptography that might remain secure far into the future -- a
+   way of harnessing intractability to support cybersecurity.
+
+   Insights from the study of intractability were applied to other
+   fields, too. For instance, it was shown that the task of
+   evaluating the worth of a financial derivative, the type of
+   collateralized debt obligation that had a key role in the
+   financial collapse of 2008, is related to solving intractable
+   problems. In fact, under widely held intractability
+   assumptions, it is possible for a person with secret
+   information to construct derivatives that are basically
+   indistinguishable from a normal derivative -- or more
+   precisely, that distinguishing between the two requires a huge
+   amount of computation -- but are actually worthless.
+
+   "Some of the important leaps, for example in the understanding
+   of efficient approximation, public key cryptography, arithmetic
+   complexity and the role of intractability in other sciences,
+   seem to happen mainly due to the collaborative environment of
+   the Intractability Center, supported by the NSF Expedition,"
+   said Avi Wigderson, a research team member from the Institute
+   for Advanced Study. "I believe we proved that large groups can
+   be effectively harnessed for theoretical projects."
+
+   As an added benefit, the project served a training ground for
+   theoretical computer scientists. According to Wigderson, "the
+   project trained a couple of dozen students and postdocs, many
+   of whom are young stars in algorithms and complexity theory."
+
+   NSF Program Director Tracy Kimbrel agreed. "In addition to
+   conducting world-class research in theoretical computer
+   science, the team also innovated in attracting new talent to
+   theory via new summer programs for undergraduates and high
+   school students and a highly successful workshop where
+   established women in theory reached out to undergraduate and
+   entering graduate student women," Kimbrel said. "The role
+   models at the '[101]Women in Theory' workshops have been
+   credited with inspiring numerous women to pursue studies in
+   theoretical computer science."
+
+
+   The researchers continue to build on the progress of the
+   Expedition, taking the improved understanding of intractability
+   in new directions.
+
+   New directions
+
+   Arora and colleagues at Princeton, for instance, are currently
+   working on a further NSF-supported project to develop machine
+   learning algorithms with provable guarantees about the quality
+   of the solutions they provide or the time it will take to run
+   the algorithm.
+
+   Such guarantees will be very important as machine learning
+   algorithms are increasingly used for life-or-death applications
+   like medical decision-making. Finding such guarantees often
+   involves designing fundamentally new algorithms, or proving the
+   guarantees for existing algorithms are sound.
+
+   "It is fair to say that the ideas and young researchers
+   generated by this project will continue to impact research for
+   many years to come," Arora said.
+   --  Aaron Dubrow, NSF 703-292-4489 [102]adubrow@nsf.gov
+
+    [102] mailto:adubrow@nsf.gov
+
+   Investigators
+   Assaf Naor
+   Boaz Barak
+   Michael Saks
+   Subhash Khot
+   Avi Wigderson
+   Eric Allender
+   Mario Szegedy
+   Robert Tarjan
+   Sanjeev Arora
+   Moses Charikar
+   Bernard Chazelle
+
+   Related Institutions/Organizations
+   New York University
+   Princeton University
+   Institute for Advanced Study
+   Rutgers University New Brunswick
+
+   Locations
+   New York , New York
+   Princeton , New Jersey
+   New Brunswick , New Jersey
+
+   Related Programs
+   [103]Algorithmic Foundations
+   [104]Expeditions in Computing
+
+
+   Related Awards
+   [105]#1117309 AF: Small: Expansion, Unique Games, and Efficient
+   Algorithms
+   [106]#1527371 AF: Small: Linear Algebra++ and applications to
+   machine learning
+   [107]#0832795 Collaborative Research: Understanding, Coping
+   with, and Benefiting From, Intractability
+   [108]#0832797 Collaborative Research: Understanding, Coping
+   with, and Benefiting from Intractibility.
+   [109]#0832787 Collaborative Research: Understanding, Coping
+   with, and Benefiting from, Intractability
+
+
+   Years Research Conducted
+   2008 - 2016
+
+   Total Grants
+   $10,455,604
+
+   theoretical computer science
+   N versus NP is a long-standing unsolved problem in computer
+   science.
+   [110]Credit and Larger Version
+
+
+   theoretical computer science
+   The biennial Women in Theory workshop brings together current
+   and future leading female researchers.
+   [111]Credit and Larger Version
+
+
+   [112]National Science Foundation
+   [113]Research.gov
+
+
+

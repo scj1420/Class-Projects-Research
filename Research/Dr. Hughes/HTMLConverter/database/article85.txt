@@ -1,0 +1,57 @@
+Transcript
+
+   The interactive transcript could not be loaded.
+
+   Loading...
+
+   Loading...
+   Rating is available when the video has been rented.
+   This feature is not available right now. Please try again
+   later.
+   (BUTTON)
+
+   Published on Oct 8, 2016
+
+   In this video I tell you about Klein bottle Rubik’s cubes,
+   Torus Rubik's Cubes and Klein Quadric Rubik's cubes as an
+   introduction to a whole new universe of twisty puzzles.
+   Get your own Klein bottle Rubik’s cube, as well as more than
+   800 other topological twisty puzzles by downloading the free
+   incredibly powerful Rubik’s cube simulator MagicTile by Roice
+   Be one of the select few to get your name recorded in our
+   limited edition Mathologer "Klein bottle Rubik Cube Hall of
+   Fame" by solving the tricky puzzle and following this link:
+   To get some help with this challenge check out the second part
+   of this video on Mathologer 2 in which I talk about the
+   MagicTile interface, show you how to design and record
+   algorithms as macro moves, as well as talk you through a
+   complete solution of one of the easy Harlequin edge-turning
+   puzzles (featuring the all-time simplest three-piece cycle
+   algorithm as well as some cute parity problems):
+   Also check out the following videos for more background
+   information.
+   "A simple trick to design your own solutions to Rubik’s cubes":
+   (for an introduction to designing your own algorithms for
+   solving twisty puzzles)
+   A mirror paradox, Klein bottles and Rubik's cubes:
+   (An introduction to what Klein bottles are all about and a bit
+   of fun with putting Rubik’s cubes INTO Klein bottles.)
+   Cracking the 4D Rubik's Cube with simple 3D tricks:
+   (Your next challenge after the the Klein Bottle Rubik's cube.
+   Another hall of fame awaits.)
+   An animation by Jos Leys that shows how the Klein Quadric gets
+   glued together from the patch of 24 regular 7-gons in the
+   hyperbolic plane.
+   Enjoy!
+   Burkard
+
+
+
+   (BUTTON) Show more (BUTTON) Show less
+
+   Loading...
+
+   Autoplay When autoplay is enabled, a suggested video will
+   automatically play next. [X]
+
+

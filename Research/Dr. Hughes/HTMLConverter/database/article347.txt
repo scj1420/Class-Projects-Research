@@ -1,0 +1,134 @@
+A Few of My Favorite Spaces: The Sierpinski Triangle
+
+   The fractal you can make with candy corn
+
+
+
+   Share on Facebook
+   Share on Twitter
+   Share on Reddit
+   Email
+   Print
+   Share via
+
+
+
+   Making a Sierpinski triangle is one way to figure out how many
+   candy corns are in a bag. Because I could make this level and
+   not the next one, I know there were between 81 and 243 corns in
+   the bag initially. A more accurate way to figure out the number
+   of candies in the bag is to look at the nutrition label and do
+   some basic arithmetic. Credit: Evelyn Lamb
+   Advertisement |
+   Report Ad
+
+   Every year around this time I think of the Sierpinski triangle.
+
+
+
+   I dare you to watch that video and then eat some candy corn
+   without singing “Candy corn colonels, candy corn colonels.”
+
+   The Sierpinski triangle, like many fractals, can be built
+   either “up” or “down.” To build it “down,” start with a solid
+   triangle and then remove the middle quarter, remove the middle
+   quarter of each remaining triangle, and so on. The object you
+   have after infinitely many iterations is the Sierpinski
+   triangle.
+
+   To build it “up,” candy corn is recommended: make a little
+   candy corn triangle, then make a triangle of triangles, then
+   make a triangle of those larger triangles. It gets bigger and
+   more complicated with each iteration. It doesn’t make much
+   sense to say that the Sierpinski triangle is what you get when
+   you repeat this process infinitely many times because that
+   would just spill out everywhere, but you can imagine that at
+   each stage you take a picture and squeeze it down so it takes
+   up the same amount of space as it did before.
+
+   In addition to those two straightforward ways of building the
+   Sierpinski triangle, there are many other processes that all
+   seem to magically converge on the Sierpinski triangle. You can
+   play something called the “[35]chaos game” and watch random
+   starting points transform into the Sierpinski triangle based on
+   a few simple rules. You can [36]color in all the odd numbers in
+   Pascal’s triangle, which was discovered by several different
+   cultures, including Chinese and Indian, [37]centuries before
+   Pascal was even born. You can draw a [38]single black square on
+   a big grid and then proceed to follow the [39]cellular
+   automaton called rule 90.
+
+
+   But I want to think about another way to do it called
+   Sierpinski’s arrowhead curve. To make this pretty shape, you
+   start with a jagged line. At each step, you replace each
+   straight line segment with another jagged line according to a
+   couple of rules that you can see emerging in this illustration.
+   After a few iterations, the [40]Sierpinski triangle peeks
+   through in this curve. Credit: [41]Robert
+   Dickau Wikimedia [42](CC BY-SA 3.0)
+
+
+   I like the arrowhead curve because it shows that not only can
+   you approach the Sierpinski triangle by whittling down
+   two-dimensional shapes in the removing triangles version of the
+   space, but you can also create it by building up a
+   one-dimensional object. That makes some intuitive sense: the
+   Sierpinski triangle is not quite one-dimensional and not quite
+   two-dimensional. It’s really more like 1.585-dimensional. (For
+   more on what a fractional dimension means, check out my post on
+   another object with fractional dimension, the [43]Menger
+   sponge.) If you can make the same object by thinning out
+   something two-dimensional or fattening up something
+   one-dimensional, it makes sense that in some sense its
+   dimension lies between the two numbers.
+
+
+   [44]Wacław Sierpiński’s name is on some pretty good
+   mathematical objects. In addition to this fabulous triangle,
+   there’s an analogous shape called the Sierpinski tetrahedron
+   that lives in three-dimensional space. Then there’s the
+   Sierpinski carpet, a two-dimensional version of the Menger
+   sponge I wrote about a couple months ago. Finally, there's the
+   space simply known as the Sierpinski space, which just has two
+   points in it. Math grad student Tai-Danae Bradley recently
+   wrote a [45]post about why those two measley points are
+   interesting on her blog, Math3ma.
+
+
+   Those other Sierpinski-honoring spaces are all perfectly
+   respectable, but the triangle is the one that tastes the most
+   like Halloween.
+   Credit: Evelyn Lamb
+
+   Read about more of my favorite spaces:
+
+   [46]The Cantor Set
+   [47]Fat Cantor Sets
+   [48]The Topologist’s Sine Curve
+   [49]Cantor's Leaky Tent
+   [50]The Infinite Earring
+   [51]The Line with Two Origins
+   [52]The House with Two Rooms
+   [53]The Fano Plane
+   [54]The Torus
+   [55]The Three-Torus
+   [56]The Möbius Strip
+   [57]The Long Line
+   [58]Space-Filling Curves
+   [59]The Wallis Sieve
+   [60]Two Tori Glued along a Slit
+   [61]The Empty Set
+   [62]The Menger Sponge
+   [63]The Connected Sum of Four Hopf Links
+   [64]Borromean rings
+
+
+   The views expressed are those of the author(s) and are not
+   necessarily those of Scientific American.
+   [65][rightsPermsIcon.png] Rights & Permissions
+   Advertisement |
+   Report Ad
+
+
+

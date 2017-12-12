@@ -1,0 +1,241 @@
+Minority Groups Lose When They Collaborate with Power
+
+   Posted By Kiki Sanford on Feb 06, 2017
+
+
+      mailto:?subject=Nautilus: Minority Groups Lose When They Collaborate with Power&body=I saw this blog post on Nautil.us and wanted to share it with you.
+
+
+
+
+
+
+   Photograph by National Eye Institute / Flickr
+
+   Cailin O’Connor—a philosopher, scientist, and mathematician—may
+   not enjoy tense situations, but they fascinate her. Last year,
+   in a Huffington Post article [65]titled “Game Theory and The
+   Walking Dead,” she wrote that the zombie show’s “plot lines are
+   rich with strategic tension.” She goes on to analyze three of
+   what she calls “the most strategically compelling scenes,” and
+   seems to relish in the fact that the characters—since they so
+   often die—aren’t great game theorists. (Game theory, as she
+   sometimes has to remind her students at the University of
+   California, Irvine, isn’t really about games, but about
+   predicting rational behavior.)
+
+
+   Recently, she’s brought this sort of scrutiny on the behavior
+   of her fellow academics. In a recent paper, she analyzes how
+   they strategically cooperate and bargain at a time when, in
+   most scientific fields, published work is [66]most often
+   co-authored, and how power discrepancies can affect these
+   collaborations—between grad students and professors, say, or
+   between men and women, or between whites and people of color
+   (or, indeed, combinations of these).
+
+
+   In the paper, co-authored with Justin Bruner, a philosopher and
+   evolutionary game theorist at Australian National University,
+   she [67]writes, “Our results should help provide fodder for
+   what ought to be an ongoing discussion in academia—how to
+   ensure fairness in collaborative work.”
+   [68][12139_c5c548e462f63499be7e59ff9f3d8e40.png]
+
+
+     There might be social dynamical pressures that mean inequity
+     pops up again, and again, and again.
+
+   In a conversation with Nautilus, [69]O’Connor discussed her
+   game theory models and how they shed light on the intricacies
+   of academic power structures, how inequity arises, and how we
+   can combat it.
+
+
+   Do inequity game theory models play out in the real world?
+
+   The answer is maybe. They at least tell us it’s really easy for
+   inequity to emerge between social groups. It takes almost
+   nothing in a model to get inequity. You just have to divide
+   people into social groups and then put them in a situation
+   where they’re bargaining, or they’re trying to coordinate with
+   each other. It just kind of emerges on its own as they learn to
+   interact.
+
+   This isn’t to say that things like discrimination, and bias,
+   and implicit bias, and stereotype-threat don’t matter to
+   inequity. I don’t mean to imply that, but the models tell us
+   that we don’t need them to get it. Part of what might be going
+   on in the real world is just that these processes, where people
+   learn to do the things that work best for them, can lead to
+   inequitable norms on their own without people having to even
+   have a bias.
+
+   What do the inequity models tell us?
+
+   What they tell us is that inequity is not necessarily going to
+   be a problem that we can solve and then it stays solved. But,
+   rather, it’s something where there might be social dynamical
+   pressures that mean inequity pops up again, and again, and
+   again. You can’t think of it as something that we’re just going
+   to fix and then be done with. Rather, if we want to solve
+   problems related to inequity and discrimination, we should be
+   thinking of it as something we’re going to constantly have to
+   deal with as a society. Just always having to fight against it.
+
+   Where do you think we can, and maybe should, implement change
+   to put the brakes on the process?
+
+   One way we could stop it would be to stop recognizing people as
+   being members of different social groups. If we could get rid
+   of that, this process wouldn’t occur. That is a necessary
+   precondition to get the kind of inequity I’m talking about.
+   It’s maybe kind of hopeless to hope that humans would just stop
+   believing in social categories. If we could, that would stop
+   it.
+
+   In academia, with power hierarchies, you’re always going to
+   have professors and grad students. That’s not really something
+   you can get rid of. Of course, it’s not like we can just erase
+   biological sex and the biological components of race either,
+   but we do know that some societies recognize those as less
+   important to interactions than others do. I argue in my papers
+   that one of the best ways to deal with any particular instance
+   of inequity or discrimination is with explicit social rules
+   that just stop inequity from mattering.
+
+     Women are more likely to collaborate with other women.
+
+   What have you found about how academics interact and bargain?
+
+   There’s this really interesting phenomenon in these models
+   where you have social groups learning to bargain. I’ve been
+   calling it the [70]“cultural Red King effect.” If one of the
+   groups is smaller than the other group—say women make up 10
+   percent of a community and men make up 90 percent—this would be
+   like a business or an academic discipline.
+
+
+   The smaller group, under a lot of situations is more likely to
+   end up getting less when they bargain. As the group develops
+   rules for bargaining, it’s more likely they end up at a rule
+   where the minority group gets less. The reason for this is that
+   when the minority group is interacting, they’re meeting
+   majority group members all the time because there are a lot of
+   people in the majority. Majority members tend not to meet the
+   minority group because the minority is very rare.
+
+   As a result, the minority group learns how to interact with the
+   majority more quickly. In a bargaining situation, this often
+   means that they learn to be accommodating. Once the minority
+   group learns to accommodate, the majority group can then take
+   advantage of that.
+
+   One of my papers argues that could be happening in academia as
+   well. Maybe it helps explain why you see some minority groups
+   getting less, like women and possibly people of color. If
+   they’re getting less, maybe they then learn not to collaborate
+   or just to collaborate with people of their own type so that
+   they don’t get taken advantage of.
+
+   Why are you looking at bargaining and power within academia?
+
+   Part of my interest in using these models to look at academia
+   came from empirical results. Carl Bergstrom—he’s a biologist
+   but who does a lot of social science work as well—and others
+   have a [71]paper, “The Role of Gender in Scholarly Authorship,”
+   where they looked across academic collaboration and showed that
+   in a lot of disciplines women tend not to have the most
+   prestigious author positions. They tend not to be first and
+   last author, which requires some explaining.
+
+
+   There’s another set of empirical results showing that in a
+   number of disciplines, women and sometimes people of color tend
+   to collaborate less often, are less likely to be on
+   collaborative papers, and when they do collaborate, are more
+   likely to collaborate with their in-group. Women are more
+   likely to collaborate with other women.
+
+   Part of the question I wanted to ask is, “Is there some norm
+   developing where women are getting less and less credit, or
+   possibly doing more work on academic papers, and is that maybe
+   dis-incentivizing them from collaborating?”
+
+   Why are collaborations useful in studying power dynamics?
+
+   Collaboration has been spreading in almost every academic
+   discipline. In the sciences it’s now almost unheard of to see a
+   single author on a paper, where just one academic works on it.
+   You almost always have more than one. What this means is that
+   you have a situation where a group of people are getting
+   together to do something they couldn’t do on their own. They’re
+   creating a good together. A resource. Whenever people do that
+   they also have to bargain. They have to decide: “Once we’ve
+   created this thing, who’s going to get what? Who’s going to get
+   all the credit for it? Who’s going to get the fancy job or
+   tenure, or the things that come out of doing joint work?”
+
+   One paper I’ve written looks at what happens when you have
+   different social groups in academia: If you have men and women,
+   or black and white academics, and they’re involved in
+   collaborative projects. How do they divide the resources, and
+   the work, and the credit in that collaborative project?
+
+   One of the other papers I’ve written is about how academics
+   across the hierarchies in academia learn to interact with each
+   other. The assumption is that people higher on the academic
+   hierarchy have more power than people lower on the academic
+   hierarchy. That’s going to influence how they come to bargain
+   with each other, and how they’re going to divide resources and
+   credit they get for joint projects in academia—for
+   collaborative papers, for co-authorship, or research projects
+   they do together.
+
+   How does power play into the scenarios?
+
+   In our paper, “Power, Bargaining, and Collaboration,” we looked
+   at what power does to the emergence of bargaining between
+   groups. We found that when one group has more power than the
+   other, they’re more likely to get more resources when they
+   bargain. One thing this tells us is that if you have two social
+   groups interacting, and one has a little bit more power, then
+   they’re going to potentially get more resources as norms of
+   bargaining emerge. They’re going to have more resources then.
+
+   In our model, resources translate directly into power again. In
+   a new scenario, as norms of bargaining emerge, they’re going to
+   get more and more resources. It’s not just that inequity
+   emerges easily, it’s that once it’s there, it’s
+   self-perpetuating. You see social dynamical factors kind of
+   pushing to more and more inequity. That’s another aspect of
+   this. We can’t just fix it, and then it’s over. But, rather,
+   whenever we have social groups, inequity emerges, and then it
+   can perpetuate itself and get worse.
+
+   Dr. Kiki Sanford holds a Ph.D. in Molecular, Cellular and
+   Integrative Physiology from U.C. Davis, and is a specialist in
+   learning and memory. She is also the founder and host of the
+   radio show [72]This Week in Science.
+   Get the Nautilus newsletter
+
+
+   The newest and most popular articles delivered right to your
+   inbox!
+   ____________________
+   ____________________
+   Subscribe
+
+   ____________________
+
+   WATCH: The president of Olin College, Richard K. Miller, on why
+   the institution doesn’t grant tenure.
+
+   [594159164_640.jpg]
+
+   The lead image is courtesy of [73]National Eye Institute via
+   Flickr.
+   Minority Groups Lose When They Collaborate with Power
+
+
+

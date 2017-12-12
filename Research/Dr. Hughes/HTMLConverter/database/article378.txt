@@ -1,0 +1,123 @@
+[15][Makeover] Systems of Equations
+
+
+   By [16]Dan Meyer • December 19, 2016 • [17]17 Comments
+
+
+   Here is the oldest kind of math problem that exists:
+
+   Some of you knew what kind of problem this was before you had
+   finished the first sentence. You could blur your eyes and
+   without reading the words you saw that there were two unknown
+   quantities and two facts about them and you knew this was a
+   problem about solving a system of equations.
+
+   Whoever wrote this problem knows that students struggle to
+   learn how to solve systems and struggle to remain awake while
+   solving systems. I presume that’s why they added a context to
+   the system and it’s why they scaffolded the problem all the way
+   to the finish line.
+
+   How could we improve this problem – and other problems like
+   this problem?
+
+   I [18]asked that question on Twitter and I received responses
+   from, roughly speaking, two camps.
+
+
+   One group recommended we change the adjectives and nouns. That
+   we make the problem more real or more relevant by changing the
+   objects in the problem. For example, instead of analyzing an
+   animated movie, we could first survey our classes for the movie
+   genres they like most and use those in the problem.
+
+   This makeover is common, in my experience. I don’t doubt it’s
+   effective for some students, particularly those students
+   already adept at the formal, operational work of solving a
+   system of equations through elimination. The work is already
+   easy for those students, so they’re happy to see a more
+   familiar context. But I question how much that strategy
+   interests students who aren’t already adept at that work.
+
+   Another strategy is to ignore the adjectives and nouns and
+   change the verbs, to change the work students do, to ask
+   students to do informal, relational work first, and use it as a
+   resource for the formal, operational work later.
+
+   This makeover is hard, in my experience. It’s especially hard
+   if you long ago became adept at the formal, operational work of
+   solving a system of equations through elimination. This
+   makeover requires asking yourself, “[19]What is the core
+   concept here and what are early ways of understanding it?”
+
+
+   No adjectives or nouns were harmed during this makeover. Only
+   verbs.
+
+     The theater you run charges $4 for child tickets and $12 for
+     adult tickets.
+    1. What’s a large amount of money you could make?
+    2. What’s a small amount of money you could make?
+    3. Okay, your no-good kid brother is working the cash
+       register. He told you he made:
+       He’s lying about at least one of those. Which ones? How do
+       you know?
+
+   This makeover claims that the core concept of systems is that
+   they’re about relationships between quantities. Sometimes we
+   know so many relationships between those quantities that
+   they’re only satisfied and solved by one set of those
+   quantities. Other times, lots of sets solve those relationships
+   and other times those relationships are so constrained that
+   they’re never solved.
+
+   So we’ve deleted one of the relationships here. Then we’ve ask
+   students to find solutions to the remaining relationship by
+   asking them for a small and large amount of money. There are
+   lots of possible solutions. Then we’ve asked students to
+   encounter the fact that not every amount of money can be a
+   solution to the relationship. (See: [20]Kristin Gray, [21]Kevin
+   Hall, and [22]Julie Reulbach for more on this approach.)
+
+
+   From there, I’m inclined to take Sunday’s sum (one he wasn’t
+   lying about) and ask students how they know it might be
+   legitimate. They’ll offer different pairs of child and adult
+   tickets. “My no-good kid brother says he sold 342 tickets. Can
+   you tell me if that’s possible?”
+
+   Slowly they’ll systematize their guessing-and-checking. It
+   might be appropriate here to visualize their
+   guessing-and-checking on a graph, and later to help students
+   understand how they could have used algebraic notation to form
+   that visualization quickly, at which point the relationships
+   start to make even more sense.
+
+   If we only understand math as formal, operational work, then
+   our only hope for helping a student learn that work is lots and
+   lots of scaffolding and our only hope for helping her remain
+   awake through that work is a desperate search for a context
+   that will send a strong enough jolt of familiarity through her
+   cerebral cortex.
+
+   That path is wide. The narrow path asks us to understand that
+   formal, operational ideas exists first as informal, relational
+   ideas in the mind of the student, that our job is devise
+   experiences that help students access those ideas and build on
+   them.
+
+   BTW. Shout out to [23]Marian Small and other elementary
+   educators for helping me see the value in questions that ask
+   about “big” and “small” answers. The question is purposefully
+   imprecise and invites students to start poking at the edges of
+   the relationship.
+   [24]makeovermonday
+
+
+   About [25]Dan Meyer
+   I'm Dan and this is my blog. I'm a former high school math
+   teacher and current head of teaching at [26]Desmos. [27]More
+   here.
+
+
+

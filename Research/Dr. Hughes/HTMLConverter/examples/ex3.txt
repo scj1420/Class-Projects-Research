@@ -1,0 +1,1217 @@
+"/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java" -Didea.launcher.port=7537 "-Didea.launcher.bin.path=/Applications/Android Studio.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/charsets.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/localedata.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunec.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jce.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jsse.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/management-agent.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/resources.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/dt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/jconsole.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/sa-jdi.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/tools.jar:/Users/Seong-EunCho/Desktop/Dr. Hughes RA/HTMLConverter/lib/build/classes/main:/Applications/Android Studio.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain URLtoString https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+Sending 'GET' request to URL : https://www.w3.org/services/html2txt?url=https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+Response Code : 200
+    #[1]alternate [2]alternate
+
+      [1] android-app://com.washingtonpost.rainbow/wp-android-rainbow/www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html
+      [2] android-app://com.washingtonpost.android/wp-android/www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html
+
+   [3]The Washington Post
+   Democracy Dies in Darkness
+
+  https://www.washingtonpost.com/
+
+     * ____________________
+     * [4]Sections
+      https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+     *
+
+     * [5]Sign In
+      https://subscribe.washingtonpost.com/loginregistration/index.html
+
+     * Username
+     * [6]Subscribe
+
+      [6] https://subscribe.washingtonpost.com/acquisition/?nid=top_pb_subscribe&promo=digital02_default&oscode=RPWH&wpsrc=CM0000445&destination=http://www.washingtonpost.com/pb/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html
+
+   ____________________ (BUTTON)
+     * [7]Accessibility for screenreader
+      http://www.washingtonpost.com/pb/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?outputType=accessibility&nid=menu_nav_accessibilityforscreenreader
+
+     * [8]Home Page
+       [9]U.S. & World | [10]Regional
+      https://www.washingtonpost.com/
+      https://www.washingtonpost.com/
+      https://www.washingtonpost.com/regional/
+
+     * [11]Politics
+      http://www.washingtonpost.com/politics/
+
+          + [12]PowerPost
+           https://www.washingtonpost.com/news/powerpost/
+
+          + [13]The Fix
+           http://www.washingtonpost.com/blogs/the-fix/
+
+          + [14]White House
+           http://www.washingtonpost.com/politics/white-house/
+
+          + [15]Courts and Law
+           http://www.washingtonpost.com/politics/courts-law/
+
+          + [16]Polling
+           http://www.washingtonpost.com/politics/polling/
+
+          + [17]Monkey Cage
+           http://www.washingtonpost.com/blogs/monkey-cage/
+
+          + [18]Fact Checker
+           http://www.washingtonpost.com/blogs/fact-checker/
+
+          + [19]Post Politics Blog
+           http://www.washingtonpost.com/blogs/post-politics/
+
+     * [20]Opinions
+      https://www.washingtonpost.com/opinions/
+
+          + [21]The Post's View
+           http://www.washingtonpost.com/opinions/the-posts-view/
+
+          + [22]Toles Cartoons
+           https://www.washingtonpost.com/people/tom-toles
+
+          + [23]Telnaes Animations
+           https://www.washingtonpost.com/people/ann-telnaes
+
+          + [24]Local Opinions
+           https://www.washingtonpost.com/opinions/local-opinions/
+
+          + [25]Global Opinions
+           https://www.washingtonpost.com/global-opinions/
+
+          + [26]Letters to the Editor
+           http://www.washingtonpost.com/opinions/letters-to-the-editor/
+
+          + [27]Act Four
+           http://www.washingtonpost.com/news/act-four/
+
+          + [28]All Opinions Are Local
+           http://www.washingtonpost.com/blogs/all-opinions-are-local/
+
+          + [29]Book Party
+           http://www.washingtonpost.com/news/book-party/
+
+          + [30]Compost
+           http://www.washingtonpost.com/blogs/compost/
+
+          + [31]Erik Wemple
+           http://www.washingtonpost.com/blogs/erik-wemple/
+
+          + [32]Five Myths
+           https://www.washingtonpost.com/opinions/five-myths/
+
+          + [33]In Theory
+           https://www.washingtonpost.com/news/in-theory/
+
+          + [34]The Plum Line
+           http://www.washingtonpost.com/blogs/plum-line/
+
+          + [35]PostEverything
+           http://www.washingtonpost.com/posteverything/
+
+          + [36]PostPartisan
+           http://www.washingtonpost.com/blogs/post-partisan/
+
+          + [37]Rampage
+           http://www.washingtonpost.com/news/rampage/
+
+          + [38]Right Turn
+           http://www.washingtonpost.com/blogs/right-turn/
+
+          + [39]The Watch
+           http://www.washingtonpost.com/news/the-watch/
+
+          + [40]Volokh Conspiracy
+           http://www.washingtonpost.com/news/volokh-conspiracy/
+
+          + [41]DemocracyPost
+           http://www.washingtonpost.com/news/democracy-post/
+
+     * [42]Sports
+      http://www.washingtonpost.com/sports/
+
+          + [43]Redskins
+           http://www.washingtonpost.com/sports/redskins/
+
+          + [44]NFL
+           http://www.washingtonpost.com/sports/nfl/
+
+          + [45]MLB
+           http://www.washingtonpost.com/sports/mlb/
+
+          + [46]NBA
+           http://www.washingtonpost.com/sports/nba/
+
+          + [47]NHL
+           http://www.washingtonpost.com/sports/nhl/
+
+          + [48]AllMetSports
+           http://www.washingtonpost.com/allmetsports/
+
+          + [49]Soccer
+           https://www.washingtonpost.com/sports/soccer/
+
+          + [50]Boxing/MMA
+           http://www.washingtonpost.com/sports/boxing-mma/
+
+          + [51]College Sports
+           http://www.washingtonpost.com/sports/colleges/
+
+          + [52]College Football
+           http://www.washingtonpost.com/sports/colleges/football/
+
+          + [53]College Basketball
+           http://www.washingtonpost.com/sports/colleges/basketball/
+
+          + [54]D.C. Sports Bog
+           http://www.washingtonpost.com/blogs/dc-sports-bog/
+
+          + [55]Early Lead
+           http://www.washingtonpost.com/blogs/early-lead/
+
+          + [56]Fancy Stats
+           http://www.washingtonpost.com/news/fancy-stats/
+
+          + [57]Golf
+           http://www.washingtonpost.com/sports/golf/
+
+          + [58]Tennis
+           http://www.washingtonpost.com/sports/tennis/
+
+          + [59]Fantasy Sports
+           http://www.washingtonpost.com/sports/fantasy-sports/
+
+     * [60]Local
+      http://www.washingtonpost.com/local/
+
+          + [61]D.C.
+           http://www.washingtonpost.com/local/dc/
+
+          + [62]Maryland
+           http://www.washingtonpost.com/local/maryland/
+
+          + [63]Virginia
+           http://www.washingtonpost.com/local/virginia/
+
+          + [64]Public Safety
+           http://www.washingtonpost.com/local/public-safety/
+
+          + [65]Education
+           http://www.washingtonpost.com/local/education/
+
+          + [66]Obituaries
+           http://www.washingtonpost.com/local/obituaries/
+
+          + [67]Transportation
+           http://www.washingtonpost.com/local/traffic-commuting/
+
+          + [68]Weather
+           http://www.washingtonpost.com/local/weather/
+
+     * [69]National
+      http://www.washingtonpost.com/national/
+
+          + [70]Acts of Faith
+           http://www.washingtonpost.com/news/acts-of-faith/
+
+          + [71]Health and Science
+           http://www.washingtonpost.com/national/health-science/
+
+          + [72]National Security
+           https://www.washingtonpost.com/world/national-security/
+
+          + [73]Investigations
+           http://www.washingtonpost.com/sf/investigative/collection/investigations/
+
+          + [74]Morning Mix
+           http://www.washingtonpost.com/news/morning-mix/
+
+          + [75]Post Nation
+           http://www.washingtonpost.com/news/post-nation/
+
+          + [76]True Crime
+           http://www.washingtonpost.com/news/true-crime/
+
+          + [77]Obituaries
+           http://www.washingtonpost.com/local/obituaries/
+
+     * [78]World
+      http://www.washingtonpost.com/world/
+
+          + [79]Africa
+           http://www.washingtonpost.com/world/africa/
+
+          + [80]The Americas
+           http://www.washingtonpost.com/world/americas/
+
+          + [81]Asia and Pacific
+           http://www.washingtonpost.com/world/asia-pacific/
+
+          + [82]Europe
+           http://www.washingtonpost.com/world/europe/
+
+          + [83]Middle East
+           http://www.washingtonpost.com/world/middle-east/
+
+          + [84]National Security
+           http://www.washingtonpost.com/world/national-security/
+
+          + [85]WorldViews
+           http://www.washingtonpost.com/blogs/worldviews/
+
+          + [86]Checkpoint
+           http://www.washingtonpost.com/news/checkpoint/
+
+     * [87]Business
+      http://www.washingtonpost.com/business/
+
+          + [88]Wonkblog
+           https://www.washingtonpost.com/news/wonk/
+
+          + [89]On Leadership
+           http://www.washingtonpost.com/business/on-leadership/
+
+          + [90]Personal Finance
+           https://www.washingtonpost.com/business/get-there/
+
+          + [91]Digger
+           http://www.washingtonpost.com/news/digger/
+
+          + [92]Energy and Environment
+           https://www.washingtonpost.com/news/energy-environment/
+
+          + [93]Markets
+           http://washpost.bloomberg.com/market-news/
+
+          + [94]On Small Business
+           http://www.washingtonpost.com/business/on-small-business/
+
+          + [95]World Business
+           http://washpost.bloomberg.com/worldbusiness/
+
+          + [96]Capital Business
+           http://www.washingtonpost.com/business/capital-business/
+
+     * [97]Tech
+      http://www.washingtonpost.com/business/technology/
+
+          + [98]Innovations
+           http://www.washingtonpost.com/news/innovations/
+
+          + [99]The Switch
+           http://www.washingtonpost.com/blogs/the-switch/
+
+     * [100]Lifestyle
+      http://www.washingtonpost.com/lifestyle/
+
+          + [101]Arts and Entertainment
+           https://www.washingtonpost.com/news/arts-and-entertainment/
+
+          + [102]Advice
+           http://www.washingtonpost.com/lifestyle/advice/
+
+          + [103]Carolyn Hax
+           https://www.washingtonpost.com/pb/people/carolyn-hax/
+
+          + [104]Food
+           http://www.washingtonpost.com/food/
+
+          + [105]Travel
+           http://www.washingtonpost.com/lifestyle/travel/
+
+          + [106]Wellness
+           http://www.washingtonpost.com/lifestyle/wellness/
+
+          + [107]Magazine
+           https://www.washingtonpost.com/lifestyle/magazine/
+
+          + [108]Home and Garden
+           http://www.washingtonpost.com/lifestyle/home-garden/
+
+          + [109]Inspired Life
+           http://www.washingtonpost.com/news/inspired-life/
+
+          + [110]Fashion
+           https://www.washingtonpost.com/lifestyle/fashion/
+
+          + [111]KidsPost
+           http://www.washingtonpost.com/lifestyle/kidspost/
+
+          + [112]On Parenting
+           http://www.washingtonpost.com/lifestyle/on-parenting/
+
+          + [113]Reliable Source
+           http://www.washingtonpost.com/blogs/reliable-source/
+
+          + [114]The Intersect
+           http://www.washingtonpost.com/news/the-intersect/
+
+          + [115]Solo-ish
+           http://www.washingtonpost.com/news/soloish/
+
+     * [116]Entertainment
+      http://www.washingtonpost.com/entertainment/
+
+          + [117]Books
+           http://www.washingtonpost.com/entertainment/books/
+
+          + [118]Comics
+           http://www.washingtonpost.com/entertainment/comics/
+
+          + [119]Comic Riffs
+           http://www.washingtonpost.com/news/comic-riffs/
+
+          + [120]Going Out Guide
+           http://www.washingtonpost.com/goingoutguide/
+
+          + [121]Horoscopes
+           http://www.washingtonpost.com/entertainment/horoscopes/
+
+          + [122]Movies
+           https://www.washingtonpost.com/goingoutguide/movies/
+
+          + [123]Museums
+           https://www.washingtonpost.com/goingoutguide/museums/
+
+          + [124]Music
+           https://www.washingtonpost.com/goingoutguide/music/
+
+          + [125]Puzzles and Games
+           http://games.washingtonpost.com/
+
+          + [126]Theater and Dance
+           https://www.washingtonpost.com/goingoutguide/theater-dance/
+
+          + [127]TV
+           http://www.washingtonpost.com/entertainment/tv/
+
+          + [128]Restaurants
+           https://www.washingtonpost.com/goingoutguide/restaurants/
+
+          + [129]Bars & Clubs
+           https://www.washingtonpost.com/goingoutguide/bars-clubs/
+
+     * [130]Crosswords
+      http://games.washingtonpost.com/games/daily-crossword/
+
+     * [131]Video
+      http://www.washingtonpost.com/posttv/
+
+          + [132]World
+           http://www.washingtonpost.com/posttv/c/video/topic/world
+
+          + [133]Top News
+           http://www.washingtonpost.com/posttv/c/video/topic/topnews
+
+          + [134]Entertainment
+           http://www.washingtonpost.com/posttv/c/video/topic/entertainment
+
+          + [135]Local
+           http://www.washingtonpost.com/posttv/c/video/topic/local
+
+          + [136]Popular Video
+           http://www.washingtonpost.com/posttv/c/video/topic/popularvideo
+
+          + [137]Politics
+           http://www.washingtonpost.com/posttv/c/video/topic/politics
+
+          + [138]Live
+           http://www.washingtonpost.com/posttv/c/live
+
+          + [139]Sports
+           http://www.washingtonpost.com/posttv/c/video/topic/sports
+
+          + [140]Opinions
+           http://www.washingtonpost.com/posttv/c/video/topic/opinions
+
+          + [141]National
+           http://www.washingtonpost.com/posttv/c/video/topic/national
+
+          + [142]Business
+           http://www.washingtonpost.com/posttv/c/video/topic/business
+
+          + [143]Technology
+           http://www.washingtonpost.com/posttv/c/video/topic/tech
+
+          + [144]Style
+           http://www.washingtonpost.com/posttv/c/video/topic/style
+
+     * [145]Podcasts
+      https://www.washingtonpost.com/podcasts/
+
+          + [146]Cape Up
+           https://www.washingtonpost.com/cape-up/
+
+          + [147]Ciquizza
+           https://www.washingtonpost.com/news/the-fix/wp/category/ciquizza/
+
+          + [148]Can He Do That?
+           https://www.washingtonpost.com/graphics/politics/can-he-do-that-trump-podcast/
+
+          + [149]Presidential
+           https://www.washingtonpost.com/graphics/business/presidential-podcast/
+
+          + [150]Sports
+           https://www.washingtonpost.com/news/sports/wp/tag/magnet-podcasts/
+
+     * [151]Photography
+      https://www.washingtonpost.com/photography/
+
+          + [152]In Sight
+           http://www.washingtonpost.com/news/in-sight/
+
+     * [153]Washington Post Live
+      https://www.washingtonpost.com/blogs/post-live/
+
+          + [154]Events
+           http://www.washingtonpost.com/blogs/post-live/
+
+     * [155]Live Chats
+      http://live.washingtonpost.com/
+
+     * [156]Real Estate
+      http://www.washingtonpost.com/realestate/
+
+          + [157]Rentals
+           http://www.washingtonpost.com/rentals/
+
+          + [158]Where We Live
+           http://www.washingtonpost.com/blogs/where-we-live/
+
+          + [159]Recently Sold Homes
+           http://www.washingtonpost.com/homesales/index.html
+
+     * [160]Cars
+      http://www.washingtonpost.com/cars/
+
+     * [161]Jobs
+      https://jobs.washingtonpost.com/
+
+     * [162]Classifieds
+      http://www.washingtonpost.com/classifieds/
+
+     * [163]Partners
+      https://www.washingtonpost.com/
+
+          + [164]Express
+           http://www.washingtonpost.com/express/
+
+          + [165]Parade
+           http://www.parade.com/
+
+     * [166]WP BrandStudio
+
+      http://www.washingtonpost.com/sf/brand-connect/brand-studio/
+
+     * [167]washingtonpost.com
+      https://www.washingtonpost.com/
+
+     * [168]1996-2017 The Washington Post
+      https://www.washingtonpost.com/
+
+     * [169]Terms of Service
+      https://www.washingtonpost.com/terms-of-service/2011/11/18/gIQAldiYiN_story.html
+
+     * [170]Privacy Policy
+      https://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html
+
+     * [171]Submissions and Discussion Policy
+      http://www.washingtonpost.com/news/ask-the-post/discussion-and-submission-guidelines/
+
+     * [172]RSS Terms of Service
+      https://www.washingtonpost.com/rss-terms-of-service/2012/01/16/gIQAadFYAQ_story.html
+
+     * [173]Ad Choices
+
+    [173] https://www.washingtonpost.com/how-can-i-opt-out-of-online-advertising-cookies/2011/11/18/gIQABECbiN_story.html
+
+   The Washington Post
+
+   Share on Facebook
+   Share on Twitter
+   Share on Google Plus
+   Share via Email
+   Share on LinkedIn
+   Share on Pinterest
+   Share on Tumblr
+   Resize Text
+   Print Article
+   Comments4.0K
+
+   The inside track on Washington politics.
+   Be the first to know about new stories from PowerPost. Sign up
+   to follow, and we’ll e-mail you free updates as they’re
+   published.
+   You’ll receive free e-mail news updates each time a new story
+   is published.
+   You’re all set!
+   ____________________ Sign up
+
+   *Invalid email address
+   Got it
+   Got it
+
+   2
+
+   Desktop notifications are on   | [174]Turn off
+
+    [174] https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+   Get breaking news alerts from The Washington Post
+
+   Turn on desktop notifications?
+   Yes Not now
+
+   It looks like you've previously blocked notifications. Please
+   update your browser permissions to allow them.
+   [notification_denied_v1.png]
+
+   [175]Social Issues
+
+    [175] https://www.washingtonpost.com/local/social-issues
+
+Federal judge in Hawaii freezes President Trump’s new entry ban
+
+   The inside track on Washington politics.
+   Be the first to know about new stories from PowerPost. Sign up
+   to follow, and we’ll e-mail you free updates as they’re
+   published.
+   You’ll receive free e-mail news updates each time a new story
+   is published.
+   You’re all set!
+   ____________________ Sign up
+
+   *Invalid email address
+   Got it
+   Got it
+
+   (Bastien Inzaurralde/The Washington Post)
+   By [176]Matt Zapotosky, Kalani Takase and [177]Maria Sacchetti
+   By [178]Matt Zapotosky, Kalani Takase and [179]Maria Sacchetti
+   March 15 at 10:11 PM [180]Follow @mattzap [181]Follow
+   @mariasacchetti
+
+    [176] https://www.washingtonpost.com/people/matt-zapotosky/
+    [177] https://www.washingtonpost.com/people/maria-sacchetti
+    [178] https://www.washingtonpost.com/people/matt-zapotosky/
+    [179] https://www.washingtonpost.com/people/maria-sacchetti
+    [180] https://twitter.com/@mattzap
+    [181] https://twitter.com/@mariasacchetti
+
+   A federal judge in Hawaii on Wednesday issued a sweeping freeze
+   of President Trump’s new executive order hours before it would
+   have temporarily barred the issuance of new visas to citizens
+   of six Muslim-majority countries and suspended the admission of
+   new refugees.
+
+   In a blistering 43-page opinion, U.S. District Judge Derrick K.
+   Watson pointed to Trump’s own comments and those of his close
+   advisers as evidence that his order was meant to discriminate
+   against Muslims and declared there was a “strong likelihood of
+   success” that those suing would prove the directive violated
+   the Constitution.
+
+   Watson declared that “a reasonable, objective observer —
+   enlightened by the specific historical context, contemporaneous
+   public statements, and specific sequence of events leading to
+   its issuance — would conclude that the Executive Order was
+   issued with a purpose to disfavor a particular religion.”
+
+   He lambasted the government, in particular, for asserting that
+   because the ban did not apply to all Muslims in the world, it
+   could not be construed as discriminating against Muslims.
+   [182][compare-travel-ban-promo2300.jpg?uuid=IsHPQgKNEeedFJck1I9
+   WZg] [183]What Trump changed in the new travel ban View Graphic
+   What Trump changed in the new travel ban
+
+    [182] http://www.washingtonpost.com/graphics/politics/trump-compare-travel-ban/
+    [183] http://www.washingtonpost.com/graphics/politics/trump-compare-travel-ban/
+
+   “The illogic of the Government’s contentions is palpable,”
+   Watson wrote. “The notion that one can demonstrate animus
+   toward any group of people only by targeting all of them at
+   once is fundamentally flawed.”
+
+   At a rally in Nashville, Trump called the ruling “terrible” and
+   asked a cheering crowd whether the ruling was “done by a judge
+   for political reasons.” He said the administration would fight
+   the case “as far as it needs to go,” including up to the
+   Supreme Court, and rued that he had been persuaded to sign a
+   “watered-down version” of his first travel ban.
+
+   “Let me tell you something, I think we ought to go back to the
+   first one and go all the way,” Trump said. “The danger is
+   clear, the law is clear, the need for my executive order is
+   clear.”
+
+   Sarah Isgur Flores, a spokeswoman for the Justice Department,
+   said in a statement: “The Department of Justice strongly
+   disagrees with the federal district court’s ruling, which is
+   flawed both in reasoning and in scope. The President’s
+   Executive Order falls squarely within his lawful authority in
+   seeking to protect our Nation’s security, and the Department
+   will continue to defend this Executive Order in the courts.”
+
+   Watson was one of three federal judges to hear arguments
+   Wednesday about the ban, though he was the first to issue an
+   opinion. Federal judges in Washington state and Maryland said
+   they would issue opinions soon.
+
+   As the ruling in Hawaii was being handed down, James L. Robart,
+   the federal judge in Washington state who froze Trump’s first
+   travel ban, was hearing arguments about whether he should
+   freeze the second. He said he did not think his first freeze
+   was still in effect, though he did not immediately rule on
+   whether he should issue a new one.
+   (Daron Taylor/The Washington Post)
+
+   Watson’s decision might not be the last word. He was
+   considering only a request for a temporary restraining order,
+   and while that required him to assess whether challengers of
+   the ban would ultimately succeed, his ruling is not final on
+   that question. The Justice Department could appeal the ruling
+   or wage a longer-term court battle before the judge in Hawaii.
+
+   Watson’s decision came in response to a lawsuit filed by
+   Hawaii. Lawyers for the state alleged that the new entry ban,
+   much like the old, violated the establishment clause of the
+   First Amendment because it was essentially a Muslim ban, hurt
+   the ability of state businesses and universities to recruit top
+   talent, and damaged the state’s robust tourism industry.
+
+   They pointed to the case of Ismail Elshikh, the imam of the
+   Muslim Association of Hawaii, whose mother-in-law’s application
+   for an immigrant visa was still being processed. Under the new
+   executive order, attorneys for Hawaii said, Elshikh feared that
+   his mother-in-law, a Syrian national, would ultimately be
+   banned from entering the United States.
+
+   [[184]Why Hawaii says Trump’s new travel ban is still
+   unconstitutional]
+
+    [184] https://www.washingtonpost.com/world/national-security/why-hawaii-says-trumps-new-travel-ban-is-still-unconstitutional/2017/03/08/3419306e-040e-11e7-b9fa-ed727b644a0b_story.html?utm_term=.e9143dfa400f
+
+   “Dr. Elshikh certainly has standing in this case. He, along
+   with all of the Muslim residents in Hawaii, face higher hurdles
+   to see family because of religious faith,” lawyer Colleen Roh
+   Sinzdak said at a hearing Wednesday. “It is not merely a harm
+   to the Muslim residents of the state of Hawaii, but also is a
+   harm to the United States as a whole and is against the First
+   Amendment itself.”
+
+   Elshikh is a U.S. citizen of Egyptian descent who has been a
+   resident of Hawaii for over a decade. His wife is of Syrian
+   descent and is also a resident of Hawaii.
+
+   Justice Department lawyers [185]argued that Trump was well
+   within his authority to impose the ban, which was necessary for
+   national security, and that those challenging it had raised
+   only speculative harms. “They bear the burden of showing
+   irreparable harm . . . and there is no harm at all,” said the
+   acting U.S. solicitor general, Jeffrey Wall, who argued on
+   behalf of the government in Greenbelt, Md., in the morning and
+   by phone in Hawaii in the afternoon.
+
+    [185] https://www.washingtonpost.com/world/national-security/justice-dept-lays-out-defense-of-revised-travel-ban-as-key-court-hearings-loom/2017/03/13/7ae65764-07fc-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.f52b24b6c189
+
+   Watson agreed with the state on virtually all the points. He
+   ruled that the state had preliminarily demonstrated its
+   universities and tourism industry would be hurt, and that harm
+   could be traced to the executive order. He wrote that Elshikh
+   had alleged “direct, concrete injuries to both himself and his
+   immediate family.”
+
+   And Watson declared that the government’s assertion of the
+   national security need for the order was “at the very least,
+   ‘secondary to a religious objective’ of temporarily suspending
+   the entry of Muslims.” He pointed to Trump’s own campaign trail
+   comments and public statements by advisers as evidence.
+
+   “For instance, there is nothing ‘veiled’ about this press
+   release: ‘Donald J. Trump is calling for a total and complete
+   shutdown of Muslims entering the United States,’ ” Watson
+   wrote. “Nor is there anything ‘secret’ about the Executive’s
+   motive specific to the issuance of the Executive Order. Rudolph
+   Giuliani explained on television how the Executive Order came
+   to be. He said: ‘When [Mr. Trump] first announced it, he said,
+   ‘Muslim ban.’ He called me up. He said, ‘Put a commission
+   together. Show me the right way to do it legally.’ ”
+
+   Watson also pointed to a recent Fox News appearance by Stephen
+   Miller, in which the president’s senior policy adviser said the
+   new ban would have “mostly minor technical differences” from
+   the previous iteration frozen by the courts, and Americans
+   would see “the same basic policy outcome for the country.”
+
+   “These plainly-worded statements, made in the months leading up
+   to and contemporaneous with the signing of the Executive Order,
+   and, in many cases, made by the Executive himself, betray the
+   Executive Order’s stated secular purpose,” Watson wrote.
+
+   Opponents of the ban across the country — including those who
+   had argued against it in different cases on Wednesday — hailed
+   Watson’s ruling.
+
+   Bob Ferguson, the Washington state attorney general who asked
+   Robart to block the measure, called the Hawaii ruling
+   “fantastic news.” Justin Cox, a staff attorney for the National
+   Immigration Law Center who argued for a restraining order in
+   the case in Maryland, said, “This is absolutely a victory and
+   should be celebrated as such, especially because the court held
+   that the plaintiffs, that Hawaii was likely to succeed on its
+   establishment clause claim which essentially is that the
+   primary purpose of the executive order is to discriminate
+   against Muslims.”
+
+   Cox said while the judge did not halt the order entirely, he
+   blocked the crucial sections — those halting the issuance of
+   new visas and suspending the refugee program. Left intact, Cox
+   said, were lesser-known provisions, including one that orders
+   Homeland Security and the U.S. attorney general to publicize
+   information about foreign nationals charged with
+   terrorism-related offenses and other crimes. He said the
+   provision seems designed to whip up fear of Muslims.
+
+   “It’s a shaming device that it’s really a dehumanizing device,”
+   he said. “It perpetuates this myth, this damaging stereotype of
+   Muslims as terrorists.”
+
+   Trump’s new entry ban had suspended the U.S. refugee program
+   for 120 days and halted for 90 days the issuance of new visas
+   to people from six Muslim-majority countries: Iran, Somalia,
+   Sudan, Yemen, Libya and Syria. It was different from the first
+   entry ban in that it omitted Iraq from the list of affected
+   countries, did not affect current visa or green-card holders
+   and spelled out a robust list of people who might be able to
+   apply for exceptions.
+
+   The administration could have defended the first ban in court —
+   though it chose instead to rewrite the president’s executive
+   order in such a way that it might be more defensible. The next
+   step might have been to persuade the U.S. Court of Appeals for
+   the 9th Circuit to rehear the case en banc, after a three-judge
+   panel with the court upheld the freeze on Trump’s ban.
+
+   Hawaii is a part of the 9th Circuit, so the legal road could
+   pass through the appeals court there again. Perhaps previewing
+   the contentious fight ahead, five of the circuit’s judges on
+   Wednesday signed a dissenting opinion in the case over the
+   original travel ban, declaring Trump’s decision to issue the
+   executive order was “well within the powers of the presidency.”
+   The judges wanted to wipe out a ruling by a three-judge panel
+   declaring otherwise.
+
+   “Above all, in a democracy, we have the duty to preserve the
+   liberty of the people by keeping the enormous powers of the
+   national government separated,” Judge Jay S. Bybee wrote for
+   the dissenters. “We are judges, not Platonic Guardians. It is
+   our duty to say what the law is, and the meta-source of our
+   law, the U.S. Constitution, commits the power to make foreign
+   policy, including the decisions to permit or forbid entry into
+   the United States, to the President and Congress.”
+
+   The dissent was signed by Judges Bybee, Sandra S. Ikuta,
+   Consuelo M. Callahan and Carlos T. Bea, who all were appointed
+   by President George W. Bush; and Judge Alex Kozinski, who was
+   appointed by President Ronald Reagan. It seemed to represent a
+   minority view. The circuit has 25 active judges, and the court
+   said a majority had not voted in favor of reconsidering the
+   three-judge panel’s published opinion to keep Trump’s first ban
+   frozen.
+
+   That opinion was signed by Judges Michelle T. Friedland, who
+   was appointed by President Obama; Richard R. Clifton, who was
+   appointed by President George W. Bush; and Judge William C.
+   Canby Jr. Judge Stephen Reinhardt formally joined their opinion
+   Wednesday and remarked that only a “small number” of 9th
+   Circuit judges wanted to overturn it.
+
+   Takase reported from Honolulu. Lornet Turnbull in Seattle
+   contributed to this report.
+   [186]Tweets by @mariasacchetti
+
+    [186] https://twitter.com/mariasacchetti
+
+   local
+
+   social-issues
+
+   Orlando Shooting Updates
+
+   News and analysis on the deadliest mass shooting in U.S.
+   history.
+
+   post_newsletter348
+
+   follow-orlando
+
+   false
+
+   after3th
+
+   false
+
+   Please provide a valid email address.
+   ____________________
+   (BUTTON) Sign up
+   You’re all set!
+   [187]See all newsletters
+
+    [187] https://subscribe.washingtonpost.com/newsletters
+
+   local
+
+   social-issues
+
+   Dallas shooting updates
+
+   News and analysis on the deadliest day for police since 9/11.
+
+   post_newsletter353
+
+   follow-dallas
+
+   true
+
+   endOfArticle
+
+   false
+
+   Please provide a valid email address.
+   ____________________
+   (BUTTON) Sign up
+   You’re all set!
+   [188]See all newsletters
+
+    [188] https://subscribe.washingtonpost.com/newsletters
+
+   4.0K
+   Comments
+     * [189] Share on FacebookShare
+      https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+     * [190]  Share on TwitterTweet
+      https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+     * Share via Email
+
+   [washpost_pic.jpg&amp;w=180&amp;h=180]
+   Matt Zapotosky covers the Justice Department for the Washington
+   Post's National Security team.
+   [191]Follow @mattzap
+   Maria Sacchetti is the Post immigration reporter. She
+   previously reported for The Boston Globe.
+   [192]Follow @mariasacchetti
+
+    [191] https://twitter.com/intent/follow?screen_name=mattzap
+    [192] https://twitter.com/intent/follow?screen_name=mariasacchetti
+
+   3994
+   Show Comments
+   [193]Discussion Policy
+   0 Comments
+
+    [193] file://www.washingtonpost.com/blogs/ask-the-post/discussion-and-submission-guidelines/
+
+   SuperFan Badge
+
+   SuperFan badge holders consistently post smart, timely comments
+   about Washington area sports and teams.
+
+   [194]More about badges | [195]Request a badge
+
+    [194] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [195] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Culture Connoisseur Badge
+
+   Culture Connoisseurs consistently offer thought-provoking,
+   timely comments on the arts, lifestyle and entertainment.
+
+   [196]More about badges | [197]Request a badge
+
+    [196] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [197] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Fact Checker Badge
+
+   Fact Checkers contribute questions, information and facts to
+   [198]The Fact Checker.
+
+    [198] file://www.washingtonpost.com/blogs/fact-checker
+
+   [199]More about badges | [200]Request a badge
+
+    [199] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [200] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Washingtologist Badge
+
+   Washingtologists consistently post thought-provoking, timely
+   comments on events, communities, and trends in the Washington
+   area.
+
+   [201]More about badges | [202]Request a badge
+
+    [201] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [202] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Post Writer Badge
+
+   This commenter is a Washington Post editor, reporter or
+   producer.
+
+   Post Forum Badge
+
+   Post Forum members consistently offer thought-provoking, timely
+   comments on politics, national and international affairs.
+
+   [203]More about badges | [204]Request a badge
+
+    [203] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [204] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Weather Watcher Badge
+
+   Weather Watchers consistently offer thought-provoking, timely
+   comments on climates and forecasts.
+
+   [205]More about badges | [206]Request a badge
+
+    [205] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [206] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   World Watcher Badge
+
+   World Watchers consistently offer thought-provoking, timely
+   comments on international affairs.
+
+   [207]More about badges | [208]Request a badge
+
+    [207] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [208] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Post Contributor Badge
+
+   This commenter is a Washington Post contributor. Post
+   contributors aren’t staff, but may write articles or columns.
+   In some cases, contributors are sources or experts quoted in a
+   story.
+
+   [209]More about badges | [210]Request a badge
+
+    [209] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [210] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   Post Recommended
+
+   Washington Post reporters or editors recommend this comment or
+   reader post.
+
+   You must be logged in to report a comment.
+   [211]Sign in here
+
+    [211] https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+   You must be logged in to recommend a comment.
+   [212]Sign in here
+
+    [212] https://www.washingtonpost.com/local/social-issues/lawyers-face-off-on-trump-travel-ban-in-md-court-wednesday-morning/2017/03/14/b2d24636-090c-11e7-93dc-00f9bdd74ed1_story.html?utm_term=.46034a06d647
+
+   Comments our editors find particularly useful or relevant are
+   displayed in Top Comments, as are comments by users with these
+   badges: . Replies to those posts appear here, as well as posts
+   by staff writers.
+
+   All comments are posted in the All Comments tab.
+   [213]More about badges
+   [214]Get a badge
+
+    [213] file://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+    [214] http://www.washingtonpost.com/wp-srv/interactivity/get-a-badge.html
+
+   To pause and restart automatic updates, click "Live" or
+   "Paused". If paused, you'll be notified of the number of
+   additional comments that have come in.
+   Comments our editors find particularly useful or relevant are
+   displayed in Top Comments, as are comments by users with these
+   badges: . Replies to those posts appear here, as well as posts
+   by staff writers.
+     * Spam
+     * Offensive
+     * Disagree
+     * Off-Topic
+
+   Among the criteria for featured comments: likes by users,
+   replies by users, previous history of valuable commenting, and
+   selection by moderators.
+     *
+          + [215]Facebook
+           javascript:void(0)
+
+          + [216]Twitter
+           javascript:void(0)
+
+          + [217]Reddit
+           javascript:void(0)
+
+          + [218]StumbleUpon
+           file://www.stumbleupon.com/submit?url={shareURL}?tid=sm_btn_su&title={headline}
+
+          + [219]Digg
+           file://digg.com/submit?phase=2&url={shareURL}?tid=sm_btn_digg&title={headline}
+
+          + [220]Delicious
+
+    [220] file://www.delicious.com/save?v=5&noui&jump=close&url={shareURL}?tid=sm_btn_delicious&title={headline}
+
+   Most Read
+     * 1
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Federal judge in Hawaii freezes President Trump’s new entry
+       ban
+     * 2
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Bill Walsh, copy editor and witty authority on language,
+       dies at 55
+     * 3
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       ‘America is a white nation’: More racist fliers spotted at
+       University of Maryland
+     * 4
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Perspective Weather Service made poor decision in
+       overplaying Nor’easter snow predictions
+     * 5
+       [spacer.gif&amp;op=resize&amp;w=1&amp;h=1&amp;filter=neares
+       t&fmt=png]
+       [spacer.gif&amp;op=resize&amp;w=3&amp;h=2&amp;filter=neares
+       t&fmt=png]
+       Sessions vows crackdown on drug dealing and gun crime
+
+   Our Online Games
+
+   Play right from this page
+
+Mahjongg Dimensions
+
+   Strategy game
+
+Spider Solitaire
+
+   Card game
+
+Mahjongg Candy
+
+   Strategy game
+
+Word Wipe
+
+   Word game
+
+   local
+
+   social-issues
+
+   Success! Check your inbox for details.
+   ____________________ Add
+   Sign me up
+
+   Please enter a valid email address
+
+   You might also like:
+   [X]
+
+   [X]
+
+   [X]
+
+   (BUTTON) Sign Up (BUTTON) No Thanks
+
+   [221]See all newsletters
+
+    [221] https://subscribe.washingtonpost.com/newsletters
+
+   [222][logo.png;v=63fb1062c755415c681eafa34230f40e]
+
+    [222] https://jobs.washingtonpost.com/
+
+   [223]Search Jobs Featured Jobs
+   [224]speech language pathologist
+   [225]The Ivymount School
+   [226]payroll/ar specialist
+   [227]Legal E
+   [228]labor and employment legal secretary - reston
+   [229]Legal E
+
+  https://jobs.washingtonpost.com/
+  https://jobs.washingtonpost.com/job/37903902/speech-language-pathologist/?TrackID=243232&tid=jobs_search
+  https://jobs.washingtonpost.com/job/37903902/speech-language-pathologist/?TrackID=243232&tid=jobs_search
+  https://jobs.washingtonpost.com/job/37903882/payroll-ar-specialist/?TrackID=243232&tid=jobs_search
+  https://jobs.washingtonpost.com/job/37903882/payroll-ar-specialist/?TrackID=243232&tid=jobs_search
+  https://jobs.washingtonpost.com/job/37903883/labor-and-employment-legal-secretary-reston/?TrackID=243232&tid=jobs_search
+  https://jobs.washingtonpost.com/job/37903883/labor-and-employment-legal-secretary-reston/?TrackID=243232&tid=jobs_search
+
+     * [230]washingtonpost.com
+      file://www.washingtonpost.com/
+
+     * © 1996-2017 The Washington Post
+     *
+     * [231]Help and Contact Us
+      http://help.washingtonpost.com/ics/support/KBSplash.asp?deptID=15080
+
+     * [232]Terms of Service
+      file://www.washingtonpost.com/terms-of-service/2011/11/18/gIQAldiYiN_story.html
+
+     * [233]Privacy Policy
+      file://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html
+
+     * [234]Print Products Terms of Sale
+      file://www.washingtonpost.com/terms-of-sale-for-print-products/2014/05/08/d60c4bc8-d6c0-11e3-aae8-c2d44bd79778_story.html
+
+     * [235]Digital Products Terms of Sale
+      file://www.washingtonpost.com/terms-of-sale-for-digital-products/2014/05/06/b7763844-cbf9-11e3-93eb-6c0037dde2ad_story.html
+
+     * [236]Submissions and Discussion Policy
+      file://www.washingtonpost.com/discussion-and-submission-guidelines/2011/11/21/gIQAuvIbiN_story.html
+
+     * [237]RSS Terms of Service
+      file://www.washingtonpost.com/rss-terms-of-service/2012/01/16/gIQAadFYAQ_story.html
+
+     * [238]Ad Choices
+
+    [238] file://www.washingtonpost.com/how-can-i-opt-out-of-online-advertising-cookies/2011/11/18/gIQABECbiN_story.html
+
+   Close video player
+   Now Playing
+
+   Read content from allstate
+   Content from Allstate This content is paid for by an advertiser
+   and published by WP BrandStudio. The Washington Post newsroom
+   was not involved in the creation of this content. [239]Learn
+   more about WP BrandStudio.
+   We went to the source. Here’s what matters to millennials.
+   A state-by-state look at where Generation Y stands on the big
+   issues.
+
+    [239] http://www.washingtonpost.com/sf/brand-connect/
+
+   [p?c1=2&c2=3005617&cv=2.0&cj=1]
+
+
+
+Process finished with exit code 0

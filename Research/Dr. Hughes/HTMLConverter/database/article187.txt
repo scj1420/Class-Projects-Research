@@ -1,0 +1,76 @@
+Conclusion: the ghost in the political machine
+
+   I was fascinated by the recent [46]New Yorker article about
+   Tony Schwartz, Trump’s ghostwriter for The Art of the Deal. Of
+   particular interest was how Schwartz imitated Trump’s voice and
+   philosophy:
+
+
+     In his journal, Schwartz describes the process of trying to
+     make Trump’s voice palatable in the book. It was kind of “a
+     trick,” he writes, to mimic Trump’s blunt, staccato,
+     no-apologies delivery while making him seem almost boyishly
+     appealing…. Looking back at the text now, Schwartz says, “I
+     created a character far more winning than Trump actually
+     is.”
+
+   Like any journalism, data journalism is ultimately about human
+   interest, and there’s one human I’m interested in: who is
+   writing these iPhone tweets?
+
+   The majority of the tweets from the iPhone are fairly benign
+   declarations. But consider cases like these, both posted from
+   an iPhone:
+
+     Like the worthless [47]@NYDailyNews, looks like
+     [48]@politico will be going out of business. Bad reporting-
+     no money, no cred!
+     — Donald J. Trump (@realDonaldTrump) [49]February 10, 2016
+
+
+     Failing [50]@NYTimes will always take a good story about me
+     and make it bad. Every article is unfair and biased. Very
+     sad!
+     — Donald J. Trump (@realDonaldTrump) [51]May 20, 2016
+
+
+   These tweets certainly sound like the Trump we all know. Maybe
+   our above analysis isn’t complete: maybe Trump has sometimes,
+   however rarely, tweeted from an iPhone (perhaps dictating, or
+   just using it when his own battery ran out). But what if our
+   hypothesis is right, and these weren’t authored by the
+   candidate- just someone trying their best to sound like him?
+
+   Or what about tweets like this (also iPhone), which defend
+   Trump’s slogan- but doesn’t really sound like something he’d
+   write?
+
+     Our country does not feel 'great already' to the millions of
+     wonderful people living in poverty, violence and despair.
+     — Donald J. Trump (@realDonaldTrump) [52]July 28, 2016
+
+
+   A lot has been written about Trump’s mental state. But I’d
+   really rather get inside the head of this anonymous staffer,
+   whose job is to imitate Trump’s unique cadence (“Very sad!”),
+   or to put a positive spin on it, to millions of followers. Are
+   they a true believer, or just a cog in a political machine,
+   mixing whatever mainstream appeal they can into the
+   @realDonaldTrump concoction? Like Tony Schwartz, will they one
+   day regret their involvement?
+    1. To keep the post concise I don’t show all of the code,
+       especially code that generates figures. But you can find
+       the full code [53]here. [54]↩
+    2. We had to use a custom regular expression for Twitter,
+       since typical tokenizers would split the # off of hashtags
+       and @ off of usernames. We also removed links and
+       ampersands (&amp;) from the text. [55]↩
+    3. The “plus ones,” called [56]Laplace smoothing are to avoid
+       dividing by zero and to put [57]more trust in common
+       words. [58]↩
+     __________________________________________________________
+
+
+   David Robinson bio photo
+
+

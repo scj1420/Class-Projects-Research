@@ -1,0 +1,114 @@
+Tilings and Patterns
+
+   Branko Grünbaum and G. C. Shephard
+   Publisher:
+   Dover Publications
+   Publication Date:
+   2016
+   Number of Pages:
+   720
+   Format:
+   Paperback
+   Edition:
+   2
+   Price:
+   44.95
+   ISBN:
+   9780486469812
+   Category:
+   Monograph
+   BLL Rating:
+   [307]BLL***
+
+
+   The Basic Library List Committee considers this book essential
+   for undergraduate mathematics libraries.
+
+
+
+   [Reviewed by
+   William J. Satzer
+   , on
+   11/29/2016
+   ]
+
+   Tilings and Patterns, first published in 1987, has recently
+   been re-published by Dover. Although it got outstanding reviews
+   following its appearance, the original publisher chose to
+   discontinue it in 1998. Dover has once again done the
+   mathematical community a service in bringing back such a
+   notable volume.
+
+   The authors have left the original unchanged in most respects.
+   Besides correcting minor typographical errors, the authors have
+   added an appendix with references to new material that has
+   appeared in the literature over the intervening decades. Of
+   course, this does not make the book completely up to date. (For
+   instance, some more recently discovered convex pentagonal
+   tilings are not mentioned.) It would be a truly mind-boggling
+   task to update the book completely considering how much is here
+   already.
+
+   According to their preface the authors began with the idea of
+   writing a rigorous book on “visual geometry” that would
+   encourage a renewed appreciation of geometry and the use of
+   purely geometrical reasoning. Eventually they decided to focus
+   on tilings and patterns. They envisioned three distinct groups
+   of readers: students, professional mathematicians and a variety
+   of non-mathematicians (artists, architects, crystallographers,
+   and the like.) Their idea was that the book should be
+   accessible to any reader who is attracted to geometry.
+
+   The first part of the book focuses on the basic geometry of
+   planar tilings and patterns. A plane tiling is defined broadly
+   as a countable family of closed sets that cover the plane
+   without gaps or overlaps. However, the authors mostly restrict
+   themselves to a class of well-behaved tilings that have
+   conditions designed to eliminate undesirable and pathological
+   examples. Patterns, which can also be defined very broadly, are
+   mostly treated here as repetitions of a motif in the plane in a
+   regular manner with certain natural technical restrictions.
+
+   The book starts with an introduction that presents a survey of
+   tilings and patterns from a variety of cultures and historical
+   periods. Other highlights of the first part of the book are an
+   extensive treatment of tilings by regular polygons and
+   star-shaped polygons, topological equivalence of tilings by
+   homeomorphism, and classifications of tilings according to
+   symmetries and transitivity properties. The authors suggest
+   that the first seven chapters of the book could be used for an
+   undergraduate geometry course.
+
+   The second part of the book looks at a few advanced topics.
+   Colored tilings are described at some length. Although colored
+   tilings have been far and away the most commonly used tilings
+   in the decorative arts, almost no systematic work on them had
+   been done before the current book. (Unfortunately, all the
+   figures in the book are in grayscale). Aperiodic tilings are
+   also treated extensively. Prominent examples include variations
+   due to Penrose and Wang. Wang tilings get special attention
+   because it is possible to find sets of Wang tiles that can be
+   used to mimic the behavior of any Turing machine, and hence
+   they are relevant to questions of mathematical logic.
+
+   The most striking feature of the book is its extensive
+   collection of figures, including hundreds of examples of
+   tilings and patterns. The sheer abundance is perhaps one reason
+   why artists and designers have been drawn to it over the years.
+   While portions of the book are accessible to those with limited
+   mathematical backgrounds, a basic knowledge of topology and
+   algebra (and sometime more) is needed to follow the details of
+   the development. Nonetheless, this is a book that almost anyone
+   would enjoy dipping into.
+     __________________________________________________________
+
+   Bill Satzer ([310]bsatzer@gmail.com) was a senior intellectual
+   property scientist at 3M Company. His training is in dynamical
+   systems and particularly celestial mechanics; his current
+   interests are broadly in applied mathematics and the teaching
+   of mathematics.
+   The table of contents is not available.
+   Tags:
+   [311]Combinatorial Geometry
+   [312]Discrete Geometry
+

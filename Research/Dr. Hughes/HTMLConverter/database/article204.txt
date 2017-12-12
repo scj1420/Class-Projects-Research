@@ -1,0 +1,270 @@
+Disorder and Disasters in High-Density Crowds
+
+   By [46]Arianna Bottinelli and [47]Jesse L. Silverberg
+
+
+   While mass gatherings are usually safe, sometimes things can go
+   catastrophically wrong.
+
+   For the most part, concerts, protests, rallies, inaugurations,
+   pilgrimages, festivals, sporting events, and Black Friday sales
+   come and go with few or no injuries. From time to time,
+   however, an event takes a turn for the worse, and we hear
+   stories of medical emergencies and tragic outcomes. For
+   example, an oversold crowd at a 2012 Halloween dance party in
+   Madrid resultehd in five fatalities, all of whom were women
+   between the ages of 17 and 20. A few years earlier in 2010, the
+   infamous Love Parade disaster in Germany led to 21 deaths and
+   roughly 500 injuries.
+
+   In both cases, asphyxiation was broadly found to be a lethal
+   factor behind the tragedies. But how do these types of
+   disasters occur? Given that most people are generally
+   good-natured, why would anyone want to hurt someone else?
+
+   The truth is that disasters at mass gatherings usually aren’t
+   driven by malicious intent. Instead, a phenomenon called “crowd
+   turbulence” was the principle culprit from the Halloween and
+   Love Parade tragedies. In the same way that waves travel
+   through water, this large-scale emergent collective motion is
+   essentially a turbulent wave that moves through a crowd when
+   people are packed at least five or six per square meter.
+   Unfortunately, such compression waves can drive sudden and
+   unexpected increases in pressure that rapidly lead to
+   asphyxiation.
+
+   In other mass gatherings, most notably Black Friday sales,
+   people have tripped and been injured by trampling. Upon
+   falling, they often cannot get back on their feet because the
+   crowd is simply too dense. As with crowd turbulence, no one
+   person is out to cause harm; instead, the underlying problem
+   stems from large-scale collective motion.
+
+   Time and time again, we find that emerging patterns in crowds’
+   collective motion are the real source of disaster.
+
+   Dense crowds with shoulder-to-shoulder contact collectively act
+   like a soft material, with potentially disastrous outcomes.
+   Photograph by Ulrike Biets, used with permission.
+
+   In our recent work, [48]published in Physical Review Letters,
+   we set out to understand the emergent collective properties of
+   densely-packed crowds. With an eye towards crowd safety, we
+   focused our efforts on comprehending the basic physical
+   mechanisms underlying the most dangerous types of collective
+   motion. As our studies of simulated crowds unfolded, we
+   identified a recurring theme: emergent collective motion
+   propagates through a disordered network of body-to-body
+   contacts. Stepping back from this initial observation, we began
+   to notice close similarities to research in materials science.
+   In fact, we would soon discover that this analogy to other
+   well-studied physical systems would open a whole new avenue to
+   advance our work.
+
+
+   We realized that the movement of dense groups of people is
+   similar to the way grains settle in a silo, pills pour down
+   assembly lines, and coffee beans pack in a bag. In these
+   examples of granular systems, each “grain”—people, wheat,
+   pills, or coffee beans—experiences contact forces with its
+   neighbors as it finds its way into a static equilibrium
+   configuration. As a result, densely-packed grains create an
+   invisible network of forces, with some members experiencing
+   higher forces and others experiencing less.
+
+   Remarkably, this contact network can amplify small
+   perturbations into large-scale collective motion. Moreover, the
+   random and disordered nature of any given contact network
+   ultimately selects preferential directions for the collective
+   motion to propagate. Consequently, it is possible to
+   anticipate—with a remarkable degree of accuracy—the collective
+   behavior of a system of densely packed grains. So the following
+   question naturally arose: can the physics of granular media
+   have explanatory power for crowd disasters?
+
+   We began by looking for established mathematical tools to
+   analyze force contact networks. Mode analysis is a particularly
+   useful method that applies to both real and simulated granular
+   materials data. This analytical framework has the benefit of
+   quantifying large-scale dynamical properties from the
+   small-scale motion of each individual grain. At the heart of
+   mode analysis is a correlation matrix that converts
+   seemingly-random displacements of grains about their
+   equilibrium position into a prediction for large-scale
+   collective motion. The correlation matrix’s eigenvalues and
+   eigenvectors are the equations for making these predictions.
+   These quantities contain useful information about coherent
+   large-scale motion, response to perturbations, and local
+   structural stability. In particular, the eigenvectors
+   corresponding to the largest eigenvalues—also called soft
+   modes—are vector fields indicating preferential directions of
+   motion for the system with a given contact network. Even
+   better, soft modes are calculated on a case-by-case basis from
+   the specific structure of each randomly self-organized network,
+   allowing for example-specific predictions of collective motion.
+
+   The adaption of mode analysis to analyze our high-density crowd
+   simulations allowed us to reconstruct crowds’ soft modes and
+   extract broader trends. Along these lines, we discovered a
+   variety of surprising results.
+
+   For example, the first mode—which is the easiest to excite—is
+   actually a large-scale density wave that bears a striking
+   resemblance to crowd turbulence. Using mode analysis, we were
+   able track the origin of this collective motion to the general
+   principle of continuous symmetry breaking. Essentially, a
+   mathematical theorem connects any broken continuous symmetry to
+   a low-energy, long-range excitation. These excitations are
+   called Goldstone modes; in the case of broken rotational
+   symmetry, the Goldstone mode is a density wave. Technically
+   speaking, this theorem suggests any crowd packed at high
+   density breaks continuous symmetry and thus is susceptible to a
+   coherent wave that spans the entire crowd. The Goldstone mode
+   is qualitatively extremely similar to crowd turbulence, and if
+   the interpretation is correct, an asphyxia-inducing density
+   wave is an inherent possibility within any dense crowd. This
+   result is particularly concerning for anyone standing next to a
+   wall or barrier, since they are most susceptible to harsh
+   compression pressures when the Goldstone mode is excited.
+
+   While thinking about incidents where people trip and are
+   trampled, we asked whether it’s possible to predict who’s most
+   likely to fall and identify high-risk areas in the crowd. In
+   studies of granular matter, grains—people, wheat, pills, beans,
+   etc.—placed in low-force regions of contact networks have a bit
+   more area to move around. When the system jostles, these
+   so-called “soft spots” are where things move the most. In the
+   specific context of people, our analogy means a sudden
+   disruption to the crowd would forcefully displace people in
+   soft spots the furthest. Interestingly, we often found a soft
+   spot right in the middle of our simulated crowds, which we
+   suspect indicates that people standing there are the ones most
+   at risk of tripping and being subsequently trampled.
+
+
+
+   Arianna Bottinelli and Jesse Silverberg's study of the
+   mathematics and emergent collective properties of
+   densely-packed crowds could impact safety technologies and the
+   way in which researchers study mass gatherings.
+
+   Spurred by our findings, we dug deeper into the
+   dense-human-crowd-as-jammed-granular-media analogy and
+   investigated what happens as crowds become agitated. As one
+   would suspect, the risks get worse. With ideas borrowed from
+   the study of stochastic resonance, we were able to understand
+   why. The extra jostling motion of a pushier crowd suppresses
+   the jamming effects of the shoulder-to-shoulder contact
+   network. Consequently, it’s easier for additional long-range
+   waves, similar to the Goldstone mode, to travel through the
+   crowd. Each of these new waves can propagate in its own
+   direction, creating additional pockets within the crowd at risk
+   for asphyxia-inducing pressures. This means that agitation
+   makes it easier for a crowd crush to initiate, and harder to
+   predict which direction collective waves will travel.
+
+   Armed with a newfound understanding of the mechanisms giving
+   risk to crowd disasters, we turn our eyes forward.
+
+   In the future, our theoretical framework may have a profound
+   impact on safety technologies and the way in which we look at
+   mass gatherings. By adapting our analysis for real-time video
+   data, we aim to predict where and when dangerous collective
+   motions are most likely to initiate, and in which directions
+   they will travel. The same technology would also help us
+   localize soft spots in large crowds, which in turn could
+   identify trampling risk for stampedes. Ultimately, the goal is
+   to suggest real-world and real-time actions that safety experts
+   can undertake to minimize the risk of disaster at mass
+   gatherings.
+
+   But we’re not there yet.
+
+   In the meantime, our big takeaway from this study is a better
+   understanding of how to stay safe. To minimize risk, be aware
+   of your surroundings and how tightly-packed the crowd becomes.
+   Even with the best intentions, people packed should-to-shoulder
+   don’t have full control of their movement. Random, unexpected
+   collisions between neighbors yield serious collective effects.
+   It’s important to participate in the events about which you
+   feel most passionate, but if you find yourself in a crowd
+   that’s noticeably dense, you can protect yourself and others by
+   spreading out and moving to an area with more physical space.
+
+   The paper appeared in [50]Physical Review Letters, 117, 228301
+   (2016). It is also available [51]on the arXiv.
+
+
+   Further Reading:
+   • Detailed list of human stampedes:
+   • An intro to stampedes, crushes, and crashes:
+   • Prior work on the Physics of Mosh Pits by co-author
+   • Prior work on the Physics of Mosh Pits by co-author
+   Silverberg et. al. (research paper):
+   Arianna Bottinelli earned her Ph.D. in applied mathematics at
+   Uppsala University in 2016. Her interests include complex
+   systems and collective behavior in living systems, with a focus
+   on human behavior. She was recently awarded a postdoctoral
+   fellowship at the Nordic Institute of Theoretical Physics in
+   Stockholm, where she will bring forward theoretical and
+   experimental research on the physics of high-density crowds.
+   Jesse Silverberg earned his Ph.D. at Cornell University in
+   experimental soft matter physics and is currently engaged in
+   postdoctoral studies at the Wyss Institute for Biologically
+   Inspired Engineering at Harvard University. His work on
+   emergent properties of mechanical networks touches on a wide
+   variety of systems ranging from origami metamaterials and
+   active matter to tissue-scale biomechanics.
+   Please enable JavaScript to view the [56]comments powered by
+   Disqus.[57]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [58]Learn more
+   Most Recent
+   [59][Awards.png]
+   [60]Happening Now
+   [61]Red Sock Award Acknowledges Standout Posters at DS17
+   [62][Awards.png]
+   [63]Get Involved
+   [64]James H. Wilkinson Prize
+   [65][Research.png]
+   [66]Research
+   [67]Deep Learning Models in Finance
+   [68][Research.png]
+   [69]Careers
+   [70]Beyond UQ: Dealing with Deep Uncertainty
+   [71][Announcements.png]
+   [72]Announcements
+   [73]Illinois Students Named Champions in National M3 Challenge
+   [74][CurrentIssue.png]
+   [75]Current Issue
+   [76]Electricity Demand Response and Optimal Contract Theory
+   [77][ResearchNuggets.png]
+   [78]Research Nuggets
+   [79]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [80]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [87]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [87] email:webmaster@siam.org
+
+

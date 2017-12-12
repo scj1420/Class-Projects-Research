@@ -1,0 +1,224 @@
+The Mathematics of Coffee Extraction: Searching for the Ideal Brew
+
+   By [46]Lina Sorg
+
+
+   A lot of math goes into the coffee extraction process. Public
+   domain photo.
+   Composed of over 1,800 chemical components, coffee is one of
+   the most widely-consumed drinks in the world. The seeds (coffee
+   beans) from the plant of the same name are roasted and ground,
+   allowing a flow of hot water to extract their soluble content.
+   Undissolved solids are filtered from the dissolved particles,
+   and the resulting liquid becomes the concoction that much of
+   the population drinks every day.
+
+   Brewers have developed numerous techniques to prepare the
+   popular beverage. All techniques are based on leaching via a
+   solid-liquid extraction, and each method aims to produce the
+   best quality coffee possible – a subjective feat that, despite
+   evaluations from professional coffee tasters, is often a matter
+   of personal preference. Because so many chemical compounds
+   comprise a single batch of coffee, determining precise
+   correlations between the solubles’ physical parameters and the
+   beverage’s quality is difficult. However, understanding the
+   mathematics of extraction can help identify the influence of
+   various parameters on the final product. In a paper publishing
+   next week in the SIAM Journal on Applied Mathematics, Kevin M.
+   Moroney, William T. Lee, Stephen B.G. O’Brien, Freek Suijver,
+   and Johan Marra present and analyze a new multiscale model of
+   coffee extraction from a coffee bed.
+
+   While past studies have investigated the mathematics of coffee
+   extraction, researchers have previously paid little attention
+   to the drip filter brewing system. Drip filter machines make up
+   about 10 million of the 18+ million coffee machines sold yearly
+   in Europe, and involve pouring hot water over a bed of coffee
+   grounds housed in a filter. Gravity pulls the water through the
+   filter, extracting coffee solubles from the grains during the
+   flow.
+
+   (a) Espresso coffee is made by forcing hot water under high
+   pressure through a compacted bed of finely ground coffee. (b)
+   Drip filter brewing involves pouring hot water over a loose bed
+   of coarser coffee in a filter. In either method water flows
+   through the bed, leaching soluble coffee components from the
+   grains. Any undissolved solids in the fluid are filtered from
+   the extract as the liquid leaves the filter. Image credit:
+   Kevin M. Moroney
+   Moroney et al.’s current paper focuses on drip filter machines
+   and expands upon the authors’ previous work, which was
+   published in Chemical Engineering Science in 2015. “Most of the
+   models of coffee extraction we found in the literature either
+   focused on batch extraction in a well-mixed system, or derived
+   general transport equations without proposing specific
+   extraction mechanisms or validating with experiments,” Moroney
+   said. “In comparison, our model describes flow and extraction
+   in a coffee bed, specifies extraction mechanisms in terms of
+   the coffee grain properties, and compares the model’s
+   performance with experiment. Our initial focus on the
+   flow-through cylindrical brewing chamber allowed us to consider
+   the model in one spatial coordinate and ensure that the model
+   assumption of a static bed was valid.”
+
+   The authors’ earlier paper presents the derivation of this
+   general model, which considers bed dimensions, flow rates,
+   grind size distribution, and pressure drop. They assume
+   isothermal conditions (constant temperature), because optimal
+   brewing circumstances require a narrow temperature range of
+   91-94 degrees Celsius. They also assume that coffee bed
+   properties remain homogeneous in any cross section and that
+   water saturates all pores in the coffee bed, eliminating the
+   need to model unsaturated flow. A set of conservation equations
+   on the bed scale monitor the transport of coffee and liquid
+   throughout the coffee bed.
+
+   Now the authors take that model one step further. “The model of
+   coffee brewing published in Chemical Engineering Science was
+   mathematically complete, but I would describe it as a model
+   only a computer could love: a complicated system of coupled
+   partial differential equations that can only be solved
+   numerically,” Lee said. “This new paper analyses that model to
+   produce a reduced system of equations for which approximate
+   analytic solutions can be found.”
+
+   Transfers included in the coffee extraction model (reproduced
+   from K. M. Moroney et al, 2015): The diagram shows the
+   transfers of water and coffee which are described by the coffee
+   extraction model presented in the above reference. Image
+   credit: Kevin M. Moroney
+   Because coffee brewing involves so many components, simplifying
+   the model becomes necessary. “In modelling a complicated
+   physical process such as coffee brewing, one attempts to write
+   down a system of equations which captures the essence of the
+   process,” O’Brien said. “In doing so, we initially make some
+   simplifications, which neglect some aspects of the real
+   problem. For example, real coffee contains a large number of
+   dissolved substances; we simplify our model by considering the
+   case of a single such substance. The mathematical model then
+   comprises conservation laws (mass momentum), which in their
+   complete form cannot be solved exactly.”
+
+   The authors then utilize non-dimensionalism, which measures
+   variables with respect to fundamental constants intrinsic to
+   the problem, to further simplify the extraction model. This
+   technique reduces the number of parameters—which include brew
+   ratio, brewing time, water quality and temperature, grind size
+   and distribution, and extraction uniformity—therefore letting
+   the authors recognize the equations’ dominant terms before they
+   begin actively seeking solutions. “Neglecting smaller terms
+   thus allows us to find approximate solutions,” O’Brien said.
+
+   Recognizing these approximate solutions helps the authors
+   easily identify typical trends. “Approximate solutions are
+   formed based on the dominant processes in the coffee bed during
+   different stages of the extraction process,” Moroney said.
+   “Initially, the concentration of coffee in the bed is
+   determined by the balance between a rapid extraction from the
+   surfaces of coffee grains and the rate at which coffee is
+   removed from the coffee bed by the extracting water. Later in
+   the process, the extraction is dominated by slow diffusion of
+   coffee from the kernels of larger grains, which was initially
+   negligible.” Although the timescales of the aforementioned
+   extraction methods are much shorter in fine coffee grinds
+   rather than coarse grinds, the authors can still construct
+   approximate solutions because of the timescale ratios’ small
+   size. “The value of the solutions lies in the ability to
+   explicitly relate the performance of a brewing system with the
+   properties of the coffee, water and equipment used,” Moroney
+   said. These solutions help predict the coffee quality for
+   specific brewing configurations.
+
+   Location of coffee in the bed: The coffee bed consists of
+   (intergranular) pores and grains. The grains consist of
+   (intragranular) pores and solids. The schematic shows the
+   breakdown of this coffee in the grains (intragranular pores are
+   not represented for clarity). Image credit: Kevin M. Moroney
+
+   In the end, the authors intend for their model analysis to
+   expose the mathematics involved in coffee brewing. “The
+   research work is ultimately aimed at improving our
+   understanding of the brewing process and understanding the
+   relation between brewing process parameters and perceived
+   coffee taste,” Marra said.
+
+   A possible next step involves incorporating the changing coffee
+   bed shape that occurs while water flows through the conical
+   filter holder of a drip filter machine. “This causes both the
+   extraction and the flow rate through the coffee bed to become a
+   function of position,” Marra said. The authors’ research also
+   has the potential to inspire further models on different
+   extraction processes, including unsaturated flow and the
+   trapping of air pockets in a coffee bed, in the never-ending
+   quest for a perfect cup of coffee.
+
+   Source article: Asymptotic Analysis of the Dominant Mechanisms
+   in the Coffee Extraction Process. SIAM Journal on Applied
+   Mathematics, 76(6), 2196-2217.
+
+   About the authors: Kevin M. Moroney is a Ph.D. researcher with
+   the Mathematics Applications Consortium for Science and
+   Industry (MACSI) in the Department of Mathematics and
+   Statistics at the University of Limerick. William T. Lee is a
+   lecturer in the Department of Mathematics and Statistics at the
+   University of Limerick, and is a part of MACSI. Stephen B.G.
+   O’Brien is director of MACSI and a professor of applied
+   mathematics at the University of Limerick. Freek Suijver is a
+   program manager and senior director of the Program Management
+   Team at Philips Research Laboratories. Johan Marra is a
+   principal scientist and chemical engineer at Philips Research
+   Laboratories.
+   Lina Sorg is the associate editor of SIAM News.
+   Please enable JavaScript to view the [47]comments powered by
+   Disqus.[48]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [49]Learn more
+   Most Recent
+   [50][Awards.png]
+   [51]Happening Now
+   [52]Red Sock Award Acknowledges Standout Posters at DS17
+   [53][Awards.png]
+   [54]Get Involved
+   [55]James H. Wilkinson Prize
+   [56][Research.png]
+   [57]Research
+   [58]Deep Learning Models in Finance
+   [59][Research.png]
+   [60]Careers
+   [61]Beyond UQ: Dealing with Deep Uncertainty
+   [62][Announcements.png]
+   [63]Announcements
+   [64]Illinois Students Named Champions in National M3 Challenge
+   [65][CurrentIssue.png]
+   [66]Current Issue
+   [67]Electricity Demand Response and Optimal Contract Theory
+   [68][ResearchNuggets.png]
+   [69]Research Nuggets
+   [70]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [71]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [78]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [78] email:webmaster@siam.org
+
+

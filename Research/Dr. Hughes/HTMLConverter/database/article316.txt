@@ -1,0 +1,212 @@
+Here's how young people decide when they're drunk 'enough,' according
+to math
+
+   Social workers and engineers collaborate in unusual project to
+   develop interventions for high-risk alcohol consumption
+
+   Ohio State University
+   Share
+    Print  E-Mail
+   IMAGE
+
+   IMAGE: A unique research project at The Ohio State University
+   aims to analyze drinking behavior the way engineers might
+   analyze a mechanical system. Researchers in social work and
+   engineering are using... [113]view more
+
+
+   Credit: Photo by Danielle Ruderman, courtesy of The Ohio State
+   University.
+
+   COLUMBUS, Ohio --Young people decide whether they've had enough
+   to drink the same way the cruise control on a car "decides"
+   whether to accelerate or hit the brakes.
+
+   That's a preliminary finding in an unusual new study that aims
+   to analyze drinking behavior the way engineers might analyze a
+   mechanical system.
+
+   In two papers to appear in the journal IEEE Transactions on
+   Cybernetics, a team of social workers and engineers at The Ohio
+   State University used mathematical models to help explain the
+   factors that drive alcohol consumption.
+
+   They found that college students drank until they attained a
+   certain level of drunkenness, and then adjusted the pace of
+   their drinking--sipping versus gulping, for example, or
+   switching to a non-alcoholic beverage -- at different times
+   throughout the night to maintain that level.
+
+   John Clapp, a professor of social work and director of the
+   Higher Education Center for Alcohol and Drug Abuse Prevention
+   and Recovery at Ohio State, has been gathering data on
+   high-risk drinking among college students for more than a
+   decade. He and his colleagues believe that analyzing all that
+   data via engineering methods might reveal relationships among
+   complex factors that would otherwise remain hidden.
+
+   "We're looking for the best points to intervene strategically,
+   so that we can aid a person in their decision-making and
+   potentially derail problematic behaviors," Clapp said.
+
+   As a first test of their idea, Clapp asked Ohio State engineer
+   Kevin Passino to re-analyze data that Clapp and his former
+   research team at San Diego State University collected on
+   students at parties and bars in San Diego. They performed
+   portable alcohol breath tests, and over several studies, they
+   accumulated blood alcohol content (BAC) data on nearly 1,500
+   students.
+
+   Passino, professor of electrical and computer engineering and
+   director of Ohio State's Humanitarian Engineering Center,
+   searched the data for patterns that might resemble a typical
+   engineering problem. He and former doctoral student Luis Felipe
+   Giraldo were surprised by what they found.
+
+   "The way the students made decisions about drinking actually
+   resembled the single most common feedback controller that's
+   used in engineering," Passino said. "It's called a
+   proportional-derivative controller, and it measures how far a
+   system has moved from a particular set point and adjusts
+   accordingly. It's the same as cruise control on a car."
+
+   At the start of the evening, the researchers quizzed the
+   students about how drunk they intended to get, and then they
+   tested the students' BAC several times over the following
+   hours. The data showed that students who reported wanting to
+   feel "buzzed" adjusted their consumption to maintain a BAC
+   around 0.05, while those who said they planned to get "very
+   drunk" averaged around 0.1.
+
+   BAC is a percentage measure of alcohol in the blood, and in
+   Ohio as in California and the rest of the United States, it's
+   illegal to drive a car with a BAC of 0.08 or higher.
+
+   To Clapp, knowing that the patterns fit a particular
+   engineering controller means that the researchers can apply new
+   types of equations to dig deeper into the data they've already
+   collected, and take a more dynamic view of students' drinking
+   behaviors in the future.
+
+   "We have a sense of what factors influence drinking behavior as
+   is occurs naturally, but we don't really understand how it all
+   works together. It's as if we've been taking Polaroid snapshots
+   of these really complex behaviors, and now we'll be able to
+   capture high-definition movies," he said.
+
+   This first study provides a proof of concept for a new study
+   about to begin on the Ohio State Columbus campus, one that will
+   create very large and complex data sets on the scale of "big
+   data."
+
+   Sixty Ohio State seniors -- belonging to several different
+   social groups consisting of friends who go out drinking
+   together on the weekends -- will wear trans-dermal blood
+   alcohol monitors so that the researchers can get more precise
+   data on how their BAC varies over an entire night out. The
+   monitors are being provided by SCRAM Systems, a company that
+   supplies similar ankle bracelets to law enforcement. The
+   sensors are about the size of a hockey puck, and measure BAC
+   through the wearer's sweat.
+
+   The students, who are all of legal drinking age, will wear the
+   ankle bracelets when they go out on the weekends. But for the
+   entire two-week study, they will also wear personal fitness
+   monitors so that researchers can track data such as their sleep
+   and exercise habits. In surveys transmitted to their cell
+   phones at random times throughout the study, the students will
+   answer questions about their health and well-being, such as
+   their emotional state at that moment.
+
+   "We could track as many as 5,000 different variables per person
+   during that two-week period, plus all the social interactions
+   between the people in the different groups," Clapp said. "We're
+   hoping to get a very rich, complex dataset, and most social
+   science methods wouldn't lend themselves well to untangling all
+   of that."
+
+   Passino described how an engineer might untangle it.
+
+   "One approach would be to take this complex system, which is
+   composed of a set of people with their drinking habits and
+   their social interactions with each other, and try to make a
+   model that's as realistic as possible, and then analyze that
+   model for something called controllability," he said.
+
+   "Controllability is just what you'd think: How easy is it for
+   you to change this system? You can test for controllability
+   with mathematics, and we're hoping that doing so will suggest
+   some ideas for an intervention."
+
+   Their ultimate goal is to develop a smartphone app that will
+   alert a young person--or anyone else, for that matter--when
+   they've had enough to drink.
+
+   Clapp envisions that users could tell the app whether they want
+   to moderate their drinking on a particular evening. Based on
+   transdermal BAC, the app could then send an alert to suggest
+   that the user eat something or drink a non-alcoholic beverage
+   before they have another alcoholic one. Smartphones already
+   know a user's location and whether they drove to get there, so
+   the app could also remind a drinker not to drive home and help
+   with calling a cab.
+
+   Soon, law enforcement-style ankle bracelets won't be necessary
+   for such an app to work.
+
+   The National Institute of Alcohol Abuse and Alcoholism recently
+   sponsored a design competition for an easy-to-wear commercial
+   BAC biosensor. The winner, called the BACtrack Skyn, will go on
+   sale in January 2017 for around $99. It resembles a fitness
+   monitor and communicates with a smartphone via Bluetooth.
+
+   While such devices could potentially provide researchers with
+   an abundance of data, there are very few universities currently
+   equipped to analyze it with a hybrid social work-engineering
+   approach. Clapp knows of only two other research groups -- one
+   at Washington University at Saint Louis and the other at the
+   University of Southern California -- with similar
+   collaborations.
+
+
+   Study co-author Giraldo is now an assistant professor of
+   electrical and electronics engineering at Universidad de los
+   Andes in Colombia. Other collaborators include Danielle
+   Ruderman, a doctoral student in social work at Ohio State, and
+   Hugo Gonzalez, a doctoral student in electrical and computer
+   engineering.
+
+   Contact:
+
+   John Clapp
+   614-688-1068
+   [114]Clapp.5@osu.edu
+
+    [114] mailto:Clapp.5@osu.edu
+
+   Kevin Passino
+   [115]Passino.1@osu.edu
+
+    [115] mailto:Passino.1@osu.edu
+
+   Disclaimer: AAAS and EurekAlert! are not responsible for the
+   accuracy of news releases posted to EurekAlert! by contributing
+   institutions or for the use of any information through the
+   EurekAlert system.
+   Share
+    Print  E-Mail
+
+   Media Contact
+
+   Pam Frost Gorder
+   [116]Gorder.1@osu.edu
+   614-292-9475
+   [117] @osuresearch
+
+    [116] mailto:Gorder.1@osu.edu
+
+     __________________________________________________________
+     __________________________________________________________
+
+
+

@@ -1,0 +1,331 @@
+[1]National Science Foundation - Where Discoveries Begin
+
+
+
+
+
+   ____________________ (BUTTON) search
+   [4]Skip to main content
+   [5]NSB
+
+
+
+               o [9]Biological Sciences (BIO)
+               o [10]Computer and Information Science and
+                 Engineering (CISE)
+               o [11]Education and Human Resources (EHR)
+               o [12]Engineering (ENG)
+               o [13]Environmental Research and Education (ERE)
+               o [14]Geosciences (GEO)
+               o [15]Integrative Activities (OIA)
+               o [16]International Science and Engineering (OISE)
+               o [17]Mathematical and Physical Sciences (MPS)
+               o [18]Social, Behavioral and Economic Sciences
+                 (SBE)
+
+               o Related Links
+               o [19]Interdisciplinary Research
+               o [20]NSF Organization List
+               o [21]Staff Directory
+               o [22]Understanding NSF Research
+
+
+               o [24]About Funding
+               o [25]Browse Funding Opportunities A-Z
+               o [26]Due Dates
+               o [27]Find Funding
+               o [28]Merit Review
+               o [29]Policies and Procedures
+               o [30]Preparing Proposals
+               o [31]Recent Opportunities
+               o [32]Transformative Research
+
+               o Related Links
+               o [33]Proposal and Award Policies and Procedures
+                 Guide (PAPPG)
+               o [34]Research.gov
+               o [35]FastLane
+               o Funding Opportunities For
+               o [36]Graduate Students
+               o [37]K-12 Educators
+               o [38]Postdoctoral Fellows
+               o [39]Undergraduate Students
+               o [40]Small Business
+
+
+               o [42]About Awards
+               o [43]Award Statistics (Budget Internet Info
+                 System)
+               o [44]Award Conditions
+               o [45]Managing Awards
+               o [46]Policies and Procedures
+               o [47]Presidential and Honorary Awards
+               o [48]Search Awards
+
+               o Related Links
+               o [49]Research.gov
+               o [50]FastLane
+               o [51]NSF Public Access Repository (NSF-PAR)
+
+
+               o [53]All Documents
+               o [54]National Center for Science and Engineering
+                 Statistics (NCSES)
+               o [55]Obtaining Documents
+               o [56]Search Documents
+
+
+               o [58]All News
+               o [59]For News Media
+               o [60]Multimedia Gallery
+               o [61]NSF Director's Newsletter
+               o [62]Search News
+               o [63]Special Reports
+               o [64]Speeches and Lectures
+
+               o Related Links
+               o [65]About NSF Logo
+               o [66]Events
+
+
+               o [68]About NSF
+               o [69]Broadening Participation/Diversity
+               o [70]Budget and Performance
+               o [71]Career Opportunities
+               o [72]Contracting Opportunities
+               o [73]History
+               o [74]National Science Board (NSB)
+               o [75]NSF and Congress
+
+               o [76]NSF Toolkit
+               o [77]Office of Diversity and Inclusion
+               o [78]Organization List
+               o [79]Partners
+               o [80]Staff Directory
+               o [81]Transparency and Accountability
+               o [82]Visit NSF
+
+
+
+
+
+
+
+
+
+
+    1. [90]Home
+    2. [91]News
+
+
+   [92]Email [93]Print Share
+      Discovery
+
+     [93] javascript:printThis();
+
+   Beautiful fractals help solve wiggly problems
+
+   Mathematicians explain how beauty of fractals goes far beyond
+   pretty pictures
+
+              The fractal nature of Romanesco broccoli
+
+   Romanesco broccoli is one of the most classic representations
+   of fractals in nature.
+   [94]Credit and Larger Version
+
+
+   July 1, 2016
+
+   When Harry Potter first went to Hogwarts, he caught his train
+   from Kings Cross, platform 9¾.
+
+   The idea of a platform between two whole numbers might seem
+   impossible to imagine. However, for someone working with
+   fractals in math, the challenge is not so different. Fractals
+   are used to measure things between dimensions, as in something
+   that’s more than 2D, but not quite 3D.
+
+   Additionally, fractals in mathematics serve as visual
+   representations of “self-similarity,” or patterns that repeat
+   to infinity. This kind of information allows them to sort out
+   new ways to efficiently compress data files or narrow down
+   forecasts for “wiggly” problems -- those that involve rapid
+   erratic behavior with seemingly unpredictable movements,
+   including real-world issues like the stock market or climate
+   change.
+
+   Today, non-mathematicians who happen to be familiar with
+   fractals are more likely aware of their beauty. A fiddlehead
+   fern, a gecko’s footpads, a flashy bolt of lightning -- these
+   are all reminiscent of fractal images. And while nature seems
+   to provide an array of these beauties, humanity has added more
+   to the mix through kaleidoscopes, architecture and, yes, even
+   those wiggly math problems.
+
+   As the start of the 2016 International Math Olympiad draws
+   near, three NSF program directors from the Division of
+   Mathematical Science -- Lora Billings, Edward Taylor and
+   Frederi Viens -- provide some facts on fractals.
+
+   What is a fractal?
+
+   Billings: The way we were describing it, these are pictures or
+   objects. You’re trying to classify the object in some way in
+   terms of how wiggly it is. There are the dimensions we’re all
+   familiar with -- zero dimension for a point, one dimension
+   (north or south) for a line, two pi radians of a circle for 2D
+   -- but some objects just can’t be given meaningful integer
+   dimensions, and fractions accommodate things that don’t fit.
+
+   Viens: If I wanted to construct a fractal, I would take a
+   simple rule, like adding three small triangles on the edge of a
+   big triangle like a [95]Koch snowflake, which is used to
+   understand fractal geometry. Then, the rule is repeated again
+   and again. On the flip side, if you’re staring at a picture of
+   a fractal, you could say, “Wow, that’s complex, how do I
+   describe it?” This construction is a very simple way to do
+   that. The notion that you are between numbers still brings you
+   back to numbers in between whole numbers.
+
+
+   Where did fractals come from? And why were they created?
+
+   Taylor: Fractals are a very old topic that dates back to the
+   early 20^th century. One person, the French mathematician
+   Gaston Julia, was important in the development of this. It came
+   up out of this notion that you could build these very complex
+   sets through an iterative process.
+
+   Billings: In my own work, I have created fractals related to
+   how wind would move oceanographic sensors in an eddy (shown
+   above). The two colors represent which of the two basins you
+   would drift toward (left and right). Notice the complex
+   structure in the layers of the two colors near the boundary.
+   This is just a snapshot in time, but wind would push the
+   sensors back and forth in a stochastic -- a kind of organized
+   randomness -- way. So, near the boundary, it isn’t very clear
+   to which basin the sensor will head. That’s why I like to say,
+   “A picture is worth a thousand words.” The point was to come up
+   with an optimal, minimalistic control for the sensors to use as
+   little battery as possible and keep them on the left side with
+   small chance of displacement. This is something you can
+   recreate in experimental settings, like tanks in a lab.
+
+   Viens: We also have huge gyres in the ocean where plastic is
+   collecting, and one might use this same sort of fractal
+   modeling to better understand that problem.
+
+   How else are fractals used?
+
+   Taylor: People don’t realize when they look at it, but computer
+   game graphics and their varied backgrounds are just copies of
+   things over and over again. It’s a combination of linear
+   algebra and fractals.
+
+   Billings: You can actually find patterns in some data that help
+   to compress it, too. That way you can send data along very
+   quickly. If you want to send a picture, and your picture is
+   three gigabytes, you can find a simple way -- a rule -- to
+   compress this data and then all of a sudden explode it again.
+   If a picture has enough of this sort of fractal imagery in it,
+   these algorithms work very well.
+
+   Viens: MP3 files that we have on our devices are about 10 times
+   smaller than a CD’s digital files. On an LP, there’s
+   essentially an infinite amount of information because it’s
+   analog. But the MP3 is so compressed you can’t listen to
+   classical music because a lot of the instruments get drowned
+   out as a result of some loss of information.
+
+   What are some of the wiggliest problems fractals address,
+   though?
+
+   Viens: In probability theory, one application for fractals is
+   modeling financial markets, which are known for their wiggly
+   behavior. The S&P 500 or Dow Jones Industrial Average over a
+   day might have a few jumps, but if you look at it over a week
+   or even a year, then you can see jagged ups and downs. That’s
+   when you can use these models, which really have a fractal
+   behavior. You can discern a sort of order in the random chaos
+   these models have and that’s the stochasticity we already
+   mentioned.
+
+   But we can’t predict what stocks will do each day this way, can
+   we?
+
+   Viens: No, we can’t do that. However, financial markets’
+   self-similarity is actually very simple. The magnitude of how
+   much your stock may move up and down is proportional to the
+   square of the magnitude of how much time has elapsed. So if a
+   stock tends to swing up and down by 20 percent in a year, it
+   will tend to swing up or down by 10 percent in three months,
+   twice as fast as one might expect without this fractal
+   self-similarity. If the models and rules are simple enough --
+   even if they are stochastic -- you can absolutely make
+   probabilistic predictions. So you can make a conclusion on the
+   chance something is going to occur or not occur in the future.
+   But it’s only ever a chance.
+
+   We see beautiful fractals in nature. Are there any constructed
+   by non-mathematicians that are noteworthy as well?
+
+   Viens: One of the world’s most extraordinary buildings is the
+   Sagrada Familia in Barcelona, designed by Antoni Gaudí. He
+   studied how plants grow and noticed patterns and fractals --
+   how a leaf connects to the stem and how much light it’s
+   getting. He considered all this when he built this cathedral in
+   a way to maximize light. Compared to this modernist Gothic
+   cathedral, other 15^th century Gothic cathedrals had nowhere as
+   much light penetrating them. He maximized light by using
+   geometry and included fractal structures -- a stem that splits
+   up and splits again. I believe this is one of the most
+   beautiful human-made fractals.
+
+   For more beautiful fractal images, check out a new board on the
+   [96]NSF Pinterest page.
+   --  Ivy F. Kupec, (703) 292-8796 [97]ikupec@nsf.gov
+
+     [97] mailto:ikupec@nsf.gov
+
+   Related Programs
+   [98]Probability
+   [99]Geometric Analysis
+   [100]Applied Mathematics
+
+
+   Creating a fractal to understand how wind moves oceanographic
+   sensors in an eddy
+   Fractals help mathematicians understand how wind moves
+   oceanographic sensors in an eddy.
+   [101]Credit and Larger Version
+
+
+   snowflakes
+   Nature's snowflakes have fractal-like self similarity.
+   [102]Credit and Larger Version
+
+
+   sea fan
+   Mathematicians use stochastic fractals to discern a sort of
+   order in what seems to be random chaos.
+   [103]Credit and Larger Version
+
+
+   Gecko foot
+   There are two or three iterations of a repeating pattern on a
+   gecko's foot.
+   [104]Credit and Larger Version
+
+
+   Sagrada Familia in Barcelona
+   Sagrada Familia's fractal qualities allow more light into its
+   famed stained glass windows.
+   [105]Credit and Larger Version
+
+
+   [106]National Science Foundation
+   [107]Research.gov
+
+
+

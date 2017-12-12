@@ -1,0 +1,199 @@
+09/05/17 16:02
+
+Problem 2 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'sphere_volume'
+
+Problem 3 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'isolate'
+
+Problem 4 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'first_half'
+
+Problem 5 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'list_ops'
+
+Problem 6 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'pig_latin'
+
+Problem 7 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'palindrome'
+
+Problem 8 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'alt_harmonic'
+
+Code Quality (5 points):
+NotImplementedError: backward() not found
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/08/17 14:09
+
+Problem 2 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'sphere_volume'
+
+Problem 3 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'isolate'
+
+Problem 4 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'first_half'
+
+Problem 5 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'list_ops'
+
+Problem 6 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'pig_latin'
+
+Problem 7 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'palindrome'
+
+Problem 8 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'alt_harmonic'
+
+Code Quality (5 points):
+NotImplementedError: first_half() not found
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/08/17 14:20
+
+Problem 2 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'sphere_volume'
+
+Problem 3 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'isolate'
+
+Problem 4 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'first_half'
+
+Problem 5 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'list_ops'
+
+Problem 6 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'pig_latin'
+
+Problem 7 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'palindrome'
+
+Problem 8 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'alt_harmonic'
+
+Code Quality (5 points):
+NotImplementedError: alt_harmonic() not found
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/08/17 14:21
+
+Problem 2 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'sphere_volume'
+
+Problem 3 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'isolate'
+
+Problem 4 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'first_half'
+
+Problem 5 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'list_ops'
+
+Problem 6 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'pig_latin'
+
+Problem 7 (10 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'palindrome'
+
+Problem 8 (5 points):
+AttributeError: module 'SeongEunCho.PythonIntro.python_intro' has no attribute 'alt_harmonic'
+
+Code Quality (5 points):
+NotImplementedError: palindrome() not found
+
+Total score: 0/50 = 0.0%
+
+
+Comments:
+	Define your functions outside of if __name__ == "__main__"
+
+-------------------------------------------------------------------------------
+
+09/11/17 14:24
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+list_ops() failed
+	Correct response: ['fox', 'hawk', 'dog', 'bearhunter']
+	Student response: ['fox', 'hawk', 'dog', 'bear', 'hunter']
+Score += 0
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+
+Comments:
+	Great work! Almost there
+
+-------------------------------------------------------------------------------
+
+09/12/17 15:42
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	GREAT JOB!!!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,179 @@
+A Bike Wheel and the Gauss-Bonnet Theorem
+
+   By [47]Mark Levi
+
+
+   While fixing a punctured bike tire one day, I asked myself
+   whether a wheel, held by the axle and having zero spin, can
+   still turn around the axis. To be specific, let us make the
+   axle describe a closed cone \(C\), coming back to its original
+   position and keeping the center of the wheel fixed (the cone
+   need not be circular). Despite the fact that the wheel never
+   spins (the bearings are perfect) it ends up rotated, and
+   through the angle that turns out (apologies for the pun) to
+   equal the solid angle \(A(C)\) of the cone \(C\).
+
+   A geometric theorem about cones can explain this effect. As the
+   wheel’s axis traces the cone \(C\) in Figures 1 and 2, the
+   plane of the wheel remains tangential to another cone
+   \(C^\ast\), the envelope of the family of planes normal to the
+   generators of \(C\). In fact, the plane of the wheel rolls on
+   \(C^\ast\) without sliding, as explained in Figure 2 (this kind
+   of rolling is in complete contrast to the conventional way a
+   wheel rolls on the ground). One can think of the two cones as a
+   bouquet of right angle brackets, as in Figure 1. Speaking
+   loosely, if one cone is sharp, the other is obtuse. The exact
+   relationship between the cones turns out to be the following:
+
+   \[A(C)+L( C^\ast) = 2 \pi,\tag{1}\]
+
+   where \(L(C^\ast)\) denotes the length of the curve of
+   intersection of the cone \(C^\ast\) with the unit sphere. A
+   physical “proof” of this theorem, along with a rigorous proof,
+   can be found in [1]. The physical “proof”—which led me to
+   discover \((1)\) in the first place—uses imaginary springs and
+   vacuum.
+
+
+   Figure 1. The dual cone C* is the envelope of the family of
+   normal planes to the generators of C.
+
+   According to \((1)\), \(A(C)= 2 \pi - L(C^\ast)\); Figure 2
+   shows that the last expression is precisely the turning angle
+   of the wheel, as claimed.
+
+   In fact, the “dual cones” theorem of \((1)\) implies a more
+   general fact, the Gauss-Bonnet theorem – a generalization of
+   the fact that the curvature \(k\) of a smooth, closed
+   non-self-intersecting planar curve \(\gamma\) satisfies
+   \(\int_{ \gamma} k\;ds= 2 \pi.\) According to this theorem (not
+   stated here in its full generality), for a patch \(S\) of a
+   smooth surface with a smooth boundary \(\gamma\) (see Figure
+   3), one has
+
+   \[ \int_{S} K\,dS+\int_{\gamma}k\,ds  = 2 \pi, \tag{2}\]
+
+   where \(K\) is the Gaussian curvature and \(k\) is the geodesic
+   curvature of \(\gamma\). According to \((2)\), the bulging of
+   \(S\) decreases the total geodesic curvature of the boundary,
+   speaking loosely (only the case \(K>0\) is discussed here).
+
+   Figure 2. The plane of the wheel rolls on C* without sliding.
+   Indeed, the wheel is (i) tangential to C* and (ii) the tangency
+   spoke is aligned with the instantaneous angular velocity
+   vector. Hence that spoke is instantaneously at rest, meaning
+   zero sliding. One can think of the disk picking up wet paint
+   from the cone; the angle of the dirty sector on the wheel is
+   L(C), same as the angle of the flattened cone.
+
+   The Gauss-Bonnet theorem boils down to the dual cones theorem
+   \((1)\), as outlined in Figure 3. Starting with the surface
+   patch \(S\), we construct the “porcupine” cone \(C\) of unit
+   normal vectors \(n\) (the Gauss cone – Figure 3, right) and
+   consider its dual cone \(C^*\). Intuitively, we can think of
+   walking along \(\gamma\) and carrying a non-spinning wheel,
+   keeping its axis (unit vector \(n\)) normal to \(S\). The
+   wheel’s instantaneous angular velocity points along one of the
+   spokes \(n^*\) (since the wheel is not spinning on its axis);
+   these vectors transported to a common starting point form the
+   dual cone \(C^*\) (see Figure 3, right). Now applying \((1)\)
+   to these cones leads to the Gauss-Bonnet theorem \((2)\).
+
+   Figure 3. The Gauss-Bonnet theorem and its connection to (1).
+   Indeed, \(\int_{S} K\,dS = A(C) \) by the definition of \(K\),
+   and it only remains to explain why
+   \(L(C^\ast)=\int_{\gamma}k\,ds\). Omitting the details, I will
+   only mention that \(L(C^\ast)\) measures the angle by which
+   \(n^*\) rotates in the tangent plane sliding along
+   \(\gamma\), from the point of view of the observer walking
+   around \(\gamma\). But \(n^*\) and \( \dot \gamma\) (the
+   tangent to \(\gamma\)) rotate by the same amount, since the
+   angle between them is unchanged after  one traversal of
+   \(\gamma\); the latter  angle is \(\int_{ \gamma } k\,ds\) (by
+   the definition of \(k\), which explains why \(\int_{ \gamma }
+   k\, ds=L(C^\ast),\) and why \((2)\) indeed reduces to \((1)\).
+
+   The wheel provides us with a mechanical interpretation of
+   parallel transport (each spoke undergoes parallel transport if
+   the wheel does not spin on its axis). Further details on this
+   can be found in [1], and the more standard treatments of the
+   Gauss-Bonnet theorem in [2] and [3].
+
+      [2] javascript:void(0)
+
+   All figures are provided by the author.
+
+   Acknowledgments: The work from which these columns are drawn is
+   partially supported by NSF grant DMS-9704554.
+
+   References
+   [1] Levi, M. (1994). A “bicycle wheel” proof of the
+   Gauss-Bonnet theorem, dual cones and some mechanical
+   manifestations of the Berry phase. Expo. Math, 12, 145-164.
+
+
+   [2] Pogorelov, A.V. (1959). Differential Geometry. (P.
+   Noordhoff & N.V. Groningenm, Trans.) (pp. 160-161).
+
+      [2] javascript:void(0)
+
+   [3] Spivak, M. (1999). Chapter 6 in A Comprehensive
+   Introduction to Differential Geometry. (Volume 3). (3rd ed.).
+   Houston, TX: Publish or Perish, Inc.
+
+
+   Mark Levi (levi@math.psu.edu) is a professor of mathematics at
+   the Pennsylvania State University.
+   Please enable JavaScript to view the [48]comments powered by
+   Disqus.[49]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [50]Learn more
+   Most Recent
+   [51][Awards.png]
+   [52]Happening Now
+   [53]Red Sock Award Acknowledges Standout Posters at DS17
+   [54][Awards.png]
+   [55]Get Involved
+   [56]James H. Wilkinson Prize
+   [57][Research.png]
+   [58]Research
+   [59]Deep Learning Models in Finance
+   [60][Research.png]
+   [61]Careers
+   [62]Beyond UQ: Dealing with Deep Uncertainty
+   [63][Announcements.png]
+   [64]Announcements
+   [65]Illinois Students Named Champions in National M3 Challenge
+   [66][CurrentIssue.png]
+   [67]Current Issue
+   [68]Electricity Demand Response and Optimal Contract Theory
+   [69][ResearchNuggets.png]
+   [70]Research Nuggets
+   [71]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [72]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [79]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [79] email:webmaster@siam.org
+
+

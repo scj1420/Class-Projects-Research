@@ -1,0 +1,114 @@
+What is a manifold? Yet another article! (1/6)
+
+   Posted on [18]October 7, 2016 by [19]Behnam Esmayli
+
+
+   Why (yet) another article?
+
+   There are competing theories online about possible
+   interpretations of John von Neumann’s quote, but manifolds are
+   definitely some mathematics that “you don’t understand … you
+   just get used to them,” — at least for a while.
+
+   In a series of posts reflecting on my own experience, I will
+   try to motivate the conceptualization of manifolds, and
+   the implications such an abstraction has/had on our
+   understanding of, basically, shapes. I hope to point to some
+   beautiful geometry in low dimensions that you may have passed
+   by too quickly to take notice of.
+
+   I must underline the subjective nature of my articles, and that
+   by no means are they meant to narrate the history of the
+   subject, or depict a current fashion in the community. This is
+   simply “another article.”
+
+   The first three articles will be dedicated to converting the
+   conventional calculus of curves into manifold language. We will
+   see that a curve can be replaced by an interval endowed with
+   some structure. This will pave the way for an exposition of the
+   theory of surfaces in subsequent articles. The reason for such
+   an extended sequence is to include as much detail and as many
+   examples as possible.
+
+
+   The Question
+   curve-through-space
+
+   Diagram by Behnam Esmayli
+
+   What We Know from Calculus
+
+   From calculus we fix a Cartesian coordinate system for
+   three-space and then parameterize our curve by a map from a
+   subset of \mathbb{R} ,
+
+   \gamma: \mathbb{I} \longrightarrow \mathbb{R}^3.
+
+   If \gamma is a smooth parameterization, then the length of the
+   object between two of its points  P=\gamma (c)  and  Q=\gamma
+   (d) is given by
+
+   \int _c^d \| \gamma '(t) \|dt.
+
+   The curvature is given by
+
+   k(t)=\dfrac{|\gamma ' \wedge \gamma''|}{|\gamma '|^3}
+
+   and the torsion is given by
+
+   \tau (t) = -\dfrac{ (\gamma ' \wedge \gamma'') \cdot \gamma
+   '''}{|\gamma ' \wedge \gamma ''|^2}
+
+   where differentiation is taken coordinate-wise.
+
+   Notice that the integral above involves only the length of
+   \gamma '(t) . Thus, even if we don’t have \gamma  itself , but
+   only some \ell (t) =\| \gamma '(t) \| \in \mathbb{R} , we will
+   again be able to measure the length of any segment of  our
+   curve.
+
+   This observation invites a search for a representation of our
+   curves independent of the three-space.
+
+
+   The Answer to the Question
+
+   In a search for a 1-dimensional embodiment of a curve, the
+   following theorem is the best we could hope for.
+
+   Theorem: Given differentiable real-valued functions \ell (t) >0
+   , k(t)>0 and \tau (t) , with t ranging in an interval I , there
+   is a curve \gamma :I \longrightarrow \mathbb{R}^3 with k being
+   its curvature and \tau being its torsion and \int \ell giving
+   its length between points. Moreover, any other curve with this
+   description is obtained by changing our origin and rotating the
+   axes rigidly. (See Chapter 1 of do Carmo’s book Differential
+   Geometry of Curves and Surfaces.)
+
+   Thanks to this theorem, an interval I along with the following
+   set of data can be thought of as a curve in \mathbb{R}^3 :
+       the length,
+       curvature, and,
+       the torsion.
+
+   Note that this data is independent of the specific positioning
+   of our curve in 3-space.
+
+
+   So far…
+
+   A curve in  \mathbb{R}^3 is nothing more than an interval in
+   \mathbb{R} along with three real-valued functions defined on
+   it! Once we have this set of data, we can forget about our
+   original curve as a subset of  \mathbb{R}^3 , and work in
+   1-dimension.  After all, we can reconstruct an exact copy of
+   our curve in 3-space from the data whenever we wish.
+
+
+   In the Next Installment…
+       curves, that this description makes possible;
+       determine the same curve, which will allow for the
+       definition of 1-manifolds in the following article.
+
+
+

@@ -1,0 +1,417 @@
+ Your brain on math: Functional coupling between neural regions during
+                         mathematical cognition
+
+      November 21, 2016 by Stuart Mason Dambrot [8]feature
+
+
+   [9]Electrodes within the VTC
+   Fig. 2. (A) Electrodes within the VTC. The placement of
+   electrodes in all 14 subjects who had electrodes over the VTC
+   is projected onto the right hemisphere of an atlas brain. The
+   anatomical subdivisions within the VTC considered in this study
+   are shown on the left hemisphere. aFG, anterior fusiform gyrus;
+   aITG, anterior inferior temporal gyrus; LOG, lateral occipital
+   gyrus; mFG, midfusiform gyrus; pFG, posterior fusiform gyrus;
+   pITG, posterior inferior temporal gyrus. (B) HFB responses to
+   numerals and other visual symbols in task 1 (Upper) and when
+   analyzing math or memory statements in task 2 (Lower), grouped
+   by sites in each VTC subregion, averaged across all subjects.
+   Error bars indicate SE across electrodes. Asterisks indicate a
+   significant difference in HFB response between math and memory
+   conditions (after FDR correction). Note that the selectivity of
+   individual electrodes within a region of interest (ROI) may be
+   different from the average selectivity of that ROI. (C)
+   Highlighted are individual electrodes across all subjects that
+   are significantly numeral active relative to the ITI (brain at
+   far left), numeral selective relative to letters and foreign
+   symbols (second brain from left), math active relative to the
+   ITI (third brain from left), and math selective relative to
+   memory and also with no significant memory response (brain at
+   right). The color of each electrode denotes its anatomical
+   region (determined in individual brain space). Electrodes
+   outlined in black have significant responses at the level of P
+   < 0.05, FDR-corrected, and those outlined in white are
+   significant at P < 0.0 5, uncorrected. (D) Exemplar HFB time
+   courses during task 1 and task 2 are shown for an exemplar NFA
+   site (from subject S13). The shaded area represents the SE
+   across trials for each condition. Credit: Daitch AL, Foster BL,
+   Schrouff J, Rangarajan V, Kaşikçi I, Gattas S, and Parvizi J
+   (2016) Mapping human temporal and parietal neuronal population
+   activity and functional coupling during mathematical cognition.
+   Proc Natl Acad Sci USA 113(46):E7277–E7286.
+
+
+   (Medical Xpress)—While human infants, nonhuman primates and
+   birds are capable of approximating or comparing rough
+   arithmetic quantities, post-infant humans are unique in
+   possessing precise mathematical cognition. Historically, what
+   is known as the Triple Code model of numeric processing has
+   hypothesized that symbolic, verbal, and abstract processing –
+   for example, simple visual recognition of a numeral,
+   determining the larger of two numerals, and verbal naming of a
+   numeral, respectively – occur in well-defined coupled brain
+   regions, all or some of which interact. Recently, however,
+   scientists at Baylor College of Medicine, Houston employing
+   electrocorticography (ECoG) electrophysiological recording – in
+   which electrodes are placed directly on the exposed surface of
+   the brain's cerebral cortex – not only reconfirmed
+   math-selective hubs within the lateral parietal cortex (LPC)
+   and ventral temporal cortex (VTC), but more significantly found
+   what they describe as a remarkable diversity of neural
+   responses within each region at both millimeter and millisecond
+   scales. The researchers suggest that numerical processing
+   involves multiple bidirectional functional loops in these, and
+   perhaps nearby, sites – and while acknowledging that their new
+   model does not take other brain regions into account (such as
+   frontal lobe or subcortical structures like the thalamus or
+   basal ganglia) that are likely to be involved in numerical
+   cognition, it may serve as a framework for future mathematical
+   cognition studies.
+
+   Dr. Amy L. Daitch, a postdoc in Dr. Josef Parvizi's lab at
+   Stanford University, discussed the paper she and her co-authors
+   published in Proceedings of the National Academy of Sciences of
+   the United States of America. "Our main challenge in measuring
+   lateral parietal cortex (LPC) and ventral temporal cortex (VTC)
+   neuronal electrophysiological activity using direct
+   intracranial electrocorticography recordings was finding
+   neurosurgical cases that had ample coverage in one or both of
+   these regions," Daitch tells Medical Xpress. "It's very rare to
+   find simultaneous recordings from neuronal populations in the
+   human lateral parietal cortex or the ventral temporal cortex,"
+   Daitch continues, "because these two regions are less
+   frequently implanted in neurosurgical patients. More
+   importantly, arithmetic tasks during mathematical cognition
+   experiments engage only a few smaller regions within the LPC
+   and VTC."
+
+   The researchers focused on the significant heterogeneity of
+   responses within a small anatomical area, demonstrating that
+   electrodes 5mm apart may show widely different response
+   profiles – meaning that a single electrode in each of the two
+   areas studied – LPC and VTC – will not provide the selective
+   response data required. In fact, Daitch recounts, due to the
+   rarity of LPC and VTC implantations and as well as sparseness
+   of activity during arithmetic tasks, it took the team several
+   years to assemble their group of subjects, or cohort.
+
+   On the other hand, intracranial EEG signals have a high
+   signal-to-noise ratio (SNR) of 100-300% increased power
+   compared to baseline. This allowed the scientists to measure an
+   individual's neuronal population activity without averaging the
+   signal across individuals. "By profiling activity patterns in
+   different VTC and LPC subregions, we were able to report unique
+   timing and selectivity of response profiles across VTC and LPC
+   subregions," she explains. "We could see how neuronal
+   population activity unfolds in these two regions during simple
+   arithmetic tasks, as well as review the profile of responses
+   across tasks at an individual VTC site and see how it predicted
+   its functional coupling with the LPC site." For example, Daitch
+   recounts, the researchers found that the selectivity of a VTC
+   site to math processing was predictive of its degree of
+   coupling with the specific LPC neuronal population that also
+   had selective responses during the arithmetic task, and that
+   the response profile of this VTC site was predictive of the
+   direction of its coupling with the LPC site.
+
+   [10]Electrodes within the LPC
+
+
+   Fig. 3. (A) Electrodes within the LPC. The placement of
+   electrodes in all 14 subjects with electrodes over the LPC is
+   shown on the right hemisphere of an atlas brain (Lower). Also
+   shown are the anatomical subdivisions within the LPC considered
+   in this study (Upper). AG, angular gyrus; aIPS, anterior
+   intraparietal sulcus; aSOG, anterior superior occipital gyrus;
+   pIPS, posterior intraparietal sulcus; SMG, supramarginal gyrus;
+   SPL, superior parietal lobule. (B) HFB responses to numerals
+   and other visual symbols in task 1 (Upper) and when analyzing
+   math or memory statements in task 2 (Lower), grouped by sites
+   in each LPC subregion, averaged across all subjects. Error bars
+   indicate SE across electrodes. Asterisks indicate a significant
+   difference in HFB response between math and memory conditions
+   (after FDR correction). (C) Highlighted are individual
+   electrodes across all subjects that are significantly math
+   active relative to the ITI (Left) and math selective relative
+   to memory and also with no significant memory response (Right).
+   The color of each electrode denotes its anatomical region as
+   determined in individual brain space. Electrodes outlined in
+   black have significant responses at the level of P < 0.05,
+   FDR-corrected, and those outlined in white are significant at P
+   < 0.05, uncorrected. (D) Exemplar HFB time courses during task
+   1 and task 2 are shown for a site in the aIPS of S11 that does
+   not respond to the passive presentation of numerals, letters,
+   or false fonts but is selectively engaged during active
+   mathematical computation. The shaded area represents the SE
+   across trials for each condition. Credit: Daitch AL, Foster BL,
+   Schrouff J, Rangarajan V, Kaşikçi I, Gattas S, and Parvizi J
+   (2016) Mapping human temporal and parietal neuronal population
+   activity and functional coupling during mathematical cognition.
+   Proc Natl Acad Sci USA 113(46):E7277–E7286.
+
+   The study's results suggested the presence of what appears to
+   be a temporally- and functionally-synchronized and anatomically
+   selective numerical cognition system. "Just as language
+   processing is associated with a brain network engaged during
+   different aspects of language – for example, visual, semantic
+   and phonetic components – we've identified a brain network for
+   numerical cognition which appears to be involved in processes
+   such as the visual recognition of numerals and arithmetic
+   computations." Daitch explains. She notes that the posterior
+   inferior temporal gyrus (pITG) region of the VTC, which is
+   selective to numerical/mathematical processing, is anatomically
+   distinct from other VTC regions that may be selective for the
+   processing of letters and words, and moreover exhibited
+   anatomically selective functional coupling – during both
+   mathematical tasks and at rest – with an area of the parietal
+   lobe associated with processing quantity. "These results," she
+   underscores, "are in line with the theory that the intrinsic
+   connectivity of brain regions is directly linked to their
+   ultimate functional selectivity. "
+
+   [INS: :INS]
+
+   One of the study's key findings was the observation of
+   functional millimeter- and millisecond-scale heterogeneity
+   within the LPC and VTC regions. "The temporal and spatial
+   specificity afforded by intracranial recordings allowed us to
+   identify heterogeneity within this numerical cognition network
+   in terms of the engagement of specific neuronal populations
+   during different stages of numerical processing," Daitch says.
+   "Different regions of this network – and even different sites
+   within the same general anatomical region – were engaged at
+   different times during mathematical computations, which
+   suggests that they are involved in different stages of
+   numerical processing." As a result, the scientists conclude
+   that future studies with behavioral paradigms that better
+   isolate distinct processes within numerical cognition will
+   allow them to further refine the fine-grained functional
+   architecture of this network.
+
+   Relatedly, the researchers found empirical evidence of
+   functional coupling between the LPC and VTC during mathematical
+   cognition. Theories of numerical cognition (for example, the
+   Triple-code model, which postulates that the human brain
+   contains three different numerical representations – symbolic,
+   verbal, and abstract quantity – each coded in a different brain
+   region) predicted an interaction between VTC and LPC subregions
+   during mathematical processing. In a significant finding, the
+   researchers provided the first empirical evidence of this
+   hypothesis. Importantly, though, this coupling was not purely
+   feedforward from the VTC to LPC as many theories predicted.
+   Rather, heterogeneous subpopulations within the VTC and LPC
+   appeared to be engaged in distinct bidirectional loops between
+   these regions during different stages of arithmetic
+   computations.
+
+   "Importantly, the specific functions of the LPC vs VTC in
+   numerical cognition are not as clear cut as previously
+   thought," Daitch points out. "For example, many sites within
+   the VTC do not appear to be involved in the visual recognition
+   of individual numerals, but are rather only active during
+   arithmetic computations. While it therefore appears as if this
+   numerical cognition network as a whole is engaged during many
+   mathematical processes, further work is needed to determine
+   whether different regions within this network do indeed have
+   distinct functions within numerical cognition, and if so, what
+   they are."
+
+   [11]Exemplar HFB time courses during the numeral condition in
+   task 1 at sites within three different VTC regions in a single
+   subject
+
+
+   Fig. 4. (A) Exemplar HFB time courses during the numeral
+   condition in task 1 at sites within three different VTC regions
+   in a single subject (S13). The HFB time course at each site is
+   scaled by its own maximum. The shaded area represents the SE
+   across trials for each condition. Note that the pITG site
+   responds later to numerals than either the pFG or mFG site. (B)
+   Group-averaged differences between the HFB ROL to numerals at
+   electrode pairs in different anatomical regions. Only electrode
+   pairs within an individual subject were considered. Number of
+   electrode pairs per ROI-pair: LOG/pFG-pITG: 44 pairs across
+   four subjects; LOG/pFG-mFG: 34 pairs across four subjects;
+   pITG-mFG: 45 pairs across seven subjects. Asterisks denote
+   significant differences in ROL between two anatomical regions
+   (*P < 0.05, FDR-corrected). (C) The approximate range of the
+   ROL to numerals for each anatomical region is plotted in
+   seconds. Data are shown as mean ± 1 SD across all subjects and
+   all electrodes. (D) Exemplar HFB time courses during the math
+   condition in task 2 at sites within three different VTC
+   subregions and two LPC regions in a single subject (S4). The
+   HFB time course at each site is scaled by its own maximum. The
+   shaded area represents the SE across trials for each condition.
+   Note that in this subject the pITG and aIPS sites respond after
+   the LOG/pFG, mFG, and SPL sites and respond nearly
+   simultaneously with each other. (E) Group-averaged differences
+   between the HFB ROLs during the math condition (task 2) at
+   electrode pairs in different anatomical regions. Only electrode
+   pairs within an individual subject were considered. Number of
+   electrode pairs per ROI-pair: LOG/pFG-pITG: 23 pairs across
+   five subjects; LOG/pFG-mFG: two pairs across one subject;
+   LOG/pFG-SPL: four pairs across one subject; LOG/pFG-aIPS: six
+   pairs across two subjects; pITG-mFG: 14 pairs across five
+   subjects; pITG-SPL: 17 pairs across four subjects; pITG-aIPS:
+   14 pairs across four subjects; mFG-SPL: six pairs across two
+   subjects; mFG-aIPS: five pairs across two subjects; SPL-aIPS:
+   11 pairs across four subjects. Asterisks indicate significant
+   differences in ROL between two anatomical regions (*P < 0.05,
+   FDR-corrected). (F) The approximate range of the ROL to math
+   for each anatomical region is plotted in seconds. Data are
+   shown as mean ± 1 SD. Credit: Daitch AL, Foster BL, Schrouff J,
+   Rangarajan V, Kaşikçi I, Gattas S, and Parvizi J (2016) Mapping
+   human temporal and parietal neuronal population activity and
+   functional coupling during mathematical cognition. Proc Natl
+   Acad Sci USA 113(46):E7277–E7286.
+
+   Medical Xpress asked Daitch if there might be potential value
+   in determining the relative evolutionary appearance of the
+   brain regions involved in numerical cognition. (For example,
+   the region involved with abstract numerical processing may be
+   assumed to have appeared first due to its (1) quasi-isomorphic
+   mapping of the equal number of real-world objects and (2)
+   presence in nonhuman primates). "According to the Neuronal
+   Recycling Hypothesis^1 – which posits that cultural inventions
+   invade evolutionarily older brain circuits and inherit many of
+   their structural constraints – brain regions within the VTC
+   that are selective for words or numbers may be taking over
+   regions that are inherently selective for combinations of line
+   segments and curves (which make up numbers and letters in most
+   languages). The anatomical consistency of the number form and
+   word form area within the VTC is further thought to be driven
+   by the intrinsic connectivity of each of these areas with other
+   brain regions, like the IPS which is thought to code for
+   numerosity for the number form area, and language areas for the
+   word form area", she replied. "Our result showing strong
+   top-down activity from the IPS to pITG supports this idea.
+   However, by recording activity from children as they perform
+   mathematical tasks in future studies, we'll be able to see how
+   math-related regions within the LPC and VTC develop with
+   learning, and which regions exhibit innate selectivity for
+   numerical information prior to learning.
+
+   Regarding the potential role of the increasing number and
+   efficacy of cognitive neuroprosthetics in addressing
+   neurological conditions leading to compromised numerical
+   processing capabilities, Daitch is "hopeful that the knowledge
+   gained about the neural mechanisms underlying numerical
+   cognition in healthy subjects may lead to the development of
+   treatments for people with compromised numerical processing
+   abilities. For example, neuroprosthetics may be able to
+   modulate the activity in the aforementioned math-related brain
+   regions within the LPC and VTC."
+
+   As to the planned next steps in their research, Daitch and her
+   colleagues are designing experiments which better isolate
+   distinct processes within numerical cognition. "For example,"
+   she illustrates, "visually recognizing a numeral versus making
+   a quantity judgment on that numeral – for example, if it's
+   greater than a specified quantity. We want to see which brain
+   regions are engaged during different levels of numerical
+   decisions, and compare the interaction between the VTC and LPC
+   during different levels of numerical processing. For example,
+   does simply looking at a numeral or making a visual judgment on
+   a numeral – such as its color – still activate the
+   intraparietal sulcus (aIPS)? Such a finding would be suggestive
+   of an automatic association of a visual numeral with its
+   quantity representation."
+
+   The scientists are also interested in studying the activity of
+   the pITG and aIPS across development, as children learn to
+   associate numerical symbols with quantities – specifically, how
+   does the selectivity of the pITG to numerical/math processing,
+   as well as the nature of its coupling with the aIPS, change
+   with development? "While ECoG is not conducive to longitudinal
+   studies, we plan to record from younger children – who are in
+   the process of learning numerical information – to gain insight
+   into the development of this numerical cognition system."
+
+   [12]Math-active sites in four different anatomical regions in
+   an exemplar subject (S11; this subject had no math-active SPL
+   sites)
+
+
+   Fig. 5. (A) Math-active sites in four different anatomical
+   regions in an exemplar subject (S11; this subject had no
+   math-active SPL sites). (B) HFB time course during task 3 at
+   each site in A (scaled by each site’s own maximum). The shaded
+   area represents the SE across trials for each condition. Note
+   that although the pITG and aIPS sites respond more to the
+   second digit than to the first digit, the pFG and mFG sites
+   respond more to the first digit than to the second digit (the
+   pITG site shown here is not within the NFA). (C) At the group
+   level, the ratio of the HFB response to the second digit
+   relative to the response to the first digit was larger than 1
+   in the pITG and aITG and was less than 1 in the LOG/pFG, mFG,
+   and SPL. Brackets represent significant differences in the
+   ratio between regions (solid bracket: P < 0.05, FDR-corrected;
+   dashed bracket: P < 0.05, uncorrected). Error bars indicate SE
+   across electrodes. Credit: Daitch AL, Foster BL, Schrouff J,
+   Rangarajan V, Kaşikçi I, Gattas S, and Parvizi J (2016) Mapping
+   human temporal and parietal neuronal population activity and
+   functional coupling during mathematical cognition. Proc Natl
+   Acad Sci USA 113(46):E7277–E7286.
+
+   Daitch tells Medical Xpress that there are other innovations
+   they might consider developing. "Since our findings thus far
+   are purely correlative in terms of associating specific
+   neuronal populations with numerical cognition, we would like to
+   apply other techniques, such as electrical brain stimulation
+   (EBS), to gain a better understanding of the causal role of
+   these [13]brain regions in different aspects of numerical and
+   mathematical processing. Targeting different areas – for
+   example, aIPS vs. pITG – with EBS and observing the behavioral
+   effects of each would allow us to better identify the specific
+   functional roles of each region."
+
+
+   Daitch concludes by addressing other areas of research that
+   might benefit from their study. "Many children suffer from
+   dyscalculia," she illustrates. (Dyscalculia is the difficulty
+   performing arithmetic and/or understanding numbers and
+   quantities.) "The neural underpinnings of this developmental
+   disorder are still not well understood. The IPS, which codes
+   for approximate quantity, may be impaired in this population or
+   possibly in the interaction between the pITG and the IPS. We
+   hope that by studying the dynamics of these two regions in
+   subjects with intact math abilities, we will gain insight into
+   the potential neural mechanisms underlying developmental
+   dyscalculia."
+
+   Explore further: [14]Development of the numerical reasoning
+   network found to not be vision based
+
+
+   More information: Mapping human temporal and parietal neuronal
+   population activity and functional coupling during mathematical
+   cognition, PNAS November 15, 2016 vol. 113 no. 46 E7277-E7286,
+   [15]doi:10.1073/pnas.1608434113
+
+
+   Related:
+   ^1Cultural Recycling of Cortical Maps, Neuron 25 October 2007,
+   [16]Volume 56, Issue 2, p384–398,
+   [17]doi:10.1016/j.neuron.2007.10.004
+
+
+   Journal reference: [18]Neuron [19]search and more info
+   [20]website [21]Proceedings of the National Academy of Sciences
+   [22]search and more info [23]website
+
+
+   809 shares
+   [24]feedback feedback to editors
+
+
+   © 2016 Medical Xpress
+
+   [25]Tweet
+
+
+   [26]add to favorites Favorites
+   [27]email to friend Email
+   [28]print Print
+   [29]save as pdf PDF
+
+

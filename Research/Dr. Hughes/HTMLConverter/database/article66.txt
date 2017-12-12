@@ -1,0 +1,142 @@
+A Light Shift
+
+   The blackbody spectrum we measure today was created just a few
+   months after the universe’s birth, when the number of photons
+   generated in the early fireball had stabilized. “Anything that
+   happens afterwards can distort the spectrum,” Kogut said.
+
+   For the first couple of decades after that, the universe was so
+   dense that any process producing extra energy, such as the
+   annihilation or decay of dark-matter particles, would affect
+   all of the CMB photons, creating what are known as mu (µ)
+   distortions in the blackbody spectrum. In this situation, an
+   energetic electron produced by the demise of a dark-matter
+   particle could transfer some of its energy to a CMB photon,
+   “distorting the microwave background away from a blackbody,”
+   Kogut said.
+
+   Even earlier spectral distortions might also have arisen from
+   [18]inflation, a short but spectacularly fast period of
+   expansion that many researchers think occurred in the
+   universe’s very first moments.
+
+
+   According to this theory, quantum fluctuations created dimples
+   in space-time that inflation then amplified. Matter and
+   radiation fell into these valleys, which eventually evolved
+   into the first galaxies; the valleys explain how the chunky
+   stew of a universe we see today emerged out of its brothlike
+   past.
+
+   The valleys should all be of different widths, depending on
+   when the fluctuations arose and how long they had to inflate.
+   But leading models of inflation predict that they should all
+   have about the same depth, since the energy scale of the
+   inflationary field, which produced the quantum blips, is
+   thought to have changed only slowly over time.
+
+   The matter and radiation that slid into the valleys rebounded,
+   sloshing out and then over surrounding hills into other
+   valleys, producing the hot and cold spots in the CMB. If no
+   energy was lost during the sloshing, these spots would vary
+   from the average CMB temperature by about the same amount. But
+   some energy was lost. As the sloshing proceeded, more and more
+   photons splashed out of the valleys. Because of this,
+   the smallest ones, produced toward the end of inflation, no
+   longer appear hot or cold. The effect, known as Silk damping,
+   erases information about the depth of smaller valleys — and the
+   energy scale of inflation at later times — in maps of the CMB’s
+   temperature.
+
+   The energy lost during the sloshing didn’t disappear, however.
+   It went into “heating up the universe a little bit,” Kogut
+   said. That would have shifted the CMB’s spectrum away from a
+   blackbody. “It basically makes the universe look a little bit
+   bluer — a little brighter at shorter wavelengths and colder at
+   longer wavelengths,” Kogut said.
+
+   Locating these spectral distortions could therefore reveal
+   details about inflation on smaller scales, and later times,
+   than is now possible. “That is information you could not get
+   any other way,” said [19]Simon White, director of the Max
+   Planck Institute for Astrophysics in Garching, Germany.
+   Measurements of the depth of the dimples at later times could
+   test how quickly the energy scale of inflation changed, which
+   would test competing models of the theory, Kogut said.
+
+
+   That’s important, said [20]John Mather, an astrophysicist at
+   NASA Goddard who won a Nobel Prize in 2006 for measuring the
+   CMB’s blackbody spectrum with COBE. One of the selling points
+   of inflation is that it seems to explain the CMB’s incredible
+   evenness across the sky — patches of sky that are far apart
+   would have been touching before the exponential expansion of
+   inflation. But the CMB’s uniformity was discovered years before
+   the theory of inflation was developed in the 1980s, and Mather
+   said the theory would gain credibility if it made predictions
+   that were only later found to be true. “It’s not all that
+   powerful to predict something you already know,” he said.
+
+
+   Spectral measurements could also provide insight into the
+   evolution of the universe at later times, when the universe had
+   expanded enough that any injections of energy would be felt by
+   only a fraction of CMB photons, producing what are called y
+   distortions in the spectrum.
+
+   Energy from stars, galaxies and galaxy clusters should
+   stimulate the CMB, which could help pin down the rate at which
+   stars form and explode and at which galaxies grow and evolve,
+   Peebles said. “There are lots of ideas about how cosmic
+   evolution proceeded, but not much evidence,” he said. Spectral
+   distortion measurements would offer “a rigorous constraint on
+   what is otherwise a very slippery business.”
+
+   The $200 million PIXIE mission, which Kogut and his team are
+   proposing to NASA for a potential launch in 2022, could search
+   for all of these spectral distortions. With a sensitivity about
+   1,000 times as great as COBE, it could potentially study
+   inflation’s dimples at a scale one-ten-thousandth of what’s
+   possible with the CMB hot and cold spots. The mission would
+   also search for the signature of gravitational waves from the
+   early universe with a precision 100 times better than that of
+   current experiments.
+
+   David Kaplan, Petr Stepanek and MK12 for Quanta Magazine; Music
+   by Pete Calandra and Scott P. Schreer
+
+   Video: Where Did the Universe Come From? This two-minute video
+   explores the leading explanation for the origin of the
+   universe.
+
+   Despite its sensitivity, interpreting PIXIE’s results, should
+   it launch, would be tricky. “Different processes … can lead to
+   similar distortions,” said [21]Jens Chluba, an astrophysicist
+   at the Institute of Astronomy in Cambridge, England. “However,
+   with precise measurements, different scenarios can in principle
+   be distinguished.”
+
+
+   Kogut agrees. “The main source of confusion would be from dust
+   in our own galaxy,” he said. However, he thinks that PIXIE can
+   rigorously account for the influence of dust through its
+   measurements of the sky at 400 different wavelength bands,
+   since dust shines more brightly at certain colors than others.
+
+   “The low-hanging fruit has been gathered,” Peebles said of CMB
+   measurements to date. Trying to detect the CMB’s deviations
+   from a blackbody spectrum is “a very difficult measurement, but
+   one that can be done and would teach us a lot about cosmic
+   evolution.”
+
+   Half a century after the CMB was discovered, what can we expect
+   in the future? Peebles is sure of one thing. “The next 50 years
+   will be interesting.”
+
+   This article was reprinted on [22]Wired.com.
+
+
+   Update July 9, 2015: Jens Chluba’s affiliation has been
+   updated.
+
+

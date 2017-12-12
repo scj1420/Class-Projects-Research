@@ -1,0 +1,175 @@
+By [35]Siobhan Roberts
+
+
+     June 29, 2016
+
+
+   [36]The mathematician Kurt Gödel’s incompleteness theorem ranks
+   in scientific folklore with Einstein’s relativity and
+   Heisenberg’s uncertainty. The mathematician Kurt Gödel’s
+   incompleteness theorem ranks in scientific folklore with
+   Einstein’s relativity and Heisenberg’s
+   uncertainty.CreditPHOTOGRAPH BY ALFRED EISENSTAEDT / THE LIFE
+   PICTURE COLLECTION / GETTY
+
+
+   In June of 1975, the Office of the White House Press Secretary
+   announced President Gerald R. Ford’s picks for the National
+   Medal of Science. One went to the Austrian-born mathematician
+   and logician Kurt Gödel. Nicknamed Mr. Why by his parents,
+   Gödel was known to a subset of his constituents as, simply,
+   God. He received fan mail from all over the world, archiving it
+   into files of “autograph requests,” “inquiries from students
+   and amateurs,” “letters of appreciation,” and “crank
+   correspondence.” A self-described “dunce fool of Mathematics”
+   in West Bengal wrote seeking Gödel’s “Guruship,” and a svelte
+   math teacher in California confessed that she’d taken the
+   liberty of enlarging a photo of Gödel to make a poster for her
+   classroom. (She’d also taken the liberty of enclosing a
+   snapshot of herself.) Ultimately, Gödel came to be compared not
+   only to [37]his friend Albert Einstein but also to Franz Kafka.
+   Such was the nature of his contribution—only a handful of
+   theorems, but all of them monumental and fantastical.
+
+
+   Gödel’s masterpiece was his incompleteness theorem, which ranks
+   in scientific folklore with [38]Einstein’s relativity and
+   Heisenberg’s uncertainty. Promulgated in Vienna in the early
+   nineteen-thirties, the notion of incompleteness threw
+   mathematics into a hall of mirrors, where it reflected upon
+   itself to alluring, if disorienting, effect: the theorem
+   proved, using mathematics, that mathematics could not prove all
+   of mathematics. Of course, it has a proper and technically
+   precise formulation, but the late logician Verena Huber-Dyson
+   paraphrased it for me as follows: “There is more to truth than
+   can be caught by proof.” Or, as the British novelist Zia Haider
+   Rahman put it in his award-winning début, “In the Light of What
+   We Know,” “Within any given system, there are claims which are
+   true but which cannot be proven to be true.”
+
+
+   So although Gödel published his results eighty-five years ago,
+   the theorem endures in the popular imagination. This month, a
+   group of latter-day Gödelians convened on Thursday nights for a
+   crash course in incompleteness, on the roster at the Brooklyn
+   Institute for Social Research. One syllabus text promised
+   “Gödel Without (Too Many) Tears,” while supplementary reading
+   unpacked his work [39]“in Words of One Syllable.” According to
+   “Gödel’s Theorem: An Incomplete Guide to Its Use and Abuse,”
+   the chameleon interpretations emerge in discussions of math,
+   philosophy, computer science, and artificial intelligence, as
+   one might expect, but also in ruminations on physics,
+   evolution, religion, atheism, poetry, hip-hop, dating,
+   politics, and even the Constitution. (Famously, Gödel informed
+   the judge at his U.S. citizenship hearing about an
+   inconsistency that he had discovered in the Constitution, which
+   would allow a dictator to rise in America.)
+
+
+   The students in the incompleteness class, held at the Brooklyn
+   Commons, included a computer scientist obsessed with recursion
+   (that is, self-referential things, like Russian nesting dolls
+   or Escher’s drawing of a hand drawing a hand); a public-health
+   nutritionist with a fondness for her “Philoslothical” T-shirt;
+   a philosopher in the tradition of American pragmatism; an ad
+   man versed in the classics; and a private-school teacher who’d
+   spent a lonely, life-changing winter reading Douglas
+   Hofstadter’s “Gödel, Escher, Bach,” which won the Pulitzer in
+   1980. Even Hofstadter, a professor of cognitive science at
+   Indiana University, still has Gödel on the brain. He delivered
+   two talks on the logician recently, billing him as “The True
+   Inventor of Programming Languages and Data Structures.” When I
+   told Hofstadter about the course—not everyone’s ideal Thursday
+   night out on the town—he said, “It ought to be quite fun.”
+
+   In total, eight people enrolled for the class, a fitting
+   number, since “8” rotated by ninety degrees is “∞,” and
+   infinity is, in a sense, where the trouble began with this
+   trippy episode in the history of mathematics. In the nineteenth
+   century, the German mathematician Georg Cantor launched an
+   investigation into various sizes of infinities, thereby
+   inventing set theory, which became an overarching paradigm for
+   mathematics. “A set is a Many that allows itself to be thought
+   of as a One,” Cantor said. But, from nearby realms of logic,
+   paradoxes emerged, such as the Russell set, the set of all sets
+   that do not contain themselves. In the early twentieth century,
+   Bertrand Russell and Alfred North Whitehead, with “Principia
+   Mathematica,” and David Hilbert, with “Hilbert’s Program,”
+   attempted to construct a solid foundation for mathematics,
+   creating a formal system based on axioms and rules. Gödel, with
+   his incompleteness theorem (two theorems, actually), put an end
+   to these dreams. He proved, to borrow from the course outline:
+
+     For any consistent axiomatic formal system that can express
+     facts about basic arithmetic:
+
+     1) There are true statements that are unprovable within the
+     system.
+
+     2) The system’s consistency cannot be proven within the
+     system.
+
+   Puzzled? Russell admitted the same. He wondered, “Are we to
+   think that 2+2 is not 4, but 4.001?”
+
+   A mathematician is said to be a machine for turning coffee into
+   theorems, and at that Gödel excelled, although he said that the
+   coffee in Vienna was wretched. For Peter O’Hearn, an
+   engineering manager at Facebook and professor at University
+   College London, the incompleteness “wow moment” was fuelled by
+   visits to the brewpub during graduate school. O’Hearn is the
+   co-recipient of this year’s Gödel Prize—he and a colleague,
+   Stephen Brookes, invented concurrent separation logic, a
+   revolutionary proof system for computer software. “Gödel’s
+   theorem has a major impact on what all computer scientists do,”
+   he told me. “It puts a fundamental limit on questions we can
+   answer with computers. It tells us to go for approximation—more
+   approximate solutions, which find many right answers, but not
+   all right answers. That’s a positive, because it constrains me
+   from trying to do stupid things, trying to do impossible
+   things.”
+
+   At the Brooklyn Commons, a keg of Turmeric Sunrise kombucha was
+   the popular drink during class breaks, which people spent
+   pondering the pronunciation of “Gödel.” (“Goy-del?” “Good-ul?”
+   “Girdle?”) I asked my classmates whether they had heard of the
+   sci-fi writer Rudy Rucker’s book “Spacetime Donuts,” which
+   includes a minor character named Professor G. Kurtowski. The
+   answer was no, but as the American pragmatist noted, “Kurtowski
+   is significantly easier to pronounce than ‘Guuuudel.’ ” In
+   Gödel’s archives, there is a full file of letters from Rucker.
+   “I was looking for a guru,” Rucker told me. He first visited
+   with the great man in 1972, as a graduate student, and
+   thereupon Gödel joined his other mentors—Frank Zappa, Robert
+   Crumb, William Burroughs, and Thomas Pynchon. Pynchon, in his
+   novel “Gravity’s Rainbow,” paraphrased incompleteness by
+   mapping it onto Murphy’s Law, “that brash Irish proletarian
+   restatement of Gödel’s Theorem—when everything has been taken
+   care of, when nothing can go wrong, or even surprise us …
+   something will.” “Yeah,” our instructor said. “Metaphorically,
+   yeah, I can see it.”
+
+   As the course progressed, the Gödelians remained divided in
+   their enlightenment. An early verdict, from a lawyer studying
+   for the bar, was that Gödel, with his loopy logic, seemed to be
+   cheating. Later, the private-school teacher raised his hand and
+   declared that the last bit of chalk-and-talk instruction made
+   perfect sense. From my distractible perspective across the
+   table, though, his semi-eureka experience looked like the
+   misinterpretation of a sugar high, since he’d just eaten seven
+   Oreo Thins from the pile of communal snacks. And, anyway, it
+   would all come to nothing if not incompleteness.
+
+   Quoted archival text from the Kurt Gödel Papers, held by the
+   Institute for Advanced Study, in Princeton, New Jersey, and on
+   deposit at the Firestone Library.
+
+   Siobhan Roberts is the author of “Genius at Play: The Curious
+   Mind of John Horton Conway.”
+
+
+      More:
+
+
+
+

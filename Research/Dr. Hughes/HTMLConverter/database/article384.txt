@@ -1,0 +1,485 @@
+36 thoughts on “Other Ways to Carve Up the Math Curriculum”
+
+    1. anshgupta1234 on [30]November 16, 2016 at 12:08 am said:
+       Nice post. But that’s common in your blog😊
+       [31]Reply ↓
+    2. [32]Benjamin Freitag on [33]November 16, 2016 at 12:13 am
+       said:
+       That “Go Forth and Prosper” curriculum sound absolutely
+       AMAZING! The high school math department I work with has
+       actually tried to move in this direction with what limited
+       resources we have in the way of teachers and time.
+       [34]Reply ↓
+    3. Andy on [35]November 16, 2016 at 12:26 am said:
+       How does it make any sense to have 2 years of AP Math????
+       The AP Curriculum isn’t even written like that!
+       Anyone who wants to put the work into building one of these
+       proposals out into a full blown plan, or just writing a
+       textbook for one of the non-traditional courses I’m on
+       board.
+       [36]Reply ↓
+
+            I definitely like proposal 2 the best, as it would
+            allow for collaboration among departments and give
+            students a real opportunity to try things and go for
+            what they are interested. As a mathematician first and
+            a teacher second and as a hobby programmer I like
+            proposal 2 the most.
+            Teaching a class on mathematical programming is crazy
+            interesting and math for mathematicians would be right
+            up my alley.
+            Proposal 2 also seems like it could easily satisfy all
+            of the Common Core requirements that those of us in
+            the States have to deal with.
+            [38]Reply ↓
+    4. [39]annwjwhite on [40]November 16, 2016 at 12:53 am said:
+       I like what you have here. Get the word out. This is more
+       user friendly and on target.
+       [41]Reply ↓
+    5. [42]Shecky R on [43]November 16, 2016 at 5:31 am said:
+       Super! Makes me want to go back to high school again… (if
+       they would follow ANY of these suggestions in place of what
+       I had)
+       [44]Reply ↓
+    6. [45]survivinginjapan on [46]November 16, 2016 at 7:32 am
+       said:
+       If only math was this interesting when I was still
+       studying… 😆
+       [47]Reply ↓
+    7. Wendy vanden Heuvel on [48]November 16, 2016 at 8:03 am
+       said:
+       hi Ben ,
+       My daughter is a musician and we have been searching for
+       great ways to teach her Math, I saw that you had a
+       section-Math for Artists, could you point me into some
+       interesting books, or ways that would be good to teach Math
+       for people like this. I love your blog, it is the first
+       time someone’s thinking about Math has made sense.
+       [49]Reply ↓
+
+            Take a look at the [52]Art of mathematics series.
+            There is a lot of great material, and the spirit of
+            their approach is fantastic.
+            Other readers, and Ben himself, will have other
+            suggestions, of course…
+            [53]Reply ↓
+               o [54]Wendy vanden Heuvel on [55]November 17, 2016
+                 at 7:30 am said:
+                 Thank you!
+                 [56]Reply ↓
+    8. [57]Wendy vanden Heuvel on [58]November 16, 2016 at 8:04 am
+       said:
+       PS) She is in 11th grade.
+       [59]Reply ↓
+    9. Pouncer on [60]November 16, 2016 at 8:54 am said:
+       Given a diversity of high schools for parents and students
+       to choose among, there would be no problem in implementing
+       any or all of these ideas — not all at any one school, of
+       course.
+       Given a federal mandate for “common core” — or any similar
+       requirement — and only one curricular sequence per school
+       district (in cities, one district encompasses several high
+       schools) only one idea will “win” — and all the parents and
+       students who might prefer and benefit from an alternative
+       will LOSE.
+       Even if any one of these ideas is better than status quo,
+       and even if a district makes that “improvement”, all those
+       who would choose otherwise lose because they have no
+       choice.
+       [61]Reply ↓
+   10. [62]Carl on [63]November 16, 2016 at 12:42 pm said:
+       Interesting. I come from a high school which didn’t do
+       calculus at all. Instead, third year algebra included
+       probability, linear algebra and analytic geometry. Linear
+       algebra was the worst — no applications whatsoever. And why
+       is Cramer’s Rule ever taught? Gaussian elimination follows
+       easily enough from systems of equations.
+       The other most useless subject was going in depth with
+       complex numbers. Unless you go into quantum mechanics,
+       circuit theory, or other dynamic modeling that involves
+       Laplace transforms, complex numbers are mostly a curiosity.
+       —
+       Love your idea of making high school math more applied. Let
+       me throw in one more application that used to be part of
+       the core liberal arts curriculum back in the middle ages:
+       statics. Statics has applications for any who would build.
+       By going in depth with statics you can teach vectors
+       without also having to teach calculus concepts at the same
+       time, as is traditional in physics. The first weeks of
+       physics are overwhelming because vectors and calculus
+       concepts are taught in parallel. It’s like teaching
+       juggling while riding a unicycle.
+       Another reform would be to teach calculus numerically.
+       Numerical methods are to calculus what counting on your
+       fingers is to arithmetic. Imagine teaching first graders
+       the topology of real numbers before learning how to count!
+       That’s sort of what we do with calculus. With numerical
+       methods, we can introduce interesting problems early.
+       My math track would look something like this:
+       basic algebra -> financial applications -> statistics
+       geometry -> statics -> linear algebra for manipulating
+       vectors
+       computer programming -> beginning calculus and differential
+       equations using numerical methods
+       I leave it as an exercise for the reader as to how to turn
+       these tracks into actual curricula. I would note that for
+       brighter students, the beginning algebra could start in
+       eighth grade.
+       [64]Reply ↓
+
+            Funny to hear you say that there are no applications
+            to linear algebra. To me it is one the the most
+            practical fields of mathematics.
+            The whole mathematica software program is basically a
+            big linear-algebra engine.
+            A complex number is a vector. Oh, but you don’t like
+            complex numbers either, more on that later
+            Differentiation is a linear operator.
+            The covariance in statistics is an inner product.
+            (This is my life)
+            The Heisenberg uncertainty principle falls-out from
+            the Cauchy-Schwartz inequality.
+            Complex numbers appear whenever there is a wave a
+            vibration, an oscillation, and even a rotation. Quite
+            a lot more applications than just signal processing
+            and quantum mechanics.
+            You want to teach vectors, but don’t want to teach
+            linear algebra? The two go hand-in-hand.
+            [66]Reply ↓
+               o [67]Carl on [68]November 17, 2016 at 8:03 am
+                 said:
+                 I said there was no applications of linear
+                 algebra as it was taught to me in high school. If
+                 you look at my proposed curriculum, it includes
+                 linear algebra. The lead in is vector geometry
+                 and statics. And yes, you could come back to
+                 matrices when doing my proposed numerical
+                 calculus course. They are pretty handy for
+                 solving differential equations.
+                 I personally use complex numbers and get annoyed
+                 at computer languages which don’t include them.
+                 (Java!) But I’m a physicist.
+                 How many people do wave mechanics? Seriously? Now
+                 we are talking partial differential equations!
+                 Maybe this can wait until college. For those who
+                 do, going deeper into complex numbers can be
+                 handled at that point.
+                 The question before us is what to teach high
+                 school students, the majority of which will never
+                 become mathematicians, engineers, or physicists.
+                 Only a tiny fraction of such students will even
+                 need to know how to get all the imaginary bits
+                 out of the denominator. I had limited use for
+                 such things until I took up designing
+                 loudspeakers as a hobby. Complex polynomial
+                 fractions figure in crossover design big time.
+                 (Quantum mechanics has complex numbers but they
+                 don’t generally show up as polynomials in a
+                 denominator.)
+                 The simpler bits of linear algebra are quite
+                 generally useful. Anyone who wants to make a
+                 computer game needs basic numerical differential
+                 equations and the ability to manipulate vectors.
+                 Linear algebra is needed for analyzing trusses
+                 and the like. Statics makes for a clear use case
+                 for linear algebra.
+                 Everyone who votes should have some knowledge of
+                 probability and statistics. It is also handy to
+                 have some intuition of dynamical systems, to
+                 realize that cause and effect can be quite
+                 separate in time. The nascent central planner
+                 needs to experience chaos as well. It only takes
+                 a system of three equations to produce chaos, if
+                 I recall correctly. (It’s been a quarter
+                 century…)
+                 [69]Reply ↓
+                      said:
+                      Thanks for the feedback.
+                      I suppose if there were one unit I would add
+                      to the math curriculum, it would be Excel.
+                      Functions, financial calculations, numerical
+                      methods, etc. Handy tool, and something that
+                      a whole lot of people use “in the real
+                      world.”
+   11. Doug M on [71]November 16, 2016 at 1:18 pm said:
+       Are there really 2 years of AP calculus. As I a remember
+       there is the AB and the BC test. The BC test covers
+       everything that the AB test covers plus a little bit extra.
+       But that little bit extra is not a full year’s wort of
+       material. After AB the student should be ready for
+       differential Equations, Linear Algebra and multi-variate
+       calculus.
+       Regarding Stats — I think that knowing calculus makes it
+       much easier to learn the the subtleties of probability and
+       statistics. How can you teach the central limit theorem if
+       you haven’t defined a limit?
+       In my personal experience, I learned the theory of
+       probability by playing Dungeons & Dragons.
+       And what I have learned in statistics, is that if you
+       torture your statistics, they will confess to anything.
+       [72]Reply ↓
+   12. [73]Máté Wierdl on [74]November 16, 2016 at 4:09 pm said:
+       I see one crucial problem here: the power of math is that a
+       single language is used to tackle diverse practical
+       applications. You are suggesting to go the other way
+       around, and focus on the applications.
+       The fact is that most people don’t use math in their jobs.
+       The main utility of math for the general public should be
+       to teach kids to think, to ask “why”, and be able to answer
+       such questions.
+       Your focus is more on the “how”, and it calls for math
+       technology more than anything else. For applications of
+       math, you don’t need much understanding of the math
+       concepts. What’s missing more and more is the understanding
+       of math–and the test centered education are to be blamed.
+       I think a better approach to teach math is to introduce a
+       math concept via a real life example, so kids see that the
+       concept is not just some abstract nonsense, but is rooted
+       in their lives (like talk about 6 apples). Then understand
+       the new concept in the mathematical framework (like what is
+       6 as a number). Then show diverse applications (like we can
+       take not just 6 apples but 6 TVs or 6 whales).
+       The other problem with your proposal is that it is just too
+       much stuff. Even the best high school students would have
+       difficulty completing it. Kids would be able to calculate %
+       without understanding what they are doing. There would be
+       no time to really understand % (and hence fractions).
+       To tell you the truth, I never understood the enormous
+       focus on calculus. It’s a very complicated subject, and
+       going beyond, say, an intuitive understanding of
+       instantaneous speed makes little sense for the average high
+       school student. On the other hand, a good, interesting,
+       slow paced, playful exposition of combinatorics would fit
+       those teenager minds and the applications of math much
+       better.
+       Here is the, imo, right amount of math and “application”.
+       The joy and the understanding of combinatorics clearly
+       doesn’t come from the usefulness of the practical
+       application.
+
+
+       IFRAME:
+       =1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1
+       &wmode=transparent
+
+
+       [76]Reply ↓
+
+            Calculus is enormously useful for understanding
+            dynamical systems. Calculus is mind-numbing as it is
+            generally taught because of the mathematicians’ love
+            of rigor. Go lighter on rigor on the first pass and
+            calculus makes sense.
+            But the real key is to go straight to numerical
+            methods. Most of the work in a typical calculus class
+            is working out closed form solutions — which is a lot
+            of work and only applies to some special cases. Such
+            work does belong in the curriculum at some point, but
+            maybe it should come a bit later — after students
+            experience Euler’s method blowing up in their faces.
+            [79]Reply ↓
+               o [80]Máté Wierdl on [81]November 17, 2016 at 1:04
+                 pm said:
+                 “Calculus is enormously useful for understanding
+                 dynamical systems. ”
+                 Even from a utilitarian viewpoint: How many
+                 people will use dynamical systems?
+                 But the main goal of teaching anything in K-8 and
+                 in high school is not about meeting possible
+                 applications. Despite the hype, the vast majority
+                 of kids do not use math in their lives.
+                 Teaching kids about instantaneous speed makes
+                 sense, but beyond that? Why should the average
+                 student need to be able to differentiate crazy
+                 functions, learn the product rule, etc?
+                 In general, teaching something which is hard to
+                 motivate needs to be avoided in K-12. Saying
+                 “Yeah, calculating all kinds of derivatives,
+                 numerical errors, standard deviations seems
+                 pointless to you now, but you’ll find it
+                 important later in life” is a poor argument, imo.
+                 [82]Reply ↓
+                      said:
+                      People misunderstand dynamical systems every
+                      time they blame current conditions on
+                      current leadership. Building an intuition
+                      that systems do not respond instantaneously
+                      to “forces” is important.
+                      Going straight to numeric allows one to look
+                      at interesting problems without the product
+                      rule, etc. Start with Euler’s method and
+                      when it breaks down dig deeper.
+                      Mix it with computer programming and you can
+                      relate the material with something very
+                      familiar to students: video games.
+                      4:10 pm said:
+                      “Building an intuition that systems do not
+                      respond instantaneously to “forces” is
+                      important.”
+                      For the general student audience?
+                      As it is, the math curriculum (and most
+                      other curriculum) is way overstuffed with
+                      “important” things for kids to learn. The
+                      main reason for math anxiety is that the
+                      speed with which the material needs to be
+                      learned leaves most kids behind.
+                      What you guys recommend here is exciting,
+                      but would effectively double the stress on
+                      kids. And stress results in burnt out kids
+                      and math haters.
+   13. [87]maddemaddigger on [88]November 17, 2016 at 7:36 am
+       said:
+       If I were to change the curriculum, I would start in grade
+       7 and focus on the connections between topics rather than
+       teaching them seperately
+       We could start with the big topic of “Mathematical
+       reasoning” in grade 7, but split into two parts.
+       Combinatorics (with “ad hoc”-solutions” first) and geometry
+       (with a nice and elegant theory), possibly presenting both
+       as views on algebra (which will therefore implicitly be
+       taught), e.q. rationals could easily be introduced using
+       geometry rather than the usual cake-cutting routine, also
+       we can introduce coordinate systems here and start with
+       some linear equations from a geometric point of view.
+       8th grade will then start with reviewing linear equations
+       from a more abstract point of view: We can now introduce
+       the concept of functions as ways to transform problems from
+       one subject into another (e.g. geometry algebra). We
+       continue the geometric studies with these new tools and
+       discover the interscept theorem and the Pythagorean theorem
+       and get more functions out of them (rational functions,
+       quadratics, square roots).
+       In 9th grade, we will leave the subject of flat, algebraic
+       geometry. As we now have a basic understanding of functions
+       and geometry, we can get further in abstraction: For
+       geometry, we can study three dimensional objects and in
+       terms of functions we try to generalize our understanding
+       to discrete, combinatorial problems to see, that we need to
+       develop a concept of probability (and do so).
+       10th grade can now focus on two things: Basic calculus and
+       statistics. Thereby basic calculus will include introducing
+       trigonometric, exponential and logarithmic functions (the
+       first in the context of reviewing geometry), describing
+       graphs based on their term and related topics which _don’t_
+       need integration or differentiation (but give a basic
+       understanding of limits in an intuitive way). Statistics on
+       the other hand will be discussing concepts of probability,
+       reliability etc. on a basic, discrete level.
+       11th grade will aim to bring the now separated topics of
+       algebra, geometry, Calculus and Statistics back together.
+       We will now discuss graphs of functions as geometric
+       objects and in view of geometry try to define limits more
+       precisely and then introduce derivation motivated by
+       geometry, get back to three dimensional objects and their
+       algebraic representation (in terms of coordinates) and
+       combine Calculus and statistics by looking at distributions
+       for random variables in a large set.
+       12th grade will then be mostly focused on computations and
+       some integration, which is good to combine, since in many
+       cases integration is not easily possible. However, it will
+       be about applying all of the previously discussed topics,
+       which means that the problems will include many different
+       aspects. We could probably do a pratical project during
+       this last year to see the connection between all of the
+       topics.
+       (This curriculum would not be so different from the one I
+       had in school, apart from switching some topics between 8
+       and 9 and the practical focus in grade 12, however in all
+       years the aim should be to show the connections between the
+       subjects rather than teaching them seperately)
+       [89]Reply ↓
+
+            said:
+            “focus on the connections between topics rather than
+            teaching them seperately”
+            Yes, this is exactly the basic role of math: a common
+            language. I think the most important guiding principle
+            in designing a curriculum is not what society wants or
+            expects from the kids, not what is considered
+            important or exciting to the adult world, but what
+            kids are capable of enjoying and comprehending, and
+            what they are curious about.
+            If you say, this condition very much depends on the
+            individual student and the place, you are correct, and
+            this is why a general curriculum for the whole US
+            makes little sense. Teachers need their autonomy back
+            more than any guidance about what to teach.
+            [92]Reply ↓
+   14. ac pool on [93]November 17, 2016 at 7:48 am said:
+       This plan leaves financial education to the 11th grade.
+       This is too late. It needs to be moved earlier, say 8th
+       grade, to reach as many students and as many households as
+       possible. The students that will drop out need financial
+       education more than the students who reach the 12th grade.
+       Putting financial education/information into homes that are
+       prone to have drop outs may benefit the whole family.
+       [94]Reply ↓
+
+            said:
+            “This plan leaves financial education to the 11th
+            grade. This is too late.”
+            But I thought the post was about math education…
+            [97]Reply ↓
+               o ac pool on [98]November 17, 2016 at 2:22 pm said:
+                 Read proposal # 1.
+                 [99]Reply ↓
+                      at 4:44 pm said:
+                      I read it, and I don’t see it as a math
+                      curriculum. It’s an applications of math
+                      curriculum. Those who prefer the
+                      applications of math curriculum over math
+                      seem to think that it’s always preferable to
+                      talk about 6 apples, and don’t like to talk
+                      about just the number 6.
+                      It of course is interesting to be able to
+                      talk about, say, compounded interest. But in
+                      a math curriculum, its interest is
+                      secondary; it’s more important to learn that
+                      that the same math can be used to handle
+                      radioactive decay, age of ancient artifacts,
+                      population increase, spread of diseases,
+                      seed arrangements in a sunflower.
+                      The math is much simpler than these, and
+                      hence it is worthwhile to explore it on its
+                      own.
+   15. b51015 on [102]November 18, 2016 at 10:23 am said:
+       All 4 sound awesome.
+       You should add a comparison of the 4 to the end of each:-)
+       b51015 (20)
+       [103]Reply ↓
+   16. [104]Tye Files on [105]November 19, 2016 at 4:06 pm said:
+       You are one of my favorite bloggers
+       [106]Reply ↓
+   17. [107]Tye Files on [108]November 19, 2016 at 4:07 pm said:
+       Reblogged this on [109]Butterflies & Machineguns and
+       commented:
+       Another post by one of my favorite blogs
+       [110]Reply ↓
+   18. [111]James Doss-Gollin (@JamesDossGollin) on [112]November
+       22, 2016 at 6:48 am said:
+       Excellent! I would definitely have preferred this
+       curriculum as a high school student, and I think connecting
+       to the real world would have avoided turning a lot of
+       people off of math. Just one small adjustment: skip the
+       p-value on the data analysis.
+       I defer to American Statistical Association as to why:
+       pdf
+       [114]Reply ↓
+   19. Pingback: [115]Carnival of Mathematics 140 –
+       mathematicsandcoding
+   20. [116]John Lewis on [117]December 6, 2016 at 7:47 am said:
+       Thank you for the income statement, it is very important
+       information for me.
+       [118]Reply ↓
+   21. [119]teacherscoutmom on [120]December 7, 2016 at 12:15 am
+       said:
+       Love the curriculum layout and especially the choices for
+       11th & 12th grade. Streamlining it with their interests is
+       amazing!
+       [121]Reply ↓
+   22. [122]gregsdennis on [123]March 30, 2017 at 12:16 am said:
+       I’m 36. Can I take all of these courses?
+       [124]Reply ↓
+
+
+

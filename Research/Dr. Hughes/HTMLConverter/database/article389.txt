@@ -1,0 +1,186 @@
+By [35]Jia Tolentino
+
+
+     September 23, 2016
+
+
+   [36]A new book offers an algorithm to detect which novels will
+   be as successful as “The Da Vinci Code”—but the conclusions are
+   less subtle than the authors seem to think. A new book offers
+   an algorithm to detect which novels will be as successful as
+   “The Da Vinci Code”—but the conclusions are less subtle than
+   the authors seem to think.CreditPHOTOGRAPH BY TIM SLOAN / AFP /
+   Getty
+
+
+   “The Bestseller Code,” a new book in which Jodie Archer and
+   Matthew L. Jockers present an algorithm for detecting the sales
+   potential of other books, has, not surprisingly, a commercially
+   canny title. “The Da Vinci Code,” after all, has sold more than
+   eighty million copies. Of course, the success of that novel may
+   have had less to do with the title than with the conceptual
+   hook (murder, sex, conspiracy, and Jesus) or Dan Brown’s
+   bottomless bag of chapter-punctuating twists. But in “The
+   Bestseller Code” all correlation is causation, and titles
+   matter. (So do, for instance, semicolons.) Titles pointing “to
+   things, to objects, typically common nouns,” appear often on
+   best-seller lists, Archer and Jockers explain. Sometimes the
+   nouns come with a qualifying word, like “Bestseller” or “Da
+   Vinci,” but the most best-seller-y option lets the nouns stand
+   alone. Archer and Jockers point to “The Goldfinch” and “The
+   Firm” as particularly primo titles, making you wonder why they
+   didn’t call their own book “The Code.”
+
+   But then most books aren’t written to please a
+   success-predicting algorithm—not even this one. Archer and
+   Jockers focus their study on fiction, and the unfriendly
+   economics of fiction-writing generally insure that a deep,
+   irrational passion drives most of its authors. There is no
+   possible insight into the common denominators of best-sellerdom
+   that could turn writing a first novel into a judicious economic
+   decision; there’s no algorithm that would change the fact that
+   most Americans read just a handful of books a year, and a
+   quarter of them don’t really read books at all. In any case,
+   “The Bestseller Code” doesn’t pretend to hold the keys to the
+   top spot: it just claims that the books that sell millions tend
+   to be predictable, and not in the ways that you think.
+
+   Archer and Jockers, who met at Stanford and come from a
+   publishing and an academic background, respectively, built and
+   refined their algorithm over the course of four years. By the
+   end of that time, they claim, it could deduce with eighty per
+   cent accuracy whether or not an unmarked manuscript had hit the
+   New York Times best-seller list. It assessed novels by Jessica
+   Knoll, Mitch Albom, Chad Harbach, and Michael Connelly and
+   identified their best-selling chances at upward of ninety per
+   cent. Archer and Jockers argue that this ability to predict
+   mainstream appeal across a heterogeneous sample makes the
+   algorithm a clearer reader than many a critic and acquisitions
+   editor—and that it has detected a “distinct set of subtle
+   signals” separating best-sellers from the rest of the bunch.
+   The authors acknowledge, but do not give much credit to, the
+   influence of reviews, splashy covers, big-name blurbs, and
+   marketing budgets; in their scheme of success, postproduction
+   doesn’t matter—the things that really make a book a best-seller
+   are already embedded within the text.
+
+   That logic seems narrow, but not tremendously
+   controversial—and, while it’s interesting to see the data of
+   aggregated attraction, the conclusions that can be drawn from
+   the data are much less subtle than Archer and Jockers seem to
+   think. Readers, we learn, want a colloquial style, a decisive
+   main character, a fast-moving, rhythmic plot. In a section on
+   topic and theme, Archer and Jockers explain that people like to
+   read books with a small set of central topics, and that it’s
+   good if those topics are familiar and if they contrast with
+   each other in an interesting way—crime and domesticity in “Gone
+   Girl,” for instance. Later in that section, after half a page
+   of dramatic buildup, they identify the topic most predictive of
+   a best-seller: “human closeness and human connection.”
+
+   At times, it seems like Archer and Jockers are trying to
+   retrofit a closed system. They found that best-sellers have
+   lots of contractions—the better, they explain, to mimic
+   contemporary speech—and exclamation points only rarely.
+   “Top-selling authors know that there is nothing more annoying
+   than something like ‘It was getting dark! The stairs creaked!
+   Maybe there was a ghost!’ ” they write. They conclude that
+   best-sellers consist of “shorter, cleaner sentences, without
+   unneeded words,” and that best-selling characters “make things
+   happen.” Active verbs predict best-sellers better than passive
+   verbs. “Hesitation doesn’t keep pages turning,” Archer and
+   Jockers decide. After all that work, in other words, the
+   algorithm ends up confirming the uncontested tenets of craft
+   and style.
+
+   Nonetheless, there’s an awkward charm in watching an algorithm
+   discern the things that humans appreciate instinctively. In a
+   section about syntax, Archer and Jockers point to “Reader, I
+   married him,” Charlotte Brontë’s famous line. “Isn’t the entire
+   point of so many stories to get that ‘I’ and that ‘him’ closely
+   aligned, separated by an all-important verb like ‘married’?”
+   they write. “So often, this is entirely why we keep turning the
+   pages.”
+
+   A best-seller code, packaged and licensed to wannabe authors
+   and ambitious/avaricious/or some such publishing houses, could
+   be very useful. I, for one, would rather pay a program to
+   analyze my plotting rhythm than sit through the average
+   creative-writing workshop. It’s appealing to imagine that
+   Archer and Jockers have built an intelligent catalogue of the
+   American reader’s taste and will—a machine reader that would
+   never have an off day, or take a pass on the next John Grisham,
+   or care too much about a fetching head shot, or discriminate by
+   age or race or weight. The algorithm, Archer and Jockers write,
+   could keep the publishing industry “not just running but
+   diverse.”
+
+   Similar attempts to introduce algorithmic judgment have been
+   made in [37]contemporary pop music, a genre where best-selling
+   stylometrics are clearer, are mathematically transcribable, and
+   have been [38]central for some time. There’s a nearly fixed
+   structure in pop music, and a best-selling chord progression,
+   I-V-vi-IV. (That’s the cathartic loop you find in Toto’s
+   “Africa,” Miley Cyrus’s “Party in the USA,” and the Beatles’
+   “Let It Be.”) Top Forty radio tends to average out at around a
+   hundred and twenty beats per minute; hit songs last between
+   three and four minutes; the list goes on.
+
+
+   Because math in music is clearer, attempts to capitalize on it
+   have moved further along. In 2009, a company called Music
+   Intelligence Solutions released commercial software, called
+   uPlaya, that allowed musicians to upload a track and receive,
+   via proprietary “Hit Song Science,” a catchiness score. Here,
+   one sees the limits to algorithmic judgment in the fact that,
+   for example, uPlaya gave an 8.9 (on a scale of 10) to the
+   commercially successful and powerfully irksome “I Got a
+   Feeling,” by the Black Eyed Peas. That track’s chord
+   progression would test well; a program could match it up with
+   Fall Out Boy’s “Sugar We’re Going Down” and the verses of
+   Taylor Swift’s “Fifteen.” It clocks in at a hundred and
+   twenty-eight beats per minute and generally hews to the math.
+   But there’s nothing communicated by that 8.9 that a person with
+   the most rudimentary musical knowledge can’t hear immediately;
+   what’s more, only a human listener would hear that “I Got a
+   Feeling,” with every replay, grates increasingly on the ears.
+   When the data are reliable, an algorithm may be able to predict
+   success, but it can’t tell you what’s good. In any case,
+   nothing of note happened with uPlaya: the last post on its
+   Facebook page reads, “It looks like the music industry is not
+   as bleak as predicted,” and is dated January 30, 2012.
+
+   At the beginning of “The Bestseller Code,” Archer and Jockers
+   concede the algorithm’s limits. “Our belief,” they write,
+   “while it may be irritating and old-fashioned, is still that if
+   you want to be a bestselling writer then first you have to
+   learn and really appreciate fiction with as many tools as you
+   can.” That belief may be old-fashioned, but it’s not
+   irritating. It does, though, threaten the utility of a code:
+   once you’ve done that learning, you don’t need an algorithm to
+   confirm it.
+
+   [tolentino-jia-1.svg]
+
+   Jia Tolentino is a contributing writer for newyorker.com.
+
+
+      More:
+
+
+
+
+      Sign up for the daily newsletter: The best of The New Yorker every
+      day.
+
+   Enter e-mail address ____________________ (BUTTON) Go
+
+   Please enter a valid e-mail address
+
+   Submitting...
+
+   Thank you for subscribing. You’ll receive your first newsletter
+   soon. [42]View all newsletters »
+
+
+

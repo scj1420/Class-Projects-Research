@@ -1,0 +1,125 @@
+[15]data-slider.jpg
+
+
+   Image credits:
+
+   [16]Mclek via Shutterstock
+
+
+   [17]Technology
+
+
+   Friday, April 29, 2016 - 15:30
+
+   Vikram Jandhyala & Nitin Baliga, Guest Contributors
+   [icon-facebook-3.png] [icon-twitter-3.png] [icon-reddit.jpg]
+   [icon-email-3.jpg] [icon-print-5.png]
+
+   Inside Science Minds presents an ongoing series of guest
+   columnists and personal perspectives presented by scientists,
+   engineers, mathematicians, and others in the science community
+   showcasing some of the most interesting ideas in science
+   today. The opinions contained in this piece are those of the
+   authors and do not necessarily reflect those of Inside Science
+   nor the American Institute of Physics and its Member Societies.
+   _______________________________________________________________
+
+   (Inside Science Minds) -- We recently met with a host of
+   biotechnology leaders and were struck by their infatuation with
+   Big Data and machine learning. In fact, upon reflection, it was
+   amazing how often the word "algorithm" came up in the course of
+   our conversations with these accomplished scientists.
+
+   Don't get us wrong. The boom in software and computing has
+   achieved powerful and profound results in our society. And,
+   yes, the world is a better place, thanks to data analytics.
+
+   But we need to slow down and regain our perspective, because
+   Big Data and machine learning are absolutely not ends unto
+   themselves, and they certainly aren't a replacement for basic
+   scientific research and exploration.
+
+   Part of the issue is that Big Data and machine learning make
+   scientific problem-solving look easy -- and, sometimes, even
+   magical. This appeals to our need for instant gratification in
+   an impatient world that, too often, seems to view apps, rather
+   than test tubes, as the smoothest and best way to achieve
+   progress.
+
+   But this is a misconception that distorts our expectations and
+   allows people to draw conclusions that aren't supported by
+   evidence. Even worse, the current love affair with Big Data and
+   machine learning, which simply identifies patterns, propagates
+   a false perception that scientific rigor isn't really required
+   and human knowledge isn't really relevant.
+
+   So, if there are any doubts, we want to say it loud and say it
+   proud -- science is (and must remain) alive and well. The hard,
+   laborious and painstaking work in the lab has to continue so
+   that we can understand how nature operates; so that we can
+   discover and expand into new knowledge areas; so that we can
+   keep asking "Why" during the scientific inquiry and
+   experimentation process; and so that we can build new systems
+   models that are needed to address and confront some of the most
+   critical issues that people on just about every continent
+   currently face.
+
+   The career implications here are quite evident. It's much
+   easier to gain access to a computer, generate large amounts of
+   data and then build an algorithm as opposed to hunkering down
+   in the lab over an extended period of time, asking probing
+   questions, developing hypotheses and testing those
+   suppositions.
+
+   It could also be argued that the appeal and attraction of Big
+   Data and machine learning has engendered complacency. Sure,
+   algorithms generate lots of quick hits; but we have to ask
+   about the depth and richness of these insights, and whether the
+   flood of patterns they're based on actually obstructs our
+   underlying knowledge. Put another way, Big Data and machine
+   learning offer up correlations and matches while science tries
+   to deal in causality and mechanistic underpinnings.
+
+   We're not arguing in either/or terms. Indeed, in a more
+   perfect world, we'd see a greater blend and balance between Big
+   Data, machine learning and science. That means taking patterns
+   and hypotheses about cause and effect and designing thoughtful,
+   statistically powered, and fully dimensional experiments that
+   test for the natural truth.
+
+   Part of the solution here is cross-disciplinary training, so
+   that data experts can better understand scientists and vice
+   versa. And, in terms of curriculum, we also need a co-mingling
+   of disciplines in order to achieve the best knowledge outcomes.
+
+   The key question is what happens if we don't find the right
+   blend and balance between Big Data, machine learning and solid
+   scientific study and discovery. First, we'll probably see a
+   growing number of talented but frustrated scientists, which
+   doesn't bode well for our innovative future; we could see
+   funding for basic science soften; for its part, Big Data will
+   miss out on a chance to play a truly meaningful role in
+   society's problem-solving process; and, perhaps most
+   importantly, the hard science of building and breaking things
+   in the name of knowledge and well-being will be significantly
+   diminished.
+
+   The bottom line is that we can't afford to let Big Data and
+   machine learning eclipse science; and, on the other side of the
+   fence, science can’t afford to shun Big Data and machine
+   learning if it wants to continue solving the toughest problems
+   for this generation and the ones that will follow.
+
+   At the end of the day, we need to keep in mind that some of
+   these problems are so intricate and tangled that we'll need
+   healthy doses of both observation and evidence in order to
+   unravel them. We must also remember that correlation does not
+   imply causality, and causality is necessary to get at
+   mechanistic underpinnings of a problem upon which solutions can
+   be built. And, finally, let's not lose sight of the fact that
+   machine learning finds patterns and looks at the "what." But it
+   does not examine the "why," which represents critical knowledge
+   in an age of growing complexity and confusion.
+     __________________________________________________________
+
+

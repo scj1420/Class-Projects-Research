@@ -1,0 +1,192 @@
+Will A.I. Harm Us? Better to Ask How We'll Reckon With Our Hybrid
+Nature
+
+   Posted By David Krakauer on Sep 06, 2016
+
+
+      mailto:?subject=Nautilus: Will A.I. Harm Us? Better to Ask How We'll Reckon With Our Hybrid Nature&body=I saw this blog post on Nautil.us and wanted to share it with you.
+
+
+
+
+
+
+   Photo by Ars Electronica / Flickr
+
+   Little Lewis, my son, I see some evidence that you have the
+   ability to learn science, number and proportions, and I
+   recognize your special desire to learn about the astrolabe…
+
+   — Chaucer’s Astrolabe Treatise, 1391.
+   [65][12139_c5c548e462f63499be7e59ff9f3d8e40.png]
+
+
+   At what point did we create an artificial intelligence? Was it
+   when we first chiseled on rocks the memory of our debts? Was it
+   that point when we enhanced reasoning by exploring
+   possibilities in the arena of a game? Or when we solved a
+   problem of inference beyond our merely fleshy ability to
+   calculate? The dream of a fully autonomous artificial
+   intelligence, stuff of infinite science-fiction
+   prognostication, has blinded us to the incremental nature of
+   artificial intelligence. The deep intellectual and ethical
+   question facing our species is not how we’ll prevent an
+   artificial superintelligence from harming us, but how we will
+   reckon with our hybrid nature.
+
+   This dual nature of ours has been evident for centuries. In the
+   14th century, Chaucer, author of The Canterbury Tales, prepared
+   a treatise for his son in which he set out in meticulous detail
+   the operations of an astronomical machine—the
+   astrolabe—designed to assist in the identification of planets
+   and stars and provide a calendar of their motions. The
+   astrolabe was in effect an artificial astronomer, a mechanical
+   expert that mariners carried on voyages in lieu of libraries,
+   charts, and mathematicians.
+
+   The astrolabe captures three properties essential to what
+   Donald Norman, the director of the Design Lab at the University
+   of California, San Diego, has described as “cognitive
+   artifacts”—a store of memory, a mechanism for search, and an
+   instrument of calculation. The use of physical objects and
+   machines as “amplifiers” or “trainers” of cognition has, in
+   fact, a long and celebrated history. In her magisterial study
+   of memory in antiquity, The Art of Memory, Frances Yates
+   describes the tale of Simonides of Ceos who once used the
+   positions of seats around a table to recall the identities of a
+   dinner party crushed by a falling roof. Yates dispassionately
+   concludes, “Orderly arrangement is essential for good memory.”
+
+   Orderly arrangements need not be purely physical—acronyms,
+   rhymes, and imagery are all methods for expanding recall. As
+   David Rubin observes in his monograph, Memory in Oral
+   Traditions, “In Homer, the sea is always wine dark, the dawn,
+   rosy fingered.” And when the material is too vast to memorize,
+   we rely on lists, indices, bibliographies, catalogs,
+   etymologies, bestiaries, dictionaries, encyclopedias,
+   concordances, and guide books—a whole “Gutenberg galaxy” as it
+   were, of stored information.
+
+   Mechanisms of search represent another level of sophistication
+   beyond memory. A chessboard, for instance, is a virtual search
+   engine—it not only encodes through an outsourced working memory
+   the positions of pieces; the 64 elements of the grid also
+   provide a mental scaffold for plotting out possible futures.
+   But strategic maps are perhaps the best understood ancient
+   search engines for constructing [66]tactical sorties in the
+   field of battle. Napoleon, considered by many historians one of
+   Europe’s greatest military strategists, made extensive use of
+   maps to arrive at new troop formations. Napoleon’s strategy of
+   the “central position” was topographically conceived in order
+   to defeat detachments of enemy forces. So important were
+   Napoleon’s combinatorial innovations that, for many years,
+   students at West Point were required to learn French in order
+   to experience his insights firsthand.
+
+
+   Calculation, though, is perhaps the omega-point property of
+   cognitive artifacts. Mathematical tools from the tally stick to
+   arithmetic rope, the protractor to the compass, and the slide
+   rule to the abacus, all enhance our unassisted aptitude for
+   calculation. By engineering precise constraints, each of these
+   machines can, like the astrolabe, ensure that through a
+   sequence of stereotyped actions (an algorithm), we arrive at
+   the correct answer to a simple question. And computers—from the
+   analytical engine to the differential analyzer, through to our
+   contemporary zoo of digital universal Turing machines—provide
+   the essentially ambient analytical matrix of modern society.
+
+   In every one of these cases an artificial element has been
+   introduced to our intelligence. They’re certainly amplifiers,
+   but in many cases they’re much, much more. They’re also
+   teachers and coaches. In almost every use of an ancient
+   cognitive artifact, after repeated practice and training, the
+   artifact itself could be set aside and its mental simulacrum
+   deployed in its place.
+
+     In every one of these cases an artificial element has been
+     introduced to our intelligence.
+
+   I call these machines complementary cognitive artifacts. Expert
+   users of the abacus are not users of the physical abacus—they
+   use a mental model in their brain. And expert users of slide
+   rules can cast the ruler aside having internalized its
+   mechanics. Cartographers memorize maps, and Edwin Hutchins has
+   shown us how expert navigators form near symbiotic
+   relationships with their analog instruments.
+
+   So our upper Paleolithic lineage has always possessed
+   artificial intelligence to the extent our ancestors have been
+   aided in this way. In modern life, mobile devices and their
+   apps—to-do apps, calendar apps, journaling apps, astronomy
+   apps, game apps, social apps, and on near infinitum—just
+   recapitulate the three essential elements of the astrolabe:
+   memory, search, and calculation.
+
+   Compare these complementary cognitive artifacts to competitive
+   cognitive artifacts like the mechanical calculator, the global
+   positioning systems in our cars and phones, and machine
+   learning systems powering our App ecosystem. In each of these
+   examples our effective intelligence is amplified, but not in
+   the way of complementary artifacts. In the case of competitive
+   artifacts, when we are deprived of their use, we are no better
+   than when we started. They are not coaches and teachers—they
+   are serfs. We have created an artificial serf economy where
+   incremental and competitive artificial intelligence both
+   amplifies our productivity and threatens to diminish organic
+   and complementary artificial intelligence, and the ethics of
+   [67]this sort of mechanical labor are only now [68]engaging the
+   attention of practitioners and policy makers.
+
+
+   We are in the middle of a battle of artificial intelligences.
+   It is not HAL, an autonomous intelligence and a perfected mind,
+   that I fear but an aggressive App, imperfect and partial, that
+   diminishes autonomy. It is prosthetic integration with the
+   latter—as in the case of a GPS App that assumes the role of the
+   navigational sense, or a health tracker that takes over
+   decision-making when it comes to choosing items from a
+   menu—that concerns me. The writer William Gibson has said that
+   the future is here—it’s just not evenly distributed. But the
+   future, in the form of aggressive Apps, is nearly everywhere.
+
+     It is not HAL, an autonomous intelligence and a perfected
+     mind, that I fear but an aggressive App.
+
+   In Homer’s The Odyssey, Odysseus’ ship finds shelter from a
+   storm on the land of the lotus eaters. Some crew members go
+   ashore and eat the honey-sweet lotus, “which was so delicious
+   that those left off caring about home, and did not even want to
+   go back and say what happened to them.” Although the crewmen
+   wept bitterly, Odysseus reports, “I forced them back to the
+   ships…Then I told the rest to go on board at once, lest any of
+   them should taste of the lotus and leave off wanting to get
+   home.”
+
+   In our own times, it is the seductive taste of the algorithmic
+   recommender system that saps our ability to explore options and
+   exercise judgment. If we don’t exercise the wise counsel of
+   Odysseus, our future won’t be the dystopia of Terminator but
+   the pathetic death of the Lotus Eaters.
+
+   We must ask: What kind of artificial intelligence do we wish to
+   become?
+   Get the Nautilus newsletter
+
+   The newest and most popular articles delivered right to your
+   inbox!
+   ____________________
+   ____________________
+   Subscribe
+
+   ____________________
+
+   David Krakauer is President of the Santa Fe Institute and
+   William H. Miller Professor of Complex Systems.
+
+   The lead photograph is courtesy of Ars Electronica via Flickr.
+
+   Will A.I. Harm Us? Better to Ask How We'll Reckon With Our
+   Hybrid Nature
+
+

@@ -1,0 +1,137 @@
+Can You Figure Out How To Beat Roger Federer At Wimbledon?
+
+   Edited by Oliver Roeder
+
+   Filed under [15]The Riddler
+
+
+
+
+
+   C.Y. PARK
+
+   Welcome to The Riddler. Every week, I offer up a problem
+   related to the things we hold dear around here: math, logic and
+   probability. These problems, puzzles and riddles come from lots
+   of top-notch puzzle folks around the world — including you!
+   You’ll find this week’s puzzle below.
+
+   Mull it over on your commute, dissect it on your lunch break,
+   and argue about it with your friends and lovers. When you’re
+   ready, submit your answer using the link below. I’ll reveal the
+   solution next week, and a correct submission (chosen at random)
+   will earn a shoutout in this column. Important small print: To
+   be eligible, I need to receive your correct answer before 11:59
+   p.m. EDT on Sunday — have a great weekend!
+
+   Before we get to the new puzzle, let’s return to [19]last
+   week’s. Congratulations to 👏 Adam Kalinich 👏 of Glen Ellyn,
+   Illinois, our big winner. You can find a solution to the
+   previous Riddler at the bottom of this post.
+
+
+   Now here’s this week’s Riddler, a centre court tennis puzzle
+   that comes to us from Ted LeMoine, a professional poker player
+   from Medford, Massachusetts.
+     __________________________________________________________
+
+   Your wish has been granted, and you get to play tennis against
+   Roger Federer in his prime in the Wimbledon final. You have
+   only a 1 percent chance to win each point, but Roger, sporting
+   gentleman that he is, offers to let you name any score and
+   begin the match at that point. (So, if you’ve entertained a
+   fantasy of storming back after being down three match points in
+   the fifth set, now’s the time to live it.) What score can you
+   name that gives you the best chance to win, and what is your
+   chance of winning the title?
+
+   Extra credit: It’s been a while, so let’s offer up a 🏆 Coolest
+   Riddler Extension Award 🏆. Improve your tennis skills, make
+   more realistic assumptions (about serving, etc.), or something
+   even more creative. The winner gets a shiny emoji trophy next
+   week.
+
+   [20]Submit your answer
+   Need a hint? You can try [21]asking me nicely. Want to submit a
+   new puzzle or problem? [22]Email me.
+     __________________________________________________________
+
+     [22] mailto:oliver.roeder@fivethirtyeight.com
+
+   And here’s the answer to [23]last week’s Riddler, concerning a
+   robot that slices your pizza, randomly and independently
+   chooses two points on the pie’s circumference, and then slices
+   along the chord connecting them. If you ask the robot to make
+   three such cuts, you can expect your pizza to have five pieces,
+   on average.
+
+
+   The key thing to notice for this problem is that the only thing
+   that matters is the order of the points around the circle
+   selected by the robot — the points’ exact positions within that
+   order don’t matter at all. (Their positions will affect the
+   slice sizes, but here we only care about the number of slices.)
+
+   Think about it this way: First, picture six random points
+   around your circular pizza pie. Pick any one point to start
+   with, then randomly choose one of the remaining five, and slice
+   between them. Now pick another point to start with, and pair it
+   randomly with one of the three remaining points, and slice
+   between those. Finally, there are only two points left, so you
+   slice between those. That’s 15 possibilities. Five of these
+   yield four pieces, six yield five pieces, three yield six
+   pieces and one yields seven pieces. Here is [24]an illustration
+   of the possible arrangements and their slice counts, from
+   Laurent Lessard:
+   lessardpizza
+
+
+   Thanks to the way the robot randomizes its cuts, each scenario
+   above occurs with equal probability. Therefore, the average
+   number of pieces is (5*4+6*5+3*6+1*7)/15 = 75/15 = 5.
+
+   (Note also that there are some weird possibilities we didn’t
+   consider, like the robot choosing the exactly same chord twice,
+   or all three chords intersecting at one point, like how you’d
+   normally try to slice a pizza. However, these happen with
+   probability zero, so don’t factor into our calculation of the
+   expectation.)
+
+   For the more engineering-minded Riddler solvers, Gabe
+   Pezanoski-Cohen put together a little [25]pizza robot simulator
+   that can make any number of cuts. There is also an elegant
+   generalized solution: If the robot makes k random cuts, the
+   expected number of slices is (k+2)(k+3)/6. As the puzzle’s
+   contributor Zach Wissner-Gross explains, this can be shown by
+   induction: If the expected number of pieces resulting from k
+   cuts is E(k), then the expected number of pieces for k+1 cuts
+   is E(k+1)=E(k)+1+k/3. Why? Slicing along a new random chord
+   will always add one slice, and the new chord has a one-third
+   chance of intersecting each of the already sliced chords.
+   Combining that with the fact that one cut gives two pieces, or
+   E(1)=2, we [26]arrive at the generalized solution. Mmm, pizza.
+
+
+   And elsewhere in the puzzling world:
+
+       Times]
+
+       Guardian]
+
+
+       mathematics PhD student, relays his three favorite math
+       puzzles. [[31]The Players’ Tribune]
+
+
+   Have a splendid weekend!
+
+   Oliver Roeder is a senior writer for FiveThirtyEight.
+   [32]@ollie
+
+
+   Filed under
+
+   [33]The Riddler (76 posts)
+
+
+

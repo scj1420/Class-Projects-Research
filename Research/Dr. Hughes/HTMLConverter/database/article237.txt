@@ -1,0 +1,156 @@
+How High Can Count Von Count Count?
+
+   Edited by Oliver Roeder
+
+   Filed under [15]The Riddler
+
+
+
+
+
+   Illustration by Guillaume Kurkdjian
+
+   Welcome to The Riddler. Every week, I offer up a problem
+   related to the things we hold dear around here: math, logic and
+   probability. These problems, puzzles and riddles come from many
+   top-notch puzzle folks around the world — including you!
+
+   Some Riddler Nation news! Starting today, we’re going to offer
+   up the occasional Riddler Express problem. These will be
+   bite-size puzzles that don’t take as much fancy math or
+   computational power to solve. For those of you in the
+   slow-puzzle movement, worry not — we’ll still feature our
+   classic, more challenging Riddler. And for those of you who
+   have found that Riddler to be a bit too challenging, hopefully
+   Riddler Express is more your style.
+
+   You can mull both over on your commute, dissect them on your
+   lunch break and argue about them with your friends and lovers.
+   When you’re ready, submit your answer(s) using the links below.
+   I’ll reveal the solutions next week, and a correct submission
+   (chosen at random) will earn a shoutout in this column.[19]^1
+
+   Before we get to the new puzzles (plural!), let’s reveal the
+   winner of [20]last week’s. Congratulations to 👏 Mark Canning 👏
+   of Santa Clara, California, our big winner. You can find a
+   solution to the previous Riddler at the bottom of this post.
+     __________________________________________________________
+
+
+   But first, the inaugural Riddler Express! This one comes from
+   Kevin Huigens:
+
+   Count Von Count, the counting count on “Sesame Street,” counts
+   aloud [21]on Twitter. If he counts up by one with each tweet —
+   “One!” “Two!” “Three!” … “Five hundred thirty eight!” etc. —
+   how high can he go before hitting the 140-character limit?
+   Note: The count is enthusiastic and must end all of his tweets
+   with an exclamation point.
+
+
+   [22]Submit your answer
+   As always, if you need a hint you can try [23]asking me nicely.
+   Want to submit a new Riddler Express puzzle or problem?
+   [24]Email me.
+     __________________________________________________________
+
+     [24] mailto:oliver.roeder@fivethirtyeight.com
+
+   And now, for Riddler Classic, a puzzle from Stephen Penrice:
+
+   You are one of 30 team owners in a professional sports league.
+   In the past, your league set the order for its annual draft
+   using the teams’ records from the previous season — the team
+   with the worst record got the first draft pick, the team with
+   the second-worst record got the next pick, and so on. However,
+   due to concerns about teams intentionally losing games to
+   improve their picks, the league adopts a modified system. This
+   year, each team tosses a coin. All the teams that call their
+   coin toss correctly go into Group A, and the teams that lost
+   the toss go into Group B. All the Group A teams pick before all
+   the Group B teams; within each group, picks are ordered in the
+   traditional way, from worst record to best. If your team would
+   have picked 10th in the old system, what is your expected draft
+   position under the new system?
+
+   Extra credit: Suppose each team is randomly assigned to one of
+   T groups where all the teams in Group 1 pick, then all the
+   teams in Group 2, and so on. (The coin-flipping scenario above
+   is the case where T = 2.) What is the expected draft position
+   of the team with the Nth-best record?
+
+   [25]Submit your answer
+
+
+   As always, if you need a hint you can try [26]asking me nicely.
+   Want to submit a new Riddler? [27]Email me.
+     __________________________________________________________
+
+     [27] mailto:oliver.roeder@fivethirtyeight.com
+
+   And here’s the solution to [28]last week’s Riddler, concerning
+   some statisticians who find a $100 bill on the floor. If five
+   of them play a game where, each turn, the bill has to do one of
+   three things — move left, move right, or stay put (at which
+   point the game ends) — and each thing is equally likely to
+   happen, whoever starts with the bill has a 5/11 chance of
+   keeping it.
+
+
+   To get there, we can set up a system of equations. Let \(P_0\)
+   be the probability you win when the bill starts in front of
+   you, \(P_1\) be the probability if it starts one seat away, and
+   \(P_2\) be the probability if it starts two seats away. If you
+   start with the bill, for example, your chances of winning this
+   turn are 1/3 plus your chances of winning if the bill is one
+   seat away, which we can express mathematically like so:
+
+   $$P_0 = 1/3 + P_1/3 + P_1/3$$
+
+   Similarly for the other two possible positions:
+
+   $$P_1 = P_0/3 + P_2/3$$
+
+   $$P_2 = P_1/3 + P_2/3$$
+
+   Then we [29]solve that system algebraically, which gives
+   \(P_0=5/11\), \(P_1=2/11\) and \(P_2=1/11\).
+
+
+   For extra credit, I asked what the chances would be if there
+   were N statisticians in the department, rather than five. The
+   extra-credit solutions I received drew on all sorts of cool
+   approaches, from [30]simulations to [31]Fourier transforms to
+   [32]contour integrals.
+
+
+   The full solution from the puzzle’s submitter, Bruce Torrence,
+   will be published in a forthcoming issue of Mathematics
+   Magazine. But simply put, all this fancy math winds up in a
+   surprisingly beautiful place. For N players, the chances of
+   winning if you start with the $100 bill are
+
+   $$ P_0= \begin{cases} F_N / L_N & \text{if $N$ is odd}\\ L_N /
+   5F_N & \text{if $N$ is even}\end{cases}$$
+
+   Where \(F_N\) is the Nth [33]Fibonacci number, and \(L_N\) is
+   the Nth [34]Lucas number. The fifth Fibonacci number (not
+   counting zero) is 5, and the fifth Lucas number is 11,
+   recreating our 5/11 answer above. As the number of players
+   increases to infinity, the chances of winning if you start with
+   the bill converge to \(1/\sqrt{5}\).
+
+
+   Math!
+
+   Elsewhere in the puzzling world:
+
+
+       Journal]
+
+
+
+
+   Have a terrific weekend!
+
+

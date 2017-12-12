@@ -1,0 +1,100 @@
+The New Shape of DNA
+
+   Mark Bathe merges design and biology at the nanoscale
+
+   An assortment of DNA nanoparticle geometries designed by
+   DAEDALUS. Colors represent different classes of geometric
+   objects, including Platonic (blue), Johnson (green),
+   Archimedean (red), Catalan (yellow), and other (purple) complex
+   shapes. Image: Digizyme, Inc.
+
+   [12]Winter 2017
+
+
+   [13]Daniel Grushkin
+
+
+   Step into associate professor Mark Bathe’s lab in the
+   Department of Biological Engineering and you’ll find design and
+   biology merging at the nanoscale. Under an electron microscope
+   you might see a cornucopia of three-dimensional
+   shapes—icosahedra, pyramids, and stars—all assembled from
+   synthetic strands of DNA. “There’s no other molecular medium we
+   can design and fabricate with such a versatility of geometries
+   and precision at the nanoscale as DNA,” says Bathe ’98, SM ’01,
+   PhD ’04.
+
+   And Bathe has added to that versatility: with graduate student
+   Sakul Ratanalert, he recently developed software called
+   DAEDALUS, which captures the complex rules of DNA construction
+   in an algorithm that makes three-dimensional DNA design easier
+   and more accessible to a wide range of scientists and
+   engineers.
+
+   Most people think of the spiraling set of nucleic acids purely
+   as the code of life. The strings of As, Ts, Cs, and Gs
+   (adenine, thymine, cytosine, and guanine) in cells provide the
+   blueprint for how living things behave and reproduce. And for
+   nearly half a century bioengineers have creatively manipulated
+   those sequences to change the way organisms function—breeding
+   new pest-resistant plants, for example, or microbes that
+   ferment medicines and chemicals.
+
+   But the double helix of DNA also possesses unique
+   characteristics as a nano-building material. In 2006, Caltech
+   researcher Paul Rothemund discovered that if he synthesized DNA
+   letters in specific sequences, the molecular bonds that glue
+   the As to Ts and Cs to Gs, and which come undone when DNA
+   replicates, could be used to fold the DNA into two- and
+   three-dimensional shapes. With a nod to both the precision and
+   elegance of the technique, scientists dubbed it “DNA origami.”
+
+   The beauty of DNA origami is that once the components are
+   collected, all it takes is a little shake and some Brownian
+   motion—the random movement of particles in fluid—for these
+   shapes to assemble themselves. The system uses a single long
+   strand of DNA as scaffolding on which to stick smaller strings
+   of letters. The DNA conforms to the shape as the letters bond
+   to each other.
+
+     The beauty of DNA origami is that once the components are
+     collected, all it takes is a little shake and some Brownian
+     motion—the random movement of particles in fluid—for these
+     shapes to assemble themselves.
+
+   But the rules for designing DNA origami are difficult, if not
+   arcane, and lining up nucleotides to fold into corresponding
+   3-D shapes can tax even the most brilliant minds. “It’s been
+   limited to a small group of experts,” Bathe says. His software
+   is changing that.
+
+   Rather than manually fiddling with sequences of nucleotides,
+   DAEDALUS users design the target geometric structures they
+   want, and the algorithm generates the corresponding nucleotide
+   sequences to make them. “You give the software a high-level
+   geometric shape, and then it will automatically produce that
+   shape using DNA,” Bathe says.
+
+   In a sense, Bathe himself may be a perfect researcher for
+   exploring how these geometries translate across scales. He’s
+   part of an MIT legacy—the son of longtime engineering faculty
+   member Klaus-Jürgen Bathe. Like his father, the younger Bathe
+   earned his PhD in mechanical engineering; but from childhood,
+   his interests skewed towards biology and medicine. “I’ve always
+   wanted to build technologies that impact human health, more
+   than cars or bridges, like my father,” he says. With DAEDALUS,
+   Bathe has built a bridge of another kind, connecting designers
+   of many disciplines with the tools of molecular biology.
+
+   Bathe is now working to harness his DNA nanoshapes to deliver
+   drugs inside the body. Taking a cue from viruses that attach to
+   cells to infect them, Bathe hopes to design a variety of DNA
+   structures that deliver payloads of antibodies or even
+   gene-editing enzymes such as Cas9 to diseased cells within the
+   body. “The holy grail would be to edit the brain for treatment
+   of diseases such as autism or schizophrenia, or cancer cells in
+   malignant tumors,” Bathe says.
+   [14][bathe-400x300.jpg]
+
+
+

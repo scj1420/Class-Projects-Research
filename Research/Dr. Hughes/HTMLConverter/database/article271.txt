@@ -1,0 +1,205 @@
+On eliminating lectures, a reality-check: Part 3
+
+   Robert Talbert bio photo By Robert Talbert July 25, 2016
+   [10]Comment [11]Tweet [12]Like [13]+1
+
+
+   That [14]essay titled “Should Colleges Really Eliminate the
+   College Lecture?” that appeared in The Atlantic has, so far as
+   I have seen, received mostly a well-deserved blanket of
+   criticism about most of its main points. This is as it should
+   be. I’ve written two pieces so far on this essay — [15]here is
+   part 1 and [16]here is part 2 — mostly focusing on
+   fact-checking the article, correcting its use of definitions,
+   and disentangling some of its more disreputable rhetorical
+   devices. This essay is rapidly becoming old news, which is also
+   as it should be, so I don’t want to spend much more time on
+   this; here I just want to poke a few holes in the main point of
+   the article.
+
+
+   What is that main point, you ask? It’s not the question in the
+   headline, first of all. We established in part 1 that there is
+   no grand conspiracy among colleges to “eliminate” lecturing,
+   and the very examples pulled in to support this claim actually
+   refute it. Instead, the main thrust of the article has to do
+   with how well instructors in colleges are trained in lecturing.
+   The central question the article asks is:
+
+     But is it the college lecture itself that’s the problem — or
+     the lecturer?
+
+   Which is amplified in a following paragraph:
+
+     [A]lthough proponents of the movement to move away from the
+     lecture [17]cite data on its ineffectiveness, the debate has
+     failed to take into account the fact that academics are
+     [18]rarely, if ever, formally trained in public speaking.
+
+
+   This claim is just really strange. We have all this evidence
+   stacking up from years of research on pedagogy, a mountain of
+   evidence that active learning is better for students, and the
+   thing to focus on is training in public speaking? To me this
+   seems like looking at study after study of diets composed
+   entirely of fast food versus diets with a balance of proteins
+   and vegetables, and study after study shows evidence that fast
+   food is far more harmful to the human body than the protein and
+   vegetable diet — and then criticizing the studies because it
+   doesn’t take the training of the fast food worker into account.
+   Because, you know, fast food workers are rarely formally
+   trained in the culinary arts. And if they were, and those
+   dietary studies looked at only the burger-flippers and
+   french-fry-makers with real training, then maybe the research
+   would tell a much different story, it is claimed.
+
+   Snarkiness aside, I don’t think there is any doubt that
+   “academics are rarely formally trained in public speaking”. I
+   also don’t think there is any doubt that if you were to receive
+   formal training in public speaking, that you would get better
+   at public speaking including classroom lecturing. Right? That’s
+   how “training” is supposed to work. By the way: What would the
+   author of the Atlantic piece say is the best way to receive
+   this training? By hearing someone lecture about public
+   speaking? Because after all, that would be the most efficient
+   way to convey information about the subject. But I digress.
+
+   So it seems that what the author is actually claiming here,
+   although it’s between the lines, is that the research on active
+   learning doesn’t control for the quality of the lecture (which
+   training would improve), and implicit is the claim that if
+   those studies did control for quality, we might see a different
+   picture emerge. Not to put words in the author’s mouth, but
+   this is the only context in which the lengthy digression on
+   training in public speaking found in the article has any
+   pertinence to the research on active learning and the supposed
+   elimination of lecture. (Which isn’t happening.)
+
+   It’s perfectly good scholarship to question the methodology of
+   the research and think about confounding variables. So let’s do
+   that.
+
+   In the process of writing my upcoming book on flipped learning,
+   I’ve gotten the chance to do quite a deep dive into the
+   literature on active learning in general, not just the classics
+   like the [19]PNAS study or the [20]Hake “6000 student” study
+   but many of the smaller, lesser known studies in between. And I
+   can say: The author of the Atlantic piece has a point here.
+   Most of the studies I’ve read indeed do not control for
+   “quality” of instruction. They tend only to examine one form of
+   instruction versus another.
+
+
+   However, it turns out there are at least a couple of good
+   reasons for this.
+
+   First: Early studies on active learning that did control for
+   lecture “quality” found even the best lectures still had little
+   to no effect on student understanding or learning. Take for
+   example [21]this early study (from 1980) on student
+   preconceptions in introductory mechanics. This was one of the
+   studies that eventually led to the invention of peer
+   instruction. It showed that even after taking an entire
+   university-level course on introductory mechanics, the
+   preconceptions of students had about mechanics were basically
+   unchanged from the beginning of the course. The course was
+   taught entirely via lecture, and importantly:
+
+
+     The teacher of the course has received consistently high
+     praise in written evaluations from students for his clarity
+     of presentation, helpfulness, and genuine interest in
+     teaching.
+
+   It doesn’t say what kind of training that teacher had, nor does
+   it really matter. This was a skilled lecturer who no doubt made
+   things interesting, even inspiring, and students liked both him
+   and his teaching. And they walked away from a semester with
+   this teacher with virtually the same understanding of physics
+   as they did when they walked in the door on day 1.
+
+   [22]Another more recent study from 2011 studied student
+   learning from two instructional approaches — one using pure
+   lecture, the other using a variety of non-lecture,
+   research-based practices. Note:
+
+
+     The control group was lectured by a motivated faculty member
+     with high student evaluations and many years of experience
+     teaching this course. The experimental group was taught by a
+     postdoctoral fellow using instruction based on research on
+     learning.
+
+   So, not only was the lecturer giving high-quality lectures, the
+   control group instructor was just a postdoctoral student with
+   presumably very little training or experience in any kind of
+   teaching at all. If the claim in The Atlantic is right, then we
+   ought to see at least a “tie” here, with students in both
+   groups doing equally well — the experience and skill of the
+   excellent lecturer providing at least as much educational value
+   as the active learning techniques provided by the instructor
+   with far less experience and far less of a track record.
+
+   But of course, that’s not how it worked out. The performance of
+   students (measured using the Force Concept Inventory) was
+   crazily better in the experimental group than the control
+   group, as you can see for yourself when you read the paper.
+
+   I won’t try to be exhaustive here, but suffice to say that
+   there are a lot more of these studies where the lecture person
+   in the control group was an enthusiastic, skilled lecturer —
+   often with multiple teaching awards — and probably someone who
+   genuinely liked teaching and cared about students. And yet, it
+   ends up making no difference. Active learning wins. So of
+   course studies don’t tend to control for “lecture quality”;
+   even if we could operationalize what that means, it’s never
+   made a difference in the past and so there’s no point in
+   controlling for it now.
+
+   Second: The studies that show active learning as being superior
+   to pure lecture don’t control for the quality of the active
+   learning, either. It is possible to implement active learning
+   poorly in your classes. And no doubt, the active learning
+   practitioners in these studies must have had good days and bad
+   days, just like everybody else. And yet… even with the totality
+   of a semester’s worth of instruction, both good and bad, taken
+   into account, the results say what they say: Active learning
+   wins.
+
+   I think this is a critically important point for those of us
+   who don’t wish to stake their careers on having to be a
+   consistently great lecturer every single day. If the only
+   reliable way for student to learn in a lecture is for me to be
+   a great orator every time I step up to the podium, then I for
+   one have zero interest in lecturing. Because I am not a great
+   orator: I am a human being. Some days I can give great
+   lectures. Other days I’m not feeling well; or I’m sleep
+   deprived from being up half the night because of a sick kid; or
+   I’m distracted by something; or maybe I am just not inspired
+   myself by the material.
+
+   Our students need a learning environment that is supported by
+   an instructor but which does not depend on the instructor
+   bringing his or her “A” game to every class meeting. This is
+   what active learning provides. It is what lecturing most
+   definitely does not provide, and “more training” won’t change
+   this.
+
+   I have one more part in mind for this response, to address some
+   of the wild and crazy claims about flipped learning that take
+   place later in the article. At this point I’m not so much
+   responding to the article as I am to those claims, which seem
+   to come up again and again like those prank birthday candles
+   that keep igniting once you’ve blown them out. I don’t have any
+   illusions that my blog will put them out for good, but I have
+   to try.
+   Please enable JavaScript to view the [23]comments powered by
+   Disqus. [24]comments powered by Disqus
+   [25]Previous [26]Next
+
+
+   © 2017 Robert Talbert. Powered by [27]Jekyll using the [28]So
+   Simple Theme.
+
+
+

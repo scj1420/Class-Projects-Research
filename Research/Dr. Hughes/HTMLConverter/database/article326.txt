@@ -1,0 +1,47 @@
+Solution to last week’s Riddler Classic
+
+   Congratulations to 👏 Anders Skjäl 👏 of Åbo, Finland, winner of
+   [28]last week’s Classic puzzle!
+
+
+   A giant troll captures 10 dwarves and locks them up in his
+   cave. The following morning, he will decide their fate through
+   a series of rules. The troll will randomly place a white or
+   black dot on each dwarf’s head. He’ll then line them up single
+   file, shortest to tallest, so that each dwarf can see all the
+   shorter dwarves in front of him — and their dots — but none of
+   the taller dwarves behind him. Starting with the tallest, each
+   dwarf will be asked the color of his dot. If he gets the color
+   wrong, the troll kills him. If he gets it right, he’s magically
+   and instantly transported to safety. Each dwarf can hear the
+   answers of the others, but does not know whether they are
+   killed or saved. The dwarves have the night to hatch a plan.
+   What strategy can they use so that the fewest dwarves die, and
+   how many dwarves can be saved?
+
+   Nine of the 10 dwarves can be saved for sure and, with a little
+   luck, all 10 will escape the troll’s clutches. How? The dwarves
+   agree on the following plan: The first, tallest dwarf will risk
+   life and limb to save the others. Since he has no information
+   to go on to determine his own dot’s color, he can use his guess
+   to inform the others. The dwarves agree that if the number of
+   white dots the tallest dwarf sees is even, he should say
+   “white,” and if it’s odd, he should say “black.”
+
+   That first dwarf only has a 50-50 chance of survival, but all
+   of his compatriots will now survive for sure because they know
+   why he said the color he said. Suppose the first dwarf says
+   “white,” meaning he sees an even number of white dots. Then
+   it’s the second dwarf’s turn. If he also sees an even number of
+   white dots, then he knows for sure that his dot is black. If,
+   instead, he sees an odd number of white dots, then he knows for
+   sure that his dot is white. Based on the responses of the first
+   two dwarves, the third can then also determine the “evenness”
+   or “oddness” of the remaining white dots. If what he sees
+   matches that, his must be black, if not, white, and so on.
+
+   Regardless of how many dwarves there are (say there are N), at
+   least N-1 can be saved for sure, and all N can be saved half
+   the time! Your fellow dwarves thank you, tallest dwarf.
+
+

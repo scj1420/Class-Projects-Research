@@ -1,0 +1,288 @@
+"/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/bin/java" -Didea.launcher.port=7536 "-Didea.launcher.bin.path=/Applications/Android Studio.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/charsets.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/localedata.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunec.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jce.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jsse.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/management-agent.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/resources.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/dt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/jconsole.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/sa-jdi.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/lib/tools.jar:/Users/Seong-EunCho/Desktop/Dr. Hughes RA/HTMLConverter/lib/build/classes/main:/Applications/Android Studio.app/Contents/lib/idea_rt.jar" com.intellij.rt.execution.application.AppMain URLtoString http://www.cmu.edu/news/stories/archives/2017/march/information-avoidance.html
+
+Sending 'GET' request to URL : https://www.w3.org/services/html2txt?url=http://www.cmu.edu/news/stories/archives/2017/march/information-avoidance.html
+Response Code : 200
+   #[1]CMU News
+
+      [1] file://www.cmu.edu/news/feeds/news.rss
+
+ Information Avoidance: How People Select Their Own Reality-CMU News -
+                       Carnegie Mellon University
+
+[2]Carnegie Mellon University
+
+      [2] http://www.cmu.edu/
+
+   [X] Search Only CMU News SEARCH______________ (BUTTON) Submit
+   Carnegie Mellon University Search
+   [3]Skip navigation and jump directly to page content
+   [4]CMU News Home Page
+     __________________________________________________________
+
+    http://www.cmu.edu/../../index.html
+
+     * [5]Stories
+      http://www.cmu.edu/../index.html
+
+          + [6]All News
+               o [7]2017
+                    # [8]March
+                         @ [9]Information Avoidance: How People
+                           Select Their Own Reality
+                         @ [10]Sharing the Secrets to "Creative
+                           Chaos"
+                         @ [11]Cutting-Edge Entertainment: CMU
+                           Heads to South by Southwest
+                         @ [12]CMU Delegation on West Coast Trip
+                         @ [13]School of Art Master Candidates
+                           Open “FAM,” March 24
+                         @ [14]Computational Method Makes Gene
+                           Expression Analyses More Accurate
+                         @ [15]Scientists Put Human Interaction
+                           Under the Microscope
+                         @ [16]Carnegie Mellon Academy for Women
+                           Wins Top Honor
+                         @ [17]Alexa, Call Ran Zhao
+                         @ [18]Frieze Honored for Increasing
+                           Diversity in Computer Science
+                         @ [19]New Findings on Vesicle Formation
+                           Could Pave Way for Liquid Biopsies,
+                           Better Drug Delivery Devices
+                         @ [20]Carnegie Mellon Names Jay Whitacre
+                           New Director of Scott Institute
+                         @ [21]Mathematical Theorem Finds
+                           Gerrymandering in Pennsylvania
+                           Congressional District Map
+                         @ [22]Carnegie Mellon Receives Largest
+                           Gift to its School of Music
+                         @ [23]Disruption Rewarded: Streaming
+                           Platforms Are Changing (and Winning)
+                           Everything
+                    # [24]February
+                    # [25]January
+               o [26]2016
+               o [27]2015
+               o [28]2010
+               o [29]2009
+               o [30]Older
+              http://www.cmu.edu/index.html
+              http://www.cmu.edu/tmp/index.html
+              http://www.cmu.edu/index.html
+              http://www.cmu.edu/information-avoidance.html
+              http://www.cmu.edu/teaching-creativity.html
+              http://www.cmu.edu/sxsw.html
+              http://www.cmu.edu/west-coast-delegation.html
+              http://www.cmu.edu/mfa-thesis-exhibition.html
+              http://www.cmu.edu/salmon-computational-method.html
+              http://www.cmu.edu/robotics-tepper-negotiation-study.html
+              http://www.cmu.edu/womens-academy-wins-top-honor.html
+              http://www.cmu.edu/amazon-fellowship.html
+              http://www.cmu.edu/frieze-honored-for-increasing-diversity.html
+              http://www.cmu.edu/better-drug-delivery.html
+              http://www.cmu.edu/whitacre-new-scott-intsitute-director.html
+              http://www.cmu.edu/congressional-districts.html
+              http://www.cmu.edu/largest-gift-to-music.html
+              http://www.cmu.edu/streaming-platforms-rewarded.html
+              http://www.cmu.edu/tmp/february/index.html
+              http://www.cmu.edu/tmp/january/index.html
+              http://www.cmu.edu/2016/index.html
+              http://www.cmu.edu/2015/index.html
+              http://www.cmu.edu/news/archive/2010/index.shtml
+              http://www.cmu.edu/news/archive/2009/index.shtml
+              http://www.cmu.edu/older.html
+
+          + [31]College of Engineering
+           http://www.cmu.edu/../cit.html
+
+          + [32]College of Fine Arts
+           http://www.cmu.edu/../cfa.html
+
+          + [33]Dietrich College of Humanities & Social Sciences
+           http://www.cmu.edu/../hss.html
+
+          + [34]H. John Heinz III College
+           http://www.cmu.edu/../hnz.html
+
+          + [35]Mellon College of Science
+           http://www.cmu.edu/../mcs.html
+
+          + [36]School of Computer Science
+           http://www.cmu.edu/../scs.html
+
+          + [37]Tepper School of Business
+           http://www.cmu.edu/../tpr.html
+
+          + [38]The Piper: Campus News
+           http://www.cmu.edu/piper
+
+          + [39]Carnegie Mellon Today Magazine
+           http://www.carnegiemellontoday.com/
+
+     * [40]Find an Expert
+      http://www.cmu.edu/../../experts/index.html
+
+     * [41]Media Highlights
+      http://www.cmu.edu/../../clips/index.html
+
+     * [42]Media Resources
+      http://www.cmu.edu/../../resources/index.html
+
+     * [43]Contact Us
+     __________________________________________________________
+
+    http://www.cmu.edu/../../contact/index.html
+
+     * [44]CMU's Social Media Channels
+
+     [44] http://www.cmu.edu/social-media/
+
+   IFRAME: [45]//www.googletagmanager.com/ns.html?id=GTM-5Q36JQ
+
+     [45] file://www.googletagmanager.com/ns.html?id=GTM-5Q36JQ
+
+   |[46]CMU News| > [47]Stories > [48]All News > [49]2017 >
+   [50]March > Information Avoidance: How People Select Their Own
+   Reality
+
+     [46] http://www.cmu.edu/../../index.html
+     [47] http://www.cmu.edu/../index.html
+     [48] http://www.cmu.edu/index.html
+     [49] http://www.cmu.edu/tmp/index.html
+     [50] http://www.cmu.edu/index.html
+
+   Monday, March 13, 2017
+
+Information Avoidance: How People Select Their Own Reality
+
+   By [51]Shilo Rea
+
+     [51] mailto:shilo@cmu.edu
+
+   Image of a woman covering her ears
+
+   We live in an unprecedented "age of information," but we use
+   very little of it. Dieters prefer not to look at the calories
+   in their tasty desert, people at high risk for disease avoid
+   screenings and people choose the news source that aligns with
+   their political ideology.
+
+   Drawing on research in economics, psychology and sociology,
+   Carnegie Mellon University's [52]George Loewenstein,
+   [53]Russell Golman and [54]David Hagmann illustrate how people
+   select their own reality by deliberately avoiding information
+   that threatens their happiness and wellbeing.
+
+     [52] https://www.cmu.edu/dietrich/sds/people/faculty/george-loewenstein.html
+     [53] https://www.cmu.edu/dietrich/sds/people/faculty/russell-golman.html
+     [54] https://www.cmu.edu/dietrich/sds/people/phdstudents/david-hagmann.html
+
+   In a paper published in the [55]Journal of Economic Literature,
+   they show that while a simple failure to obtain information is
+   the most clear-cut case of "information avoidance," people have
+   a wide range of other information-avoidance strategies at their
+   disposal. They also are remarkably adept at selectively
+   directing their attention to information that affirms what they
+   believe or that reflects favorably upon them, and at forgetting
+   information they wish were not true.
+
+     [55] https://www.aeaweb.org/articles?id=10.1257/jel.20151245
+
+   "The standard account of information in economics is that
+   people should seek out information that will aid in
+   decision-making, should never actively avoid information, and
+   should dispassionately update their views when they encounter
+   new valid information," said Loewenstein, the Herbert A. Simon
+   University Professor of Economics and Psychology who co-founded
+   the field of behavioral economics.
+
+   "But people often avoid information that could help them to
+   make better decisions if they think the information might be
+   painful to receive. Bad teachers, for example, could benefit
+   from feedback from students, but are much less likely to pore
+   over teaching ratings than skilled teachers," Loewenstein said.
+
+   Even when people cannot outright ignore information, they often
+   have substantial latitude in how to interpret it. Questionable
+   evidence is often treated as credible when it confirms what
+   someone wants to believe — as is the case of discredited
+   research linking vaccines to autism. And evidence that meets
+   the rigorous demands of science is often discounted if it goes
+   against what people want to believe, as illustrated by
+   widespread dismissal of scientific evidence of climate change.
+
+   Information avoidance can be harmful, for example, when people
+   miss opportunities to treat serious diseases early on or fail
+   to learn about better financial investments that could prepare
+   them for retirement. It also has large societal implications.
+
+   "An implication of information avoidance is that we do not
+   engage effectively with those who disagree with us," said
+   Hagmann, a Ph.D. student in the [56]Department of Social and
+   Decision Sciences. "Bombarding people with information that
+   challenges their cherished beliefs — the usual strategy that
+   people employ in attempts at persuasion - is more likely to
+   engender defensive avoidance than receptive processing. If we
+   want to reduce political polarization, we have to find ways not
+   only to expose people to conflicting information, but to
+   increase people's receptivity to information that challenges
+   what they believe and want to believe."
+
+     [56] https://www.cmu.edu/dietrich/sds/index.html
+
+   Despite the consequences, information avoidance isn't always a
+   mistake or a reflection of a lazy mind.
+
+   "People do it for a reason," said Golman, assistant professor
+   of social and decision sciences. "Those who do not take a
+   genetic test can enjoy their life until their illness can't be
+   ignored, an inflated sense of our own abilities can help us to
+   pursue big and worthwhile goals, and not looking at our
+   financial investments when markets are down may keep us from
+   selling in a panic."
+
+   The researchers believe understanding when, why and how people
+   avoid information can help governments, firms and organizations
+   reach their audiences effectively without drowning them in
+   unwanted messages.
+
+   Related Links:
+     * [57]Journal of Economic Literature: Information Avoidance
+      https://www.aeaweb.org/articles?id=10.1257/jel.20151245
+
+     * [58]I don't want to know: Why do we avoid certain
+       information and what are the consequences for our society?
+      https://www.aeaweb.org/research/information-avoidance-politics-healthcare-social-media
+
+     * [59]George Loewenstein and the NEW New Economics of
+       Information
+      https://youtu.be/o55GZt_sII4
+
+     * [60]CMU Launches First-of-its-Kind Major in Behavioral
+       Economics, Policy and Organizations
+      http://www.cmu.edu/dietrich/news/news-stories/2016/december/first-behavioral-economics-major.html
+
+     * [61]Infinite Career Paths in Behavioral Economics
+
+      http://www.cmu.edu/dietrich/news/news-stories/2017/february/behavioral-economics-career-paths.html
+
+     * CMU News
+     * 5000 Forbes Avenue
+     * Pittsburgh, PA 15213
+     * (412) 268-2900
+
+     * [62]The Piper: Campus News
+      http://www.cmu.edu/piper
+
+     * [63]Carnegie Mellon Today Magazine
+      http://www.carnegiemellontoday.com/
+
+     * [64]Event Calendar
+      http://www.cmu.edu/events
+
+     * [65]Carnegie Mellon Home
+
+     [65] http://www.cmu.edu/
+
+
+
+Process finished with exit code 0

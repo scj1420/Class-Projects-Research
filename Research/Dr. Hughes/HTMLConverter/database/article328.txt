@@ -1,0 +1,111 @@
+‘A whole new world': Duke biologists investigate bacterial evolution
+
+   By [11]Nathan Luzum | Thursday, March 30
+
+
+
+
+
+
+   [16]e_coli_bacteria_16578744517
+   Courtesy of Wikimedia Commons
+
+
+   The scientists developed a mathematical tool to accurately
+   measure bacteria levels in the human body.
+
+   Bacteria live just about everywhere in the body. But despite
+   their prevalence, scientists know very little about how these
+   bacteria are related.
+
+   Using a formula originally designed for geology, researchers at
+   Duke are hoping to shed some light on the issue. A research
+   team led by [17]Lawrence David, assistant professor in the Duke
+   Center for Genomic and Computational Biology, developed a new
+   method to accurately measure bacteria levels in the human
+   body.
+
+
+   Alex Washburne, a postdoctoral associate, explained that
+   evolutionary biologists have long been working to construct the
+   tree of life for larger species. But doing the
+   same for microscopic species such as bacteria is a significant
+   challenge. Justin Silverman, a M.D./Ph.D. student in David's
+   lab, added that it would be impossible to individually count
+   the trillions of bacteria in any one person.
+
+   “When we look at the microbiome, we look at very complicated
+   communities with thousands of species, and we know very little
+   about what all of them are doing,” Washburne said.
+
+   Instead, researchers have typically relied on sampling a small
+   portion of bacteria and then extrapolating the total number of
+   bacteria in the body based on the sample.
+
+   Silverman likened the situation to trying to count the number
+   of colored balls in a large ball pit. If a researcher picked up
+   a handful of the balls in the pit, he or she could mark the
+   colors of each ball in their hand. Then, the researcher could
+   apply this information to figure out how many balls of each
+   color are in the pit.
+
+   However, this method comes with its flaws.
+
+   “The problem with relative amounts is that it’s very hard to
+   analyze data that only gives relative information,” Silverman
+   said.
+
+   He said that even simple things—like the subject eating a
+   sandwich before data collection—can affect the data. Suppose
+   that bacterial species A feeds on the digested nutrients from
+   the sandwich, but species B and C cannot. The number of
+   bacteria A in the body will increase while the number of
+   bacteria B and C remain the same. However, Silverman said the
+   traditional sampling method would actually lead to the
+   conclusion that the number of B and C bacteria had decreased.
+
+   To more accurately categorize and count the bacteria, Silverman
+   adapted a mathematical tool typically used by geologists to
+   study rock composition. A rock is made up of various minerals
+   and substances, just as bacteria include a diverse array of
+   species.
+
+   “We’re finding that when we begin this marriage between biology
+   and mathematics, there are new types of mathematical tools that
+   are developed,” Washburne said.
+
+   Washburne and Silverman both emphasized that the primary
+   contribution of the paper was the mathematical tool itself.
+   This formula may be used by evolutionary biologists in the
+   future to evaluate their hypotheses about the relationship
+   between different species.
+
+   But the researchers also made a surprising discovery about two
+   closely-related species of bacteria within the human mouth. The
+   team found that different portions of the mouth actually housed
+   different bacteria, contradicting what they had previously
+   expected. Their findings suggest that bacteria species might
+   have diverged to match different parts of the body.
+
+   “What’s surprising is that you expect, if they’re closely
+   related, then it’s just going to be this homogeneous mixture
+   where you see a bunch of [bacteria] all over the mouth equally
+   distributed,” Silverman said.
+
+   This is just the latest piece of knowledge to come from an
+   untapped wealth of information about the bacteria in the human
+   body, the researchers said.
+
+   “By and large, it’s a whole new world in there,” Washburne
+   said. “It’s almost as if we found a new planet, and we just
+   dived right into the rainforest.”
+
+   The Chronicle is your source for Duke news, sports, culture and
+   dialogue.
+
+   Subscribe to the Chronicle: [18]Newsletter | [19]The Dirt |
+   [20]Overtime
+   (BUTTON) ×
+
+
+

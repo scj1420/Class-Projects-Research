@@ -1,0 +1,140 @@
+The Jam Index
+
+   In the broadest sense, physical principles have been applied to
+   cancer since long before physics existed as a discipline. The
+   ancient Greek physician Hippocrates gave cancer its name when
+   he referred to it as a “crab,” comparing the shape of a tumor
+   and its surrounding veins to a carapace and legs.
+
+   But those solid tumors do not [20]kill more than 8 million
+   people annually. Once tumor cells strike out on their own and
+   metastasize to new sites in the body, drugs and other therapies
+   rarely do more than prolong a patient’s life for a few years.
+
+
+   Biologists often view cancer primarily as a genetic program
+   gone wrong, with mutations and epigenetic changes producing
+   cells that don’t behave the way they should: Genes associated
+   with cell division and growth may be turned up, and genes for
+   programmed cell death may be turned down. To a small but
+   growing number of physicists, however, the shape-shifting and
+   behavior changes in cancer cells evoke not an errant genetic
+   program but a phase transition.
+
+   The phase transition — a change in a material’s internal
+   organization between ordered and disordered states — is a
+   bedrock concept in physics. Anyone who has watched ice melt or
+   water boil has witnessed a phase transition. Physicists have
+   also identified such transitions in magnets, crystals, flocking
+   birds and even [21]cells (and cellular components) placed in
+   artificial environments.
+
+
+   But compared to a homogeneous material like water or a magnet —
+   or even a collection of identical cells in a dish — cancer is a
+   hot mess. Cancers vary widely depending on the individual and
+   the organ they develop in. Even a single tumor comprises a
+   mind-boggling jumble of cells with different shapes, sizes and
+   protein compositions. Such complexities can make biologists
+   wary of a general theoretical framework. But they don’t daunt
+   physicists. “Biologists are more trained to look at complexity
+   and differences,” said the physicist [22]Krastan Blagoev, who
+   directs a National Science Foundation program that funds work
+   on theoretical physics in living systems. “Physicists try to
+   look at what’s common and extract behaviors from the
+   commonness.”
+
+
+   In a demonstration of this approach, the physicists [23]Andrea
+   Liu, now of the University of Pennsylvania, and [24]Sidney
+   Nagel of the University of Chicago [25]published a brief
+   commentary in Nature in 1998 about the process of jamming. They
+   described familiar examples: traffic jams, piles of sand, and
+   coffee beans stuck together in a grocery-store hopper. These
+   are all individual items held together by an external force so
+   that they resemble a solid. Liu and Nagel put forward the
+   provocative suggestion that jamming could be a previously
+   unrecognized phase transition, a notion that physicists, after
+   more than a decade of debate, have now accepted.
+
+
+   Though not the first mention of jamming in the scientific
+   literature, Liu and Nagel’s paper set off what Fredberg calls
+   “a deluge” among physicists. (The paper has been cited more
+   than 1,400 times.) Fredberg realized that cells in lung tissue,
+   which he had spent much of his career studying, are closely
+   packed in a similar way to coffee beans and sand. In 2009 he
+   and colleagues published [26]the first paper suggesting that
+   jamming could hold cells in tissues in place, and that an
+   unjamming transition could mobilize some of those cells, a
+   possibility that could have implications for asthma and other
+   diseases.
+
+
+   The paper appeared amid a growing recognition of the importance
+   of mechanics, and not just genetics, in directing cell
+   behavior, Fredberg said. “People had always thought that the
+   mechanical implications were at the most downstream end of the
+   causal cascade, and at the most upstream end are genetic and
+   epigenetic factors,” he said. “Then people discovered that
+   physical forces and mechanical events actually can be upstream
+   of genetic events — that cells are very aware of their
+   mechanical microenvironments.”
+
+   [27]Lisa Manning, a physicist at Syracuse University, read
+   Fredberg’s paper and decided to put his idea into action. She
+   and colleagues used a two-dimensional model of cells that are
+   connected along edges and at vertices, filling all space. The
+   model yielded an order parameter — a measurable number that
+   quantifies a material’s internal order — that they called the
+   “shape index.” The shape index relates the perimeter of a
+   two-dimensional slice of the cell and its total surface area.
+   “We made what I would consider a ridiculously strict
+   prediction: When that number is equal to 3.81 or below, the
+   tissue is a solid, and when that number is above 3.81, that
+   tissue is a fluid,” Manning said. “I asked Jeff Fredberg to go
+   look at this, [28]and he did, and it worked perfectly.”
+
+
+   Fredberg saw that lung cells with a shape index above 3.81
+   started to mobilize and squeeze past each other. Manning’s
+   prediction “came out of pure theory, pure thought,” he said.
+   “It’s really an astounding validation of a physical theory.” A
+   program officer with the Physical Sciences in Oncology program
+   at the National Cancer Institute learned about the results and
+   encouraged Fredberg to do a similar analysis using cancer
+   cells. The program has given him funding to look for signatures
+   of jamming in breast-cancer cells.
+
+   Meanwhile, [29]Josef Käs, a physicist at Leipzig University in
+   Germany, wondered if jamming could help explain puzzling
+   behavior in cancer cells. He knew from his own studies and
+   those of others that breast and cervical tumors, while mostly
+   stiff, also contain soft, mobile cells that stream into the
+   surrounding environment. If an unjamming transition was
+   fluidizing these cancer cells, Käs immediately envisioned a
+   potential response: Perhaps an analysis of biopsies based on
+   measurements of tumor cells’ state of jamming, rather than a
+   nearly century-old visual inspection procedure, could determine
+   whether a tumor is about to metastasize.
+
+
+   Käs is now using [30]a laser-based tool to look for signatures
+   of jamming in tumors, and he hopes to have results later this
+   year. In a separate study that is just beginning, he is working
+   with Manning and her colleagues at Syracuse to look for phase
+   transitions not just in cancer cells themselves, but also in
+   the matrix of fibers that surrounds tumors.
+
+
+   More speculatively, Käs thinks the idea could also yield new
+   avenues for therapies that are gentler than the shock-and-awe
+   approach clinicians typically use to subdue a tumor. “If you
+   can jam a whole tumor, then you have a benign tumor — that I
+   believe,” he said. “If you find something which basically jams
+   cancer cells efficiently and buys you another 20 years, that
+   might be better than very disruptive chemotherapies.” Yet Käs
+   is quick to clarify that he is not sure how a clinician would
+   induce jamming.
+
+

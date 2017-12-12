@@ -1,0 +1,144 @@
+Bad Traffic? Blame Braess' Paradox
+
+   {{article.article.images.featured.description}}
+   {{article.article.images.featured.caption}}
+   [2]Most Read
+   {{contrib_block.display_advoice_brand}}
+   {{contrib_block.display_voice_type}}
+
+
+   {{contrib_block.display_author.name}}Voice With
+   {{contrib_block.authors[0].blogName}} Quora ,
+
+   {{contrib_block.display_author.type}} Contributor
+   {{contrib_block.display_author.type}}
+
+   Contributor
+
+   Opinions expressed by Forbes Contributors are their own.
+
+   Full profile →'">
+
+   The author is a Forbes contributor. The opinions expressed are
+   those of the writer.
+   Loading ...
+   Loading ...
+   This story appears in the
+   {{article.article.magazine.pretty_date}} issue of
+   {{article.article.magazine.pubName}}. Subscribe
+
+   (Photo: FRANCOIS GUILLOT/AFP/Getty Images)
+
+   [3]What are some counterintuitive results in game theory?
+   originally appeared on [4]Quora: the knowledge sharing network
+   where compelling questions are answered by people with unique
+   insights.
+
+
+   [5]Answer by [6]William Chen, Data Scientist, on [7]Quora:
+
+
+   My favorite example of a counterintuitive result of game theory
+   is Braess' paradox, which says that:
+
+   I'm going to walk through the common example of Braess' paradox
+   using figures and rephrasing the explanation from Wikipedia.
+
+   The Situation: We have 4,000 drivers that want to go from START
+   to END. The solid line (directed edges on the network) are
+   roads available initially, and the dashed line is the road that
+   is added later.
+
+   A driver will either take 45 minutes to traverse a road (the
+   roads labelled 45), or T/100 minutes, where T is the total
+   amount of traffic on that road.
+
+   Scenario before the added road: Only the solid lines are
+   available as roads. At equilibrium, 2,000 drivers will go
+   through each of A and B. Each driver will take 65 minutes to go
+   from the start to end, and no driver has an incentive to
+   deviate from their route, as they would take slightly longer to
+   reach their final destination.
+
+   Scenario after the added road: Now we add the dashed line as a
+   road. It's a short road that takes no time to traverse. The
+   equilibrium now is that all drivers take the T/100 road to A,
+   go over the short road to B, and then take the T/100 road to
+   END. No driver has the incentive to deviate here, because
+   choosing to take a T/100 road will always be faster than
+   choosing to take the 45 minute road, since there are only a max
+   of 4,000 drivers taking that road at any given time. Since now
+   all 4,000 drivers are taking both of the T/100 roads, the total
+   travel time is expected to be 80 minutes.
+
+   Why this happens: We see that by building an extra road in our
+   traffic network, we've actually made traffic worse.
+
+   The non-technical explanation of this is that drivers act
+   selfishly, and will take whatever road is best for them. This
+   causes the "shortcut" to become overused, which directs drivers
+   to roads that easily end up becoming congested. The T/100 road
+   might be a better choice for any individual driver, but by
+   choosing that road, a driver hurts every single other driver
+   that also chooses to traverse that path.
+
+   The technical explanation is that adding the road to the
+   network causes a less-efficient Nash Equilibrium to develop
+   (and we know that Nash Equilibriums aren't always the most
+   efficient global solution anyways).
+
+   Note that drivers acting selfishly is the cause of this
+   paradox. This is a related to the concept of [8]Tragedy of the
+   Commons, where everyone is worse off because they act selfishly
+   instead of in the cooperative manner. Another related concept
+   is the [9]Price of Anarchy (economics), which measures how much
+   worst off a system is when everyone acts selfishly. If somehow
+   our Google Maps applications could help benevolently coordinate
+   local traffic away from easily-congested roads, extra roads
+   would never make the traffic worse (this would require Google
+   Maps to optimize everyone’s traffic, and not just selfishly
+   optimize a single commuter’s traffic.)
+
+
+   Examples of this happening in real life: You can see how it
+   works in a purely theoretical example. Wikipedia points out
+   some cases where this happens in real life too!
+
+     In [10]Seoul, [11]South Korea, a speeding-up in traffic
+     around the city was seen when a motorway was removed as part
+     of the [12]Cheonggyecheon restoration project.[13][4]
+     In [14]Stuttgart, [15]Germany, after investments into the
+     road network in 1969, the traffic situation did not improve
+     until a section of newly built road was closed for traffic
+     again.[16][5] In 1990 the closing of 42nd street in [17]New
+     York City reduced the amount of congestion in the
+     area.[18][6] In 2008 Youn, Gastner and Jeong demonstrated
+     specific routes in Boston, New York City and London where
+     this might actually occur and pointed out roads that could
+     be closed to reduce predicted travel times.[19][7]
+
+
+   Source: [20]Braess' paradox
+
+
+   [21]This question originally appeared on [22]Quora. Ask a
+   question, get a great answer. Learn from experts and access
+   insider knowledge. You can follow Quora on [23]Twitter,
+   [24]Facebook, and [25]Google+. More questions:
+
+
+       in the natural sciences?
+
+       discovered?
+
+
+   Start Gallery
+   Page {{article.article.page + 1}} /
+   {{article.article.pages.length}} Continue
+   {{article.article.calledOutCommentCount||''}}
+   Comment on this story
+      mailto:feedback@forbes.com
+
+
+
+

@@ -1,0 +1,179 @@
+Linear Algebra as an Introduction to Abstract Mathematics
+
+   Isaiah Lankham, Bruno Nachtergaele, and Anne Schilling
+   Publisher:
+   World Scientific
+   Publication Date:
+   2016
+   Number of Pages:
+   198
+   Format:
+   Paperback
+   Price:
+   36.00
+   ISBN:
+   9789814723770
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   Mark Hunacek
+   , on
+   09/5/2016
+   ]
+
+   Here at Iowa State University, we offer two separate and
+   mutually exclusive introductory courses in linear algebra. One,
+   at the sophomore level, is intended for people who are not
+   mathematics majors; it emphasizes computation and applications.
+   Majors take a junior-level course that focuses on proof. This
+   book is a viable candidate as a text for the latter course, or
+   any other course in which linear algebra is taught from a proof
+   perspective, but the succinctness of the exposition may give an
+   instructor pause.
+
+   The book is quite a slim one (less than 200 pages of text,
+   around 70 pages of which are appendices), focusing primarily on
+   material that has now become fairly standard for an
+   introductory course, although, as we’ll soon see, there are a
+   few things found here that are not likely to be covered in many
+   first courses. The text starts with an introduction (“What is
+   Linear Algebra?”) that describes the subject by focusing on the
+   solution of linear equations. The next chapter is a fairly
+   complete introduction to complex numbers (defined as ordered
+   pairs of real numbers) and their arithmetic. Somewhat
+   surprisingly, the book even offers, in chapter 3, a proof of
+   the Fundamental Theorem of Algebra, assuming as known a
+   preliminary result on attainment of extreme values on the
+   closed unit disc. This, of course, is one of the “things found
+   here that are not likely to be covered in many first courses”
+   that I referred to at the beginning of this paragraph. I’m not
+   sure that a first course in linear algebra is the time and
+   place for a proof of the Fundamental Theorem, and if teaching
+   our proof course from this book, I would almost certainly skip
+   this; however, I am also loath to criticize a book for
+   including too much interesting mathematics.
+
+   After this preliminary material, the book gets down to linear
+   algebra. There is a chapter on vector spaces (over the fields
+   of real or complex numbers; arbitrary fields are not used),
+   followed by one on linear independence and spanning sets,
+   together with a proof that any finite-dimensional vector space
+   has a basis. This is then followed by two chapters on linear
+   transformations and eigenvalues/eigenvectors. The chapter on
+   linear transformations discusses the matrix corresponding to a
+   linear transformation relative to a given basis, but the issue
+   of changing bases is deferred until later. Matrix arithmetic
+   and its connections with systems of linear transformations, by
+   the way, are not discussed in the body of the text itself, but
+   in an appendix.
+
+   Eigenvalues and eigenvectors are defined for transformations,
+   with connections to matrices discussed. In particular, it is
+   proved that any linear operator on a complex finite-dimensional
+   vector space can be put into upper triangular form. Because
+   determinants have not yet been introduced, the characteristic
+   polynomial is not, at this point, defined, but an early preview
+   of the concept is given for 2 x 2 matrices.
+
+   The authors prove the existence of eigenvalues for operators on
+   complex vector spaces by a determinant-free argument that is
+   used in Axler’s [309]Linear Algebra Done Right, but the book
+   does not seem to be as stridently anti-determinant as is
+   Axler’s text; determinants are not deferred until the very end
+   of the book, as is the case with Linear Algebra Done Right, but
+   are instead discussed in the very next chapter. It is in this
+   chapter that the characteristic polynomial is defined; it is
+   mentioned that the roots of this polynomial are the eigenvalues
+   of the matrix, but no specific computations are given.
+
+
+   Inner product spaces are discussed in the next chapter. All the
+   usual material is covered here, including orthogonal projection
+   and (quite briefly) its application to minimization problems.
+   However, the phrase “method of least squares” is not used.
+
+   Next, there is a very brief chapter on how the matrix of a
+   linear transformation changes with regard to a change in basis.
+   Then, in chapter 11, the text returns to inner product spaces,
+   discussing operators on them. Self-adjoint and normal operators
+   are defined, and a version of the spectral theorem for normal
+   operators (that an operator is normal if and only if it is
+   represented by a diagonal matrix with respect to an orthonormal
+   basis) is established. The chapter ends with a very brief look
+   at positive operators, the polar decomposition, and the
+   singular value decomposition. This entire chapter is only about
+   ten pages long, so clearly none of these ideas can be developed
+   in depth, but that can hardly be expected in a text for a first
+   course in linear algebra, most of which don’t discuss this
+   material at all.
+
+   There are four appendices. The first is a set of supplementary
+   notes on matrices and their applications to linear systems; the
+   second discusses the basic terminology of sets and functions;
+   the third introduces some basic algebraic terminology; the
+   fourth lists some common mathematical symbolism and, in an
+   unusual but very much appreciated feature, provides historical
+   commentary as well. Readers who want to know, for example, the
+   origins of the equal sign, or the symbol \(\infty\) for
+   infinity, will find answers here.
+
+   Although the approach taken in this book is proof-oriented,
+   this is not a text on advanced linear algebra. As the above
+   summary of the book’s contents should indicate, the topics
+   covered here are typically those of an introductory course, and
+   standard second-semester topics such as the minimal polynomial,
+   canonical forms, Cayley-Hamilton theorem, etc. are not
+   discussed.
+
+   The book is written so that it should be understandable by
+   anybody who has taken a semester or two of calculus (and even
+   that prerequisite is not strictly necessary, since the only
+   time calculus is actually used is in some examples). However,
+   the exposition is fairly succinct, and some prior exposure to
+   proofs would likely be very valuable. The book states in the
+   preface that that elusive and ill-defined concept,
+   “mathematical maturity”, is the real prerequisite for the book.
+
+   And that observation leads me to what I think is the one real
+   difficulty I have with the text. Since “mathematical maturity”
+   means different things to different people, the book would have
+   benefited, I think, from some discussion of basic logic and
+   proof techniques, if only to explain to the students, for
+   example, how to negate a simple mathematical sentence, and what
+   the converse and contrapositive of a statement is. This seems
+   particularly appropriate for any book that refers to itself as
+   an “introduction to abstract mathematics”, and, given that the
+   book is certainly not unduly long, a 15 or 20 page discussion
+   along these lines could easily have been accommodated, perhaps
+   as another appendix.
+
+   Other mild quibbles: there is no bibliography at all in the
+   text, and it probably wouldn’t have hurt to spend more time
+   with detailed discussion of examples. In particular, I would
+   like to have seen examples of infinite-dimensional spaces,
+   combined with some indication of how one proves that a vector
+   space is not finite-dimensional.
+
+   It should be noted that, at least as of this writing, a free
+   PDF copy of the book can be obtained [310]at one of the
+   authors’ webpages. The page numbers between the PDF and the
+   printed text don’t match up exactly, there are more appendices
+   in the PDF copy, and a couple of figures that are shaded in the
+   text are in color in the PDF. Other than these very minor
+   differences, the PDF appears nearly identical to the hard copy.
+
+
+   To summarize and conclude: this is a well-written book, but the
+   succinctness of exposition and failure to discuss proof
+   techniques would likely lead me to find a different text for
+   Iowa State’s proof-based linear algebra course. However, this
+   book might fare better as a potential text for an honors course
+   in linear algebra.
+     __________________________________________________________
+
+   Mark Hunacek ([311]mhunacek@iastate.edu) teaches mathematics at
+   Iowa State University.
+

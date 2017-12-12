@@ -1,0 +1,166 @@
+Segmenting Ultrasound Video with a Wavelet Variational Model
+
+   By [49]Lina Sorg
+
+
+   Image segmentation, the process of separating a digital image
+   into multiple sections for individual examination, is
+   frequently used in medical image analysis. For example,
+   segmentation in ultrasound footage helps identify boundaries
+   and regions of interest (ROI) that facilitate image
+   interpretation. Efficient segmentation of ultrasound videos,
+   however, is often complicated by low contrast, shadow effects,
+   and complex “noise” statistics (unexplained variations). In
+   addition, real-time applications such as navigation during
+   operational surgery require efficient algorithms.
+
+   In an article published this month in the [50]SIAM Journal on
+   Imaging Sciences, authors Jiulong Liu, Xiaoqun Zhang, Bin Dong,
+   Zuowei Shen, and Lixu Gu propose a video segmentation model to
+   recognize ROI in ultrasounds.
+
+
+   “The proposed model aims to track a moving boundary in
+   ultrasound video efficiently and robustly, with a
+   mathematically-sound framework,” says Zhang. “Specifically, we
+   tackle the problem by using wavelet frames and incorporating
+   the noise statistics under a variational framework. The
+   continuity and regularity of the moving boundary is effectively
+   incorporated via weighted regularization, without introducing a
+   heavy computational burden. The overall method can be
+   efficiently solved with a recently-developed fast algorithm,
+   making it useful in real-time clinical applications.”
+
+   Selected frames of the original ultrasound images (left to
+   right) and the regions of interest (ROI) tracking results (top
+   to bottom). Photo credit: Xiaoqun Zhang.
+   Multiple published methods of image segmentation currently
+   exist, but Liu et al. specifically implement variational
+   methods, which are commonly used for motion tracking and edge
+   detection due to their modeling flexibility. “Variational
+   methods have been demonstrated to be robust and effective for
+   complicated image segmentation tasks,” says Dong. “The
+   variational framework permits solid theoretical analysis of the
+   models that can well guide the modeling itself and provide
+   fundamental understanding of the solutions.”
+
+   Liu et al. also chose to incorporate wavelet frames, which
+   collect more detail than other variational methods and
+   efficiently segment low-quality footage, such as ultrasound
+   video. This is especially true when the image includes features
+   at various scales. “Wavelet frame regularization is used
+   because the geometric structures and singularities in different
+   scales can be identified and extracted efficiently from complex
+   noise environments in the wavelet domain,” says Shen. “It
+   allows us to track and sharpen geometric shapes when they are
+   segmented automatically through sequential images in the
+   video.”
+
+   The authors designed their model to segment an ultrasound video
+   both sequentially and collectively. The model incorporates
+   shape priors – a type of probability distribution – in
+   single-image segmentation and computes consecutive shape priors
+   automatically for subsequent segmentations.
+
+   Liu et al. apply their model to two ultrasound video data sets
+   and obtain numerical results, which confirm the model’s ability
+   to efficiently track ROI. “Ultrasound imaging is an important
+   modality in clinical application due to its low cost and
+   portability,” says Liu. “However, its related analysis for
+   accurate diagnosis and monitoring is still challenging due to
+   low image quality, artifacts, and noise. The numerical results
+   on real ultrasound data sets demonstrate that the proposed
+   wavelet frame model with distance prior can track the regions
+   of interest effectively, in terms of both segmentation quality
+   and computational time.” The results compare favorably with
+   other approaches.
+
+   The model’s success could improve medical approaches and
+   technology that rely on image segmentation, and Liu et al. are
+   looking to expand its use. “The model can be further extended
+   to other imaging modality or to locate multi-region
+   simultaneously,” says Liu. “More geometric and prior
+   information can be used to enhance the robustness of the
+   method.” Such advancements will continue to increase the speed,
+   efficiency, and performance of image segmentation.
+
+   [51]Read the full article for free now, and view other [52]SIAM
+   Nuggets.
+
+
+   Source Article: A Wavelet Frame Method with Shape Prior for
+   Ultrasound Video Segmentation. SIAM Journal on Imaging
+   Sciences, 9(2), 495-519. (Online publish date: April 7, 2016).
+
+   About the Authors: Jiulong Liu is a Ph.D. student at in the
+   Department of Mathematics at Shanghai Jiao Tong University. His
+   research interests are mathematical modeling and computation in
+   medical imaging. Xiaoqun Zhang is an associate professor in the
+   Department of Mathematics and the Institute of Natural Sciences
+   at Shanghai Jiao Tong University. Her research interests are
+   mathematical modeling and the use of algorithms in imaging
+   science. Bin Dong is an associate professor of mathematics at
+   Peking University. His research interests include mathematical
+   modeling, computation in imaging science, and high dimensional
+   data analysis. Zuowei Shen is Tan Chin Tuan Centennial
+   Professor in the Department of Mathematics at the National
+   University of Singapore. He studies approximation theory and
+   wavelet theory; time-frequency analysis, and imaging science.
+   Lixu Gu is a professor in the School of Biomedical Engineering
+   and Shanghai Jiao Tong University. His research interests are
+   in medical image analysis, pattern recognition, and
+   computer-aided diagnosis.​
+     Lina Sorg is the associate editor of SIAM News.
+   Please enable JavaScript to view the [53]comments powered by
+   Disqus.[54]blog comments powered by Disqus
+   About SIAM News Blogs
+
+
+   The SIAM News Blog brings together updates on cutting edge
+   research, events and happenings, as well as insights on broader
+   issues of interest to the applied math and computational
+   science community. Learn more or submit an article or idea.
+
+   [55]Learn more
+   Most Recent
+   [56][Awards.png]
+   [57]Happening Now
+   [58]Red Sock Award Acknowledges Standout Posters at DS17
+   [59][Awards.png]
+   [60]Get Involved
+   [61]James H. Wilkinson Prize
+   [62][Research.png]
+   [63]Research
+   [64]Deep Learning Models in Finance
+   [65][Research.png]
+   [66]Careers
+   [67]Beyond UQ: Dealing with Deep Uncertainty
+   [68][Announcements.png]
+   [69]Announcements
+   [70]Illinois Students Named Champions in National M3 Challenge
+   [71][CurrentIssue.png]
+   [72]Current Issue
+   [73]Electricity Demand Response and Optimal Contract Theory
+   [74][ResearchNuggets.png]
+   [75]Research Nuggets
+   [76]Modeling Invasive Activity: Zebra Mussels’ Infiltration of
+   North American Rivers
+   [77]See More News
+   Article Tags
+
+
+   SIAM News
+
+
+
+
+
+
+
+   3600 Market Street, 6th Floor, Philadelphia, PA 19104
+   [84]webmaster@siam.org Copyright 2016 Society for Industrial
+   and Applied Mathematics
+
+     [84] email:webmaster@siam.org
+
+

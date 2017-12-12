@@ -1,0 +1,33 @@
+Native RPC access in Python
+
+   The "official" way in Apache Hadoop to connect natively to HDFS
+   from a C-friendly language like Python is to use [15]libhdfs, a
+   JNI-based C wrapper for the HDFS Java client. A primary benefit
+   of libhdfs is that it is distributed and supported by major
+   Hadoop vendors, and it's a part of the Apache Hadoop project. A
+   downside is that it uses JNI (spawning a JVM within a Python
+   process) and requires a complete Hadoop Java distribution on
+   the client side. Some clients find this unpalatable and don't
+   necessarily require the production-level support that other
+   applications require. For example, Apache Impala (incubating),
+   a C++ application, uses libhdfs to access data in HDFS.
+
+
+   Due to the heavier-weight nature of libhdfs, alternate native
+   interfaces to HDFS have been developed.
+       C++ library developed by Pivotal Labs for use in the HAWQ
+       SQL-on-Hadoop system. Conveniently, libhdfs3 is very nearly
+       interchangeable for libhdfs at the C API level. At one time
+       it seemed that libhdfs3 might become a part of Apache
+       Hadoop officially, but that does not now seem likely (see
+       [17]HDFS-8707, a new C++ client in development).
+
+       protobuf RPC interface, created by Spotify.
+
+
+   Since snakebite does not offer a comprehensive client API (e.g.
+   it cannot write files) and has worse performance (being
+   implemented in pure Python), I'll focus on libhdfs and libhdfs3
+   going forward.
+
+

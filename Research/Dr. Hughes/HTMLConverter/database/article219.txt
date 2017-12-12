@@ -1,0 +1,36 @@
+You're reading: [37]News
+
+
+New Twin Primes found
+
+   By [38]Katie Steckles. Posted September 27, 2016 in [39]News
+
+
+   shining
+
+   Collaborative prime number searching website [40]PrimeGrid has
+   announced its most recent discovery: on 14th September,
+   [41]user Tom Greer discovered a new pair of twin primes (primes
+   which differ by 2), namely:
+
+
+   \[2996863034895 \times 2^{1290000} \pm 1\]
+
+   Found using PrimeGrid’s Sophie Germain Prime search, the new
+   discoveries are 388,342 digits long, smashing the previous twin
+   prime record of 200,700 digits.
+
+   PrimeGrid is a collaborative project (similar to [42]GIMPS,
+   which searches for specifically Mersenne Primes) in which
+   anyone who downloads their software can donate their unused CPU
+   time to prime searching. It’s been the source of many recent
+   prime number discoveries, including several in the last few
+   months which rank in the top 160 largest known primes.
+
+
+   The University of Tennessee Martin’s [43]Chris Caldwell
+   maintains a [44]database of the largest known primes, to which
+   the new discovery has been added.
+
+
+

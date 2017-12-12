@@ -1,0 +1,116 @@
+[18]Mathematicians Discovered Something Super Freaky About Prime
+Numbers
+
+
+   [19][19g01ous5zg09jpg.jpg]
+   [20]George Dvorsky
+   [21]3/14/16 8:45pm
+   [22]Filed to: Mathematics
+
+
+
+
+
+
+   [27]336[28]40
+
+
+
+
+
+
+
+   [vy6alpfbeotuxltzxtei.png]
+
+   Mathematicians have discovered a surprising pattern in the
+   expression of prime numbers, revealing a previously unknown
+   “bias” to researchers.
+
+   Primes, as you’ll hopefully remember from fourth-grade math
+   class, are numbers that can only be divided by one or
+   themselves (e.g. 2, 3, 5, 7, 11, 13, 17, etc.). Their
+   appearance in the roll call of all integers cannot be
+   predicted, and no magical formula exists to know when a prime
+   number will choose to suddenly make an appearance. It’s an open
+   question as to whether or not a pattern even exists, or whether
+   or not mathematicians will ever crack the code of primes, but
+   most mathematicians agree that there’s a certain randomness to
+   the distribution of prime numbers that appear back-to-back.
+
+   Or at least that’s what they thought. Recently, a pair of
+   mathematicians decided to test this “randomness” assumption,
+   and to their shock, they discovered that it doesn’t actually
+   exist. As [34]reported in New Scientist, researchers Kannan
+   Soundararajan and Robert Lemke Oliver of Stanford University in
+   California have detected [35]unexpected biases in the
+   distribution of consecutive primes.
+
+
+   Advertisement
+
+   The mathematicians made the discovery while performing a
+   randomness check on the first hundred million primes. Within
+   that set, a prime ending in 1 is followed by another ending in
+   1 just 18.5 percent of the time. That shouldn’t happen if they
+   were truly random—we should expect to see this happen 25
+   percent of the time (keep in mind that primes can only end in
+   1, 3, 7, or 9). So while this isn’t a pattern—it’s also not
+   totally perfectly random. In terms of the back-to-back
+   distribution of the other numbers, primes ending in 3 and 7
+   appeared 30 percent of the time, and consecutive 9s appears
+   about 22 of the time. Importantly, this observation has nothing
+   to do with the base-10 numbering system, and is something
+   inherent to primes themselves.
+
+   That’s like, really weird, and certainly unexpected. So what’s
+   going on? According to Soundararajan and Lemke Oliver, it may
+   have something to do with what’s called the k-tuple
+   conjecture—an old idea about how often pairs, triples, and
+   larger sets of primes make an appearance.
+
+   [36]Spencer Greenberg, a mathematician and founder of
+   [37]ClearerThinking.org, told Gizmodo that the k-tuple
+   conjecture is an attempt to understand the proximity of prime
+   numbers to themselves. “Or more precisely, as we get larger and
+   larger numbers, how often do we see prime numbers that have
+   other primes nearby,” he said. “And it allows you to get very
+   precise about what you mean by ‘nearby’.” For example,
+   Greenberg says mathematicians can study primes that have a
+   fixed spacing to five other primes. Basically, the k-tuple
+   conjecture puts constraints on finding a prime that’s close to
+   another prime. The new study has some interesting things to say
+   about these constraints.
+
+
+   “As the numbers get larger, though, it sounds like this is less
+   constraining, causing it to get closer and closer to an equal
+   distribution of ending digits— which makes intuitive sense,
+   since the primes get rarer and rarer,” he said.
+
+   Greenberg said it’s important to remember that primes, like the
+   digits of pi, feel really random, but they’re not random at
+   all. “They are determined precisely by the properties of
+   numbers—it’s just that when we stare at their occurrence,
+   [38]our brains can’t see the pattern, so it feels like random
+   madness.”
+
+
+   As fascinating as the new study appears to be, it likely won’t
+   help with other prime-related problems, including the
+   [39]twin-prime conjecture or the [40]Riemann hypothesis. And in
+   fact, this discovery may have no practical use or implications
+   to math and number theory. But as mathematician Andrew
+   Granville told New Scientist, “It gives us more of an
+   understanding, every little bit helps. If what you take for
+   granted is wrong, that makes you rethink some other things you
+   know.”
+
+
+   Advertisement
+
+   Sponsored
+
+   [[41]New Scientist, [42]Nature News]
+
+
+

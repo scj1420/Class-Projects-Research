@@ -1,0 +1,152 @@
+How Many Bananas Does It Take To Lead A Camel To Market?
+
+   Edited by Oliver Roeder
+
+   Filed under [15]The Riddler
+
+
+
+
+
+   Illustration by Guillaume Kurkdjian
+
+   Welcome to The Riddler. Every week, I offer up a problem
+   related to the things we hold dear around here: math, logic and
+   probability. These problems, puzzles and riddles come from many
+   top-notch puzzle folks around the world — including you! You’ll
+   find this week’s puzzle below.
+
+   Mull it over on your commute, dissect it on your lunch break
+   and argue about it with your friends and lovers. When you’re
+   ready, submit your answer using the link below. I’ll reveal the
+   solution next week, and a correct submission (chosen at random)
+   will earn a shoutout in this column. Important small print: To
+   be eligible, I need to receive your correct answer before 11:59
+   p.m. EDT on Sunday. Have a great weekend!
+
+   Before we get to the new puzzle, let’s return to [19]last
+   week’s. Congratulations to 👏 Christopher Tiee 👏 of San Diego,
+   our big winner. You can find a solution to the previous Riddler
+   at the bottom of this post.
+
+
+   Now here’s this week’s Riddler, a twist on a classic passed
+   along by Scott Rodilitz, a Ph.D. student in operations at Yale.
+     __________________________________________________________
+
+   You have a camel and 3,000 bananas. (Because of course you do.)
+   You would like to sell your bananas at the bazaar 1,000 miles
+   away. Your loyal camel can carry at most 1,000 bananas at a
+   time. However, it has an insatiable appetite and quite the nose
+   for bananas — if you have bananas with you, it will demand one
+   banana per mile traveled. In the absence of bananas on his
+   back, it will happily walk as far as needed to get more
+   bananas, loyal beast that it is. What should you do to get the
+   largest number of bananas to the bazaar? What is that number?
+
+   Extra credit: Let’s push this classic even further and offer up
+   a 🏆 Coolest Riddler Extension Award 🏆. Add a second camel,
+   another fruit, a closer but less profitable bazaar, or
+   something even more creative. Submit your extension and its
+   solution via the form below. The winner gets a shiny emoji
+   trophy next week.
+
+   [20]Submit your answer
+   Need a hint? You can try [21]asking me nicely. Want to submit a
+   new puzzle or problem? [22]Email me. I’m especially on the hunt
+   for Riddler Express problems — bite-size puzzles that don’t
+   take quite as much time or computational power to solve.
+     __________________________________________________________
+
+     [22] mailto:oliver.roeder@fivethirtyeight.com
+
+   And here’s the solution to [23]last week’s Riddler, concerning
+   a very particular mathematician, his birthday cake and the
+   memento he wants to fit the cake in. If you make the largest
+   three-tier cake that fits under the mathematician’s glass cone,
+   it will fill about 70.2 percent of the cone’s volume. If the
+   cone is 1 unit tall, the heights of the tiers, from bottom to
+   top, should be roughly 0.162, 0.182 and 0.219.
+
+
+   This is a [24]constrained optimization problem. We want to
+   optimize the volume of the cake, because a mathematician told
+   us to and cake is delicious, subject to the constraints of the
+   dimensions of the cone.
+
+
+   Here’s how to do that, adapted from the solution of the
+   puzzle’s submitter, Jim Crimmins. Let \(A_B\) be the area of
+   the cone’s base and \(H\) be its height. The volume of the cone
+   is therefore \(V_C=(1/3)A_B H\).
+
+   Let the heights of the cake layers be \(a\), \(b\) and \(c\),
+   expressed as percentages of \(H\). The volumes of the three
+   layers are then:
+
+   $$V_a = ((1-a)^2 A_B) \cdot aH$$
+
+   $$V_b = ((1-a-b)^2 A_B) \cdot bH$$
+
+   $$V_c = ((1-a-b-c)^2 A_B) \cdot cH$$
+
+   The total volume of the cake, \(V_T\), is the sum of those
+   three. The percentage of the cone the cake fills — the number
+   we want to maximize — is \(P\).
+
+   $$P=V_T/V_C=3\left(a(1-a)^2+b(1-a-b)^2+c(1-a-b-c)^2\right)$$
+
+   We want to maximize \(P\) subject to \(a+b+c\leq 1\). (The
+   total height of the layers can’t exceed the height of the cone,
+   after all.) [25]Solving that — basically un-repressing your
+   memories of calculus class and taking partial derivatives and
+   setting them equal to zero — gives us our optimal heights and
+   our optimal volume.
+
+
+   For extra credit, I asked what the cake would look like if it
+   had N layers. The proportion of the cone we can fill as N goes
+   to infinity is clearly 1. The precise math on the way to
+   infinity gets pretty messy, and I’m not aware of a closed-form
+   solution for the optima. However, you can see these nice
+   approaches from [26]Joachim Worthington and [27]Daniel Filan
+   for two examples out of the many nice ones I received. And here
+   is a chart of the [28]optimized volumes, as the number of cake
+   tiers increases, from Laurent Lessard:
+   bdaycake-1024x662
+
+
+   And here is the progression of the shape of the optimal cake:
+
+     .[29]@LaurentLessard In my cake, layers get thicker toward
+     the top! [30]@ollie [31]@DimEarly [32]@RandiGoldman
+     [33]#Riddler [34]#foodfight [35]pic.twitter.com/LKPDTcjTRv
+
+
+     — Zach Wissner-Gross (@xaqwg) [36]August 27, 2016
+
+
+   Elsewhere in the puzzling world:
+       York Times]
+
+       [[38]The Wall Street Journal]
+
+
+       Guardian]
+
+
+       citizens of Riddler Nation. [[42]Wired]
+
+
+   Have a stellar weekend!
+
+   Oliver Roeder is a senior writer for FiveThirtyEight.
+   [43]@ollie
+
+
+   Filed under
+
+   [44]The Riddler (76 posts)
+
+
+

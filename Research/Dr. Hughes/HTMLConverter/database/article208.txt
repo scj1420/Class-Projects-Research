@@ -1,0 +1,518 @@
+When Not to Expect What You’re Expecting
+
+   [13]1 Reply
+
+   My wife and I played the Massachusetts PowerBall lottery last
+   month. In one respect it was a good thing that we didn’t win:
+   if we had, it would’ve made my job as a math popularizer that
+   much harder. When a lottery-winner says that playing the
+   lottery is a bad investment strategy, it comes across as
+   hypocritical at best.
+
+   One way experts in statistics and probability try to explain
+   why buying a lottery ticket every week is a bad retirement plan
+   is by invoking the concept of expected value. To illustrate the
+   idea, imagine for simplicity a scaled-down version of a lottery
+   — a roulette game with a wheel that has 38 pockets. Suppose
+   that you paid $1 to bet that the ball will wind up in a
+   particular pocket, and that the payoff if you guessed right
+   will be $36. Then in 37 possible worlds you win $0 while in 1
+   possible world you win $36. Your average payoff over those 38
+   equally likely parallel worlds is (37x$0+1x$36)/38, or about 95
+   cents, which is less than what you paid to play. If you like
+   the ambiance of casinos (music, drinks, company) but hate the
+   element of uncertainty, or if the idea of other yous in other
+   worlds having different destinies freaks you out, you can fold
+   all thirty-eight worlds into one by placing a bet on each
+   pocket. Then you’ll pay $38 and are sure to win $36, for a net
+   loss of $2. (Seems like a bad idea, but maybe the croupier is
+   cute and you’re hoping your unorthodox betting strategy will
+   make a good conversation-starter.) State-run lotteries are a
+   lot like this roulette game: if you were to bet on every
+   “pocket” (ignoring the fact that there might not be enough
+   money in the economy to enable you to do that), you’d lose big
+   time. And it stands to reason that if buying all possible
+   tickets is a bad idea, so is buying just one per week, or just
+   one this time.
+
+   But getting back to the casino example: wouldn’t it be nice if
+   the casino paid $40 rather than $36 for a winning bet? Then the
+   strategy of betting on all 38 pockets would give you a profit
+   of $2 instead of a loss of $2. A $2 profit doesn’t sound like
+   much, but the strategy scales up: bet $1000 on every pocket and
+   you’re guaranteed to make a $2000 profit. (Don’t have $38,000
+   lying around? Find some rich friends to front you the money and
+   promise to split the $2000 profit with them.) But how likely is
+   it that a casino would offer such a good deal?
+
+   Amazingly, there is a casino that operates this way. It’s a
+   floating casino that pops up from time to time, Brigadoon-like,
+   in places like Virginia and Michigan and Massachusetts. It’s
+   not a real casino, of course; it’s just various state
+   lotteries, on particular days and weeks when the expected
+   return on a ticket is greater than the cost of a ticket. In a
+   case like that, how many tickets should you buy?
+   [14]"How Not to Be Wrong", by Jordan Ellenberg.
+
+
+   “How Not to Be Wrong”, by Jordan Ellenberg.
+
+   Before I tackle that question, I want to put in a plug for the
+   book that taught me about what happened in Michigan and
+   Massachusetts: Jordan Ellenberg’s [15]“How Not to Be Wrong”.
+   It’s a lot of fun, and has things to offer a wide spectrum of
+   readers. Ellenberg discusses chance and other issues
+   informatively and entertainingly, dispensing insights that will
+   interest seasoned mathematicians and lay readers alike. You
+   might also enjoy the [16]Audible.com audio book, read by the
+   author; I found it pleasant company while driving the car,
+   walking the dog, washing the dishes, etc.
+
+
+   But let’s get back to the question about gambling. Should you
+   buy lots and lots of tickets on days when the expected payback
+   of a ticket exceeds the cost of a ticket? The kicker is the
+   word “expected”. The expected value, as defined in probability
+   theory, is an average over possible worlds, and averages can be
+   misleading. Specifically, the average value of a quantity isn’t
+   very informative in situations where the quantity varies a lot.
+   If you buy a ticket that with probability 0.99 will prove to be
+   worthless and with probability 0.01 will turn out to be worth
+   $1000, then the expected value of the ticket is $10 (that’s
+   0.99×0 + 0.01×1000), but if you’re only buying the one ticket,
+   that kind of calculation takes us into never-never land: you
+   may win $0 from your purchase, or you may win $1000, but you
+   will never-never win $10. Paradoxically, you can expect, with
+   100% certainty, that whatever you win ($1000 or $0), it will
+   not be the “expected” value ($10).
+
+   A traditional rationale for the notion of expected value is the
+   law of large numbers, which applies when you try the same
+   experiment (or make the same wager) a large number of times. If
+   you buy n of those $1 tickets, then the average payoff of your
+   n tickets (that is, the sum of their payoffs, divided by n)
+   will tend to be close to $10. But n needs to be fairly large
+   before this effect sets in. In ordinary casinos (the kind that
+   are profitable for the casino-owners), bets favor the house on
+   average, and a large number of people make bets, so that the
+   law of large numbers operates reliably in favor of the house.
+   What about lotteries? A large number of people buy tickets,
+   just as a large number of people play casino games, so when the
+   odds are against the individual buyer (as they are against the
+   individual bettor), the state can count on making money in the
+   long run.
+
+   But what about the short run, specifically in those windfall
+   weeks when the expected value of a ticket exceeds its price?
+   Many people who write about lotteries (such as the recent
+   PowerBall lottery) act as if there’s a big qualitative
+   difference between those once-in-a-blue-moon days when expected
+   winnings exceed ticket cost versus all those other days, but
+   caution is in order. Unless you spend thousands of dollars on
+   tickets, the number of tickets you buy will still count as a
+   “small” number as far as the law of large numbers is concerned,
+   so expected value is of questionable significance. On those
+   once-in-a-blue-moon days, if you buy one ticket, or even a
+   hundred, all you can really say is that your chance of winning
+   a big prize is slightly higher than usual.
+
+   There is a loophole here, which you may have noticed when I
+   wrote “unless you spend thousands of dollars on tickets”. Why
+   not spend thousands of dollars on lottery tickets when expected
+   value is in the buyer’s favor? The main reason is risk; there’s
+   a sizable chance that you’ll blow your investment with nothing
+   to show for it. But what if you bought so many tickets that
+   success was assured?
+
+   In fact, that’s just what one ticket-buying cartel in Virginia
+   did in the 1990s (as described in an entertaining Planet Money
+   podcast). The cartel’s answer to the question “How many tickets
+   should we buy?” was, correctly: All of them! They bought all
+   the possible combinations that the lottery allowed, thereby
+   assuring themselves the jackpot (or at least a share of it).
+   Virginia took a while to respond to this heist, and the cartel
+   kept creatively finding new loopholes, but eventually Virginia
+   succeeded in making it unworkable for cartels to game their
+   lottery.
+
+   What about other states? Your usual state lottery, unlike
+   Virginia’s, uses more number combinations than any cartel could
+   amass, but despite this obstacle, there may still be a way to
+   beat it every now and then using the law of large numbers.
+   That’s because many lotteries don’t have just a single big
+   jackpot prize; they award smaller prizes to people who manage
+   to guess several of the jackpot numbers. Some savvy folks
+   exploited this to game the Michigan lottery a few years later.
+   They bought many thousands of tickets, and those tickets repaid
+   the investment by reaping many small prizes. Because the small
+   prizes were one-in-a-thousand shots rather than
+   one-in-a-million shots, the law of large numbers kicked in for
+   the cartel, virtually guaranteeing a certain number of the
+   small prizes; and because those small prizes were more valuable
+   than usual that week, the cartel was virtually guaranteed a
+   profit.
+
+   Ellenberg points that the the victim here is not the state
+   running the lottery: the state still makes a profit from
+   running the game, and the extra hype and publicity generated by
+   once-in-a-blue-moon days helps fill state coffers. What the
+   cartels are doing is creating unlicensed virtual casinos that
+   piggy-back off state lotteries: by buying so many tickets that
+   the law of large numbers applies to the tickets they buy, the
+   cartels are able to enjoy the reduction of risk that
+   casino-owners count on. The real victims were all the other
+   people who poured money into the system.
+
+   A few years after the Virginia and Michigan escapades, some MIT
+   students came up with a variant of the mass-purchasing gimmick
+   that reduced the element of risk even below what the law of
+   large numbers would usually involve. When the jackpot went
+   unclaimed for a long time, the payout for matching 4 of the 6
+   jackpot numbers in the Cash WinFall game was $2,385, and the
+   chance of winning such a prize was a whopping 1/800
+   (approximately). That’s an expected payout of $2.98 per ticket,
+   well in excess of the $2 ticket price. So the MIT kids
+   apparently figured out a scheme for filling out their tickets
+   in such a way that each of the 163,185 four-number combinations
+   got represented equally often (or nearly so).
+
+   The MIT students who did this haven’t revealed exactly what
+   they did, but Ellenberg describes one particular route that the
+   students might have followed in designing their scheme. It’s
+   based on finite projective geometry, and it serves as a nice
+   example of the power of mathematical abstraction. Recall the
+   poem “Paradox” by C. R. Wylie that that I quoted in [17]Why
+   This Blog?. In describing mathematics, it refers to “the power
+   that this game, played with the thrice attenuated shades of
+   things, has over their originals”. Euclidean geometry is
+   already one step removed from the real world of stubby
+   pencil-points and wobbly lines; projective geometry, with its
+   inclusion of ideal points “at infinity”, is at a second remove;
+   and finite projective geometry, which replaces our rich, varied
+   and seemingly infinite universe with a finite set of points and
+   lines, is more abstract still. Yet somehow such constructs,
+   deployed at the right time, can make the right people a lot of
+   money.
+
+
+   A finite projective plane (the “[18]“Fano plane”“), consisting
+   of seven points and seven lines. The “points” are 1, 2, 3, 4,
+   5, 6, 7; the seven “lines” are the triples {1,2,3}, {1,4,5},
+   {2,4,6}, {3,4,7}, {1,6,7}, {3,5,6}, {2,5,7}. Each two-element
+   combination occurs exactly once among the seven triples. If
+   there were a pick-three-numbers-from-1-to-7 lottery that
+   awarded a small prize for guessing two of the day’s three lucky
+   numbers, and you bought seven tickets corresponding to the
+   seven lines in the Fano plane, you’d be certain to win either
+   the jackpot or exactly three small prizes. See Ellenberg’s book
+   for details.
+
+
+   If you’re not using a scheme like this for playing the lottery,
+   my advice for blue-moon betting is to buy just one ticket. Then
+   you’re still buying the dream of a bright fortune-filled
+   future, without having lost much money in the
+   mortgage-and-tuition-filled present. Sure, for twice the money
+   you could double your probability of winning, but that chance
+   is so small that doubling it doesn’t budge it very far away
+   from zero.
+
+   One numerical measurement of how well or badly the expected
+   value of a quantity provides meaningful information is a number
+   called the “variance”. Some other time I’ll talk about variance
+   on a more technical level, at which time I’ll address common
+   questions. But I want to keep things really accessible today.
+   So it’s enough to understand that a quantity has high variance
+   if it tends to vary a lot from its expected value, low variance
+   if it tends to vary a little, and zero variance if it’s always
+   equal to its expected value.
+
+   When you add a bunch of random quantities together, the
+   variance might go up or it might go down, depending on whether
+   the quantities are “positively correlated” or “negatively
+   correlated”. (Loosely speaking, two quantities X and Y are
+   positively correlated if, when one of them is large, the other
+   tends to be large as well, and vice versa; they’re negatively
+   correlated if, when one of them is large, the other tends to be
+   small, and vice versa.) We can see this dichotomy at work in
+   our roulette example. If you bet on just on pocket, there’s
+   some unpredictability to what you’ll win, and if you place 38
+   bets on that same pocket, the difference between your best case
+   scenario and your worst case scenario only gets wider. But if
+   you place one bet on each pocket, then your bets, taken
+   together, exhibit no variance at all: exactly one of your bets
+   will win, and the rest will lose. In the former situation (38
+   bets on the same pocket), your bets are positively correlated
+   with one another; in the latter situation (38 bets on different
+   pockets), your bets are negatively correlated with one another,
+   and indeed, the negative correlation causes their individual
+   variances to cancel out. This sort of negative correlation is
+   exactly what the Massachusetts cartel achieved.
+
+   There’s a lot more to say about lotteries than I have time to
+   get into here. For starters, there’s the issue of whether the
+   value of the jackpot is what it seems to be. I don’t just mean
+   that you need to take into account the payout schedule, and
+   income taxes, and the costs of managing your newfound wealth,
+   and the chance that you’ll have to share the jackpot with other
+   winners; there’s also the fact that gaining a billion dollars
+   probably won’t make you a thousand times happier than gaining a
+   mere million will, and this nonlinear relationship between
+   money and happiness (or, in more technical language, between
+   money and “utility”) makes the whole idea of the expected value
+   of a lottery ticket even more suspect. To find out more, read
+   Ellenberg’s book!
+
+   One pre-reader of this essay, who is both a mathematician and a
+   poker player, pointed out a flaw in my thinking in the passage
+   where I wrote “Unless you spend thousands of dollars on
+   tickets, the number of tickets you buy will still count as a
+   small number as far as the law of large numbers is concerned,
+   so expected value is of questionable significance.” My mistake
+   lay in thinking of playing one particular lottery as an
+   isolated event in a person’s life. Throughout your life you’ll
+   have many chances to take chances. If the gambles are small
+   ones, so that risk isn’t an issue, then your best policy is to
+   take precisely those gambles that have positive expected value.
+   Even if all the gambles are one-shot deals different in
+   character from one another, as long as they are statistically
+   independent of each other, a version of the law of large
+   numbers will still apply.
+
+   Also, one can quibble with my earlier assertion “And it stands
+   to reason that if buying all possible tickets is a bad idea, so
+   is buying just one per week, or just one this time”; Ellenberg
+   himself would probably fault it for being unduly glib, though
+   not actually wrong. One of the main themes of Ellenberg’s book
+   is that lots of thing in life aren’t linear; it’s not true in
+   every situation that if a little bit of something is good,
+   twice as much is necessarily better, let alone exactly twice as
+   good. But some things do behave linearly, and expected value
+   (as Ellenberg himself stresses) is one of them.
+
+   Here are three puzzles (of the popular “hat puzzle” variety)
+   that may at first seem far removed from the subject matter of
+   this essay, but which, properly considered, are about designing
+   schemes that make the variance of some quantity as small (or as
+   large) as possible.
+
+   Puzzle #1: A jail contains 100 prisoners. (We’ll assume that
+   all the prisoners are male to make the pronouns simpler; we’ll
+   let the jailer be female.) The prisoners have been blindfolded,
+   and hats have been placed on their heads. Each hat is either
+   red or blue in accordance with the outcome of a coin flip, but
+   these flips were done by the jailer and were not revealed to
+   the prisoners. The jailer tells the prisoners that in a few
+   minutes, the blindfolds will be removed so that each prisoner
+   can see everyone’s hat but his own. At that point, without
+   communicating with anyone else about what he sees, each
+   prisoner will be required to write on a slip of paper a
+   prediction of the color of his hat; if at least half of the
+   prisoners are right, they will all be spared, but if more than
+   half are wrong, they will all be executed. With a great show of
+   magnanimity, the jailer lets the blindfolded prisoners converse
+   and strategize, secretly confident that they will derive no
+   benefit from their conversation, since none of them has any
+   information about anyone’s hat color yet. Is there some
+   strategy that will guarantee the prisoners’ survival?
+
+   This is not a think-outside-the-box puzzle (unless the “box” is
+   the jailer’s error of thinking that collective strategizing is
+   useless, or the error of restricting oneself to strategies that
+   treat all the prisoners the same way). As an example of a
+   strategy that doesn’t solve the problem, but comes close,
+   consider the strategy suggested by pre-reader David Jacobi: The
+   prisoners agree that when the blindfolds are removed, each
+   prisoner will look at the other 99 prisoners, see which
+   hat-color the majority of those 99 prisoners have on their
+   heads, and then guess that his hat will be that color too. As
+   long as there is an initial imbalance between blue and red, you
+   can check that this strategy will lead to a majority of the
+   prisoners guessing correctly (and hence to all of the prisoners
+   being spared). Unfortunately, if 50 of the prisoners have red
+   hats and 50 have blue hats (as will happen about 8% of the
+   time), all 100 prisoners will guess wrong, and all will be
+   killed.
+
+   If you think that this is the best you can do, try thinking
+   harder. If it helps, replace the number 100 by the number 2 to
+   get started.
+
+   Puzzle #2: This is similar to puzzle #1, except that this time,
+   the jailer says that she will execute everyone unless ALL
+   guesses are correct. Since each of the 100 prisoners has a 1/2
+   chance of guessing correctly, it would seem that the chance
+   that all 100 will guess correctly would be 1/2 to the power of
+   100, which is minuscule: surely the prisoners are doomed. But
+   this analysis assumes that the prisoners act independently of
+   one another, which they are not required to do; remember, they
+   may agree to a strategy in advance. Is there a strategy that
+   gives the group a 50% chance of survival?
+
+   (The solution to puzzle #1 that appears below may be useful for
+   solving puzzle #2, and vice versa.)
+
+   Puzzle #3: Now there are just three prisoners. The jailer says
+   that a prisoner may opt to pass (that is, to decline to guess),
+   but she requires that at least one prisoner guess the color of
+   his hat, and she says that unless every guess that is made is
+   correct, all three prisoners will die. It is true that each
+   guess that is made has a 50% chance of being right and a 50%
+   chance of being wrong. Nonetheless, there is a strategy that,
+   with 75% probability, will lead to survival for the prisoners.
+   Can you find such a strategy?
+
+   There is a magic trick related to puzzle #2. Some magicians
+   (five, say) are blindfolded, and a member of the audience puts
+   a dot on each one’s forehead, using either a red pen or a blue
+   pen, in any fashion she likes, before the blindfolds are
+   removed. Then, in succession, the magicians are asked to
+   predict the colors of the dots (learning as they go whether
+   their guesses were right or wrong). Miraculously, every
+   prediction that is made is correct, with the possible exception
+   of the first prediction! The five magicians assure the audience
+   that the trick is a purely mathematical one, and that they are
+   not communicating in any way after their blindfolds are
+   removed, except for the fact that each of them hears the
+   predictions that are made (and learns which predictions are
+   right). So how do they do it?
+
+   Next month (March 17): Believe It, Then Don’t.
+
+   Thanks to Jordan Ellenberg, Sandi Gubin, Dan Halbert, David
+   Jacobi, Brent Meeker, James Tanton and Peter Winkler.
+
+   ENDNOTES
+
+   Puzzle #1: Since each prisoner’s guess has a 50% chance of
+   being correct, the expected number of correct guesses among the
+   100 prisoners is 50. On the other hand, the only way the
+   prisoners can survive is if at least 50 guesses are right. So
+   if the prisoners are to guarantee their survival, they must
+   find a scheme that ensures that no matter what happens, 50 of
+   them will guess right and 50 of them will guess wrong. (Do you
+   see why? If there were situations in which more than 50 of them
+   guessed correctly, there would also have to be counterbalancing
+   situations in which fewer than 50 of them guessed correctly;
+   otherwise the expected number of correct guesses couldn’t be
+   exactly 50. And every situation in which fewer than 50 of the
+   prisoners guess correctly is a situation in which all the
+   prisoners die.)
+
+   While this partial analysis of the problem doesn’t give a
+   strategy for the prisoners, it does point us in the right
+   direction, by constraining the sorts of strategies we might
+   want to consider.
+
+   Here’s the strategy I like best: when the prisoners confer,
+   they divide themselves into two equal-sized groups. Prisoners
+   in group A will predict their own hat colors based on the
+   assumption that an even number of the hundred prisoners are
+   wearing red hats; prisoners in group B will predict their own
+   hat colors based on the assumption that an odd number of the
+   hundred prisoners are wearing red hats. (For instance, if a
+   prisoner in group A looks around at his 99 fellow prisoners and
+   sees an odd number of red hats, he will predict that his own
+   hat is red, since that will make the total number of red hats
+   even.) Depending on the actual number of red hats worn by the
+   100 prisoners, either everyone in group A will guess correctly
+   and everyone in group B will guess incorrectly, or vice versa.
+   Either way, half of the prisoners will be right, so everyone
+   will be spared.
+
+   Puzzle #2: When the prisoners confer, they agree that they will
+   all predict their own hat colors based on the assumption that
+   an even number of prisoners are wearing red hats. If this
+   assumption is correct, all prisoners will guess correctly (and
+   all will be spared); if the assumption is incorrect, all
+   prisoners will guess incorrectly (and all will be killed). The
+   two outcomes are equally likely, so the prisoners survive with
+   probability 50%. No scheme can do better than this, since each
+   prisoner has a 50% chance of being wrong. (In particular, the
+   first prisoner that the jailer asks has a 50% chance of being
+   wrong right off the bat.)
+
+   It’s illuminating to compare the strategy for puzzle #2 with
+   the strategy for puzzle #1. In both puzzles, each individual
+   guess has a 50% chance of being correct, so that the expected
+   number of correct guesses is 50, but there the resemblance
+   ends. In puzzle #1, the number of correct guesses is always
+   exactly 50 (the variance is as small as possible). In puzzle
+   100 (the variance is as large as possible).
+
+   Puzzle #3: This variant is due to Todd Ebert. A prisoner who
+   sees two hats of two different colors should pass; a prisoner
+   who sees two hats of the same color should predict that his own
+   hat is of the opposite color from what he sees. 25% of the
+   time, when all three hats are the same color, this strategy
+   will cause all three prisoners to guess wrong; but the rest of
+   the time, the odd man out will correctly guess his own hat
+   color, and the other two will keep silent, resulting in
+   survival for all three. In the eight different possible worlds,
+   there are six life-saving correct guesses and six fatal wrong
+   guesses, but they aren’t evenly spread among the eight possible
+   worlds; two of the worlds contain all the wrong guesses (three
+   per world) while the other six worlds contain all the correct
+   guesses (one per world). That’s why, even though the incorrect
+   guesses are just as numerous as the correct guesses, it’s the
+   latter that prevail in six-eighths of the parallel worlds.
+
+   If you find puzzle #3 intriguing, and want to try something
+   along similar lines but harder, try it with 7 or 15 prisoners
+   instead of 3. (When the number of prisoners is 2^n −1, there is
+   an elegant way to ensure that the probability of survival is
+   1−(1/2)^n , described in Ezra Brown and James Tanton’s article;
+   when the number of prisoners is not one less than a power of
+   two, no general formula is known for the optimal probability of
+   survival.)
+
+   The magic trick that I described is based on puzzle #2, but
+   with a twist. Once the audience-member who drew the dots
+   reveals whether the first magician’s prediction was correct or
+   not, the other four magicians know whether the total number of
+   red dots on their foreheads is even or odd, and hence by
+   looking at each other’s foreheads can predict with complete
+   accuracy the colors of their own dots. In a variant of the
+   trick (feasible if the magicians are good psychologists), the
+   audience-member is not asked whether the first prediction was
+   right, or the second, etc. But she is likely to have some sort
+   of noticeable reaction (a “tell”) that reveals to the magicians
+   whether the first prediction announced was right or wrong, and
+   they can base their answers on that.
+
+   REFERENCES
+
+   Ezra Brown and James Tanton, [19]“A Dozen Hat Problems”. (If
+   you have trouble downloading Ezra Brown’s private copy, try
+   [20]mine.)
+
+
+   Jordan Ellenberg, [21]How Not to Be Wrong. See the chapter
+   “What to Expect When You’re Expecting to Win the Lottery”.
+
+
+   (I bought my copy of “How Not To Be Wrong” at [22]Porter Square
+   Books in Cambridge, MA. You can buy your own copy at your local
+   independent bookstore — if you don’t know of any, visit the
+   [23]Indie Store Finder — or order one from [24]AbeBooks;
+   AbeBooks is now owned by Amazon, alas, but it’s the closest
+   thing you’ll find to an on-line syndicate of independent
+   booksellers. If you buy something I’ve recommended from a local
+   independent bookstore, please consider posting a comment to
+   that effect, so that over time I can compile a database of
+   bookstores that carry the sorts of books that I tend to
+   recommend on this blog. Ditto for independent sellers of
+   mathematical games, puzzles, and toys, such as [25]Eureka
+   Puzzles in Brookline, MA.)
+
+
+   The Planet Money [26]podcast on lotteries (including the one in
+   Virginia).
+
+
+   Benjamin Kirk in [27]14850 Magazine: [28]An Ithaca High School
+   math teacher muses on the statistical value of buying a
+   Powerball ticket.
+
+
+

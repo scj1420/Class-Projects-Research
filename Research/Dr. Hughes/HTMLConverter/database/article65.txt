@@ -1,0 +1,51 @@
+Hilbert's hotel
+
+   By
+   Marianne Freiberger
+   Submitted by Marianne on February 13, 2017
+
+   Suppose you're a hotel manager and your hotel is full. That's
+   great, of course, but there's always the temptation to squeeze
+   in more guests. In real life, this might mean clearing out the
+   broom cupboards and getting bad reviews on Trip Advisor, but in
+   the world of maths it's no problem. As long as your hotel has
+   infinitely many rooms, that is.
+   Hotel
+
+   Welcome to Hilbert's hotel!
+
+   The idea goes back to the German mathematician [17]David
+   Hilbert, who used the example of a hotel to demonstrate the
+   counter-intuitive games you can play with infinity. Suppose
+   that your hotel has infinitely many rooms, numbered 1, 2, 3,
+   etc. All rooms are occupied, when a new guest arrives and asks
+   to be put up. What do you do? It's easy. Ask the guest in room
+   1 to move to room 2, the guest in room 2 to move into room 3,
+   the guest in room 3 to move into room 4, and so on. If there
+   were only finitely many rooms, the guest in the last room would
+   have nowhere to go, but since there are infinitely many,
+   everybody will find a new abode. You'll have to ask the guests
+   to move simultaneously though, because if you ask them to move
+   one after the other, the move might take an infinite amount of
+   time, since infinitely many guests have to move.
+
+
+   Using this trick you can actually accommodate any finite number
+   of new guests. If $n$ new guests arrive, simply ask each
+   existing guest to move to the room whose number is $n$ plus the
+   number of their existing room. As an example, if there are $8$
+   new guests, then the guest currently in room $10$ needs to move
+   into room $10+8=18$ .
+
+   But things get better still. Suppose an infinite number of new
+   guests arrive, forming an orderly queue outside the hotel. In
+   this case, ask each existing guest to move into the room whose
+   number is twice the number of their current room. So, a guest
+   staying in room $x$ moves to room $2x$ . After this manoeuvre
+   only the even numbered rooms are occupied: rooms $2 = 2 \times
+   1$ , $4 = 2 \times 2$ , $6 = 2 \times 3$ , and so on. The odd
+   numbered rooms are all free, so you can put your first new
+   guest into room 1, the second new guest into room 3, the third
+   new guest into room 5, and so on. Everybody is happy.
+
+

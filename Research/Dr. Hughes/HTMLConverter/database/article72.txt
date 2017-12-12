@@ -1,0 +1,160 @@
+Relation to Gaussian integers[[188]edit]
+
+
+   Alternatively, Euclid's formulae can be analyzed and proven
+   using the [189]Gaussian integers.^[190][24] Gaussian integers
+   are [191]complex numbers of the form α = u + vi, where u and v
+   are ordinary [192]integers and i is the [193]square root of
+   negative one. The [194]units of Gaussian integers are ±1 and
+   ±i. The ordinary integers are called the [195]rational integers
+   and denoted as Z. The Gaussian integers are denoted as Z[i].
+   The right-hand side of the [196]Pythagorean theorem may be
+   factored in Gaussian integers:
+
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0"> <msup>
+          <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>=</mo> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>+</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>=</mo> <mo stretchy="false">(</mo> <mi>a</mi>
+          <mo>+</mo> <mi>b</mi> <mi>i</mi> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mover> <mrow> <mo stretchy="false">(</mo> <mi>a</mi>
+          <mo>+</mo> <mi>b</mi> <mi>i</mi> <mo
+          stretchy="false">)</mo> </mrow> <mo
+          accent="false">¯</mo> </mover> </mrow> <mo>=</mo> <mo
+          stretchy="false">(</mo> <mi>a</mi> <mo>+</mo> <mi>b</mi>
+          <mi>i</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <mi>a</mi> <mo>−</mo> <mi>b</mi>
+          <mi>i</mi> <mo stretchy="false">)</mo> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          c^{2}=a^{2}+b^{2}=(a+bi){\overline
+          {(a+bi)}}=(a+bi)(a-bi).}</annotation> </semantics>
+          :MATH]
+          c^{2}=a^{2}+b^{2}=(a+bi){\overline
+          {(a+bi)}}=(a+bi)(a-bi).
+
+   A primitive Pythagorean triple is one in which a and b are
+   [197]coprime, i.e., they share no prime factors in the
+   integers. For such a triple, either a or b is even, and the
+   other is odd; from this, it follows that c is also odd.
+
+
+   The two factors z := a + bi and z* := a − bi of a primitive
+   Pythagorean triple each equal the square of a Gaussian integer.
+   This can be proved using the property that every Gaussian
+   integer can be factored uniquely into Gaussian primes [198]up
+   to [199]units.^[200][25] (This unique factorization follows
+   from the fact that, roughly speaking, a version of the
+   [201]Euclidean algorithm can be defined on them.) The proof has
+   three steps. First, if a and b share no prime factors in the
+   integers, then they also share no prime factors in the Gaussian
+   integers. (Assume a = gu and b = gv with Gaussian integers g, u
+   and v and g not a unit. Then u and v lie on the same line
+   through the origin. All Gaussian integers on such a line are
+   integer multiples of some Gaussian integer h. But then the
+   integer gh ≠ ±1 divides both a and b.) Second, it follows that
+   z and z* likewise share no prime factors in the Gaussian
+   integers. For if they did, then their common divisor δ would
+   also divide z + z* = 2a and z − z* = 2ib. Since a and b are
+   coprime, that implies that δ divides 2 = (1 + i)(1 − i)
+   = i(1 − i)^2. From the formula c^2 = zz*, that in turn would
+   imply that c is even, contrary to the hypothesis of a primitive
+   Pythagorean triple. Third, since c^2 is a square, every
+   Gaussian prime in its factorization is doubled, i.e., appears
+   an even number of times. Since z and z* share no prime factors,
+   this doubling is also true for them. Hence, z and z* are
+   squares.
+
+
+   Thus, the first factor can be written
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0"> <mi>a</mi>
+          <mo>+</mo> <mi>b</mi> <mi>i</mi> <mo>=</mo> <mi>ε</mi>
+          <msup> <mrow> <mo>(</mo> <mi>m</mi> <mo>+</mo>
+          <mi>n</mi> <mi>i</mi> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>,</mo> <mspace width="1em" /> <mi>ε</mi> <mo>∈</mo>
+          <mo fence="false" stretchy="false">{</mo> <mo>±</mo>
+          <mn>1</mn> <mo>,</mo> <mo>±</mo> <mi>i</mi> <mo
+          fence="false" stretchy="false">}</mo> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          a+bi=\varepsilon \left(m+ni\right)^{2},\quad \varepsilon
+          \in \{\pm 1,\pm i\}.}</annotation> </semantics> :MATH]
+          a+bi=\varepsilon \left(m+ni\right)^{2},\quad \varepsilon
+          \in \{\pm 1,\pm i\}.
+
+   The real and imaginary parts of this equation give the two
+   formulas:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+          columnalign="left left" rowspacing=".2em"
+          columnspacing="1em" displaystyle="false"> <mtr> <mtd>
+          <mi>ε</mi> <mo>=</mo> <mo>+</mo> <mn>1</mn> <mo>,</mo>
+          </mtd> <mtd> <mspace width="1em" /> <mi>a</mi>
+          <mo>=</mo> <mo>+</mo> <mrow> <mo>(</mo> <msup>
+          <mi>m</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>−</mo> <msup> <mi>n</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>)</mo> </mrow> <mo>,</mo> <mspace width="1em" />
+          <mi>b</mi> <mo>=</mo> <mo>+</mo> <mn>2</mn> <mi>m</mi>
+          <mi>n</mi> <mo>;</mo> </mtd> </mtr> <mtr> <mtd>
+          <mi>ε</mi> <mo>=</mo> <mo>−</mo> <mn>1</mn> <mo>,</mo>
+          </mtd> <mtd> <mspace width="1em" /> <mi>a</mi>
+          <mo>=</mo> <mo>−</mo> <mrow> <mo>(</mo> <msup>
+          <mi>m</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>−</mo> <msup> <mi>n</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>)</mo> </mrow> <mo>,</mo> <mspace width="1em" />
+          <mi>b</mi> <mo>=</mo> <mo>−</mo> <mn>2</mn> <mi>m</mi>
+          <mi>n</mi> <mo>;</mo> </mtd> </mtr> <mtr> <mtd>
+          <mi>ε</mi> <mo>=</mo> <mo>+</mo> <mi>i</mi> <mo>,</mo>
+          </mtd> <mtd> <mspace width="1em" /> <mi>a</mi>
+          <mo>=</mo> <mo>−</mo> <mn>2</mn> <mi>m</mi> <mi>n</mi>
+          <mo>,</mo> <mspace width="1em" /> <mi>b</mi> <mo>=</mo>
+          <mo>+</mo> <mrow> <mo>(</mo> <msup> <mi>m</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>−</mo> <msup> <mi>n</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>)</mo> </mrow> <mo>;</mo> </mtd> </mtr> <mtr> <mtd>
+          <mi>ε</mi> <mo>=</mo> <mo>−</mo> <mi>i</mi> <mo>,</mo>
+          </mtd> <mtd> <mspace width="1em" /> <mi>a</mi>
+          <mo>=</mo> <mo>+</mo> <mn>2</mn> <mi>m</mi> <mi>n</mi>
+          <mo>,</mo> <mspace width="1em" /> <mi>b</mi> <mo>=</mo>
+          <mo>−</mo> <mrow> <mo>(</mo> <msup> <mi>m</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>−</mo> <msup> <mi>n</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>)</mo> </mrow> <mo>.</mo> </mtd> </mtr> </mtable>
+          <mo fence="true" stretchy="true"></mo> </mrow> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{cases}\varepsilon =+1,&\quad
+          a=+\left(m^{2}-n^{2}\right),\quad b=+2mn;\\\varepsilon
+          =-1,&\quad a=-\left(m^{2}-n^{2}\right),\quad
+          b=-2mn;\\\varepsilon =+i,&\quad a=-2mn,\quad
+          b=+\left(m^{2}-n^{2}\right);\\\varepsilon =-i,&\quad
+          a=+2mn,\quad
+          b=-\left(m^{2}-n^{2}\right).\end{cases}}}</annotation>
+          </semantics> :MATH]
+          {\begin{cases}\varepsilon =+1,&\quad
+          a=+\left(m^{2}-n^{2}\right),\quad b=+2mn;\\\varepsilon
+          =-1,&\quad a=-\left(m^{2}-n^{2}\right),\quad
+          b=-2mn;\\\varepsilon =+i,&\quad a=-2mn,\quad
+          b=+\left(m^{2}-n^{2}\right);\\\varepsilon =-i,&\quad
+          a=+2mn,\quad b=-\left(m^{2}-n^{2}\right).\end{cases}}
+
+   For any primitive Pythagorean triple, there must be integers m
+   and n such that these two equations are satisfied. Hence, every
+   Pythagorean triple can be generated from some choice of these
+   integers.
+
+

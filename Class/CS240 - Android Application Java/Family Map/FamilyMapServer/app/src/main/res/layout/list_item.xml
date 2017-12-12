@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/search_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/search_image_view"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_gravity="center_vertical"/>
+
+    <TextView
+        android:id="@+id/search_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/search_image_view"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:text="(Person Name) or (Event information)"/>
+
+    <TextView
+        android:id="@+id/search_subdescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/search_description"
+        android:layout_toRightOf="@+id/search_image_view"
+        android:paddingLeft="10dp"
+        android:text="([blank]) or (Person Name)"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,106 @@
+Geometric Measure Theory: A Beginner's Guide
+
+   Frank Morgan
+   Publisher:
+   Academic Press
+   Publication Date:
+   2016
+   Number of Pages:
+   263
+   Format:
+   Hardcover
+   Edition:
+   5
+   Price:
+   99.95
+   ISBN:
+   9780128044896
+   Category:
+   Textbook
+   BLL Rating:
+   [307]BLL
+
+
+   The Basic Library List Committee suggests that undergraduate
+   mathematics libraries consider this book for acquisition.
+
+
+
+   [Reviewed by
+   William J. Satzer
+   , on
+   11/29/2016
+   ]
+
+   This is the fifth edition of an introductory text for graduate
+   students. Morgan describes geometric measure theory as
+   “differential geometry, generalized through measure theory to
+   deal with maps and surfaces that are not necessarily smooth,
+   and applied to the calculus of variations”. He calls the book
+   an illustrated introduction, and his treatment is friendly
+   enough (though still rigorous) that it does not intimidate.
+   (Immediate intimidation was the effect on me some years ago by
+   Federer’s book on the same subject.)
+
+   It’s still not an easy subject. But Morgan’s treatment
+   skillfully draws on the reader’s intuition, and uses historical
+   connections to develop the critical ideas and place them in a
+   broader context. Morgan is very good at explaining how all the
+   pieces fit together, what matters most and why the difficult
+   parts are difficult. He is adept at using pictures to explain
+   the importance of the main ideas. His focus is on geometry.
+   Most of the hard results (largely analytical in character) are
+   not proved here.
+
+   The book is divided into two parts of about equal length. The
+   first part develops the basic theory, and the second takes up
+   applications. Using the archetypal example of finding the
+   surface of least area in \(\mathbb{R}^n\) with a given
+   boundary, Morgan describes how an approach using the concept of
+   rectifiable currents gives a natural topology on the space of
+   surfaces that is dual to an appropriate topology on
+   differential forms. A key result of the first part is the
+   existence of area-minimizing surfaces in \(\mathbb{R}^n\). Its
+   proof depends on Federer’s compactness theorem, which Federer
+   proved using his own amazing result on the structure of
+   arbitrary subsets of \(\mathbb{R}^n\).
+
+   A highlight of the second part is a sketch of the proof in
+   \(\mathbb{R}^3\) of the Double Bubble conjecture: the familiar
+   standard double soap bubble consisting of three spherical caps
+   meeting at 120 degrees along a common circle encloses two
+   prescribed volumes in \(\mathbb{R}^3\) with the minimum surface
+   area. (An analogous result holds in \(\mathbb{R}^n\).)
+
+   Other conjectures and failed conjectures appear here too. The
+   Hexagonal Honeycomb Conjecture says that regular hexagons
+   provide the most efficient (least perimeter) way to divide the
+   plane into unit areas. Thomas Hales proved the result in 1999,
+   and a sketch is given here; its proof depends on a fairly
+   intricate isoperimetric inequality. A failed conjecture due to
+   Lord Kelvin states that truncated octahedrons partition
+   three-dimensional space into regions of unit volumes with the
+   least surface area. Weaire and Phelan, inspired by the natural
+   crystal structure of a clathrate compound, found a
+   counterexample in 1999. It beats Kelvin’s idea by a bare 0.3%.
+
+   Two other topics here might be of potentially broader interest.
+   Both concern the current hot topic of manifolds with density.
+   The first is a brief treatment of the use of this idea by
+   Perelman in his proof of the Poincaré conjecture. The second is
+   Chambers log-convex density theorem: balls about the origin are
+   isoperimetric for a smooth radial density if and only if the
+   log of the density is convex.
+
+   Morgan’s book offers the best access I know into this difficult
+   subject. It won’t make the reader an expert, but it does open
+   the door to more detailed treatments. An excellent bibliography
+   is provided.
+     __________________________________________________________
+
+   Bill Satzer ([310]bsatzer@gmail.com) was a senior intellectual
+   property scientist at 3M Company. His training is in dynamical
+   systems and particularly celestial mechanics; his current
+   interests are broadly in applied mathematics and the teaching
+   of mathematics.
+

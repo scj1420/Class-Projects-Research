@@ -1,0 +1,134 @@
+How Long Will You Be Stuck Playing This Bar Game?
+
+   Edited by Oliver Roeder
+
+   Filed under [15]The Riddler
+
+
+
+
+
+   Illustration by Guillaume Kurkdjian
+
+   Welcome to The Riddler. Every week, I offer up a problem
+   related to the things we hold dear around here: math, logic and
+   probability. These problems, puzzles and riddles come from lots
+   of top-notch puzzle folks around the world — including you!
+   You’ll find this week’s puzzle below.
+
+   Mull it over on your commute, dissect it on your lunch break
+   and argue about it with your friends and lovers. When you’re
+   ready, submit your answer using the link below. I’ll reveal the
+   solution next week, and a correct submission (chosen at random)
+   will earn a shoutout in this column. Important small print: To
+   be eligible, I need to receive your correct answer before 11:59
+   p.m. EDT on Sunday — have a great weekend!
+
+   Before we get to the new puzzle, let’s return to [19]last
+   week’s. Congratulations to 👏 Nathan Rooy 👏 of Cincinnati, our
+   big winner. You can find a solution to the previous Riddler at
+   the bottom of this post.
+
+
+   Now here’s this week’s Riddler, a pub game puzzle that comes to
+   us from James Cherry, an electrical engineer from Waterloo,
+   Ontario.
+     __________________________________________________________
+
+   Consider a hot new bar game. It’s played with a coin, between
+   you and a friend, on a [20]number line stretching from negative
+   infinity to positive infinity. (It’s a very, very long bar.)
+   You are assigned a winning number, the negative integer -X, and
+   your friend is assigned his own winning number, a positive
+   integer, +Y. A marker is placed at zero on the number line.
+   Then the coin is repeatedly flipped. Every time the coin lands
+   heads, the marker is moved one integer in a positive direction.
+   Every time the coin lands tails, the marker moves one integer
+   in a negative direction. You win if the coin reaches -X first,
+   while your friend wins if the coin reaches +Y first. (Winner
+   keeps the coin.)
+
+
+   How long can you expect to sit, flipping a coin, at the bar?
+   Put another way, what is the expected number of coin flips in a
+   complete game?
+
+   [21]Submit your answer
+   Need a hint? You can try [22]asking me nicely. Want to submit a
+   new puzzle or problem? [23]Email me.
+     __________________________________________________________
+
+     [23] mailto:oliver.roeder@fivethirtyeight.com
+
+   [24]Last week’s Riddler concerned an archvillain who was
+   slicing the pentagonal Riddler headquarters in half with a
+   powerful laser. To recap the details: In-house mathematicians
+   were tasked with moving sensitive riddling equipment to the
+   safer locations in the headquarters. Your job was to identify
+   those parts of the building that were at especially high risk
+   of being zapped and, for extra credit, to calculate their area.
+   Our solution comes to us from an anonymous philosopher.
+
+
+   The solution put simply: Keep away from the center! The
+   pentagon’s area [25]bisectors intersect near that point,
+   raising the odds that central regions will be zapped. The
+   perimeter is safest, and if archvillain Laser Larry randomizes
+   his laser attack uniformly over perimeter points rather than
+   angle, the middles of the sides are the safest of the safe.
+
+
+   For an even-sided regular polygon, such as a square, all area
+   bisectors intersect at the center point itself, making it the
+   most dangerous place, and danger decreases with distance from
+   it. But for an odd-sided polygon, such as our pentagon, the
+   most dangerous places are still where bisectors intersect, but
+   it is not true that all bisectors intersect at a single point.
+   That’s where things get interesting.
+
+   When we examine all the possible paths along which Laser Larry
+   might slice our building in half, some especially dangerous
+   points emerge that take the shape of a curvy star. These are
+   the points that are sliced by multiple possible laser
+   bisectors. It looks like this:
+
+     [26]#Riddler animation: Laser Larry sweeping through a
+     [29]pic.twitter.com/YCatQLI7Pr
+
+
+     — Zach Wissner-Gross (@xaqwg) [30]July 9, 2016
+
+
+   Steer clear of the curvy star.
+
+   For much, much more on the deep math underlying this problem,
+   and methods to calculate the area of the star-shaped danger
+   zone, see the rest of the [31]full solution provided by the
+   anonymous philosopher. (Editor’s warning: The solution is
+   exhaustive, to say the least, and [32]corybantic, to say the
+   most, and you certainly needn’t have worked out all its pieces
+   to answer the problem correctly. But the puzzle is so cool and
+   rich I’ve included it all there for the riddling record.) For
+   some other takes, see these analyses from our winner,
+   [33]Nathan, and from [34]Laurent Lessard.
+
+
+   Elsewhere in the puzzling world:
+
+
+
+       math proof. [[38]Nature]
+
+
+   Have a super weekend! Keep away from lasers.
+
+   Oliver Roeder is a senior writer for FiveThirtyEight.
+   [39]@ollie
+
+
+   Filed under
+
+   [40]The Riddler (76 posts)
+
+
+

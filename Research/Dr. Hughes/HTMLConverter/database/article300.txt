@@ -1,0 +1,15 @@
+Problem
+
+   There is a lightbulb inside a closet. The door is closed, and
+   you cannot see if the light is on or off through the door.
+   However, you know the light is off to start. Outside of the
+   closet, there are three light switches. One of the switches
+   controls the lightbulb in the closet. You can flip the switches
+   however you want, but once you open the door, you can no longer
+   touch the switches.
+   Advertisement - Continue Reading Below
+
+   How do you figure out without a doubt which switch controls the
+   light?
+
+

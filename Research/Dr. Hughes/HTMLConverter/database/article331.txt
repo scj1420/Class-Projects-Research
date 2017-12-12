@@ -1,0 +1,63 @@
+The Wednesday Morning Math Challenge: Week 5
+
+   Oct 12 2016
+   Photos by Simon Bruty/Players' Tribune
+   Share
+   [10]Share
+   John Urschel, Offensive Lineman / Baltimore Ravens - The
+   Players' Tribune
+   [11]John Urschel
+   Offensive Lineman / Baltimore Ravens
+
+
+   Welcome to Week 5 of the Wednesday Morning Math Challenge.
+   [12]You can find solutions to the Week 4 puzzles here, along
+   with — more importantly — discussions of some ways to approach
+   them. Remember that the real goal here is to think creatively.
+
+
+   This week I have three puzzles from my favorite puzzle book,
+   The Moscow Puzzles. Translated from Russian, this is the most
+   popular puzzle book ever published in the Soviet Union. [13]You
+   can check out the book here.
+
+
+   Here are three puzzles from the book, involving checkers.
+     __________________________________________________________
+
+   checkers
+
+   1. Jumping Checkers
+
+   Place 3 white checkers in squares 1, 2, and 3 of the figure,
+   and 3 black ones on the squares 5, 6, and 7. Shift the white
+   checkers to the squares occupied by the black ones, and vice
+   versa. You may move a checker forward to the adjacent
+   unoccupied square, if any. You may jump a checker forward over
+   an adjacent checker into the vacant square. The solution
+   requires 15 moves.
+
+   2. White and Black
+
+   Take 4 black and 4 white checkers (or 4 pennies and 4 other
+   coins) and put them on a table in a row, white, black, and so
+   on. Leave a vacant place at one end which can hold 2 checkers.
+   After 4 moves, all the black checkers should be on one side and
+   the white ones on the other.
+
+   A move consists of shifting 2 adjacent checkers, keeping their
+   order, into any vacant space.
+
+   3. Complicating the Problem
+
+   In the last problem, 8 checkers took 4 moves. Show how 10
+   checkers take 5 moves, 12 take 6, and 14 take 7.
+   [14]John Urschel / Advanced Stats Columnist
+   [15]Loading
+
+
+    More Articles
+
+   Larry Fitzgerald / Contributing Editor
+
+

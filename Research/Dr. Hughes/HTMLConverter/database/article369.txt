@@ -1,0 +1,174 @@
+[23]Rewriting Life
+
+
+How the Mathematics of Algebraic Topology Is Revolutionizing Brain
+Science
+
+Nobody understands the brain’s wiring diagram, but the tools of
+algebraic topology are beginning to tease it apart.
+
+
+
+
+   The human connectome is the network of links between different
+   parts of the brain. These links are mapped out by the brain’s
+   white matter—bundles of nerve cell projections called axons
+   that connect the nerve cell bodies that make up gray matter.
+
+   The conventional view of the brain is that the gray matter is
+   primarily involved in information processing and cognition,
+   while white matter transmits information between different
+   parts of the brain. The structure of white matter—the
+   connectome—is essentially the brain’s wiring diagram.
+
+   This structure is poorly understood, but there are several
+   high-profile projects to study it. This work shows that the
+   connectome is much more complex than originally thought. The
+   human brain contains some 10^10 neurons linked by
+   10^14 synaptic connections. Mapping the way this link together
+   is a tricky business, not least because the structure of the
+   network depends on the resolution at which it is examined.
+
+   This work is also uncovering evidence that the white matter
+   plays a much more significant role than first thought in
+   learning and coordinating the brain’s activity.  But exactly
+   how this role is linked to the structure is not known.
+   [neural-cycles.jpg?sw=600&amp;cx=72&amp;cy=0&amp;cw=848&amp;ch=
+   354]
+
+   So understanding this structure over vastly different scales is
+   one of the great challenges of neuroscience; but one that is
+   hindered by a lack of appropriate mathematical tools.
+
+   Today, that looks set to change thanks to the mathematical
+   field of algebraic topology, which neurologists are gradually
+   coming to grips with for the first time. This discipline has
+   traditionally been an arcane pursuit for classifying spaces and
+   shapes.  Now Ann Sizemore at the University of Pennsylvania and
+   a few pals show how it is beginning to revolutionize our
+   understanding of the connectome.
+
+   In pursuing their art, algebraic topologists set themselves the
+   challenging goal of finding symmetries in topological spaces at
+   different scales.
+
+   In mathematics, a symmetry is anything that is invariant as the
+   viewpoint changes. So the shape of a square persists unchanged
+   as it rotates through 90 degrees—this is one type of symmetry.
+
+   But some mathematical structures have symmetries that persist
+   across scales. These are known as persistent homologies, and
+   the search for them is turning out to be a key in understanding
+   the connectome.
+
+   Neurologists have long known that certain cognitive functions
+   make use of various neural nodes that are distributed across
+   the brain.  How these nodes are connected by white matter is
+   one of the central questions for connectome projects.
+
+   Neurologists study white matter fibers by looking at how water
+   diffuses along their length. A technique known as diffusion
+   spectrum imaging can then reveal the pathways for this
+   diffusion and hence the structure of the white matter.
+
+   To find out more, Sizemore and co measured the brains of eight
+   healthy adults. This allowed them to look for the same
+   structures in all of them. In particular, the team looked at
+   the links between 83 different regions of the brain that are
+   known to be involved in cognitive systems, such as the auditory
+   system, the visual system, the somatosensory system involved in
+   touch, pressure, pain, and so on.
+
+   Having constructed a wiring diagram in this way, Sizemore and
+   co applied the techniques of algebraic topology to study its
+   structure. This threw up some important insights.
+
+   To start with, it revealed that certain groups of nodes are
+   “all-to-all connected”—in other words, each node in the group
+   is connected to all the others, forming a structure called a
+   clique. All the cognitive systems are made up of cliques of
+   containing different numbers of nodes.
+
+   But the analysis revealed another important group of
+   topological structures as well. These are closed loops called
+   cycles in which one node connects to another, which connects to
+   another and then to another, and so on, until the cycle is
+   completed when the final node connects to the first.
+
+   This creates a neural circuit that can carry information around
+   the brain and allow feedback loops to act, perhaps in the
+   formation of memories and in controlling behavior. Sizemore and
+   co say their analysis reveals a wide range of cycles of
+   different sizes.
+
+   While cliques tend to exist within specific parts of the brain,
+   such as the cortex, cycles span different regions, linking
+   wildly different regions with different functions. “These
+   cycles link regions of early and late evolutionary origin in
+   long loops, underscoring their unique role in controlling brain
+   function,” say Sizemore and co.
+
+   Another important difference between cliques and cycles is
+   their density. Because cliques represent all-to-all connected
+   nodes, they are dense structures. By contrast, loop-like cycles
+   are relatively diffuse. Indeed, one way to characterize them is
+   by the absence of links between the parts of the brain they
+   encompass.
+
+   In essence, cycles define cavities in the connectome across a
+   wide range of scales. And the work of Sizemore and co shows
+   that these cavities play a significant role. “These results
+   offer a first demonstration that techniques from algebraic
+   topology offer a novel perspective on structural connectomics,
+   highlighting loop-like paths as crucial features in the human
+   brain’s structural architecture,” say the team.
+
+   That’s fascinating work revealing how algebraic topology is
+   making an important contribution toward a better understanding
+   of the connectome. Like all good science, this work raises as
+   many questions as it answers. One suggestion is that cycles
+   could allow a much broader repertoire of cognitive computations
+   than is possible in other network architectures. But what kind
+   of computations would these be?
+
+   And the neural networks that AI systems depend on draw their
+   inspiration from the structure of brain. Now that new
+   structures are emerging through this kind of analysis, how will
+   the AI community incorporate these discoveries and exploit
+   algebraic topology is their work?
+
+   This is clearly an exciting time to be an algebraic topologist.
+
+   Ref: [25]arxiv.org/abs/1608.03520 : Closures and Cavities in
+   the Human Connectome
+
+
+   Become an MIT Technology Review Insider for in-depth analysis
+   and unparalleled perspective.
+   [26]Subscribe today
+   (BUTTON)
+   (BUTTON)
+
+
+   Emerging Technology from the arXiv
+
+   [27]Emerging Technology from the arXiv Contributor
+
+
+   Emerging Technology from the arXiv covers the latest ideas and
+   technologies that appear on the Physics arXiv preprint server.
+   It is part of the Physics arXiv Blog. Email:… [28]More
+   [29]KentuckyFC@arxivblog.com
+   [30]Subscribe to the Physics arXiv Blog RSS Feed.
+   [31]READ COMMENTS
+
+     [29] mailto:KentuckyFC@arxivblog.com
+
+   Please read our [32]commenting guidelines.
+   Please enable JavaScript to view the [33]comments powered by
+   Disqus.
+
+
+   Subscribe to Continue Reading
+
+

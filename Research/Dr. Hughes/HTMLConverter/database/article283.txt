@@ -1,0 +1,158 @@
+Study solves 50-year-old puzzle tied to enigmatic, lone wolf waves
+
+   Date:
+          October 4, 2016
+
+   Source:
+          University at Buffalo
+
+   Summary:
+          Solitary waves called solitons are one of nature’s great
+          curiosities. In a new paper, a team of mathematicians,
+          physicists and engineers tackles a famous, 50-year-old
+          problem tied to these enigmatic entities.
+
+   Share:
+
+   FULL STORY
+     __________________________________________________________
+
+   Solitary waves called solitons are one of nature's great
+   curiosities: Unlike other waves, these lone wolf waves keep
+   their energy and shape as they travel, instead of dissipating
+   or dispersing as most other waves do.
+
+   In a new paper in Physical Review Letters (PRL), a team of
+   mathematicians, physicists and engineers tackles a famous,
+   50-year-old problem tied to these enigmatic entities.
+
+   The puzzle dates back to 1965, when physicists Norman Zabusky
+   and Martin Kruskal came up with a surprising solution to the
+   Korteweg-de Vries equation, which serves as a mathematical
+   model for describing nonlinear waves in shallow water.
+
+   Using a computer, Zabusky and Kruskal generated an approximate
+   solution to the equation that featured eight independent,
+   particle-like waves. Each of these waves retained its form and
+   speed over time and distance -- even after colliding with other
+   such waves. The colleagues coined the term "soliton" to
+   describe these unusual entities, giving birth to modern
+   research in this field.
+
+   Kruskal and others then went on to invent a new mathematical
+   method to solve the Korteweg-de Vries equation exactly.
+   However, the calculations needed to obtain concrete answers are
+   complex, typically requiring the use of a computer to complete
+   -- thus limiting scientists' ability to understand phenomena,
+   including Zabusky and Kruskal's 1965 solution, says University
+   at Buffalo mathematician Gino Biondini.
+
+   Moreover, to Biondini's knowledge, the original wave pattern
+   that Zabusky and Kruskal described in 1965 has never been fully
+   reproduced in the physical world (though earlier experiments
+   have managed to generate portions of the solution).
+
+   The new PRL study, published Sept. 28, addresses both of these
+   problems, says Biondini, a co-author on the paper.
+
+   A new approach to an old problem
+
+   With Guo Deng, a UB PhD candidate in physics, Biondini
+   developed a mathematical approach that produces an approximate
+   solution to the equation that Zabusky and Kruskal tackled in
+   the 1960s. The new approach enables researchers to make
+   explicit, accurate predictions about how many solitons will
+   emerge in a given setting, as well as what features these waves
+   will have, such as their amplitude and speed.
+
+   The method's simplicity means that researchers can use it to
+   gain a better mathematical understanding of soliton formation
+   in these kinds of situations, Biondini says.
+
+   "Zabusky and Kruskal's famous work from the 1960s gave rise to
+   the field of soliton theory," says Biondini, a professor of
+   mathematics in the UB College of Arts and Sciences. "But until
+   now, we lacked a simple explanation for what they described.
+   Our method gives you a full description of the solution that
+   they observed, which means we can finally gain a better
+   understanding of what's happening."
+
+   Making waves
+
+   While Biondini and Deng worked on the theoretical side of the
+   problem, colleagues in Europe and Japan put their math to the
+   test in real-world experiments as part of the same paper.
+
+   Led by Italian scientists Miguel Onorato and Stefano Trillo of
+   the University of Turin and the University of Ferrara,
+   respectively, the team ran experiments in a 110-meter-long
+   water tank in Berlin using a computer-assisted wave generator.
+   The wave patterns they produced matched well with Biondini and
+   Deng's predictions, and included the original eight-soliton
+   solution described by Zabusky and Kruskal so many years before
+   (though it should be noted that water waves do begin to lose
+   some energy after traveling over long distances, and are
+   therefore only approximately solitons).
+
+   "Previous experiments had produced parts of the famous results
+   from 1965, but, as far as I know, they all had limitations,"
+   Onorato says. "We were able to generate the solution more
+   fully, including all eight solitons. We were also able to
+   experimentally generate another feature observed in
+   multi-soliton solutions, namely the strange phenomenon of
+   recurrence, in which a wave pattern transitions from its
+   initial state to a state with several solitons and back again
+   to the original state. This is akin to placing a bunch of
+   children in a room to play, then returning later to find that
+   the room has been returned to its initial, tidy state after a
+   period of messiness."
+     __________________________________________________________
+
+   Story Source:
+
+   [17]Materials provided by [18]University at Buffalo. Note:
+   Content may be edited for style and length.
+     __________________________________________________________
+
+
+   Journal Reference:
+    1. S. Trillo, G. Deng, G. Biondini, M. Klein, G. F. Clauss, A.
+       Chabchoub, M. Onorato. Experimental Observation and
+       Theoretical Description of Multisoliton Fission in Shallow
+       Water. Physical Review Letters, 2016; 117 (14) DOI:
+       [19]10.1103/PhysRevLett.117.144102
+     __________________________________________________________
+
+
+   Cite This Page:
+
+   University at Buffalo. "Study solves 50-year-old puzzle tied to
+   enigmatic, lone wolf waves." ScienceDaily. ScienceDaily, 4
+   October 2016.
+   <www.sciencedaily.com/releases/2016/10/161004111758.htm>.
+   University at Buffalo. (2016, October 4). Study solves
+   50-year-old puzzle tied to enigmatic, lone wolf waves.
+   ScienceDaily. Retrieved June 4, 2017 from
+   www.sciencedaily.com/releases/2016/10/161004111758.htm
+   University at Buffalo. "Study solves 50-year-old puzzle tied to
+   enigmatic, lone wolf waves." ScienceDaily.
+   www.sciencedaily.com/releases/2016/10/161004111758.htm
+   (accessed June 4, 2017).
+
+               o [25]Albert Einstein
+               o [26]Quantum Physics
+               o [27]Physics
+
+               o [29]Tsunamis
+               o [30]Natural Disasters
+               o [31]Wildfires
+
+               o [33]Mathematics
+               o [34]Computer Modeling
+               o [35]Mathematical Modeling
+
+
+   RELATED STORIES
+     __________________________________________________________
+
+

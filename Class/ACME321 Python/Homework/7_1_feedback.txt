@@ -1,0 +1,8 @@
+9/10
+
+(On problem 1, your plotting function is doing something funky... FYI)
+
+
+7.5: 1/2 pts. Forgot to justify your choice of the number of samples to use. This is important in real applications! (How do you know when your answer is good enough? Sometimes it's really expensive to run code longer than you have to.)
+
+Please make your code able to run from the command-line from now on! This will cost a point in the future, if I need to modify your code to be able to run it. Thanks!

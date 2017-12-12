@@ -1,0 +1,112 @@
+DNA-evidence needs statistical back-up
+
+   Date:
+          January 10, 2017
+
+   Source:
+          University of Leiden
+
+   Summary:
+          How do forensic scientists deal with complex
+          DNA-evidence found at crime scenes? A researcher has now
+          developed new statistical models to analyze them.
+
+   Share:
+
+   FULL STORY
+     __________________________________________________________
+
+   DNA-evidence is often believed to be a damning evidence, which
+   leaves no space for uncertainty. In reality it is very
+   difficult to say to what degree some piece of evidence can
+   support a case against a crime suspect. That's why forensic
+   experts need statistical models to give weight to DNA-evidence.
+   PhD-candidate Giulia Cereda developed new models that will be
+   especially useful for rare DNA-profiles in the evidence, and
+   for unbalanced DNA-mixtures.
+
+   Rare type match case
+
+   When a DNA-profile found at a crime scene matches a suspect's
+   DNA-profile, it is important to know how frequent this profile
+   can be found in the general population. For example, the
+   evidence weights more if a suspect's DNA-profile matches only
+   two other persons in the general population, compared to a
+   hundred other persons. Since forensic scientists don't have the
+   DNA-profiles of all individuals, they use databases that
+   contain DNA-profiles of a sample of the population.
+
+   But often forensic scientists find DNA-profiles that don't
+   match one of the profiles in the database, which is called a
+   rare type match case. Cereda developed several statistical
+   models to deal with these cases.
+
+   Unbalanced DNA-mixtures
+
+   Another common difficulty when handling DNA-evidence are
+   mixtures, which contain DNA-material from at least two people.
+   'When the DNA of two individuals are mixed together, it is very
+   difficult to separate the DNA-profiles of the two
+   contributors', Cereda says.
+
+   DNA-mixtures can be even more complicated when they are
+   unbalanced. These mixtures are often found in cases of sexual
+   assault, when vaginal swabs are taken. In these cases, the
+   victim's DNA contributes for more than 90% to the DNA-mixture,
+   while the suspect's DNA contributes to less than 10%. In these
+   mixtures, the DNA-profile of the suspect is likely to be masked
+   by that of the victim.
+
+   DIP-STR
+
+   A new genetic technology to characterize unbalanced
+   DNA-evidence, called the DIP-STR (Deletion Insertion
+   polymorphisms -- Short Tandem Repeats) marker system, has
+   recently been introduced. DIP-STR reveals some DNA
+   characteristics of the minor contributor in unbalanced
+   mixtures. With her new model, Cereda wants to give a first
+   statistical framework to evaluate the DIP-STR DNA-profiles.
+
+   Statistics and genetics
+
+   'The use of accurate mathematical models for forensic DNA
+   evidence is very important to give probabilistic weight to
+   observation. Geneticists and mathematicians need to work
+   together to improve forensic science', she concludes.
+     __________________________________________________________
+
+   Story Source:
+
+   [17]Materials provided by [18]University of Leiden. Note:
+   Content may be edited for style and length.
+     __________________________________________________________
+
+
+   Cite This Page:
+
+   University of Leiden. "DNA-evidence needs statistical back-up."
+   ScienceDaily. ScienceDaily, 10 January 2017.
+   <www.sciencedaily.com/releases/2017/01/170110121052.htm>.
+   University of Leiden. (2017, January 10). DNA-evidence needs
+   statistical back-up. ScienceDaily. Retrieved June 4, 2017 from
+   www.sciencedaily.com/releases/2017/01/170110121052.htm
+   University of Leiden. "DNA-evidence needs statistical back-up."
+   ScienceDaily.
+   www.sciencedaily.com/releases/2017/01/170110121052.htm
+   (accessed June 4, 2017).
+
+               o [24]Forensics
+               o [25]Genes
+               o [26]Human Biology
+               o [27]Personalized Medicine
+
+               o [29]Computational Biology
+               o [30]Statistics
+               o [31]Computer Modeling
+               o [32]Mathematical Modeling
+
+
+   RELATED STORIES
+     __________________________________________________________
+
+

@@ -1,0 +1,95 @@
+Experiments with point-of-view video cameras
+
+   [15]February 21, 2016February 29, 2016 [16]Darryl Yong
+
+
+   I’ve been playing around with using multiple cameras to capture
+   my classroom this semester. I’m using more than one camera so
+   that I can capture what’s happening in the class as a whole and
+   also what’s happening as I interact with different groups of
+   students. I want to be able to capture video from my point of
+   view for several reasons: (1) I want to record (approximately)
+   what I was seeing and noticing so as to help uncover the
+   signals that led me to decide to intervene with a particular
+   group of students or not; (2) I want to record the kinds of
+   questions that students are asking and how I responded to
+   them–is there something that I could have said that would have
+   helped them more? (3) I want to be able to capture the way
+   students and I talk to each other–what did I position myself
+   relative to them (crouching down, or bending down to talk to
+   them) and did it make any difference in their body language or
+   response to me?
+
+   Here’s a sample still from a produced video. You can see four
+   students sitting together in a group of four. (Ideally, you
+   would be able to clearly make out what is on their paper.) In
+   the corner is a wide-angle view of several groups.
+
+   [17]pic-in-pic
+
+
+   Here’s my current setup:
+
+   1) [18]Swivl camera base with my Nexus 5X phone as a recording
+   source
+   2) [19]GoPro Hero4 Silver mounted on my chest with a Sony
+   ECMCS3 microphone.
+
+
+   Good points: both cameras capture at full HD (1920×1080)
+   resolution, and the microphones are by and large capturing
+   important conversations. The video is giving me lots of things
+   to look at.
+
+   However, I’ve been plagued by lots of (mostly technical)
+   problems. I have been trying for weeks but I still haven’t
+   found a good method for capturing the video reliably.
+
+   Problems encountered so far
+       down to talk to students, then I just get a shot of the
+       floor or table. I need to constantly remember that I have
+       to position my torso so I get a good view of students’ work
+       and faces.
+       sight to track you because it uses IR. It has a remote
+       control that I wear on a lanyard that it uses to track
+       where I move so it should theoretically always have me in
+       the shot, but I’m not in the shot half the time. The only
+       solution I’ve found so far is to stick it up higher above
+       students and have it tilted down slightly.
+       “highlight” moments using a remote control that I wear on
+       my wrist. I haven’t figured out how to export those markers
+       in a useful way. (I experimented with the “video loop”
+       recording mode, but that isn’t really helpful because you
+       only get 5 minute segments.)
+       using [20]ffmpeg vidstab to stabilize the video, but it
+       takes hours to process the footage.
+
+       have to watch another video to figure out how to do
+       something (that I think should be) simple I am going to
+       scream! I’m also behind one version (CS6 instead of CC) and
+       this older version doesn’t have the nifty feature of
+       aligning two clips of video automatically based on the
+       audio tracks.
+       general. Even moving video files between devices is slow.
+       (Protip: [DEL: Instead of plugging the GoPro into the
+       computer using a USB cable, take out the SDHC card and
+       stick it in the USB adapter and plug in directly to the
+       computer. Waaay faster. :DEL] Whoa.. And about 10x faster
+       than that is to put the MicroSDHC card into a SDcard
+       adapter, then put it into a SDcard slot in your computer. I
+       get about 42MB/s transfer rate that way on my computer.)
+       set the encoding compression too low, the video ends up
+       being huge (15GB). If I set the encoding compression too
+       high, then I can’t make out what is on students’ papers.
+       up into smaller files to avoid 4GB file size limit. That
+       also adds more complications to video processing. On my
+       Nexus 5X, I think it skips a few seconds of video when it
+       transitions from one file to another while recording.
+
+   [21]2016-02-22
+
+
+   This is a work-in-progress post. I hope to have more technical
+   issues sorted out soon.
+
+

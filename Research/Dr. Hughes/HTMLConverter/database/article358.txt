@@ -1,0 +1,116 @@
+Abstract Algebra: An Introduction with Applications
+
+   Derek J. S. Robinson
+   Publisher:
+   Walter de Gruyter
+   Publication Date:
+   2015
+   Number of Pages:
+   337
+   Format:
+   Paperback
+   Edition:
+   2
+   Series:
+   De Gruyter Textbook
+   Price:
+   63.00
+   ISBN:
+   9783110340860
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   Mark Hunacek
+   , on
+   10/30/2016
+   ]
+
+   This is a text for an upper-level undergraduate course in
+   abstract algebra. In both topic coverage and method of
+   presentation, the book is on the more sophisticated end of the
+   spectrum.
+
+   As to topic coverage: there is more than enough material in
+   this text for a two-semester course. All the usual topics that
+   one might expect to find in a two-semester course are certainly
+   here, but there is also quite a bit more. The book covers basic
+   set theory (functions, equivalence relations, etc.), number
+   theory of the integers (divisibility, prime factorization,
+   congruences), groups (quotient groups, group actions, Sylow
+   theory, solvable and nilpotent groups) and rings and fields
+   (rings and ideals, factorization theory, field extensions,
+   finite fields, Galois theory). Nice applications of these ideas
+   (e.g., compass and straightedge constructions, solution of
+   polynomials by radicals, coding theory) are also given. There
+   are also chapters on vector spaces (including some topics that
+   don’t often get covered in introductory linear algebra courses,
+   like dual spaces and triangularization of matrices), modules
+   (including modules over a PID, with applications to the
+   rational, Smith and Jordan forms of a matrix), and tensor
+   products.
+
+   The chapters on modules and tensor products cover topics that I
+   would think are rarely reached in the first two semesters of an
+   undergraduate abstract algebra course. Even in those chapters
+   that do correspond to topics generally associated with
+   introductory abstract algebra courses, the material is
+   sometimes covered in greater depth than usual. For example,
+   chapter 3, introducing groups, also discusses the principle of
+   inclusion-exclusion and derangements; chapter 11 on fields
+   covers Latin squares and Steiner triple systems. Another
+   unusual feature, at least at the undergraduate level, is a
+   proof of the Fundamental Theorem of Algebra that uses Sylow and
+   Galois theory and the intermediate value theorem of calculus.
+   The necessary and sufficient condition for the constructability
+   of a regular n-gon (in terms of Fermat primes) is not only
+   stated but proved. Zorn’s Lemma is introduced at the end of the
+   book and applications of it (the existence of an algebraic
+   closure, the existence of a basis for an arbitrary vector
+   space, the existence of maximal ideals in rings with identity)
+   are discussed.
+
+   As for the method of presentation: the author’s writing style
+   is clear and enjoyable to read, but it is also brisk and
+   efficient. The discussion of basic number theory, for example,
+   takes all of 14 pages, and it takes the author only about 65
+   pages to cover a first semester’s worth of group theory.
+   (Actually, these 65 pages cover more than the standard
+   introductory topics; they include coverage of group actions and
+   Sylow theory as well, topics that are often deferred to a
+   second course.) The introductory chapter on rings goes from the
+   definition of “ring” on page 100 to a statement and proof of
+   the Hilbert basis theorem on page 118. This is, therefore, not
+   a book for students who need a great deal of hand-holding.
+
+   The exercises are good; around ten of them (give or take a few)
+   appear at the end of every section (not chapter), and cover a
+   reasonable range of difficulty. Simple verification problems
+   (is such-and-such a group?) appear, but so do more conceptual
+   problems asking for proofs. Based on a quick perusal, I didn’t
+   notice any that appear inordinately difficult. No solutions are
+   provided, but sometimes the author offers a hint.
+
+   To summarize and conclude: because of the choice of topics
+   covered and the succinctness of exposition, this book is
+   probably not an optimal choice as text for an “average”
+   introductory course in abstract algebra. At the same time,
+   because it omits a lot of graduate-level topics (group
+   representation theory, noncommutative ring theory, categories
+   and functors, projective and injective modules, etc.) this book
+   likely will not replace such standard fare as Dummit and
+   Foote’s [309]Abstract Algebra as a text for a first-year
+   graduate course. It is, however, a nicely done book, and might
+   function well as a text for an honors course or an
+   undergraduate course at an elite university. I would also
+   recommend it to a student who was planning to go on to graduate
+   school and wanted to do some independent reading to help
+   prepare for that.
+     __________________________________________________________
+
+
+   Mark Hunacek ([310]mhunacek@iastate.edu) teaches mathematics at
+   Iowa State University.
+

@@ -1,0 +1,109 @@
+Cohomology and Differential Forms
+
+   Izu Vaisman
+   Publisher:
+   Dover Publications
+   Publication Date:
+   2016
+   Number of Pages:
+   304
+   Format:
+   Paperback
+   Price:
+   19.95
+   ISBN:
+   9780486804835
+   Category:
+   Textbook
+
+
+
+   [Reviewed by
+   Michael Berg
+   , on
+   12/23/2016
+   ]
+
+   One of the mainstays of differential geometry is the theory of
+   differential forms on a smooth manifold, i.e., the players in
+   what is generally called the de Rham complex for the manifold.
+   The habitat for these differential forms is the graded vector
+   space of \(k\)-fold wedge products of differentials, with
+   coefficients being smooth functions on the manifold; the
+   differentials themselves are the natural generators of the
+   manifold’s cotangent spaces (working locally, i.e. in terms of
+   local coordinates), and we vary \(k\) from \(0\) to the
+   dimension of the manifold. Thus, still working locally, the
+   differentials on the manifold constitute the dual basis to the
+   natural basis for the tangent spaces. One then obtains the de
+   Rham complex by virtue of the differential operator \(d\)
+   taking \(k\)-forms to \((k+1)\)-forms, and one gets that
+   \(d^2=0\) as an immediate consequence of a straightforward
+   calculation in the context of exterior algebra, i.e. the yoga
+   of the wedge product. So we get, right off, two titanic themes,
+   namely, the cohomology of the manifold, aka de Rham cohomology,
+   entirely as a consequence of having a differential complex as
+   just indicated, and the general version of Stokes’ Theorem,
+   which one can think of as the most evolved form of the
+   Fundamental Theorem of Calculus and Green’s Theorem: it’s all
+   ultimately quite the same.
+
+   In this setting we also encounter the Theorem of de Rham
+   properly so-called, asserting essentially that different
+   flavors of cohomology are the same. In the book under review
+   these important results occur thrice: on p. 70 Vaisman shows
+   that the de Rham cohomology groups can be realized via
+   presheaves, on p. 82 he shows that for paracompact spaces the
+   de Rham cohomology groups can be realized in terms of sheaves,
+   and on p. 203 he derives the indicated theorem for real
+   cohomology from that for sheaves. What is at issue here is, of
+   course, that cohomology is taken with varying coefficients,
+   from presheaves on the underlying space, to sheaves, and then
+   to the real numbers, realized (in case the underlying space is
+   a manifold) as a constant sheaf.
+
+   So in a very noteworthy sense the story is told backwards, as
+   it were, given that presheaves and sheaves are more
+   sophisticated entities that the real numbers and the latter
+   situation, i.e. de Rham cohomology, with real coefficients, for
+   a smooth manifold, is manifestly what is of most use and
+   interest to, say, differential geometers — or so one would
+   imagine. But Vaisman’s approach makes it clear that the largely
+   French revolution of the 1950s, led by H. Cartan, Serre, and
+   Grothendieck, has indeed resulted in more liberty: by going at
+   things with category theory, presheaves and sheaves, and so on,
+   a very general framework is created from the outset in which
+   major results like de Rham’s theorem, can be presented most
+   effectively and holistically. Bourbaki vindicatus.
+
+   Vaisman’s book is accordingly a testament to what is a most
+   fecund way of doing geometry, be it algebraic or differential,
+   although clearly the general methodology of sheaf theory is
+   most closely associated with the former. But this is not to
+   minimize the role played by the indicated methods in
+   differential geometry, as Vaisman’s treatment amply
+   illustrates. It is interesting to note, for example, how
+   heavily certain developments in its pages involve Chern’s
+   results: differential geometry par excellence.
+
+   Yes, this is an excellent book, and will serve, even now, over
+   forty-three years after its first appearance (kudos to Dover,
+   as always, for reissuing the book), as an excellent
+   introduction to not just sheaf cohomology (and ipso facto the
+   category theory everyone needs to know) but also to
+   differential geometry proper, the theory of fiber and vector
+   bundles and characteristic classes (well, let’s just say Chern
+   classes), and even certain themes in Riemannian geometry.
+     __________________________________________________________
+
+   Michael Berg is Professor of Mathematics at Loyola Marymount
+   University in Los Angeles, CA.
+   The table of contents is not available.
+   Tags:
+   [309]Differential Forms
+   [310]Differential Topology
+   [311]Manifolds
+
+
+
+

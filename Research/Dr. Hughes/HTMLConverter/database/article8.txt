@@ -1,0 +1,196 @@
+Can You Solve My Problems? by Alex Bellos review – an excellent
+anthology, and history, of puzzles
+
+   This skilfully curated collection of conundrums will have you
+   kicking yourself
+
+
+
+
+
+
+
+
+
+
+   [135]Simon Singh
+
+
+   Sunday 6 November 2016 02.29 EST Last modified on Tuesday 2 May
+   2017 13.34 EDT
+
+   Reviewing good puzzle books is frustrating, because you get to
+   page one of the introduction, find a curious puzzle, become
+   engrossed for 20 minutes, miss your stop and then fail to get
+   home in time to say goodnight to the kids. Be warned, Alex
+   Bellos’s new book could put a strain on your personal life,
+   particularly if you are willing to go through the joyful ordeal
+   and gleeful torment of solving every single one of his 125
+   puzzles.
+
+   I should stress, the prosaically titled Can You Solve My
+   Problems? is not just a random list of skull-warping
+   brain-teasers, but rather a skilfully curated anthology of
+   puzzles, most of them straddling that tricky zone between
+   trivial and impossible, and at least half of them guaranteed to
+   make you kick yourself. This is a book that should be
+   accompanied with a free shin pad.
+
+   In between the puzzles, Bellos takes us back to the origins of
+   various types of puzzle and explains their historical
+   development. Although this will be familiar material for
+   [136]metagrobologists, normal people might not realise that,
+   for example, it was [137]Alcuin of York who published one of
+   the earliest collections of recreational mathematics (an
+   apparent oxymoron that serves as an umbrella term for all types
+   of number puzzles).
+
+
+   [138]Propositiones ad Acuendos Juvenes (or Problems to Sharpen
+   the Young) was written in the 8th century and contains 53 (or
+   56, depending on the edition) problems, including the first
+   example of a river-crossing problem. Bellos’s version of the
+   problem is:
+
+
+     A man arrives at a riverboat with a wolf, a goat and a bunch
+     of cabbages. He needs to cross the river, but the one boat
+     available can carry only him and a single item at the same
+     time. He cannot leave the wolf alone with the goat or the
+     goat alone with the cabbages, since in both cases the former
+     will eat the latter. How does he cross the river in the
+     shortest number of crossings?
+
+   Alcuin is a forgotten hero in the history of mathematics. Prior
+   to Bellos’s book, the most important recognition of his
+   contribution to the history of puzzles had been in [139]Gone
+   Maggie Gone, a 2009 episode of The Simpsons in which Homer
+   wants to cross a river, taking Maggie, poison capsules and his
+   dog with him.
+
+
+   Alex bellos
+
+   [140]Facebook [141]Twitter [142]Pinterest
+
+
+   Alex Bellos: ‘He is correct to view puzzles as wonderful poems
+   rather than crass doggerel.’
+
+   If you are struggling with this puzzle, here is a hint. Work
+   out which London Underground station has six consecutive
+   consonants within a single word. The first of these is the
+   first letter of the first item that you need to transport
+   across the river in Alcuin’s original version of the problem.
+
+   Once you solve that puzzle, then you can try Alcuin’s saucier
+   variation, in which you have to find a way for three men and
+   their wives to cross a river in a boat that can carry only two
+   people, so that no wife is left alone with a man who is not her
+   husband.
+
+   By mixing history with puzzles in this way, we also learn that
+   Lewis Carroll (also known as Charles Dodgson, an Oxford
+   mathematician) authored three puzzle books and along the way
+   invented the classic liar truth-teller conundrums. For example,
+   meet Berta, Greta and Rosa:
+
+     Berta says that Greta tells lies. Greta says that Rosa tells
+     lies. Rosa says that both Berta and Greta tell lies. Who is
+     telling the truth?
+
+     A Nobel laureate inventing puzzles seems like the nerdy
+     equivalent of a poet laureate writing dirty limericks
+
+   Such problems might seem frivolous, but the fact that an Oxford
+   don would dedicate so much of his life to solving and creating
+   puzzles is a clue that we should not dismiss curious
+   conundrums. If more evidence is required, then please bear in
+   mind that in 2007 in Doctor Who episode 42, the Doctor bemoans
+   the fact that recreational mathematics is not studied in
+   schools. Fortunately, the Doctor has been well schooled in
+   solving mathematical puzzles, and his knowledge of happy primes
+   enables him to fire up the back-up engines, thereby preventing
+   the SS Pentallian from crashing into the Torajii sun. By the
+   way, to find out if a prime number (eg 79) is happy, then take
+   the digits (7 and 9), square each one and add the results (49 +
+   81 = 130). Take the new number, square each digit again and add
+   them (1 + 9 + 0 = 10), and so on (1 + 0 = 1). If you eventually
+   end up at 1, then your number is happy. If not, then it is sad.
+
+   Moreover, Bellos reveals how intellectual giants, such as the
+   mathematician [143]John Conway, the [144]Bletchley Park
+   codebreaker Max Newman, the Nobel physicist [145]George Gamow
+   and many other smart cookies, devoted a significant amount of
+   their time to playing with puzzles.
+
+
+   Martin Gardner
+
+   [146]Facebook [147]Twitter [148]Pinterest
+
+
+   Martin Gardner: ‘one of the great puzzle poets’. Photograph:
+   James Gardner
+
+   At first, hearing that a Nobel laureate spends time inventing
+   puzzles seems like the nerdy equivalent of learning that the
+   poet laureate enjoys writing dirty limericks. But Bellos is
+   correct to view puzzles as wonderful poems rather than crass
+   doggerel: “With elegance and brevity, they pique our interest,
+   kindle our competitive spirit, test our ingenuity, and in some
+   cases reveal universal truth.”
+
+   One of the great puzzle poets was [149]Martin Gardner, a
+   remarkable polymath whose life is only briefly covered by
+   Bellos. Hopefully, readers of Bellos will be sufficiently
+   intrigued that they will go on to read Gardner’s autobiography,
+   [150]Undiluted Hocus-Pocus, which describes his incredible life
+   as a recreational mathematician, magician and rationalist.
+
+
+   For example, Gardner was one of the few rationalists who
+   believed in a personal God and an afterlife. He defended his
+   theological views in The Whys of a Philosophical Scrivener, one
+   of his hundred or so books. Unfortunately, the 500-page tome
+   was torn to shreds when it was reviewed in the New York Review
+   of Books by a critic named George Groth. Groth, it turned out,
+   was Gardner himself, destroying his own book.
+
+   Perhaps the greatest compliment I can give to this book is that
+   when my son spotted it on my desk, he started flicking through
+   it, furrowing his brow and asking me questions. He had
+   remembered that we had already discussed wolves, goats and
+   cabbages, he answered a dice question correctly (but for the
+   wrong reason) and he had fun exploring some of the simpler
+   arithmetic puzzles. There is a small chance that perhaps one
+   day he will be a mathematician, but whenever I sit with him
+   thinking about the same questions, I am certainly transported
+   back to my mini-geek self, picking up my first Martin Gardner
+   compendium of puzzles.
+
+   Can You Solve My Problems? is published by Guardian Faber
+   (£14.99). [151]Click here to buy it for £10.99
+
+
+   Topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

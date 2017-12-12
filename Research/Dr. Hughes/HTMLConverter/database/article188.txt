@@ -1,0 +1,113 @@
+Why STEM Majors Need the Humanities
+
+   By Neal Koblitz January 06, 2017
+
+   When I was a freshman, half a century ago, I asked one of my
+   professors — an eminent mathematician named Lars Ahlfors — for
+   advice on my academic program. As a budding mathematician, I
+   knew about a lot of math courses I should take and some physics
+   courses as well. I asked what other courses in math and science
+   I should include in my program. Ahlfors replied, "Don’t take
+   more courses in those subjects. Once you get to graduate
+   school, you’ll be studying nothing but mathematics. Now is your
+   chance to become well-educated. Study literature, history, and
+   foreign languages."
+
+   I sometimes repeat this story to my students and hope that the
+   message is not drowned out by what they might be hearing from
+   parents, friends, and the media.
+
+   The weakening of liberal-arts traditions and the
+   corporatization of higher education are on the minds of many of
+   us. Particularly ominous is the nationwide trend toward
+   education-on-the-cheap in our entry-level courses. This takes
+   two forms. First, more and more undergraduate courses are being
+   taught online. This might be good for the institution’s bottom
+   line, but in most cases it is not good for the student, whose
+   learning and whose college experience are being diminished.
+
+   Second, introductory courses are increasingly being taught by
+   adjuncts, graduate students, and second-tier teaching faculty.
+   The result is to transform the first (and sometimes second)
+   year of college into an extension of high school, lower the
+   intellectual level of introductory courses in both humanities
+   and STEM fields, and create further distance between students
+   and the world of research and innovation.
+
+   The argument against replacing the liberal-arts tradition with
+   a narrow vocationalism is usually phrased in purely humanistic
+   terms — the importance of educating the whole person, the need
+   for a broadly informed citizenry, and so on. Often overlooked
+   is that for STEM majors, as much as for other future
+   professionals, a broad background in the humanities is likely
+   to give them a tremendous advantage in their career.
+
+   A good piece of technical work is part of a narrative that has
+   a long plot line and a large cast of characters.
+   With few exceptions, in order for people in the STEM
+   professions to have an impact, they must be able to write
+   effectively and creatively. Let me illustrate with examples
+   from my own field, mathematics applied to information security.
+   Forty years ago, at the dawn of the computer age, the Institute
+   of Electrical and Electronics Engineers published an article,
+   "[69]New Directions in Cryptography," that is arguably the most
+   important paper in the history of cryptography. Written by two
+   broadly educated computer scientists, Whitfield Diffie and
+   Martin E. Hellman, the article had an impact that was due not
+   primarily to its technical content, impressive though that was,
+   but rather to the authors’ ability to articulate a vision for
+   the future internet that can still be read today as a guide to
+   some basic principles of cybersecurity.
+
+
+   Another example is the recent book Weapons of Math Destruction:
+   How Big Data Increases Inequality and Threatens Democracy, by
+   Cathy O’Neil, a Harvard math Ph.D. who deftly translates her
+   expertise in mathematical modeling into a series of stories
+   that sound the alarm about the use of mathematics to
+   intimidate, mislead, and mistreat millions of people.
+
+   But what about rank-and-file scientists and engineers, who have
+   more-modest attainments than Diffie and Hellman and write for a
+   much smaller readership than O’Neil? For us as well, success in
+   achieving our objectives often depends on the ability to tell a
+   story.
+
+   For example, our journal articles will reach a wider audience
+   if the introduction is an engaging narrative that proceeds from
+   statement of the problem, explanation of its importance, and
+   summary of prior work to an overview of the paper’s
+   contributions and directions for future research. Grant
+   applications will have a better chance of success if they
+   convey one’s technical accomplishments in language that gives
+   context, history and direction, and does not lose sight of the
+   forest for the trees. And if we want to influence a decision on
+   a scientific or technological controversy, either in our work
+   or as a citizen writing an op-ed for the local newspaper, we
+   must broaden our focus and write with a perspective that will
+   make sense to diverse groups of people.
+
+   The common element in all of this is knowing how to tell a
+   story. Contrary to popular misconceptions about science and
+   technology, a good piece of technical work is not a disembodied
+   sequence of formulas and calculations, but rather is part of a
+   narrative that has a long plot line and a large cast of
+   characters.
+
+   Story-telling is a fundamental part of being human, from the
+   time we are little children. It is also a central part of many
+   cultural traditions, as we see, for example, in Patricia Hill
+   Collins’s writings about the experiences of African-American
+   women.
+
+   How can a student learn to tell a story well? First and
+   foremost, by reading great literature. Another way students can
+   learn how to analyze content and trace the development of an
+   idea is through the study of history. And finally, one of the
+   most effective ways to acquire a broad perspective and an
+   appreciation for the nuances of communication is through the
+   study of foreign languages and literatures. (I double-majored
+   in mathematics and Russian language and literature when I was
+   an undergraduate.)
+
+

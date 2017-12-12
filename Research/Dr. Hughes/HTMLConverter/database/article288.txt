@@ -1,0 +1,54 @@
+Solution to last week’s Riddler Express
+
+   Congratulations to 👏 Fritz Burkhardt 👏 of South Burlington,
+   Vermont, winner of [23]last week’s Express puzzle!
+
+
+   A rope is tied tightly around the circumference of the Earth.
+   It’s then lengthened by 1 meter and raised up at every point
+   from the ground until it is again a taut circle and every point
+   on the rope is the same height above the ground. How high is
+   the rope off the ground? About 16 centimeters.
+
+   One lousy meter is nothing compared with the circumference of
+   the Earth, for goodness sakes, so the intuitive answer would
+   seem to be “not very high at all” or even “so small as to be
+   barely noticeable.” But intuition fails us in this case.
+
+   What is the circumference of the Earth in meters? It doesn’t
+   matter! You needn’t know to solve this problem. For now, let’s
+   just call the circumference \(C\) and the Earth’s radius \(R\).
+   (These will drop out of our equations after a bit of algebra.)
+   Let little \(r\) be the added radius from the lengthened string
+   — precisely the value we’re looking for to solve the problem.
+   One last common geometry fact we’ll need: A circle’s
+   circumference is two times \(\pi\) times its radius. (Happy
+   belated [24]Pi Day, by the way.)
+
+
+   After some simple rearranging, we can solve for r, which in
+   this case represents the height of the rope off the Earth’s
+   surface:
+
+   \begin{align}
+   C + 1 &= 2π(R + r)\tag{1}\\
+   2πR + 1 &= 2πR + 2πr\tag{2}\\
+   1 &= 2πr\tag{3}\\
+   r &= \frac{1}{2π}\tag{4}\\
+   \end{align}
+
+   To run you through all that math, Step 1’s left-hand side
+   represents the new rope’s length, in terms of circumference,
+   and equates that to the new rope’s length in terms of radii. In
+   Step 2, we substitute in the formula for circumference on the
+   left and multiply through the parentheses on the right. In Step
+   3, we subtract \(2\pi R\) from both sides. And in Step 4, we
+   divide both sides by \(2\pi\) and put our variable of interest
+   on the left-hand side.
+
+   So the added height of the rope above the Earth is \(1 /
+   (2\pi)\) meters, or about 16 centimeters, or just over 6
+   inches. That measly meter added to the entire circumference of
+   the Earth bought us enough height for a cat to slip under.
+
+

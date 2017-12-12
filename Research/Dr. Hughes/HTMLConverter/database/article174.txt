@@ -1,0 +1,201 @@
+Does mathematical analysis create a better March Madness bracket?
+
+   Russ Goodman, Iowa View contributor Published 6:02 p.m. CT
+   March 12, 2017 | Updated 1:37 p.m. CT March 13, 2017
+   [29906170001_5357097972001_5357096080001-vs.jpg]
+   Skip in [57]Skip
+   x
+
+
+   Embed
+   ____________________
+   x
+
+   Share
+   ____________________
+
+   CLOSE [icon_close.png]
+
+   March Madness is finally here. The field is set for the 2017
+   NCAA tournament, with Sunday night’s selection show revealing
+   this year’s bracket. Time
+   NCAA Men's Final Four - Previews
+
+   A 165-foot tall NCAA Men's Basketball Tournament bracket is
+   seen on the JW Marriott Indianapolis leading up to the 2015
+   Final Four at Lucas Oil Stadium on April 1, 2015 in
+   Indianapolis. The bracket is 44,000 square-feet.(Photo:
+   Streeter Lecka/Getty Images)
+   138 CONNECT[58]TWEET[59] 2 LINKEDINCOMMENTEMAILMORE
+
+
+   March Madness, indeed! By the time you read this, 68 teams will
+   have been selected and seeded for the NCAA Division I men’s
+   basketball tournament.
+
+   Along with the excitement of cheering for your favorite team
+   and against your rivals, you will likely spend hours pondering
+   and making your bracket choices.
+
+   But we all hear stories about bracket winners choosing their
+   teams by uniform colors. That can’t really be the best method,
+   can it? Does a more analytical approach yield better results?
+   That’s what the students in my 2016 honors seminar,
+   "Discovering Sports Analytics," tried to find out and the short
+   answer is, yes, analytical methods generally are better!
+
+   My Central students learned to use analytical methods to create
+   brackets that were as objective, yet predictive, as possible.
+   They studied the [60]Colley and [61]Massey methods, two
+   techniques for rating and ranking teams that involve matrices
+   and linear algebra. The Colley method does not take margin of
+   victory into account, while the Massey method does. Both
+   methods are capable of placing different values on games
+   depending on how early or late in the season the games were
+   played.
+
+
+   BRACKET CHALLENGE:[62]Compete against others to win up to $1
+   million
+
+
+   Students had to make decisions regarding such variables as how
+   much weight to assign home, away or neutral games, the value of
+   games as the season progresses, and the maximum margin of
+   victory that should be considered, since one can argue there is
+   not much difference in the value of a team winning by 40 or by
+   70 points.
+
+   Bracketologists have devised more than 100 methods for rating
+   and ranking tournament teams. Good resources include Ken
+   Pomeroy’s [63]KenPom ratings, [64]FiveThirtyEight sports  and
+   [65]Sports Reference College Basketball. I asked students to
+   create two tournament brackets for our class competition: a
+   “heart” bracket, created through the eyeball test and gut
+   feelings, and a “head” bracket, created exclusively through
+   analytical methods.
+
+
+   As a class we also created brackets using the Colley and Massey
+   methods with a variety of weighting schemes. The results, a
+   sample of which is shown in the table below, were quite good
+   despite all of them having incorrectly predicted Kansas as the
+   national champion. From my students’ analytical brackets, 79
+   percent were in the top half of all brackets submitted to ESPN
+   with four of them ranking in the top 87 percent. Contrast that
+   with only 50 percent of their "heart" brackets ranking even in
+   the top 50 percent. The top performing student was junior
+   Jordan Saddoris of Ankeny, whose fivethirtyeight.com-inspired
+   "head" bracket ranked in the top 92.7 percent, only slightly
+   ahead of my not-too-shabby "heart" bracket. As a result, you
+   don’t necessarily have to rely on analytics to be successful,
+   but doing so does improve your chances.
+
+   Method and Weighting
+
+   Predicted Champion
+
+   ESPN National Percentile
+
+   (student) Jordan Saddoris “Head”
+
+   Kansas
+
+   92.7
+
+   (professor) Russ Goodman “Heart”
+
+   Michigan State
+
+   91.8
+
+   Massey Intervals
+
+   Kansas
+
+   91.8
+
+   Massey Uniform
+
+   Kansas
+
+   91.0
+
+   Colley Intervals
+
+   Kansas
+
+   86.9
+
+   Massey Linear
+
+   Kansas
+
+   82.0
+
+   (student) Pete Walker “Head”
+
+   Kansas
+
+   80.8
+
+   Colley Intervals
+
+   Kansas
+
+   66.6
+
+   Colley Logarithmic
+
+   Kansas
+
+   55.8
+
+   Colley Linear
+
+   Kansas
+
+   55.8
+
+   Massey Intervals
+
+   Kansas
+
+   47.5
+
+   Massey Logarithmic
+
+   Kansas
+
+   47.5
+
+   As you ponder the options, also consider these fun facts:
+
+       seeds.
+       tournaments since 1985. In fact, three of four No. 12 seeds
+       won their first-round game three times: 2013, 2009 and
+       2002.
+       and 2011, when no No. 1 seeds made it to the Final Four. On
+       the other hand, 2008 is the only year all four No. 1 seeds
+       made the Final Four.
+
+   Russ Goodman
+
+   Russ Goodman
+    (Photo: Special to the Register)
+
+   No matter which method you use, some of your picks will be
+   brilliant, some will be clunkers, and you are very likely to
+   eventually look at the remains of your bracket and mutter “how
+   did it come to this?” Take heart in knowing you did all you
+   could to produce your best possible bracket and that you
+   embraced the March Madness.
+
+   RUSS GOODMAN is an associate professor of mathematics and
+   computer science at Central College.
+
+   138 CONNECT[66]TWEET[67] 2 LINKEDINCOMMENTEMAILMORE
+
+
+
+

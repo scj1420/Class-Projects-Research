@@ -1,0 +1,67 @@
+Print this article
+
+   [8]biology[9]evolution[10]genetics[11]insights puzzle
+
+
+   After a string of Insights puzzles related to physics, on the
+   [12]relationship between time and entropy, [13]half-lives,
+   [14]overhang and [15]quantum weirdness, we turn this month to
+   the mysteries of biological evolution. Carrie Arnold’s article,
+   “[16]Evolution Runs Faster on Short Timescales,” explores new
+   research showing that genetic changes that are quite brisk when
+   measured over a few generations seem to slow down considerably
+   when measured over millions of years. One of the researchers
+   who have studied this in genomes is Simon Ho, an evolutionary
+   biologist at the University of Sydney. To quote Arnold:
+
+
+   When [Ho] calculated how quickly DNA mutations accumulated in
+   birds and primates over just a few thousand years, Ho [17]found
+   the genomes chock-full of small mutations. This indicated a
+   briskly ticking evolutionary clock. But when he zoomed out and
+   compared DNA sequences separated by millions of years, he found
+   something very different. The evolutionary clock had slowed to
+   a crawl.
+
+
+   The article goes on to describe how, from a mathematical
+   perspective, evolutionary rates decrease exponentially as the
+   timescale increases.
+
+   Can we replicate this in a toy version of a single gene? Let’s
+   find out. But first, let’s go over the basics for those who
+   need to brush up on them: Here’s DNA 101 for puzzle
+   enthusiasts.
+
+   A gene is a piece of DNA, which is essentially a linear chain
+   of chemical bases that are abbreviated using the letters A, C,
+   G and T. Each of these four letters (bases) appears in random
+   sequence along a given gene, in about equal amounts. Thus the
+   sequence CATGGTACCGAT represents a piece of DNA that is 12
+   units long. The way DNA works is that each successive
+   three-letter piece of DNA, called a triplet, codes for one of
+   20 possible units, called amino acids, that make up a protein.
+    Proteins are the body’s workhorses, each one performing
+   different functions thanks to its unique structure and its
+   unique linear sequence of amino acids. Thus in our DNA sequence
+   above, there are four triplets, CAT, GGT, ACC and GAT, each of
+   which codes for a specific amino acid. This piece of DNA,
+   acting through the cell machinery, will form a piece of a
+   specific protein fragment that is four units long.
+
+   Now, DNA is generally copied with high fidelity from cell to
+   cell across generations. But, on rare occasions, you can get a
+   “point mutation,” in which one of the letters of the gene
+   sequence is replaced by another random one, causing the gene to
+   produce a different protein, which may be more or less
+   efficient at doing what it was supposed to. This is basically
+   how evolutionary change happens. We can define the speed at
+   which DNA mutates over time as the evolutionary rate: We can
+   measure it over a given period by counting the number of
+   letters that have changed between the original DNA sequence and
+   the current sequence, divided by the number of years that have
+   passed.
+
+   OK, lesson over. That’s all the biology we need for our puzzle.
+
+

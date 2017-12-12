@@ -1,0 +1,96 @@
+Some probability problems for your consideration
+
+   [15]January 24, 2017 [16]Darryl Yong
+
+
+   As I was preparing this [17]tweet on AMS prizes given at the
+   2016 Joint Mathematics Meetings…
+
+
+   capture
+
+   …I checked the [18]AMS Annual Survey of the Mathematical
+   Sciences to determine that in 2015 roughly 30% of full-time
+   faculty in the mathematical sciences were female. Then, I wrote
+   and did the following math problem:
+
+
+     Question #1: Suppose that 20 people are being chosen for
+     various awards. Assume that for each award, there is a
+     committee that narrows the field of candidates down to a set
+     of 10 finalists who are deserving of the award, and 3 of
+     them are female. Assume that each committee independently
+     chooses the winner from this set of finalists in such a way
+     that each of the finalists is equally likely to win the
+     award. What is the probability that none of the 20 people
+     are women?
+
+   Answer: (0.7)^20 ≈ 0.0007979
+
+   That seems really unlikely.
+
+   Some people are going to argue that because women have been
+   excluded from the mathematical sciences to a greater degree in
+   our recent history, the population of senior people who have
+   made big contributions to their fields is going to skew even
+   more male than the general population of full-time faculty.
+   (BTW, not all of the awards above are for senior people who’ve
+   made big contributions.) OK, so let’s consider another problem.
+
+     Question #2: Keep everything from Question #1 the same but
+     this time let’s assume that x (in %) of the finalists for
+     each award are men. What would x have to be so that the
+     probability of not having any women chosen is something more
+     likely, like 25%?
+
+   Answer: x^20=0.25 means x ≈ .933 ( or 93.3%)
+
+   Is it the case that there are so few women deserving of awards
+   in mathematics?
+
+   I assert that we don’t suffer from a lack of talented women and
+   people of color in the mathematical sciences. The problem is
+   that we don’t nurture talented women and people of color, don’t
+   recognize their talent, and don’t take enough steps to make
+   sure our award processes are unbiased, fair, and equitable.
+   (There is plenty of evidence that women are just as implicitly
+   biased against women as men are.)
+
+   Look at the dramatic change in the representation of people of
+   color in this year’s Oscar nominations, compared to a mere two
+   years ago when #OscarsSoWhite was trending. Did the field
+   suddenly produce a bunch of new Black artists and producers and
+   directors in those two years? No.  So why can’t those of us in
+   the mathematical sciences also try harder to make sure that we
+   make sure award winners are more broadly representative?
+
+   Every time a women or person of color looks at a list of
+   winners like this one, they receive messages that they aren’t
+   welcome in the field.
+
+   Important caveats:
+       implying that the actual awarding of the AMS prizes is
+       anything like what is described above.
+       members were deliberately being racist or sexist.
+       were not deserving and should return their prizes.
+       underrepresentation of women, and I also recognize that
+       there is an underrepresentation of African-American,
+       Hispanic/Latinx, and Native American people among the award
+       winners.
+
+   It would be interesting to go back in history to look at the
+   demographics of all AMS prize winners.
+
+   Recommended reading:
+
+   “[19]Addressing the underrepresentation of women in mathematics
+   conferences” by Greg Martin
+
+
+   The MAA’s [20]guidelines for award selection committees on how
+   to avoid implicit bias.
+
+
+
+
+

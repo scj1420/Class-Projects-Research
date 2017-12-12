@@ -1,0 +1,413 @@
+Never miss a Moment
+
+   Catch up instantly on the best stories happening as they
+   unfold.
+   (BUTTON) Back (BUTTON) Next
+
+   (BUTTON) Next Tweet from user
+   [130]Erik Meijer‏ @headinthebox [131]11 Dec 2016
+   (BUTTON) Follow (BUTTON) Following (BUTTON) Unfollow (BUTTON)
+   Blocked (BUTTON) Unblock (BUTTON) Pending (BUTTON) Cancel
+   (BUTTON)
+   More
+
+
+   Probabilities deserve their own unit! I propose Bayes, as in
+   the probability that this proposal will gain traction is 0.001
+   Bayes.
+       [135]Incredulous Asterisk [136]ErinÞeUnbelievable
+       [137]David E. Weirich [138]Prof Rozie [139]bubba [140]Dan
+       Davis
+
+
+   9:43 AM - 11 Dec 2016
+   11 replies 66 retweets 169 likes
+   (BUTTON)
+   Reply
+   11
+   (BUTTON)
+   Retweet
+   66
+   (BUTTON)
+   Retweeted
+   66
+   (BUTTON)
+   Like
+   169
+   (BUTTON)
+   Liked
+   169
+    1.
+        New conversation
+         1. [141]Jarrod Brockman‏ @DgtlNmd [142]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [143]@headinthebox
+            sorry. Probability is unitless. It's better this way.
+            Just a real number between 0 and 1.
+            1 reply 0 retweets 3 likes
+            (BUTTON)
+            Reply
+            1
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            3
+            (BUTTON)
+            Liked
+            3
+         2. [144]Dån Smith‏ @numbakrunch [145]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [146]@DgtlNmd [147]@headinthebox
+            Not a quantum physicist but aren't imaginary/complex
+            probabilities a thing?
+            1 reply 0 retweets 1 like
+            (BUTTON)
+            Reply
+            1
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            1
+            (BUTTON)
+            Liked
+            1
+         3. [148]Erik Meijer‏ @headinthebox [149]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [150]@numbakrunch [151]@DgtlNmd
+            1 reply 0 retweets 0 likes
+            (BUTTON)
+            Reply
+            1
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            (BUTTON)
+            Liked
+         4. [153]Erik Meijer‏ @headinthebox [154]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [155]@headinthebox [156]@numbakrunch
+            [157]@DgtlNmd
+            pdf …
+            2 replies 0 retweets 0 likes
+            (BUTTON)
+            Reply
+            2
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            (BUTTON)
+            Liked
+         5. [159]Dån Smith‏ @numbakrunch [160]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [161]@headinthebox [162]@DgtlNmd
+            Thank you! This reading will take my mind off Trump
+            for the holidays.
+            0 replies 0 retweets 1 like
+            (BUTTON)
+            Reply
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            1
+            (BUTTON)
+            Liked
+            1
+            End of conversation
+    2.
+        New conversation
+         1. [163]Chris Luebcke‏ @cluebcke [164]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [165]@headinthebox
+            [166][DEL: @ :DEL] UnitFact Wouldn't that be 0.001
+            Baye (singular)?
+            1 reply 0 retweets 2 likes
+            (BUTTON)
+            Reply
+            1
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            2
+            (BUTTON)
+            Liked
+            2
+         2. [167]Erik Meijer‏ @headinthebox [168]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [169]@cluebcke [170]@UnitFact
+            It is already singular, like
+            1 reply 0 retweets 0 likes
+            (BUTTON)
+            Reply
+            1
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            (BUTTON)
+            Liked
+         3. [172]Chris Luebcke‏ @cluebcke [173]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [174]@headinthebox
+            [175]pic.twitter.com/pvdQQ4hllY
+            0 replies 0 retweets 1 like
+            (BUTTON)
+            Reply
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            1
+            (BUTTON)
+            Liked
+            1
+            End of conversation
+    3.
+        New conversation
+         1. [176]Tuomas Hietanen‏ @Thoriumi [177]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [178]@headinthebox
+            The problem is probability of probability, which
+            should be Bayes² but is actually just Bayes, which is
+            proof it's not a unit.
+            2 replies 2 retweets 5 likes
+            (BUTTON)
+            Reply
+            2
+            (BUTTON)
+            Retweet
+            2
+            (BUTTON)
+            Retweeted
+            2
+            (BUTTON)
+            Like
+            5
+            (BUTTON)
+            Liked
+            5
+         2. [179]1 more reply
+    4. [180]Fred Mameri‏ @fredmameri [181]12 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [182]@headinthebox
+       It would certainly make dimensional analysis easier.
+       0 replies 1 retweet 1 like
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       1
+       (BUTTON)
+       Retweeted
+       1
+       (BUTTON)
+       Like
+       1
+       (BUTTON)
+       Liked
+       1
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+    5. [183]Aswath Rao‏ @aswath [184]11 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [185]@headinthebox [186]@ProbFact
+       Only a Bayesian would suggest that. But then evidently you
+       are not since you didn't say "my prior". :-)
+       0 replies 0 retweets 1 like
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       (BUTTON)
+       Retweeted
+       (BUTTON)
+       Like
+       1
+       (BUTTON)
+       Liked
+       1
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+    6. [187]Boris Skidan‏ @bskidan [188]11 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [189]@headinthebox
+       doesn't it already have units? It called percent. The
+       probability is 0.0001 % the new units will catch on.
+       0 replies 1 retweet 0 likes
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       1
+       (BUTTON)
+       Retweeted
+       1
+       (BUTTON)
+       Like
+       (BUTTON)
+       Liked
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+    7. [190]Mark Andrews‏ @maz_andrews [191]11 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [192]@headinthebox
+       [193][DEL: @ :DEL] ProbFact Why not? We have radians, after
+       all.
+       0 replies 0 retweets 1 like
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       (BUTTON)
+       Retweeted
+       (BUTTON)
+       Like
+       1
+       (BUTTON)
+       Liked
+       1
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+    8. [194]Dån Smith‏ @numbakrunch [195]11 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [196]@headinthebox
+       I like it, though I think you're highballing your estimate.
+       0 replies 0 retweets 0 likes
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       (BUTTON)
+       Retweeted
+       (BUTTON)
+       Like
+       (BUTTON)
+       Liked
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+    9.
+        New conversation
+         1. [197]Antti Rasinen‏ @arsatiki [198]11 Dec 2016
+            (BUTTON)
+            More
+               o (BUTTON) Copy link to Tweet
+               o (BUTTON) Embed Tweet
+            Replying to [199]@headinthebox
+            How about Jaynes’ decibels?
+            1 reply 0 retweets 0 likes
+            (BUTTON)
+            Reply
+            1
+            (BUTTON)
+            Retweet
+            (BUTTON)
+            Retweeted
+            (BUTTON)
+            Like
+            (BUTTON)
+            Liked
+         2. [200]1 more reply
+   10. [201]cloudeater‏ @peaceprone [202]11 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [203]@headinthebox
+       I am also curious to measure 'presence'; isn't it : actual
+       (- probable) = [204][DEL: # :DEL] PresentForce
+       0 replies 0 retweets 0 likes
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       (BUTTON)
+       Retweeted
+       (BUTTON)
+       Like
+       (BUTTON)
+       Liked
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+   11. [205]Deen Abiola‏ @sir_deenicus [206]11 Dec 2016
+       (BUTTON)
+       More
+
+       Replying to [207]@headinthebox
+       This is better done with self-information as prob can get
+       too small. So 0.0002 event is 12 bits surprisal. Also
+       adds,subtracts
+       0 replies 0 retweets 0 likes
+       (BUTTON)
+       Reply
+       (BUTTON)
+       Retweet
+       (BUTTON)
+       Retweeted
+       (BUTTON)
+       Like
+       (BUTTON)
+       Liked
+       Thanks. Twitter will use this to make your timeline better.
+       Undo
+
+
+   (BUTTON) Back to top ↑
+
+

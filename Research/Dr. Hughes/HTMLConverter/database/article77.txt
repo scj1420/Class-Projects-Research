@@ -1,0 +1,303 @@
+Pages
+
+
+
+
+Tuesday, March 1, 2016
+
+The Math Myth that permeates “The Math Myth”
+
+   March 1 saw the publication of the book The Math Myth: And
+   Other STEM Delusions, by Andrew Hacker. MAA members are likely
+   to recognize the author’s name from an opinion piece he
+   published in the New York Times in 2012, with the arresting
+   headline "[7]Is Algebra Necessary?"
+   Yes, I thought you’d remember it! It’s almost up there with
+   John Lennon’s murder in terms of knowing where you were at the
+   time you first heard of it. But just to be sure we are all on
+   the same page, let me recap that, in that essay, Hacker, a
+   retired college professor of political science who over the
+   years had taught some non-majors math courses, laid out a case
+   for dropping algebra as a required course in K-12 and college.
+   Before I dive into Hacker’s new book, you would be advised to
+   refresh your memory of the case he presented in that article,
+   since his book is essentially an extension of what he said
+   then, expanded to cover the entire Common Core Mathematical
+   Standards. Prior to writing this review, I wrote an [8]article
+   for the Huffington Post in which I summarized, with my
+   commentary, his 2012 article, together with a [9]recent
+   interview he gave to the Chronicle of Higher Education.
+   In my article, I noted that Hacker has no idea what algebra
+   really is. His focus is entirely on school algebra as it is
+   very often taught, as a collection of rules for manipulating
+   symbolic expressions. What his argument actually establishes,
+   with sound arguments and good examples, are two conclusions I
+   would agree with:
+    1. Algebra as typically taught in the school system is
+       presented as a meaningless game with arbitrary rules that
+       does more harm than good.
+    2. There are strong arguments for teaching algebra as it was
+       originally developed and how professional mathematicians
+       today view it.
+
+
+   I’ll leave you to read my HuffPost piece for more of the gory
+   details. For the benefit of lay readers who may come to this
+   site, I should though repeat here the brief summary I gave in
+   that article of the difference between algebra (as
+   mathematicians understand and practice it) and the
+   rule-based-manipulation-of-symbolic-expressions that so often
+   passes for algebra in our schools.
+   First codified by the Persian mathematician al-Khwarizmi in his
+   book The Compendious Book on Calculation by Completion and
+   Balancing (balancing = al-Jabr), written in Bhagdad around CE
+   820, algebra is a powerful method for solving numerical
+   problems more efficiently than by arithmetic. It does so by
+   introducing two new ways of handling numerical problems.
+   First, algebra provides methods for handling entire classes of
+   numbers, rather than specific ones. (That’s where those x’s,
+   y’s, and z’s come in, but that’s just an implementation detail
+   introduced in France several centuries later.)
+   Second, it provides a way to find numerical answers not by
+   computing, which is often very difficult, but by reasoning
+   logically to hone-in on the answer, using whatever information
+   is available. Thus, whereas in arithmetic you work forwards,
+   starting with numbers and computing with them to arrive at an
+   answer, in algebra you work backwards, starting by postulating
+   an answer and reasoning logically to figure out what it is.
+   True, this powerful application of human logical reasoning
+   capacity frequently gets boiled down to mastering various
+   symbolic procedures to “Solve for x,” but again that’s just a
+   particular implementation. Numerical forensics would be a
+   sexier, and more descriptive, term for the real thing.
+   The familiar symbolic expressions calculus usually taught in
+   schools as “algebra” was a particular implementation of
+   al-Khwarizmi’s ways of thinking introduced by the French
+   mathematician François Viète in the 16th Century (700 years
+   after algebra first began) to streamline paper-and-pencil
+   problem solving. A more recent implementation of algebra is the
+   computer spreadsheet.
+   Since his new book follows the same line of attack as his 2012
+   opinion piece, but with his sights widened from school algebra
+   to the Common Core, instead of crafting another analytic essay,
+   I will do what Hacker himself does, and list a number of
+   examples to make my case. More precisely, I’ll select some of
+   the 20 instances (in a book of just over 200 pages) where I
+   found a claim that is either plain wrong, wildly misleading, or
+   otherwise problematic, and ask where he went wrong. In marking
+   20 pages, it’s likely I missed some. There were so many wild
+   and inaccurate claims, I frequently found myself skimming
+   through.
+   First though, I should repeat what I said in my HuffPost
+   article about his algebra piece. Just as his essay actually
+   amounted to a strong argument in favor of teaching algebra to
+   all students (albeit not the rule-based manipulations of
+   formulas so often presented in place of algebra), so too his
+   book includes a strong argument in favor of Common Core Math.
+   In the same way that Hacker mischaracterized algebra in 2012,
+   so too his portrayal of the CCSSM (Common Core State Standards
+   for Mathematics) is totally at odds with the real thing—though
+   not quite so far off if you turn your attention from the
+   Standards themselves to some implementations of the CC.
+   One of the book’s flaws is that Mr Hacker seems to get carried
+   away with the flow of his rhetoric, since for the most part his
+   argument consists of the erection of a series of straw men
+   which he then, in time-honored tradition, proceeds to attack.
+   “It’s a waste of time forcing kids to master azimuths and
+   asymptotes,” he cries [not an exact quote] as early as page 2.
+   I had to look up the word azimuth, since in my entire career as
+   a mathematician and mathematics educator, I had never come
+   across it. According to Wikipedia, azimuth is a “concept used
+   in navigation, astronomy, engineering, mapping, mining and
+   artillery.” I ran a search for the word on the entire, 93-page
+   CCSSM document and, as I expected, it did not turn up. Straw
+   man.
+   Asymptotes are a different matter, of course, since a general
+   sense of asymptotic behavior of functions is useful in many
+   walks of life. The word is mentioned, but just once, in the
+   CCSSM, in the section on Interpreting Functions (F-IF), where
+   it says:
+   Graph rational functions, identifying zeros and asymptotes when
+   suitable factorizations are available, and showing end
+   behavior.
+   That’s it. One mention, buried towards the end of the document,
+   in the section that says the student should:
+       notation
+       the context
+
+   From the overall thrust of Hacker’s argument, I think it’s
+   clear he believes this kind of knowledge is indeed important
+   for everyone to have. But it’s also clear it is not a central
+   pillar of the CC, to be used on page 2 to set the scene for
+   what his book is about.
+   Unfortunately, this example is indeed a good characterization
+   of his overall argument: to knock down straw men.
+   “We’re told that if our nation is to stay competitive, on a
+   given morning all four million of our fifteen-year-olds will be
+   studying azimuths and asymptotes,” he writes. (I am still on
+   page 2, with over 200 more pages to go.) He provides no
+   citation regarding who, exactly, is making this proclamation
+   for the nation’s future. It’s not just disingenuously
+   misleading, it’s about as far from reality as you could
+   imagine, and not because of those azimuths. (See momentarily
+   for the real story.)
+   He continues, “Then, to graduate from high school, they will
+   face tests on radical notations and elliptical equations.”
+   To be sure, you will find mention of the word radical in the
+   CCSSM, in the context of “Work with radicals and integer
+   exponents” in the Section on Expressions and Equations (8.EE),
+   which provides the helpful illustration,
+   “For example, estimate the population of the United States as 3
+   × 10^8 and the population of the world as 7 × 10^9, and
+   determine that the world population is more than 20 times
+   larger.”
+   Again, this is exactly the kind of thing Hacker says (towards
+   the end of his book) students should be able to do! And it is
+   entirely reasonable that they be asked to demonstrate that
+   ability on a test.
+   “Elliptical equations” is another straw man.
+   The point is, what Hacker keeps attacking are straw men. The
+   CCSS is just what its name implies, a set of standards. It is
+   not a curriculum, nor does it specify anything remotely like a
+   daily, or even weekly timetable. How and when teachers across
+   the land cover the various standards is for them, or perhaps
+   their school district, to decide. As far as the CCSS are
+   concerned, teachers can operate fluidly, depending on how their
+   class progresses. (And no one will even suggest that they
+   mention azimuths, let alone force the class to master them.)
+   I would hazard a guess that Hacker has never looked at the CCSS
+   document. Nor sat in on many math classes, as I have, and
+   observed what actually goes on in today’s schools.
+   Caveat: I get to see classes to which, for one reason or
+   another, I have been invited to visit. Likely they are some of
+   the best, since their teachers invite me along so their
+   students can talk for a while with someone who has devoted a
+   career to mathematical research. I hear enough stories to be
+   prepared to believe things are often a lot worse. Perhaps even
+   as bad as Hacker says. But his book is purported to be about
+   educational policy, not what you can actually find in good or
+   bad classrooms.
+   Not only does Hacker give no indication he is familiar with the
+   Common Core—the real one, not the azimuth-strewn, straw-man
+   version he creates—he gives every indication he does not
+   understand mathematics as it is practiced today. (He also does
+   not know that pi is irrational, but I’ll come to that later.)
+   Certainly, the examples he selects to illustrate the
+   irrelevancy (in today’s world) of some of the test problems
+   students are asked to solve simply demonstrate that he is
+   lacking the basic, every-day, number sense he is arguing for.
+   Let me give just three examples.
+   On page 48, Hacker presents a question he took from an MCAT
+   paper. It provides some technical data and asks what happens to
+   the ratio of two inverse-square law forces between charges of
+   given masses when the distance between them is halved. The
+   context Hacker provides for this question is that medical
+   professionals needs to be able to read and understand the
+   mathematics used in technical papers. His claim is that this
+   requirement does not extend to the physics of electrical and
+   gravitational forces. In that, he is surely correct. But anyone
+   with a grain of number sense will recognize at once that the
+   setting is totally irrelevant. It’s a simple question about
+   what happens to a ratio when the underlying scale is changed.
+   The answer, of course, is nothing happens. It’s a ratio. The
+   changes to the numerator and denominator cancel out. The ratio
+   remains the same.
+   What this question is asking for is, Do you understand what a
+   ratio is? Surely that is something that any medical
+   professional who will have to read and understand journal
+   articles would need to know. Hacker completely misses this
+   simple observation, and presents the question as an example of
+   baroque mathematical testing run amok.
+   On page 70, he presents a question from an admissions test for
+   selective high schools. A player throws two dice and the same
+   number comes up on both. The question asks the student to
+   choose the probability that the two dice sum to 9 from the list
+   0, 1/6, 2/9, 1/2, 1/3. Hacker’s problem is that the student is
+   supposed to answer this in 90 seconds. Now, I share Hacker’s
+   disdain for time-limited questions, but in this case the answer
+   can only be 0. It’s not a probability question at all, and no
+   computation is required. It just requires you to recognize that
+   you can never get a sum of 9 when two dice show the same
+   number. As with the MCAT question, the question is simply
+   asking, Do you understand numbers? In this case, do you
+   recognize that the sum of two equal numbers can never be odd.
+   Finally, on page 101, Hacker presents a list of mathematics
+   requirements high school students must meet in order to study
+   at Harvard and similar universities. The list includes the
+   names of various kinds of analytic functions. As usual, Hacker
+   seems overwhelmed by the technical terms, or worries that the
+   students will be, but all the list is asking for is that
+   students can read graphs and charts and know what they
+   represent in terms of growth and change. An essential skill,
+   surely, for anyone in today’s information-rich world, not just
+   students at elite universities.
+   You get the pattern surely? Hacker’s problem is he is unable to
+   see through the surface gloss of a problem and recognize that
+   in many cases it is just asking the student if she or he has a
+   very basic grasp of number, quantity, and relationships. Yet
+   these are precisely the kinds of abilities he argues elsewhere
+   in the book are crucial in today’s world. He is, I suspect, a
+   victim of the very kind of math teaching he rightly decries—one
+   that concentrates on learning rules and mastering formal
+   manipulations, with little attention to understanding.
+   This, surely, explains why he would write (page 96), “Reasoning
+   mathematically may be a nice skill, but it is not relevant to
+   most of life. We reason about many things: parenting, marriage,
+   careers. Do we learn how to reason about these things by
+   learning algebra?”
+   If he had asked instead if we learn such reasoning in a typical
+   school algebra class, I would agree with his implied answer of
+   “No.” But algebra arose by codifying the everyday reasoning
+   people carried out—and still carry out today—about the
+   numerical or quantity aspects of any human activity that
+   involves them. (Trade, commerce, and civil engineering were the
+   original applications.)
+   From that historical perspective, it is absolutely clear that
+   learning algebra can help us master such reasoning. It helps by
+   providing an opportunity to carry out that kind of reasoning
+   free of the complexities a problem generally brings with it
+   when it arises in a real world context.
+   The tragedy of The Math Myth is that Hacker is actually arguing
+   for exactly the kind of life-relevant mathematics education
+   that I and many of my colleagues have been arguing for all our
+   careers. (Our late colleague Lynn Steen comes to mind.)
+   Unfortunately, and I suspect because Hacker himself did not
+   have the benefit of a good math education, his understanding of
+   mathematics is so far off base, he does not recognize that the
+   examples he holds up as illustrations of bad education only
+   seem so to him, because he misunderstands them.
+   The real myth in The Math Myth is the portrayal of mathematics
+   that forms the basis of his analysis. It’s the same myth you
+   see propagated in Facebook posts from frustrated parents about
+   Common Core math homework their children bring home from
+   school.
+   In the interests of their overall cardiovascular health, I have
+   to recommend that math educators do not read The Math Myth. But
+   if you do, perhaps you should start with the final chapter,
+   titled “Numeracy 101.” Here, at least, you will find things you
+   are likely to agree with, as he lays out what he believes would
+   be a good quantitative literacy course for college students.
+   But even there, where all seems warm and friendly and positive,
+   you will be jolted by Hacker’s fundamental lack of knowledge of
+   mathematics. He writes,
+   “Along with phenomena like earthquakes and cyclones, nature
+   also has some numbers that control or explain how the world
+   works. One of them is pi, whose 3.14159 goes on indefinitely,
+   at least as far as we know.”
+   Yes, you read that last part correctly.
+   “Few people writing today … can make more sense of numbers”
+   proclaims the Wall Street Journal on the cover of Hacker’s
+   book. Well, if that’s the view of the newspaper that purports
+   to have the expertise to cover the nation’s financial markets,
+   it is only a matter of time before we have another financial
+   meltdown.
+   Posted by [10]Mathematical Association of America at [11]10:11
+   AM
+   [12]Email This[13]BlogThis![14]Share to Twitter[15]Share to
+   Facebook[16]Share to Pinterest
+   Labels: [17]algebra, [18]Andrew Hacker, [19]Common Core, [20]Is
+   algebra necessary, [21]mathematics education, [22]quantitative
+   literacy
+
+
+

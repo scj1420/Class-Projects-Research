@@ -1,0 +1,175 @@
+Alan Turing’s lost notebook
+
+The Turing Guide
+
+   [86]Buy Now
+
+
+
+   Alan Turing’s personal mathematical notebook went on display a
+   few days ago at Bletchley Park near London, the European
+   headquarters of the Allied codebreaking operation in World War
+   II. Until now, the notebook has been seen by few — not even
+   scholars specializing in Turing’s work. It is on loan from its
+   current owner, who acquired it in 2015 at a New York auction
+   for [88]over one million dollars.
+
+
+   The yellowing notebook — from Metcalfe and Son, just along the
+   street from Turing’s rooms at King’s College in Cambridge —
+   contains 39 pages in his handwriting. The auction catalogue
+   (which inconsequentially inflated the page count) gave this
+   description:
+
+   “Hitherto unknown wartime manuscript of the utmost rarity,
+   consisting of 56 pages of mathematical notes by Alan Turing,
+   likely the only extensive holograph manuscript by him in
+   existence.”
+
+   A question uppermost in the minds of Turing fans will be
+   whether the notebook gives new information about his famous
+   code-cracking breakthroughs at Bletchley Park, or about the
+   speech-enciphering device named “Delilah” that he invented
+   later in the war at nearby Hanslope Park. The answer may
+   disappoint. Although most probably written during the war, the
+   notebook has no significant connection with Turing’s work for
+   military intelligence. Nevertheless it makes fascinating
+   reading: Turing titled it “Notes on Notations” and it consists
+   of his commentaries on the symbolisms advocated by leading
+   figures of twentieth century mathematics.
+   Alan Turing's signature. Public domain via Wikimedia Commons.
+   Alan Turing’s signature. Public domain via [89]Wikimedia
+   Commons.
+
+
+   My interest in the notebook was first piqued more than 20 years
+   ago. This was during a visit to Turing’s friend Robin Gandy, an
+   amiable and irreverent mathematical logician. In 1944-5 Gandy
+   and Turing had worked in the same Nissen hut at Hanslope Park.
+   Gandy remembered thinking Turing austere at first, but soon
+   found him enchanting — he discovered that Turing liked parties
+   and was a little vain about his clothes and appearance. As we
+   sat chatting in his house in Oxford, Gandy mentioned that
+   upstairs he had one of Turing’s notebooks. For a moment I
+   thought he was going to show it to me, but he added
+   mysteriously that it contained some private notes of his own.
+
+   In his will Turing left all his mathematical papers to Gandy,
+   who eventually passed them on to King’s College library — but
+   not the notebook, which he kept with him up till his death in
+   1995. Subsequently the notebook passed into unknown hands,
+   until its reappearance in 2015. Gandy’s private notes turned
+   out to be a dream diary. During the summer and autumn of 1956,
+   two years after Turing’s death, he had filled 33 blank pages in
+   the center of the notebook with his own handwriting. What he
+   said there was indeed personal.
+
+   Only a few years before Gandy wrote down these dreams and his
+   autobiographical notes relating to them, Turing had been put on
+   trial for being gay. Gandy began his concealed dream diary: “It
+   seems a suitable disguise to write in between these notes of
+   Alan’s on notation; but possibly a little sinister; a dead
+   father figure and some of his thoughts which I most completely
+   inherited.”
+   Alan Turing, aged 16 by unknown. Public domain via Wikimedia
+   Commons. Alan Turing, aged 16 by unknown. Public domain via
+   [90]Wikimedia Commons.
+
+
+   Mathematical reformer
+
+   Turing’s own writings in the notebook are entirely
+   mathematical, forming a critical commentary on the notational
+   practices of a number of famous mathematicians, including
+   Courant, Eisenhart, Hilbert, Peano, Titchmarsh, Weyl, and
+   others. Notation is an important matter to mathematicians. As
+   [91]Alfred North Whitehead — one of the founders of modern
+   mathematical logic — said in his 1911 essay “The Symbolism of
+   Mathematics”, a good notation “represents an analysis of the
+   ideas of the subject and an almost pictorial representation of
+   their relations to each other”. “By relieving the brain of all
+   unnecessary work”, Whitehead remarked, “a good notation sets it
+   free to concentrate on more advanced problems”. In a wartime
+   typescript titled “The Reform of Mathematical Notation and
+   Phraseology” [92]Turing said that an ill-considered notation
+   was a “handicap” that could create “trouble”; it could even
+   lead to “a most unfortunate psychological effect”, namely a
+   tendency “to suspect the soundness of our [mathematical]
+   arguments all the time”.
+
+
+   This typescript, which according to Gandy was written at
+   Hanslope Park in 1944 or 1945, provides a context for Turing’s
+   notebook. In the typescript Turing proposed what he called a
+   “programme” for “the reform of mathematical notation”. Based on
+   mathematical logic, his programme would, he said, “help the
+   mathematicians to improve their notations and phraseology,
+   which are at present exceedingly unsystematic”. Turing’s
+   programme called for “An extensive examination of current
+   mathematical … books and papers with a view to listing all
+   commonly used forms of notation”, together with an
+   “[e]xamination of these notations to discover what they really
+   mean”. His “Notes on Notations” formed part of this extensive
+   investigation.
+
+   Key to Turing’s proposed reforms was what mathematical
+   logicians call the “theory of types”. This reflects the
+   commonsensical idea that numbers and bananas, for example, are
+   entities of different types: there are things which makes sense
+   to say about a number — e.g. that it has a unique prime
+   factorization — that cannot meaningfully be said of a banana.
+   In emphasizing the importance of type theory for day-to-day
+   mathematics, Turing was as usual ahead of his time. Today,
+   virtually every computer programming language incorporates
+   type-based distinctions.
+
+   Link to the real Turing
+
+   Turing never displayed much respect for status and — despite
+   the eminence of the mathematicians whose notations he was
+   discussing — his tone in “Notes on Notations” is far from
+   deferential. “I don’t like this” he wrote at one point, and at
+   another “this is too subtle and makes an inconvenient
+   definition”. His criticisms bristle with phrases like “there is
+   obscurity”, “rather abortive”, “ugly”, “confusing”, and
+   “somewhat to be deplored”. There is nothing quite like this
+   blunt candor to be found elsewhere in Turing’s writings; and
+   with these phrases we perhaps get a sense of what it would have
+   been like to sit in his Cambridge study listening to him. This
+   scruffy notebook gives us the plain unvarnished Turing.
+
+   Featured image credit: Enigma by Tomasz_Mikolajczyk. CC0 Public
+   domain via [93]Pixabay.
+
+
+   Jack Copeland, FRS, NZ, is Distinguished Professor in Arts at
+   the University of Canterbury, New Zealand, where he is Director
+   of the Turing Archive for the History of Computing. He has been
+   script advisor and scientific consultant for a number of recent
+   documentaries about Turing. Jack is Co-Director of the Turing
+   Centre at the Swiss Federal Institute of Technology (ETH),
+   Zurich, and also Honorary Research Professor in the School of
+   Historical and Philosophical Inquiry at the University of
+   Queensland, Australia. In 2012 he was Royden B. Davis Visiting
+   Chair of Interdisciplinary Studies in the Department of
+   Psychology at Georgetown University, Washington DC, and in
+   2015-16 was a Fellow at the Institute for Advanced Studies in
+   Israel. A Londoner by birth, he earned a D.Phil. in
+   mathematical logic from the University of Oxford, where he was
+   taught by Turing's great friend Robin Gandy. Jack is also a
+   co-author of [94]The Turing Guide.
+
+
+
+
+
+
+
+   Subscribe to the OUPblog via email: _________________________
+   Subscribe
+
+   Or subscribe to articles in the subject area by [100]email or
+   [101]RSS
+
+
+

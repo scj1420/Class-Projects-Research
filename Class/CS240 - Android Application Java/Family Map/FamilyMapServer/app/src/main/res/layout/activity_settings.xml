@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle">
+
+        <Switch
+            android:id="@+id/life_story_lines_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="10dp" />
+
+        <Spinner
+            android:id="@+id/life_story_lines_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/life_story_lines_switch"
+            android:layout_centerVertical="true"
+            android:padding="8dp">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/life_story_lines_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/life_story_lines"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/show_lsl_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/show_lsl"
+            android:textSize="12dp"
+            android:layout_below="@id/life_story_lines_text"
+            android:paddingLeft="8dp"
+            android:paddingBottom="4dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle">
+
+        <Switch
+            android:id="@+id/family_tree_lines_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="10dp" />
+
+        <Spinner
+            android:id="@+id/family_tree_lines_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/family_tree_lines_switch"
+            android:layout_centerVertical="true"
+            android:padding="8dp">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/family_tree_lines_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/family_tree_lines"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/show_ftl_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/show_ftl"
+            android:textSize="12dp"
+            android:layout_below="@id/family_tree_lines_text"
+            android:paddingLeft="8dp"
+            android:paddingBottom="4dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle">
+
+        <Switch
+            android:id="@+id/spouse_lines_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="10dp" />
+
+        <Spinner
+            android:id="@+id/spouse_lines_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/spouse_lines_switch"
+            android:layout_centerVertical="true"
+            android:padding="8dp">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/spouse_lines_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/spouse_lines"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/show_sl_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/show_sl"
+            android:textSize="12dp"
+            android:layout_below="@id/spouse_lines_text"
+            android:paddingLeft="8dp"
+            android:paddingBottom="4dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle">
+
+        <Spinner
+            android:id="@+id/map_type_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="8dp">
+
+        </Spinner>
+
+        <TextView
+            android:id="@+id/map_type_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/map_type"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/map_type_description_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/map_type_description"
+            android:textSize="12dp"
+            android:layout_below="@id/map_type_text"
+            android:paddingLeft="8dp"
+            android:paddingBottom="4dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/re_sync_data_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle">
+
+        <TextView
+            android:id="@+id/re_sync_data_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/re_sync_data"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/re_sync_data_description_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/re_sync_data_description"
+            android:textSize="12dp"
+            android:layout_below="@id/re_sync_data_text"
+            android:paddingLeft="8dp"
+            android:paddingBottom="8dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/logout_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle">
+
+        <TextView
+            android:id="@+id/logout_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/logout"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:paddingTop="12dp"
+            android:paddingLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/logout_description_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/logout_description"
+            android:textSize="12dp"
+            android:layout_below="@id/logout_text"
+            android:paddingLeft="8dp"
+            android:paddingBottom="8dp"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

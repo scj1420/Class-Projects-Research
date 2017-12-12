@@ -1,0 +1,115 @@
+References
+
+    1. 1.
+       A. Abian, A new proof of the fundamental theorem of
+       algebra, Caribbean J. Math. 5 (1986), no. 1, 9–12.
+    2. 2.
+       Jean Le Rond d’Alembert, Recherches sur le calcul integral,
+       Hist. Acad. Sci. Berlin 2 (1746), 182–224.
+    3. 3.
+       Jean-Robert Argand, Essai sur une manière de représenter
+       les quantités imaginaires dans les constructions
+       géométriques, Paris, 1806.
+    4. 4.
+       Isabella Bashmakova and Galina Smirnova, The Beginnings and
+       Evolution of Algebra, Translated from the Russian by Abe
+       Shenitzer, with the editorial assistance of David Cox,
+       Mathematical Association of America, Washington, DC, 2000.
+    5. 5.
+       Joseph Bennish, Another proof of the fundamental theorem of
+       algebra, Amer. Math. Monthly 99 (1992), 426.
+    6. 6.
+       R. P. Boas, Jr., A proof of the fundamental theorem of
+       algebra, Amer. Math. Monthly 42 (1935), 501–502.
+    7. 7.
+       R. P. Boas, Jr., Yet another proof of the fundamental
+       theorem of algebra, Amer. Math. Monthly 71 (1964), 180.
+    8. 8.
+       John Byl, A simple proof of the fundamental theorem of
+       algebra, Internat. J. Math. Ed. Sci. Tech. 30 (1999), no.
+       4, 602–603.
+    9. 9.
+       Lawrence Crone, Color graphs of complex functions, URL:
+   10. 10.
+       William Dunham, Euler and the fundamental theorem of
+       algebra, College Math. J. 22 (1991), 282–293.
+   11. 11.
+       Leonhard Euler, Recherches sur les racines imaginaires des
+       équations, Mém. Acad. Sci. Berlin 5 (1749), 222–288,
+       reprinted in Opera Omnia Series Prima, vol. 6, 78–147.
+   12. 12.
+       Frank A. Farris, Visualizing complex-valued functions in
+       the plane, URL:
+       - in-the-plane.
+   13. 13.
+       Charles Fefferman, An easy proof of the fundamental theorem
+       of algebra, Amer. Math. Monthly 74 (1967), 854–855.
+   14. 14.
+       Benjamin Fine and Gerhard Rosenberger, The Fundamental
+       Theorem of Algebra, Springer-Verlag, New York, 1997.
+   15. 15.
+       Carl Friedrich Gauss, Demonstratio nova theorematis omnem
+       functionem algebraicum rationalem integram unius variabilis
+       in factores reales primi vel secundi gradus resolvi posse,
+       Helmstedt dissertation, 1799, reprinted in Werke, Vol. 3,
+       1–30.
+   16. 16.
+       Carl Friedrich Gauss, Demonstratio nova altera theorematis
+       omnem functionem algebraicum rationalem integram unius
+       variabilis in factores reales primi vel secundi gradus
+       resolvi posse, Comm. Recentiores (Gottingae) 3 (1816),
+       107–142, reprinted in Werke, Vol. 3, 31–56.
+   17. 17.
+       Javier Gomez-Calderon and David M. Wells, Why polynomials
+       have roots, College Math. J. 27 (1996), 90–91.
+   18. 18.
+       Michael D. Hirschhorn, The fundamental theorem of algebra,
+       College Math. J. 29 (1998), 276–277.
+   19. 19.
+       Joseph-Louis Lagrange, Sur la forme des racines imaginaires
+       des équations, Nouv. Mém. Acad. Berlin, 1772, 479–516,
+       reprinted in Œuvres, Vol. 3, 479–516.
+   20. 20.
+       Norman Levinson and Raymond M. Redheffer, Complex
+       Variables, Holden-Day, San Francisco, 1970.
+   21. 21.
+       MacTutor History of Mathematics Archive, The fundamental
+       theorem of algebra,
+       history/HistTopics/Fund_theorem_of_algebra.html.
+   22. 22.
+       Alexander Ostrowski, Über den ersten und vierten Gausschen
+       Beweis des Fundamentalsatzes der Algebra, in Gauss Werke,
+       Vol. 10, Part 2, Abh. 3.
+   23. 23.
+       Raymond Redheffer, The fundamental theorem of algebra,
+       Amer. Math. Monthly 64 (1957), 582–585.
+   24. 24.
+       R. M. Redheffer, What! Another note just on the fundamental
+       theorem of algebra?, Amer. Math. Monthly 71 (1964),
+       180–185.
+   25. 25.
+       Anindya Sen, Fundamental theorem of algebra—yet another
+       proof, Amer. Math. Monthly 107 (2000), 842–843.
+   26. 26.
+       John Stillwell, Mathematics and its History,
+       Springer-Verlag, New York, 1989.
+   27. 27.
+       Frode Terkelsen, The fundamental theorem of algebra, Amer.
+       Math. Monthly 83 (1976), 647.
+   28. 28.
+       Bernd Thaller, Visualization of complex functions,
+       Mathematica J., Vol. 7, issue 2 (1998), URL:
+       com/issue/v7i2/features/thaller/.
+   29. 29.
+       Bernd Thaller, Visual Quantum Mechanics: Selected Topics
+       with Computer-Generated Animations of Quantum-Mechanical
+       Phenomena, Springer/TELOS, New York, 2000.
+   30. 30.
+       Jean-Pierre Tignol, Galois’ Theory of Algebraic Equations,
+       World Scientific, Singapore, 2001.
+   31. 31.
+       Daniel J. Velleman, Another proof of the fundamental
+       theorem of algebra, Math. Mag. 70 (1997), 216–217.
+
+
+
