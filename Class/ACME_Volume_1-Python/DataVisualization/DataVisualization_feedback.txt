@@ -1,0 +1,32 @@
+12/18/17 11:03
+
+Problem 1 (5 points):
+Describe how datasets are similar or different
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Minimizer not plotted
+Score += 4
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+For loop should be used in problem 1 to avoid code duplication
+Score += 4
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

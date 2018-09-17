@@ -1,0 +1,6 @@
+Hello
+My name is Seong
+I'm an ACME major in BYU
+This is for problem 7 in Shell 1 lab
+
+I'm an ACME major  World!

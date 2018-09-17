@@ -1,0 +1,62 @@
+04/03/18 21:36
+
+SyntaxError while loading 'drazin.py': invalid syntax (drazin.py, line 116)
+
+-------------------------------------------------------------------------------
+
+04/09/18 17:08
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (20 points):
+predict_link() failed for node = Jane
+	Correct response:
+Emily
+	Student response:
+Jane
+Score += 18
+
+Code Quality (5 points):
+Add comments to effective_resistance()
+Score += 4
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+
+Comments:
+	Almost there! Maybe make sure your add_link() is doing += 1 instead of = 1
+
+-------------------------------------------------------------------------------
+
+04/10/18 09:50
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

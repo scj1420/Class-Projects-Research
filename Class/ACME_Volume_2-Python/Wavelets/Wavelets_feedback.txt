@@ -1,0 +1,51 @@
+01/15/18 14:06
+
+Problem 1 (10 points):
+Score += 0
+
+Problem 2 (10 points):
+Score += 0
+
+Problem 3 (5 points):
+Score += 0
+
+Problem 4 (15 points):
+Score += 0
+
+Compression (15 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/60 = 0.0%
+
+-------------------------------------------------------------------------------
+
+01/20/18 15:55
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (15 points):
+Did not adjust all of the detail coefficients.
+Score += 10
+
+Compression (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 55/60 = 91.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

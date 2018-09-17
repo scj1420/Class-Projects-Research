@@ -1,0 +1,113 @@
+02/13/18 14:59
+
+Problem 1 (10 points):
+ValueError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+ValueError: Problem 2 Incomplete
+
+Problem 3 (15 points):
+ValueError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+ValueError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for mc_integrate()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/26/18 17:21
+
+Problem 1 (10 points):
+ValueError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+ValueError: Problem 2 Incomplete
+
+Problem 3 (15 points):
+ValueError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+ValueError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for mc_integrate1d()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/27/18 09:23
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+TypeError: unsupported format string passed to numpy.ndarray.__format__
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+02/27/18 09:30
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+TypeError: unsupported format string passed to numpy.ndarray.__format__
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+02/27/18 09:36
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+TypeError: unsupported format string passed to numpy.ndarray.__format__
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 90.0%
+
+Good Job!
+
+Comments:
+	Problem 3 failed on case f = lambda x: x, [0]x[1]: returned array instead of value.
+
+-------------------------------------------------------------------------------
+
